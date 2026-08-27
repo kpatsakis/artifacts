@@ -1,0 +1,28 @@
+# Generated from config.TRUFFLEHOG_CUSTOM_DETECTORS -- do not edit by hand.
+# The spec is trufflehog_detectors.md; config.py transcribes it.
+detectors:
+  - name: 'SupabaseJWT'
+    keywords:
+      - 'supabase'
+    regex:
+      jwt: 'eyJ[A-Za-z0-9_-]{10,400}\.eyJ[A-Za-z0-9_-]{20,1000}\.[A-Za-z0-9_-]{20,400}'
+  - name: 'SentryDSN'
+    keywords:
+      - 'sentry.io'
+    regex:
+      dsn: 'https://[0-9a-f]{32}@(?:o[0-9]{1,24}\.ingest\.(?:[a-z]{2,3}\.)?)?sentry\.io/[0-9]{1,12}'
+  - name: 'LivePublishableKey'
+    keywords:
+      - 'pk_live_'
+    regex:
+      key: 'pk_live_[A-Za-z0-9]{20,110}'
+  - name: 'ClerkPublishableKey'
+    keywords:
+      - 'pk_live_Y2xlcmsu'
+    regex:
+      key: 'pk_live_Y2xlcmsu[A-Za-z0-9+/]{8,100}={0,2}'
+  - name: 'ResendApiKey'
+    keywords:
+      - 're_'
+    regex:
+      key: 're_[A-Za-z0-9]{24,60}'
