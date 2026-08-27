@@ -1,0 +1,60 @@
+{
+  "asn": "AS51167",
+  "http": {
+    "status": 200,
+    "redirects": [],
+    "securitytxt": null,
+    "title": "PixelGoo",
+    "robots": null,
+    "server": null,
+    "headers": {
+      "content-length": "7106",
+      "x-powered-by": "Nuxt",
+      "set-cookie": "sessionId=cYT815wPCQthSvBze6Ylckwng3TZGASt4Y3bRWUEWpujoxLmkr-_Pl91VslBd2Lv; Path=/; Expires=Tue, 28 Jul 2026 04:15:09 GMT; HttpOnly; Secure; SameSite=Lax",
+      "keep-alive": "timeout=5",
+      "connection": "keep-alive",
+      "date": "Tue, 28 Jul 2026 04:05:09 GMT",
+      "cross-origin-embedder-policy": "require-corp",
+      "content-type": "text/html;charset=utf-8",
+      "cross-origin-opener-policy": "same-origin"
+    },
+    "html": "<!DOCTYPE html>\n<html lang=\"en\">\n<head><meta name=\"description\" content=\"PixelGoo - Pixel de Lune\" charset=\"utf-8\">\n<meta charset=\"utf-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n<meta name=\"viewport\" content=\"user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height\">\n<title>PixelGoo</title>\n<meta name=\"format-detection\" content=\"telephone=no\">\n<meta property=\"og:site_name\" content=\"PixelGoo\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:url\" content=\"http://localhost:3000/\">\n<meta property=\"og:title\" content=\"PixelGoo\">\n<meta property=\"og:description\" content=\"PixelGoo - Pixel de Lune\">\n<meta name=\"twitter:card\" content=\"summary_large_image\">\n<meta name=\"twitter:url\" content=\"http://localhost:3000/\">\n<meta name=\"twitter:title\" content=\"PixelGoo\">\n<meta name=\"twitter:description\" content=\"PixelGoo - Pixel de Lune\">\n<meta name=\"mobile-web-app-capable\" content=\"yes\">\n<meta name=\"apple-mobile-web-app-title\" content=\"PixelGoo\">\n<meta name=\"author\" content=\"Nicolas Mouron\">\n<meta name=\"description\" content=\"PixelGoo - Pixel de Lune\">\n<meta name=\"theme-color\" content=\"#274967\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"PixelGoo\">\n<meta property=\"og:site_name\" content=\"PixelGoo\">\n<meta property=\"og:description\" content=\"PixelGoo - Pixel de Lune\">\n<meta name=\"twitter:card\" content=\"summary\">\n<link rel=\"icon\" type=\"image/x-icon\" href=\"/favicon.ico\">\n<link rel=\"canonical\" href=\"http://localhost:3000/\">\n<link rel=\"icon\" href=\"/_nuxt/icons/64x64.e2b60c90.png\" data-hid=\"2c9d455\">\n<link rel=\"apple-touch-icon\" href=\"/_nuxt/icons/512x512.maskable.e2b60c90.png\" sizes=\"512x512\" data-hid=\"bc1de16\">\n<link rel=\"manifest\" href=\"/manifest.json\"><link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/entry.71411455.js\"><link rel=\"preload\" as=\"style\" href=\"/_nuxt/entry.3fa17d91.css\"><link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/swiper-vue.417e469e.js\"><link rel=\"preload\" as=\"style\" href=\"/_nuxt/swiper-vue.6206c566.css\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/checkParams.c565096a.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/checkTokenExpiration.f198ca71.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/role.a2f6e8ce.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/roleCheck.6baae6d3.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/blank.6521c14d.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/customizer.57a6dc21.js\"><link rel=\"prefetch\" as=\"style\" href=\"/_nuxt/vue.cc4ef561.css\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/dashboardfull.505ccea1.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/vue.8fc199ce.d414b76b.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/eCommerce.b506a21a.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/RtlLogo.e60fe252.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/nuxt-link.c8854861.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/Logo.f5380837.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/useSession.99ad1df6.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/fetch.d60e7957.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/_plugin-vue_export-helper.c27b6911.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/CheckRoles.f1e2e656.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/default.5779ec1a.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/error-component.773afa47.js\"><link rel=\"stylesheet\" href=\"/_nuxt/entry.3fa17d91.css\"><link rel=\"stylesheet\" href=\"/_nuxt/swiper-vue.6206c566.css\"><script>\nif ('serviceWorker' in navigator) {\n  window.addEventListener('load', () => navigator.serviceWorker.register('/sw.js'))\n}\n</script></head>\n<body ><div id=\"__nuxt\"></div><script type=\"application/json\" id=\"__NUXT_DATA__\" data-ssr=\"false\">[{\"_errors\":1,\"serverRendered\":2,\"data\":3,\"state\":4},{},false,{},{}]</script><script>window.__NUXT__={};window.__NUXT__.config={public:{session:{api:{isEnabled:true,methods:[\"patch\",\"delete\",\"get\",\"post\"],basePath:\"/api/session\"}},buildNumber:\"20251222180210\",WS_URL:\"https://pixelgoo.pixeldelune.fr\",baseURL:\"https://pixelgoo.pixeldelune.fr\",LOGOUT_TIME:\"86400\",pwaManifest:{name:\"PixelGoo\",short_name:\"PixelGoo\",description:\"PixelGoo - Pixel de Lune\",lang:\"en\",start_url:\"/?standalone=true\",display:\"standalone\",background_color:\"#ffffff\",theme_color:\"#274967\",icons:[{src:\"/_nuxt/icons/64x64.e2b60c90.png\",type:\"image/png\",sizes:\"64x64\",purpose:\"any\"},{src:\"/_nuxt/icons/64x64.maskable.e2b60c90.png\",type:\"image/png\",sizes:\"64x64\",purpose:\"maskable\"},{src:\"/_nuxt/icons/120x120.e2b60c90.png\",type:\"image/png\",sizes:\"120x120\",purpose:\"any\"},{src:\"/_nuxt/icons/120x120.maskable.e2b60c90.png\",type:\"image/png\",sizes:\"120x120\",purpose:\"maskable\"},{src:\"/_nuxt/icons/144x144.e2b60c90.png\",type:\"image/png\",sizes:\"144x144\",purpose:\"any\"},{src:\"/_nuxt/icons/144x144.maskable.e2b60c90.png\",type:\"image/png\",sizes:\"144x144\",purpose:\"maskable\"},{src:\"/_nuxt/icons/152x152.e2b60c90.png\",type:\"image/png\",sizes:\"152x152\",purpose:\"any\"},{src:\"/_nuxt/icons/152x152.maskable.e2b60c90.png\",type:\"image/png\",sizes:\"152x152\",purpose:\"maskable\"},{src:\"/_nuxt/icons/192x192.e2b60c90.png\",type:\"image/png\",sizes:\"192x192\",purpose:\"any\"},{src:\"/_nuxt/icons/192x192.maskable.e2b60c90.png\",type:\"image/png\",sizes:\"192x192\",purpose:\"maskable\"},{src:\"/_nuxt/icons/384x384.e2b60c90.png\",type:\"image/png\",sizes:\"384x384\",purpose:\"any\"},{src:\"/_nuxt/icons/384x384.maskable.e2b60c90.png\",type:\"image/png\",sizes:\"384x384\",purpose:\"maskable\"},{src:\"/_nuxt/icons/512x512.e2b60c90.png\",type:\"image/png\",sizes:\"512x512\",purpose:\"any\"},{src:\"/_nuxt/icons/512x512.maskable.e2b60c90.png\",type:\"image/png\",sizes:\"512x512\",purpose:\"maskable\"}]},auth:{computed:{origin:\"\",pathname:\"/api/auth\",fullBaseUrl:\"/api/auth\"},isEnabled:true,session:{enableRefreshPeriodically:false,enableRefreshOnWindowFocus:true},globalAppMiddleware:{isEnabled:false,allow404WithoutAuth:true,addDefaultCallbackUrl:true},origin:\"https://pixelgoo.pixeldelune.fr\",enableGlobalAppMiddleware:true,middleware:[\"roleCheck, checkParams, role\"],strategies:{local:{token:{property:\"token\",required:true,type:\"Bearer\",maxAge:3600},user:{property:\"user\",autoFetch:true},refreshToken:{property:\"refreshToken\",data:\"refreshToken\",maxAge:7200},enableSessionRefreshPeriodically:5000,autoLogout:true,refreshTokenStrategy:\"refresh\",refresh:{autoDisplay:false,method:\"refresh\",interval:1800000}}},provider:{type:\"authjs\",trustHost:false,defaultProvider:\"\",addDefaultCallbackUrl:true}},device:{defaultUserAgent:\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.39 Safari/537.36\",enabled:true,refreshOnResize:false}},app:{baseURL:\"/\",buildAssetsDir:\"/_nuxt/\",cdnURL:\"\"}}</script><script type=\"module\" src=\"/_nuxt/entry.71411455.js\" crossorigin></script></body>\n</html>",
+    "location": "/",
+    "sitemap": null
+  },
+  "os": null,
+  "transport": "tcp",
+  "timestamp": "2026-07-28T04:05:09.305136",
+  "isp": "Contabo GmbH",
+  "cpe23": [
+    "cpe:2.3:a:nuxt:nuxt"
+  ],
+  "cpe": [
+    "cpe:/a:nuxt:nuxt"
+  ],
+  "_shodan": {
+    "region": "",
+    "module": "http-simple-new"
+  },
+  "location": {
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  "org": "Contabo GmbH",
+  "data": "HTTP/1.1 200 OK\r\nCross-Origin-Opener-Policy: same-origin\r\nCross-Origin-Embedder-Policy: require-corp\r\nset-cookie: sessionId=cYT815wPCQthSvBze6Ylckwng3TZGASt4Y3bRWUEWpujoxLmkr-_Pl91VslBd2Lv; Path=/; Expires=Tue, 28 Jul 2026 04:15:09 GMT; HttpOnly; Secure; SameSite=Lax\r\ncontent-type: text/html;charset=utf-8\r\nx-powered-by: Nuxt\r\nDate: Tue, 28 Jul 2026 04:05:09 GMT\r\nConnection: keep-alive\r\nKeep-Alive: timeout=5\r\nContent-Length: 7106\r\n\r\n",
+  "port": 3000,
+  "opts": {},
+  "_artifact": {
+    "host_id": "fbbe21f3caaee32286e06c9a0040be13",
+    "ip_id": "4069e1dc01b5b228f67ef939e24f002c",
+    "port": 3000,
+    "framework": "nuxt",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 7106,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 25
+    }
+  }
+}

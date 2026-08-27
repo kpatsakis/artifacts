@@ -1,0 +1,64 @@
+{
+  "asn": "AS16509",
+  "http": {
+    "status": 200,
+    "redirects": [],
+    "securitytxt": null,
+    "title": null,
+    "robots": null,
+    "server": null,
+    "headers": {
+      "via": "kong/3.0.2",
+      "x-powered-by": "Next.js",
+      "transfer-encoding": "chunked",
+      "vary": "Accept-Encoding",
+      "x-kong-proxy-latency": "1",
+      "connection": "keep-alive",
+      "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
+      "date": "Fri, 17 Jul 2026 20:37:36 GMT",
+      "content-type": "text/html; charset=utf-8",
+      "x-kong-upstream-latency": "20"
+    },
+    "html": "<!DOCTYPE html><html lang=\"en\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width\"/><meta name=\"next-head-count\" content=\"2\"/><link rel=\"preload\" href=\"/_next/static/css/0a53107315f5f53c.css\" as=\"style\"/><link rel=\"stylesheet\" href=\"/_next/static/css/0a53107315f5f53c.css\" data-n-g=\"\"/><noscript data-n-css=\"\"></noscript><script defer=\"\" nomodule=\"\" src=\"/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js\"></script><script src=\"/_next/static/chunks/webpack-42cdea76c8170223.js\" defer=\"\"></script><script src=\"/_next/static/chunks/framework-4556c45dd113b893.js\" defer=\"\"></script><script src=\"/_next/static/chunks/main-37f1d0e05575e0be.js\" defer=\"\"></script><script src=\"/_next/static/chunks/pages/_app-77535c70e46aefbc.js\" defer=\"\"></script><script src=\"/_next/static/chunks/844-1909ee90a5b17dc3.js\" defer=\"\"></script><script src=\"/_next/static/chunks/638-a9c486c85e63d9c7.js\" defer=\"\"></script><script src=\"/_next/static/chunks/pages/index-1efc17747c1bd69f.js\" defer=\"\"></script><script src=\"/_next/static/CkCZiNUCxkTHaElnguhuu/_buildManifest.js\" defer=\"\"></script><script src=\"/_next/static/CkCZiNUCxkTHaElnguhuu/_ssgManifest.js\" defer=\"\"></script></head><body><div id=\"__next\"></div><script id=\"__NEXT_DATA__\" type=\"application/json\">{\"props\":{\"pageProps\":{\"config\":{\"background_color\":\"\",\"favicon\":\"\",\"help_text\":\"\",\"logo\":\"\",\"subdomain\":\"\",\"text_color\":\"\",\"title\":\"\",\"website_url\":\"\",\"type\":\"\",\"statusCode\":404,\"status\":\"\",\"botId\":\"\",\"background_image\":\"\",\"background_image_footer\":\"\",\"background_color_footer\":\"\",\"theme\":\"\",\"banner_preference\":\"\",\"footer_preference\":\"\",\"text_color_footer\":\"\",\"language\":\"en\",\"is_site_published\":false,\"theme_color\":\"\",\"primary_text_color\":\"\",\"phone\":\"\",\"gtm_value\":\"\",\"chatbot_code_value\":\"\",\"custom_banner_enabled\":false,\"custom_banner_icon\":\"\",\"custom_banner_text\":\"\"},\"categories\":[],\"isHomePage\":true,\"_nextI18Next\":{\"initialI18nStore\":{\"en\":{\"common\":{\"// HOME PAGE\":\"\",\"exploreKB\":\"Explore Knowledge Base\",\"footerHeader\":\"Still unsure about something?\",\"footerMessage\":\"if you cannot find answer to your question here, you can always reach out to us at\",\"goToBrandHome\":\"Go to Brand Home\",\"howCanIHelp\":\"How can I help?\",\"search\":\"Search\",\"// CATEGORY PAGE\":\"\",\"allCategories\":\"All Categories\",\"home\":\"Home\",\"readTime\":\"min read\",\"updatedOn\":\"Updated on\",\"// SEARCH\":\"\",\"emptySearchHeader\":\"No results found\",\"emptySearchMessage\":\"Try a different search term or use the tags on the right to search other resources.\",\"filter\":\"Filters\",\"pressEnter\":\"Press enter to search\",\"results\":\"Results for\",\"searcTags\":\"Search by tags\",\"searchResults\":\"Search Results\",\"//ARTICLE\":\"\",\"backToTop\":\"Back to top\",\"browse\":\"Browse\",\"didYoufindThisHelpful\":\"Did you find this helpful?\",\"share\":\"Share\",\"similarArticles\":\"Similar articles\",\"tableOfContents\":\"Table of contents\",\"tags\":\"tags\",\"urlCopied\":\"URL copied\",\"//NOT FOUND\":\"\",\"pageNotFound\":\"Page not found\",\"pageNotFundMessage\":\"The page you're looking for doesn't exist, or has been moved.\",\"retry\":\"Retry\",\"backToKB\":\"Back to Knowledge Base\",\"// COMMON\":\"\",\"and\":\"\\u0026\",\"article\":\"Article\",\"articles\":\"Articles\",\"category\":\"Category\",\"folder\":\"Folder\",\"folders\":\"Folders\",\"readTimeMessage\":\"Reading time\",\"views\":\"Views\",\"back\":\"Back\",\"fegBannerText\":\"Prohibition of participation in gambling for persons under the age of 18.\"}}},\"initialLocale\":\"en\",\"ns\":[\"common\"],\"userConfig\":{\"i18n\":{\"defaultLocale\":\"en\",\"locales\":[\"en\",\"sk\",\"cs\",\"hr\",\"ro\",\"pl\"]},\"localePath\":\"/app/public/locales\",\"reloadOnPrerender\":false,\"default\":{\"i18n\":{\"defaultLocale\":\"en\",\"locales\":[\"en\",\"sk\",\"cs\",\"hr\",\"ro\",\"pl\"]},\"localePath\":\"/app/public/locales\",\"reloadOnPrerender\":false}}},\"theme\":\"light\"},\"__N_SSP\":true},\"page\":\"/\",\"query\":{},\"buildId\":\"CkCZiNUCxkTHaElnguhuu\",\"isFallback\":false,\"gssp\":true,\"locale\":\"en\",\"locales\":[\"en\",\"sk\",\"cs\",\"hr\",\"ro\",\"pl\"],\"defaultLocale\":\"en\",\"scriptLoader\":[]}</script></body></html>",
+    "location": "/",
+    "sitemap": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n   <urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n     <url>\n       <loc>https://[ip-redacted]</loc>\n     </url>\n    \n     \n   </urlset>\n "
+  },
+  "os": null,
+  "tags": [
+    "cloud"
+  ],
+  "timestamp": "2026-07-17T20:37:37.135363",
+  "isp": "Amazon.com, Inc.",
+  "transport": "tcp",
+  "_shodan": {
+    "region": "na",
+    "module": "http"
+  },
+  "cloud": {
+    "region": "ap-southeast-1",
+    "service": "EC2",
+    "provider": "Amazon"
+  },
+  "location": {
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  "org": "Amazon Technologies Inc.",
+  "data": "HTTP/1.1 200 OK\r\nContent-Type: text/html; charset=utf-8\r\nTransfer-Encoding: chunked\r\nConnection: keep-alive\r\nX-Powered-By: Next.js\r\nCache-Control: private, no-cache, no-store, max-age=0, must-revalidate\r\nVary: Accept-Encoding\r\nDate: Fri, 17 Jul 2026 20:37:36 GMT\r\nX-Kong-Upstream-Latency: 20\r\nX-Kong-Proxy-Latency: 1\r\nVia: kong/3.0.2\r\n\r\n",
+  "port": 80,
+  "opts": {},
+  "_artifact": {
+    "host_id": "e358639491a7c24adf40851ef9d477d9",
+    "ip_id": "04c3cc1b49c5e1ca6245143eec1ba839",
+    "port": 80,
+    "framework": "next",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 3920,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 19,
+      "ip": 1
+    }
+  }
+}

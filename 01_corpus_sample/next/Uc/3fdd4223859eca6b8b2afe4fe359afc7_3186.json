@@ -1,0 +1,60 @@
+{
+  "asn": "AS16509",
+  "http": {
+    "status": 200,
+    "redirects": [],
+    "securitytxt": null,
+    "title": null,
+    "robots": null,
+    "server": "Apache Tomcat/4.1.10",
+    "headers": {
+      "content-length": "222",
+      "x-powered-by": "Next.js",
+      "vary": "RSC",
+      "server": "Apache Tomcat/4.1.10",
+      "last-modified": "Wed, 10 Jan 2024 17:41:23 GMT",
+      "date": "Thu, 23 Jul 2026 18:03:41 GMT",
+      "content-type": "text/x-component"
+    },
+    "html": "<!DOCTYPE html>\n<html>\n<head>\n    <meta name=\"generator\" content=\"Waku\"/>\n    <link rel=\"icon\" href=\"/favicon.png\">\n</head>\n<body>\n    <div id=\"root\"></div>\n    <script src=\"/react-router-dom.js\"></script>\n</body>\n</html>\n",
+    "location": "/",
+    "sitemap": null
+  },
+  "os": null,
+  "tags": [
+    "cloud"
+  ],
+  "timestamp": "2026-07-23T18:03:42.051497",
+  "isp": "Amazon.com, Inc.",
+  "transport": "tcp",
+  "_shodan": {
+    "region": "eu",
+    "module": "auto"
+  },
+  "cloud": {
+    "region": "af-south-1",
+    "service": "EC2",
+    "provider": "Amazon"
+  },
+  "location": {
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  "org": "Amazon Data Services South Africa",
+  "data": "HTTP/1.1 200 OK\r\nDate: Thu, 23 Jul 2026 18:03:41 GMT\r\nServer: Apache Tomcat/4.1.10\r\nLast-Modified: Wed, 10 Jan 2024 17:41:23 GMT\r\nX-Powered-By: Next.js\r\nContent-Type: text/x-component\r\nVary: RSC\r\nContent-Length: 222\r\n\r\n",
+  "port": 3186,
+  "opts": {},
+  "_artifact": {
+    "host_id": "3fdd4223859eca6b8b2afe4fe359afc7",
+    "ip_id": "67e0b9799498992bcf32fb33fd1ed9c6",
+    "port": 3186,
+    "framework": "next",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 222,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 19
+    }
+  }
+}

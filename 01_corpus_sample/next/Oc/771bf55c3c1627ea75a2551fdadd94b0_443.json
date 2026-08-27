@@ -1,0 +1,64 @@
+{
+  "asn": "AS23888",
+  "http": {
+    "status": 200,
+    "redirects": [],
+    "securitytxt": null,
+    "title": "PMRU GIS | Dashboard",
+    "robots": null,
+    "server": "nginx/1.18.0 (Ubuntu)",
+    "headers": {
+      "x-nextjs-cache": "HIT",
+      "content-length": "6163",
+      "x-content-type-options": "nosniff",
+      "x-powered-by": "Next.js",
+      "vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Next-Router-Segment-Prefetch, Accept-Encoding",
+      "server": "nginx/1.18.0 (Ubuntu)",
+      "x-nextjs-stale-time": "4294967294",
+      "connection": "keep-alive",
+      "etag": "\"5xd21ppfjz4r7\"",
+      "cache-control": "s-maxage=31536000",
+      "date": "Thu, 23 Jul 2026 06:25:46 GMT",
+      "x-nextjs-prerender": "1",
+      "x-frame-options": "SAMEORIGIN",
+      "referrer-policy": "no-referrer-when-downgrade",
+      "content-type": "text/html; charset=utf-8"
+    },
+    "html": "<!DOCTYPE html><html lang=\"en\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"preload\" href=\"/_next/static/media/e4af272ccee01ff0-s.p.woff2\" as=\"font\" crossorigin=\"\" type=\"font/woff2\"/><link rel=\"stylesheet\" href=\"/_next/static/css/aa73fdff1ffc849f.css\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/webpack-e2ee1f04730dc904.js\"/><script src=\"/_next/static/chunks/4bd1b696-ed3bd4e131a79950.js\" async=\"\"></script><script src=\"/_next/static/chunks/1684-14ea128b34a6ba23.js\" async=\"\"></script><script src=\"/_next/static/chunks/main-app-01c4a3952b4893c2.js\" async=\"\"></script><script src=\"/_next/static/chunks/4212-190f8ba55ae9090d.js\" async=\"\"></script><script src=\"/_next/static/chunks/771-4a5ff3bc29051675.js\" async=\"\"></script><script src=\"/_next/static/chunks/5346-e2a98b9bf117dca9.js\" async=\"\"></script><script src=\"/_next/static/chunks/9747-f66fa06240395140.js\" async=\"\"></script><script src=\"/_next/static/chunks/app/page-7078ea7ed2e855dd.js\" async=\"\"></script><meta name=\"next-size-adjust\" content=\"\"/><title>PMRU GIS | Dashboard</title><meta name=\"description\" content=\"Performance Management &amp; Reforms Unit - Khyber Pakhtunkhwa Government\"/><meta name=\"generator\" content=\"v0.dev\"/><link rel=\"icon\" href=\"/favicon.ico\" type=\"image/x-icon\" sizes=\"400x400\"/><link rel=\"icon\" href=\"/favicon.ico\"/><link rel=\"stylesheet\" href=\"https://unpkg.com/leaflet@1.9.4/dist/leaflet.css\" integrity=\"sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=\" crossorigin=\"\"/><script src=\"/_next/static/chunks/polyfills-42372ed130431b0a.js\" noModule=\"\"></script></head><body class=\"__className_f367f3\"><script src=\"/_next/static/chunks/webpack-e2ee1f04730dc904.js\" async=\"\"></script><script>(self.__next_f=self.__next_f||[]).push([0])</script><script>self.__next_f.push([1,\"1:\\\"$Sreact.fragment\\\"\\n2:I[7555,[],\\\"\\\"]\\n3:I[1295,[],\\\"\\\"]\\n4:I[2539,[\\\"4212\\\",\\\"static/chunks/4212-190f8ba55ae9090d.js\\\",\\\"771\\\",\\\"static/chunks/771-4a5ff3bc29051675.js\\\",\\\"5346\\\",\\\"static/chunks/5346-e2a98b9bf117dca9.js\\\",\\\"9747\\\",\\\"static/chunks/9747-f66fa06240395140.js\\\",\\\"8974\\\",\\\"static/chunks/app/page-7078ea7ed2e855dd.js\\\"],\\\"default\\\"]\\n5:I[9665,[],\\\"OutletBoundary\\\"]\\n8:I[9665,[],\\\"ViewportBoundary\\\"]\\na:I[9665,[],\\\"MetadataBoundary\\\"]\\nc:I[6614,[],\\\"\\\"]\\n:HL[\\\"/_next/static/media/e4af272ccee01ff0-s.p.woff2\\\",\\\"font\\\",{\\\"crossOrigin\\\":\\\"\\\",\\\"type\\\":\\\"font/woff2\\\"}]\\n:HL[\\\"/_next/static/css/aa73fdff1ffc849f.css\\\",\\\"style\\\"]\\n\"])</script><script>self.__next_f.push([1,\"0:{\\\"P\\\":null,\\\"b\\\":\\\"vxf-BBLYle_TnyFQCmp4r\\\",\\\"p\\\":\\\"\\\",\\\"c\\\":[\\\"\\\",\\\"\\\"],\\\"i\\\":false,\\\"f\\\":[[[\\\"\\\",{\\\"children\\\":[\\\"__PAGE__\\\",{}]},\\\"$undefined\\\",\\\"$undefined\\\",true],[\\\"\\\",[\\\"$\\\",\\\"$1\\\",\\\"c\\\",{\\\"children\\\":[[[\\\"$\\\",\\\"link\\\",\\\"0\\\",{\\\"rel\\\":\\\"stylesheet\\\",\\\"href\\\":\\\"/_next/static/css/aa73fdff1ffc849f.css\\\",\\\"precedence\\\":\\\"next\\\",\\\"crossOrigin\\\":\\\"$undefined\\\",\\\"nonce\\\":\\\"$undefined\\\"}]],[\\\"$\\\",\\\"html\\\",null,{\\\"lang\\\":\\\"en\\\",\\\"children\\\":[[\\\"$\\\",\\\"head\\\",null,{\\\"children\\\":[\\\"$\\\",\\\"link\\\",null,{\\\"rel\\\":\\\"stylesheet\\\",\\\"href\\\":\\\"https://unpkg.com/leaflet@1.9.4/dist/leaflet.css\\\",\\\"integrity\\\":\\\"sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=\\\",\\\"crossOrigin\\\":\\\"\\\"}]}],[\\\"$\\\",\\\"body\\\",null,{\\\"className\\\":\\\"__className_f367f3\\\",\\\"children\\\":[\\\"$\\\",\\\"$L2\\\",null,{\\\"parallelRouterKey\\\":\\\"children\\\",\\\"error\\\":\\\"$undefined\\\",\\\"errorStyles\\\":\\\"$undefined\\\",\\\"errorScripts\\\":\\\"$undefined\\\",\\\"template\\\":[\\\"$\\\",\\\"$L3\\\",null,{}],\\\"templateStyles\\\":\\\"$undefined\\\",\\\"templateScripts\\\":\\\"$undefined\\\",\\\"notFound\\\":[[[\\\"$\\\",\\\"title\\\",null,{\\\"children\\\":\\\"404: This page could not be found.\\\"}],[\\\"$\\\",\\\"div\\\",null,{\\\"style\\\":{\\\"fontFamily\\\":\\\"system-ui,\\\\\\\"Segoe UI\\\\\\\",Roboto,Helvetica,Arial,sans-serif,\\\\\\\"Apple Color Emoji\\\\\\\",\\\\\\\"Segoe UI Emoji\\\\\\\"\\\",\\\"height\\\":\\\"100vh\\\",\\\"textAlign\\\":\\\"center\\\",\\\"display\\\":\\\"flex\\\",\\\"flexDirection\\\":\\\"column\\\",\\\"alignItems\\\":\\\"center\\\",\\\"justifyContent\\\":\\\"center\\\"},\\\"children\\\":[\\\"$\\\",\\\"div\\\",null,{\\\"children\\\":[[\\\"$\\\",\\\"style\\\",null,{\\\"dangerouslySetInnerHTML\\\":{\\\"__html\\\":\\\"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}\\\"}}],[\\\"$\\\",\\\"h1\\\",null,{\\\"className\\\":\\\"next-error-h1\\\",\\\"style\\\":{\\\"display\\\":\\\"inline-block\\\",\\\"margin\\\":\\\"0 20px 0 0\\\",\\\"padding\\\":\\\"0 23px 0 0\\\",\\\"fontSize\\\":24,\\\"fontWeight\\\":500,\\\"verticalAlign\\\":\\\"top\\\",\\\"lineHeight\\\":\\\"49px\\\"},\\\"children\\\":404}],[\\\"$\\\",\\\"div\\\",null,{\\\"style\\\":{\\\"display\\\":\\\"inline-block\\\"},\\\"children\\\":[\\\"$\\\",\\\"h2\\\",null,{\\\"style\\\":{\\\"fontSize\\\":14,\\\"fontWeight\\\":400,\\\"lineHeight\\\":\\\"49px\\\",\\\"margin\\\":0},\\\"children\\\":\\\"This page could not be found.\\\"}]}]]}]}]],[]],\\\"forbidden\\\":\\\"$undefined\\\",\\\"unauthorized\\\":\\\"$undefined\\\"}]}]]}]]}],{\\\"children\\\":[\\\"__PAGE__\\\",[\\\"$\\\",\\\"$1\\\",\\\"c\\\",{\\\"children\\\":[[\\\"$\\\",\\\"$L4\\\",null,{}],\\\"$undefined\\\",null,[\\\"$\\\",\\\"$L5\\\",null,{\\\"children\\\":[\\\"$L6\\\",\\\"$L7\\\",null]}]]}],{},null,false]},null,false],[\\\"$\\\",\\\"$1\\\",\\\"h\\\",{\\\"children\\\":[null,[\\\"$\\\",\\\"$1\\\",\\\"szvXi3CxotAj-XdbN8OGL\\\",{\\\"children\\\":[[\\\"$\\\",\\\"$L8\\\",null,{\\\"children\\\":\\\"$L9\\\"}],[\\\"$\\\",\\\"meta\\\",null,{\\\"name\\\":\\\"next-size-adjust\\\",\\\"content\\\":\\\"\\\"}]]}],[\\\"$\\\",\\\"$La\\\",null,{\\\"children\\\":\\\"$Lb\\\"}]]}],false]],\\\"m\\\":\\\"$undefined\\\",\\\"G\\\":[\\\"$c\\\",\\\"$undefined\\\"],\\\"s\\\":false,\\\"S\\\":true}\\n\"])</script><script>self.__next_f.push([1,\"9:[[\\\"$\\\",\\\"meta\\\",\\\"0\\\",{\\\"charSet\\\":\\\"utf-8\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"1\\\",{\\\"name\\\":\\\"viewport\\\",\\\"content\\\":\\\"width=device-width, initial-scale=1\\\"}]]\\n6:null\\n\"])</script><script>self.__next_f.push([1,\"7:null\\nb:[[\\\"$\\\",\\\"title\\\",\\\"0\\\",{\\\"children\\\":\\\"PMRU GIS | Dashboard\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"1\\\",{\\\"name\\\":\\\"description\\\",\\\"content\\\":\\\"Performance Management \\u0026 Reforms Unit - Khyber Pakhtunkhwa Government\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"2\\\",{\\\"name\\\":\\\"generator\\\",\\\"content\\\":\\\"v0.dev\\\"}],[\\\"$\\\",\\\"link\\\",\\\"3\\\",{\\\"rel\\\":\\\"icon\\\",\\\"href\\\":\\\"/favicon.ico\\\",\\\"type\\\":\\\"image/x-icon\\\",\\\"sizes\\\":\\\"400x400\\\"}],[\\\"$\\\",\\\"link\\\",\\\"4\\\",{\\\"rel\\\":\\\"icon\\\",\\\"href\\\":\\\"/favicon.ico\\\"}]]\\n\"])</script></body></html>",
+    "location": "/",
+    "sitemap": null
+  },
+  "os": null,
+  "timestamp": "2026-07-23T06:25:46.745197",
+  "isp": "National Telecommunication Corporation HQ,",
+  "transport": "tcp",
+  "_shodan": {
+    "region": "na",
+    "module": "https"
+  },
+  "location": {
+    "country_code": "PK",
+    "country_name": "Pakistan"
+  },
+  "org": "National Telecommunication Corporation",
+  "data": "HTTP/1.1 200 OK\r\nServer: nginx/1.18.0 (Ubuntu)\r\nDate: Thu, 23 Jul 2026 06:25:46 GMT\r\nContent-Type: text/html; charset=utf-8\r\nContent-Length: 6163\r\nConnection: keep-alive\r\nVary: RSC, Next-Router-State-Tree, Next-Router-Prefetch, Next-Router-Segment-Prefetch, Accept-Encoding\r\nx-nextjs-cache: HIT\r\nx-nextjs-prerender: 1\r\nx-nextjs-stale-time: 4294967294\r\nX-Powered-By: Next.js\r\nCache-Control: s-maxage=31536000\r\nETag: \"5xd21ppfjz4r7\"\r\nX-Content-Type-Options: nosniff\r\nX-Frame-Options: SAMEORIGIN\r\nReferrer-Policy: no-referrer-when-downgrade\r\n\r\n",
+  "port": 443,
+  "opts": {
+    "vulns": [],
+    "heartbleed": "2026/07/23 06:26:07 [ip-redacted]:443 - SAFE\n"
+  },
+  "_artifact": {
+    "host_id": "771bf55c3c1627ea75a2551fdadd94b0",
+    "ip_id": "4839c30c5f63f86ed99ded226a343cda",
+    "port": 443,
+    "framework": "next",
+    "tier": "Oc",
+    "tier_label": "Objective generator-fingerprint",
+    "html_chars_original": 6163,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 20,
+      "ip": 1
+    }
+  }
+}

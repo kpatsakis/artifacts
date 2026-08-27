@@ -1,0 +1,75 @@
+{
+  "http": {
+    "redirects": [
+      {
+        "data": "HTTP/1.1 302 Found\r\nDate: Thu, 30 Jul 2026 12:08:44 GMT\r\nContent-Type: text/html\r\nContent-Length: 92\r\nConnection: keep-alive\r\nset-cookie: dfp-recent-programs=%5B%5D; Path=/; Secure; SameSite=Strict\r\nlocation: /login\r\n\r\n",
+        "location": "/"
+      }
+    ],
+    "securitytxt": null,
+    "title": null,
+    "html": "<!DOCTYPE html><html><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"><script type=\"importmap\">{\"imports\":{\"#entry\":\"/_nuxt/DtCD9zIf.js\"}}</script><link rel=\"stylesheet\" href=\"/_nuxt/entry.CUlC4SXM.css\" crossorigin><link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/DtCD9zIf.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/BBDjzO_Y.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/DVCwF3_D.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/CgiIXlwW.js\"><link rel=\"preload\" as=\"fetch\" fetchpriority=\"low\" crossorigin=\"anonymous\" href=\"/_nuxt/builds/meta/23d4ee21-4f49-4585-ae52-a8b864327580.json\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/xW1GTbp1.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/V8zolI58.js\"><link rel=\"prefetch\" as=\"style\" crossorigin href=\"/_nuxt/vueform.CVIinGvN.css\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/CwXV9Qly.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/BqAGcUN5.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/DlAUqK2U.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/M6sUf_at.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/NyZBD9Xu.js\"><script type=\"module\" src=\"/_nuxt/DtCD9zIf.js\" crossorigin></script></head><body><div id=\"__nuxt\"><!--[--><!--[--><!-- Remove item from normal navigation flow, only available via hotkey --><section aria-label=\"Notifications alt+T\" tabindex=\"-1\" aria-live=\"polite\" aria-relevant=\"additions text\" aria-atomic=\"false\"><!--[--><ol data-sonner-toaster data-sonner-theme=\"light\" class=\"toaster group\" dir=\"ltr\" tabindex=\"-1\" data-theme=\"light\" data-rich-colors=\"true\" data-y-position=\"top\" data-x-position=\"right\" style=\"--front-toast-height:0px;--width:356px;--gap:14px;--normal-bg:var(--popover);--normal-text:var(--popover-foreground);--normal-border:var(--border);--border-radius:var(--radius);--offset-top:24px;--offset-right:24px;--offset-bottom:24px;--offset-left:24px;--mobile-offset-top:16px;--mobile-offset-right:16px;--mobile-offset-bottom:16px;--mobile-offset-left:16px;\"><!--[--><!--]--></ol><!--]--></section><!--]--><!--[--><div data-slot=\"sidebar-wrapper\" style=\"--sidebar-width:16rem;--sidebar-width-icon:3rem;\" class=\"group/sidebar-wrapper has-data-[variant=inset]:bg-sidebar flex min-h-svh w-full\"><!--[--><!----><div class=\"flex flex-col w-screen h-screen overflow-hidden\"><!----><main class=\"min-h-screen flex items-center justify-center bg-muted/50 p-4\"><div class=\"w-full max-w-md space-y-8 bg-background p-8 rounded-lg border shadow-sm\"><div class=\"text-center\"><img src=\"data:image/svg+xml,%3csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%20792%20183.5&#39;%3e%3cdefs%3e%3cstyle%3e.cls-1{isolation:isolate;}.cls-2,.cls-5{fill:%236d6863;}.cls-3{fill:%23ada7a4;}.cls-4{fill:%23fbae42;}.cls-5{mix-blend-mode:multiply;}%3c/style%3e%3c/defs%3e%3cg%20class=&#39;cls-1&#39;%3e%3cg%20id=&#39;Layer_1&#39;%20data-name=&#39;Layer%201&#39;%3e%3cpath%20class=&#39;cls-2&#39;%20d=&#39;M321.93,69a45.71,45.71,0,0,1-10.71,15.54A50.55,50.55,0,0,1,294.7,94.92a56.94,56.94,0,0,1-21.07,3.78H235.41V.7h38.22A58,58,0,0,1,294.7,4.41,49.74,49.74,0,0,1,311.22,14.7a45.82,45.82,0,0,1,10.71,15.47,48.68,48.68,0,0,1,3.78,19.25v.28A49.17,49.17,0,0,1,321.93,69ZM303.17,49.7A31.88,31.88,0,0,0,301,37.8a27.84,27.84,0,0,0-6-9.38,26.7,26.7,0,0,0-9.31-6.09,32.25,32.25,0,0,0-12-2.17H257V79.24h16.66a33.27,33.27,0,0,0,12-2.1,25.86,25.86,0,0,0,9.31-6,28,28,0,0,0,6-9.24A31.15,31.15,0,0,0,303.17,50Z&#39;/%3e%3cpath%20class=&#39;cls-2&#39;%20d=&#39;M412.23,98.7l-9-22H361.83l-9,22h-22l42-98.7h19.88l42,98.7ZM382.55,25.9l-13,31.78h26Z&#39;/%3e%3cpath%20class=&#39;cls-2&#39;%20d=&#39;M485.87,20.58V98.7H464.31V20.58H434.49V.7h81.2V20.58Z&#39;/%3e%3cpath%20class=&#39;cls-2&#39;%20d=&#39;M596.75,98.7l-9-22H546.35l-9,22h-22l42-98.7h19.88l42,98.7ZM567.07,25.9l-13,31.78h26Z&#39;/%3e%3cpath%20class=&#39;cls-2&#39;%20d=&#39;M656,20.16V41.3h46.76V60.76H656V98.7H634.41V.7H709V20.16Z&#39;/%3e%3cpath%20class=&#39;cls-2&#39;%20d=&#39;M727.23,98.7V.7h21.56v98Z&#39;/%3e%3cpath%20class=&#39;cls-3&#39;%20d=&#39;M770.3,16.24H767V4.76h-4.29V1.87h11.85V4.76H770.3ZM785,12.83h-.28l-4-6.3v9.71h-3.07V1.87h3.45l3.78,6.06,3.78-6.06H792V16.24h-3.08V6.53Z&#39;/%3e%3cpath%20class=&#39;cls-4&#39;%20d=&#39;M272.88,158.27a15.29,15.29,0,0,1-4.23,5.39,18.49,18.49,0,0,1-6.3,3.26,26.91,26.91,0,0,1-7.74,1.08h-8.19v14.7H235.64v-49h20a23.49,23.49,0,0,1,7.88,1.23,16.65,16.65,0,0,1,5.88,3.46,15.27,15.27,0,0,1,3.71,5.36,17.81,17.81,0,0,1,1.29,6.89v.14A17.1,17.1,0,0,1,272.88,158.27Zm-9.38-7.42a6.7,6.7,0,0,0-2.34-5.53,10,10,0,0,0-6.41-1.89h-8.33v15H255a8.77,8.77,0,0,0,6.3-2.13A7,7,0,0,0,263.5,151Z&#39;/%3e%3cpath%20class=&#39;cls-4&#39;%20d=&#39;M312.15,182.7,301.65,167h-8.47V182.7H282.4v-49h22.4q8.74,0,13.62,4.27t4.86,11.9V150a15.42,15.42,0,0,1-2.9,9.7,16.91,16.91,0,0,1-7.6,5.49l12,17.5Zm.21-32.27a6.27,6.27,0,0,0-2.24-5.25,9.86,9.86,0,0,0-6.23-1.75H293.18V157.5H304.1a9,9,0,0,0,6.13-1.89,6.41,6.41,0,0,0,2.13-5Z&#39;/%3e%3cpath%20class=&#39;cls-4&#39;%20d=&#39;M381,168a25.78,25.78,0,0,1-5.42,8.05,25.42,25.42,0,0,1-8.27,5.46,28.41,28.41,0,0,1-20.89,0,26.23,26.23,0,0,1-8.23-5.39,24.51,24.51,0,0,1-5.39-8,25.24,25.24,0,0,1-1.92-9.84v-.14a24.65,24.65,0,0,1,2-9.83,25,25,0,0,1,13.68-13.51,27,27,0,0,1,10.47-2,26.71,26.71,0,0,1,10.43,2,25.88,25.88,0,0,1,8.23,5.39,24.12,24.12,0,0,1,5.38,8,25,25,0,0,1,1.93,9.83v.14A24.91,24.91,0,0,1,381,168Zm-9.31-9.84a16.4,16.4,0,0,0-1.08-5.95,14.89,14.89,0,0,0-3.09-4.9,14.66,14.66,0,0,0-4.72-3.32,14.34,14.34,0,0,0-5.95-1.23,14.68,14.68,0,0,0-6,1.19,13.71,13.71,0,0,0-4.62,3.29,15.48,15.48,0,0,0-3,4.87,16.07,16.07,0,0,0-1.08,5.91v.14a16.36,16.36,0,0,0,1.08,6,14.78,14.78,0,0,0,7.78,8.23,14.37,14.37,0,0,0,6,1.22,14.61,14.61,0,0,0,5.95-1.19,13.5,13.5,0,0,0,4.65-3.29,15.55,15.55,0,0,0,3-4.86,16.16,16.16,0,0,0,1.08-5.92Z&#39;/%3e%3cpolygon%20class=&#39;cls-3&#39;%20points=&#39;0%20117.57%200%20182.7%2065.09%20182.7%20117.56%20182.7%20182.43%20117.55%2064.87%20117.55%2064.87%200%200%2065.18%200%20117.57%200%20117.57&#39;/%3e%3cpolygon%20class=&#39;cls-5&#39;%20points=&#39;182.42%2065.13%20182.42%200%20117.34%200%2064.87%200%200%2065.15%20117.56%2065.15%20117.56%20182.7%20182.43%20117.52%20182.43%2065.13%20182.42%2065.13&#39;/%3e%3c/g%3e%3c/g%3e%3c/svg%3e\" class=\"h-[28px] mx-auto mb-6\" alt=\"Datafi Pro logo\"><p class=\"text-muted-foreground\"> Enter your credentials to access your account </p></div><form class=\"space-y-6\"><!----><div class=\"space-y-2\"><label for=\"email\" data-slot=\"label\" class=\"flex items-center gap-2 text-sm leading-none font-medium select-none group-data-[disabled=true]:pointer-events-none group-data-[disabled=true]:opacity-50 peer-disabled:cursor-not-allowed peer-disabled:opacity-50\"><!--[--><!--[-->Email<!--]--><!--]--></label><div class=\"relative h-11 items-center gap-3 bg-muted border border-transparent rounded-md px-3 focus-within:border-primary focus-within:ring-primary/50 focus-within:ring-[3px] w-full\" required autocomplete=\"email\"><input value=\"\" id=\"email\" type=\"text\" placeholder=\"Enter your email\" aria-invalid=\"false\" data-slot=\"input\" class=\"file:text-foreground placeholder:text-muted-foreground selection:bg-primary selection:text-primary-foreground dark:bg-input/30 border-input flex h-11 w-full min-w-0 rounded-md bg-transparent pr-3 py-1 text-base transition-[color,box-shadow] outline-none file:inline-flex file:h-7 file:border-0 file:bg-transparent file:text-sm file:font-medium disabled:pointer-events-none disabled:cursor-not-allowed disabled:opacity-50 md:text-sm aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive\"><!----></div></div><div class=\"space-y-2\"><label for=\"password\" data-slot=\"label\" class=\"flex items-center gap-2 text-sm leading-none font-medium select-none group-data-[disabled=true]:pointer-events-none group-data-[disabled=true]:opacity-50 peer-disabled:cursor-not-allowed peer-disabled:opacity-50\"><!--[--><!--[-->Password<!--]--><!--]--></label><div class=\"relative h-11 items-center gap-3 bg-muted border border-transparent rounded-md px-3 focus-within:border-primary focus-within:ring-primary/50 focus-within:ring-[3px] w-full\" required autocomplete=\"current-password\"><input value=\"\" id=\"password\" type=\"password\" placeholder=\"Enter your password\" aria-invalid=\"false\" data-slot=\"input\" class=\"file:text-foreground placeholder:text-muted-foreground selection:bg-primary selection:text-primary-foreground dark:bg-input/30 border-input flex h-11 w-full min-w-0 rounded-md bg-transparent pr-3 py-1 text-base transition-[color,box-shadow] outline-none file:inline-flex file:h-7 file:border-0 file:bg-transparent file:text-sm file:font-medium disabled:pointer-events-none disabled:cursor-not-allowed disabled:opacity-50 md:text-sm aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive\"><!----></div></div><button data-slot=\"button\" class=\"inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium transition-all disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg:not([class*=&#39;size-&#39;])]:size-4 shrink-0 [&amp;_svg]:shrink-0 outline-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive bg-primary text-primary-foreground hover:bg-primary/90 border h-11 px-4 py-2 has-[&gt;svg]:px-3 w-full\" type=\"submit\"><!--[-->Login<!--]--></button></form></div></main></div><!--]--></div><!--]--><!--]--></div><div id=\"teleports\"></div><script type=\"application/json\" data-nuxt-data=\"nuxt-app\" data-ssr=\"true\" id=\"__NUXT_DATA__\">[[\"ShallowReactive\",1],{\"data\":2,\"state\":4,\"once\":6,\"_errors\":7,\"serverRendered\":9,\"path\":10},[\"ShallowReactive\",3],{},[\"Reactive\",5],{},[\"Set\"],[\"ShallowReactive\",8],{},true,\"/login\"]</script><script>window.__NUXT__={};window.__NUXT__.config={public:{},app:{baseURL:\"/\",buildId:\"23d4ee21-4f49-4585-ae52-a8b864327580\",buildAssetsDir:\"/_nuxt/\",cdnURL:\"\"}}</script></body></html>",
+    "location": "/login",
+    "status": 200,
+    "robots": null,
+    "components_hash": 1295931225,
+    "server": null,
+    "headers": {
+      "date": "Thu, 30 Jul 2026 12:08:45 GMT",
+      "content-length": "10195",
+      "content-type": "text/html;charset=utf-8",
+      "connection": "keep-alive",
+      "x-powered-by": "Nuxt"
+    },
+    "sitemap": null
+  },
+  "port": 443,
+  "transport": "tcp",
+  "cpe23_hash": 222339076,
+  "cloud": {
+    "region": "us-west-1",
+    "service": "EC2",
+    "provider": "Amazon"
+  },
+  "location": {
+    "country_code": "US",
+    "country_name": "United States"
+  },
+  "tags": [
+    "cloud"
+  ],
+  "timestamp": "2026-07-30T12:08:45.780452",
+  "org": "Amazon.com, Inc.",
+  "data": "HTTP/1.1 200 OK\r\nDate: Thu, 30 Jul 2026 12:08:45 GMT\r\nContent-Type: text/html;charset=utf-8\r\nContent-Length: 10195\r\nConnection: keep-alive\r\nx-powered-by: Nuxt\r\n\r\n",
+  "asn": "AS16509",
+  "cpe23": [
+    "cpe:2.3:a:nuxt:nuxt"
+  ],
+  "isp": "Amazon.com, Inc.",
+  "cpe": [
+    "cpe:/a:nuxt:nuxt"
+  ],
+  "os": null,
+  "_shodan": {
+    "region": "eu",
+    "module": "http"
+  },
+  "opts": {
+    "vulns": [],
+    "heartbleed": "2026/07/30 12:08:58 [ip-redacted]:443 - ERROR: write tcp [ip-redacted]:443: broken pipe\n"
+  },
+  "_artifact": {
+    "host_id": "8c7c60e3d059fe65063b7c25ec701c8b",
+    "ip_id": "541da517554aebc60c121f4bada0c951",
+    "port": 443,
+    "framework": "nuxt",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 10195,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 27,
+      "ip": 2
+    }
+  }
+}

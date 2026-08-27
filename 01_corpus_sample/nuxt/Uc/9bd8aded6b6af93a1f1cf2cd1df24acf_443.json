@@ -1,0 +1,66 @@
+{
+  "asn": "AS14618",
+  "http": {
+    "status": 200,
+    "redirects": [],
+    "securitytxt": null,
+    "title": "Wiza",
+    "robots": null,
+    "server": "nginx/1.18.0 (Ubuntu)",
+    "headers": {
+      "content-security-policy": "frame-ancestors 'self' linkedin.com *.linkedin.com",
+      "x-powered-by": "Nuxt",
+      "transfer-encoding": "chunked",
+      "strict-transport-security": "max-age=63072000",
+      "server": "nginx/1.18.0 (Ubuntu)",
+      "connection": "keep-alive",
+      "date": "Sun, 26 Jul 2026 03:56:22 GMT",
+      "x-frame-options": "ALLOW-FROM www.linkedin.com",
+      "content-type": "text/html;charset=utf-8"
+    },
+    "html": "<!DOCTYPE html><html><head><meta charset=\"utf-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n<script type=\"importmap\">{\"imports\":{\"#entry\":\"/_nuxt_plugin/w0arM4xM.js\"}}</script>\n<title>Wiza</title>\n<link rel=\"stylesheet\" href=\"https://rsms.me/inter/inter.css\">\n<link rel=\"stylesheet\" href=\"/_nuxt_plugin/entry.C2kNBq8P.css\" crossorigin>\n<link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt_plugin/w0arM4xM.js\">\n<script type=\"module\" src=\"/_nuxt_plugin/w0arM4xM.js\" crossorigin></script>\n<link rel=\"prefetch\" as=\"image\" type=\"image/png\" href=\"/_nuxt_plugin/prospect_info_bg.CAyCRVKq.png\">\n<link rel=\"prefetch\" as=\"style\" crossorigin href=\"/_nuxt_plugin/toast.BEezJ49j.css\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt_plugin/COY1Lxh0.js\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt_plugin/BObrJH3Z.js\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt_plugin/DlAUqK2U.js\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt_plugin/D4_tBeb3.js\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt_plugin/C5w1Cix0.js\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt_plugin/BfKVhW9Y.js\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt_plugin/CMVtaUVE.js\">\n<link rel=\"prefetch\" as=\"style\" crossorigin href=\"/_nuxt_plugin/error-404.CM9rK_hI.css\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt_plugin/DMLfPhqs.js\">\n<link rel=\"prefetch\" as=\"style\" crossorigin href=\"/_nuxt_plugin/error-500.C19M5-rm.css\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt_plugin/OUAhY4TS.js\">\n<meta name=\"internal-verify\" content=\"qwert\">\n<link rel=\"icon\" type=\"image/png\" href=\"/favicon.png\" sizes=\"32x32\">\n<link rel=\"icon\" type=\"image/png\" href=\"/favicon@2x.png\" sizes=\"64x64\">\n<link rel=\"icon\" type=\"image/png\" href=\"/favicon@6x.png\" sizes=\"192x192\">\n<link rel=\"icon\" type=\"image/png\" href=\"/favicon@12x.png\" sizes=\"396x396\">\n<link rel=\"icon\" type=\"image/svg+xml\" href=\"/favicon.svg\">\n<script id=\"unhead:payload\" type=\"application/json\">{\"title\":\"Wiza\"}</script></head><body><div id=\"__nuxt\"></div><div id=\"teleports\"></div><script>window.__NUXT__={};window.__NUXT__.config={public:{nodeEnv:\"production\",siteEnv:\"staging\",siteUrl:\"https://profile-pics.staging.wizadev.net\",appBase:\"https://profile-pics.staging.wizadev.net/svc/app\",authBase:\"https://profile-pics.staging.wizadev.net/svc/auth\",adminBase:\"https://profile-pics.staging.wizadev.net/svc/admin\",exampleLiProfileUrl:\"https://www.linkedin.com/in/stephen-hakami-5babb21b0?originalSubdomain=ca\",exampleSnavUrl:\"https://www.linkedin.com/sales/search/people?doFetchHeroCard=false&geoIncluded=103644278\",publicLogoApiKey:\"pk_L7z7D6WdTYCKCbb67l0IbQ\"},app:{baseURL:\"/\",buildId:\"48c5f729-3111-48b0-b805-49dd47703596\",buildAssetsDir:\"_nuxt_plugin\",cdnURL:\"\"}}</script>\n<script type=\"application/json\" data-nuxt-data=\"nuxt-app\" data-ssr=\"false\" id=\"__NUXT_DATA__\">[{\"serverRendered\":1},false]</script></body></html>",
+    "location": "/",
+    "sitemap": null
+  },
+  "os": null,
+  "tags": [
+    "cloud"
+  ],
+  "timestamp": "2026-07-26T03:56:22.953921",
+  "isp": "Amazon.com, Inc.",
+  "transport": "tcp",
+  "_shodan": {
+    "region": "eu",
+    "module": "https"
+  },
+  "cloud": {
+    "region": "us-east-1",
+    "service": "EC2",
+    "provider": "Amazon"
+  },
+  "location": {
+    "country_code": "US",
+    "country_name": "United States"
+  },
+  "org": "Amazon Data Services NoVa",
+  "data": "HTTP/1.1 200 OK\r\nServer: nginx/1.18.0 (Ubuntu)\r\nDate: Sun, 26 Jul 2026 03:56:22 GMT\r\nContent-Type: text/html;charset=utf-8\r\nTransfer-Encoding: chunked\r\nConnection: keep-alive\r\nX-Frame-Options: ALLOW-FROM www.linkedin.com\r\nContent-Security-Policy: frame-ancestors 'self' linkedin.com *.linkedin.com\r\nx-powered-by: Nuxt\r\nStrict-Transport-Security: max-age=63072000\r\n\r\n",
+  "port": 443,
+  "opts": {
+    "vulns": [],
+    "heartbleed": "2026/07/26 03:56:30 [ip-redacted]:443 - SAFE\n"
+  },
+  "_artifact": {
+    "host_id": "9bd8aded6b6af93a1f1cf2cd1df24acf",
+    "ip_id": "a2ee8cb5700445e2fb1f5d0b89b77ce5",
+    "port": 443,
+    "framework": "nuxt",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 2972,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 20,
+      "ip": 1
+    }
+  }
+}

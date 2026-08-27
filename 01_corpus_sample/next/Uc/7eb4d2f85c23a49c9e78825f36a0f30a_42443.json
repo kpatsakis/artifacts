@@ -1,0 +1,70 @@
+{
+  "http": {
+    "redirects": [],
+    "securitytxt": null,
+    "title": "citrix gateway",
+    "html": "<!DOCTYPE html>\n<html>\n<head>\n<meta charset=\"utf-8\">\n<title>citrix gateway</title>\n<link rel=\"shortcut icon\" href=\"/favicon_5e20da36-fec7-4ae8-b166-3b1db5c371bd.ico\">\n</head>\n<body>\n<div id=\"app\">\n<code>dOiahNPREYg7nXMPJo33zBCfwfQss a14yrSJ es73cOcohqmQdvBPCq3nHy UKkaTLwnfso 6gc09RWz3xaM1Z989dZOPFuPmHikW</code>\n<article>bUpuaPEyPWqjEfUV91vXukyWMA3vPO</article>\n<h4>rPMif UO4310c4Xe3K5alM70kAB jpDpTIAYqyPh</h4>\n<h5>I4YxWFSPQp0tblAggDGY Gna7Qcnr YHBlODve5D gjnLW kFYbudu</h5>\n<em>53yRh Y8LLiyEljVCnQtgX4oS2HI</em>\n<footer>0auEQ</footer>\n<pre class=\"text\">K29MEB7WQy8mVaGD Orrm1Uz4DZHcuf9</pre>\n<main class=\"wrap\">EXjUCiq7VWOohIAGsVo6dJSnaxbDs jV0u2X3FzveoMdTlAmO7YY</main>\n<h3>gdZg2BiyKdhhfpZpGnjAajH FhGRym3EAZ1RAtCs 21IKCI</h3>\n<em>jVBdCkZ5o7UIR5l36WZqrcGmj2bSf Fj6oaNy</em>\n<span>h3fU2pXGPRscQHjj4BBs3j gSYEHNpZZ7eFrZ26YOXozlY6Jpl54 klwhNsiZxkwv</span>\n<pre class=\"summary\">hECUOLzHbOdufo9eM4Hq nX4DV00wmTIUyW0bKert1r7gsAM1</pre>\n<span>BoeO2r6ZfCQ Og8kP0kiRNNGTbIak</span>\n<h3 class=\"entry\">Fb1nDxlSEQFNg7 UsFKZd 1wXBUd EDrSU64JtHYBEDMMDoOWo</h3>\n<main class=\"wrap\">lnWMSZUqSzTGrxGdIprKu</main>\n<p>8ZcOMw4WmTsee17zLEbvavXZd jaFGYpc EQc3pKACmq</p>\n<h3>5MfCupYlSSP6RVf0MCuW8y VUGmpDMofPOZ4SoNzBO8kdMYbH</h3>\n<article>nZ2Q7k2K1paeW ya18DFFj8ixEvXcch8lGno WF3YXekA7U5NfXSCPChkEP7g</article>\n<article>II1I1kTBPvlmTC47bkiYu4WyGfl XGXetujjMK9Xj2g PbaMDLNQtlIThE7Wqkk6</article>\n<blockquote class=\"text\">3pvPM9Bw2LKvnztI5UDlINV3x vfoseXqw aIbHq6cibzotgnP9 QxYqHVL9Q20pznRK</blockquote>\n<h3 class=\"inner\">Cj6f5x</h3>\n<blockquote class=\"main\">sET9o2CufZTUxTPbV suGfycu9KM0 x5qUxi6CWzmb1Y9A7Eci0RdZ4Q Lcul7s U1ZN2yGIxRunKJynNzok4b2VeJ</blockquote>\n<li>Pd0JTXXDYtWNvYFzvB2ThGwSN 9SEkVPWJbcQ1zwlnD IdWgbDAkU4uk1RsDIR TS9UOPOT8u0tA8Rip QruRkVaWXqW4i6fHKS7O</li>\n<aside>LkXJSTyW</aside>\n<em>yoXpnniVWBQm6Hwh1Q2gbTNKCaMB</em>\n<li>r9o8j7WTDfO0FmyhleIyYK 0jfxSEetm54QoHG6H23NkPrne gYirWvMJLgRqPX9U1RjS9WkyFr iuZxzQguBAyP4Tw EfYJ2z7N45cl8xWTD5M7U9GIPX59L</li>\n</div>\n</body>\n</html>",
+    "location": "/",
+    "status": 200,
+    "robots": null,
+    "components_hash": -892850553,
+    "server": "Linux/2.6.12.6-arm1-040, UPnP/1.0, Portable SDK for UPnP devices/1.6.5.2",
+    "headers": {
+      "content-length": "1967",
+      "x-powered-by": "Next.js",
+      "set-cookie": "csrftoken=QoqdtMyKybg7pT59enWR",
+      "server": "Linux/2.6.12.6-arm1-040, UPnP/1.0, Portable SDK for UPnP devices/1.6.5.2",
+      "last-modified": "Fri, 31 May 2024 18:49:15 GMT",
+      "date": "Thu, 30 Jul 2026 22:37:29 GMT",
+      "content-type": "text/html"
+    },
+    "sitemap": null
+  },
+  "port": 42443,
+  "transport": "tcp",
+  "cpe23_hash": 286908511,
+  "cloud": {
+    "region": "ca-west-1",
+    "service": "EC2",
+    "provider": "Amazon"
+  },
+  "location": {
+    "country_code": "CA",
+    "country_name": "Canada"
+  },
+  "tags": [
+    "cloud"
+  ],
+  "timestamp": "2026-07-30T22:37:29.382370",
+  "org": "Amazon Data Services Canada",
+  "data": "HTTP/1.1 200 OK\r\nDate: Thu, 30 Jul 2026 22:37:29 GMT\r\nServer: Linux/2.6.12.6-arm1-040, UPnP/1.0, Portable SDK for UPnP devices/1.6.5.2\r\nLast-Modified: Fri, 31 May 2024 18:49:15 GMT\r\nX-Powered-By: Next.js\r\nContent-Length: 1967\r\nContent-Type: text/html\r\nSet-Cookie: csrftoken=QoqdtMyKybg7pT59enWR\r\n\r\n",
+  "asn": "AS16509",
+  "cpe23": [
+    "cpe:2.3:a:facebook:react",
+    "cpe:2.3:a:vercel:next.js"
+  ],
+  "isp": "Amazon.com, Inc.",
+  "cpe": [
+    "cpe:/a:facebook:react",
+    "cpe:/a:vercel:next.js"
+  ],
+  "os": null,
+  "_shodan": {
+    "region": "eu",
+    "module": "auto"
+  },
+  "opts": {},
+  "_artifact": {
+    "host_id": "7eb4d2f85c23a49c9e78825f36a0f30a",
+    "ip_id": "57b1e64677ef4fbe254346414e43b51e",
+    "port": 42443,
+    "framework": "next",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 1967,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 25
+    }
+  }
+}

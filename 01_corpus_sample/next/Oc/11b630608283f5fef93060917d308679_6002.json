@@ -1,0 +1,72 @@
+{
+  "asn": "AS24940",
+  "http": {
+    "status": 200,
+    "redirects": [
+      {
+        "data": "HTTP/1.1 307 Temporary Redirect\r\nlocation: /forms\r\nDate: Fri, 31 Jul 2026 20:11:56 GMT\r\nConnection: keep-alive\r\nKeep-Alive: timeout=5\r\nTransfer-Encoding: chunked\r\n\r\n",
+        "location": "/"
+      }
+    ],
+    "securitytxt": null,
+    "title": "Digital Onboarding Admin",
+    "robots": null,
+    "components_hash": -892850553,
+    "html": "<!DOCTYPE html><!--jp9DgzBHDY8bsKmkwZdLV--><html lang=\"en\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"preload\" href=\"/_next/static/media/797e433ab948586e-s.p.29207c2f.woff2\" as=\"font\" crossorigin=\"\" type=\"font/woff2\"/><link rel=\"preload\" href=\"/_next/static/media/caa3a2e1cccd8315-s.p.3b6cae6d.woff2\" as=\"font\" crossorigin=\"\" type=\"font/woff2\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/8840d24b381fdd33.css\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/17a41fc63e8c9548.css\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/5bcee453cc4bce6d.js\"/><script src=\"/_next/static/chunks/652cd53c27924d50.js\" async=\"\"></script><script src=\"/_next/static/chunks/f2f58a7e93290fbb.js\" async=\"\"></script><script src=\"/_next/static/chunks/8c851fa0ae072121.js\" async=\"\"></script><script src=\"/_next/static/chunks/turbopack-60dc8e5a0172a210.js\" async=\"\"></script><script src=\"/_next/static/chunks/ff1a16fafef87110.js\" async=\"\"></script><script src=\"/_next/static/chunks/202b956bc838ef27.js\" async=\"\"></script><script src=\"/_next/static/chunks/a86f17c4e10019a9.js\" async=\"\"></script><script src=\"/_next/static/chunks/39a08e8124f3e1d7.js\" async=\"\"></script><script src=\"/_next/static/chunks/aebfb45b4fb0a228.js\" async=\"\"></script><meta name=\"next-size-adjust\" content=\"\"/><meta name=\"theme-color\" content=\"#1a4d3e\"/><title>Digital Onboarding Admin</title><meta name=\"description\" content=\"Digital account opening administration portal\"/><meta name=\"generator\" content=\"v0.app\"/><script src=\"/_next/static/chunks/a6dad97d9634a72d.js\" noModule=\"\"></script></head><body class=\"geist_dd5f33c6-module__WggDGG__variable geist_mono_d6617093-module__z61v7q__variable font-sans antialiased\"><div hidden=\"\"><!--$--><!--/$--></div><div class=\"min-h-screen bg-muted/20 p-4 md:p-8\"><div class=\"max-w-4xl mx-auto space-y-4\"><div><h1 class=\"text-2xl font-bold\">Published Forms</h1><p class=\"text-sm text-muted-foreground\">All portals<!-- --> </p></div><div data-slot=\"card\" class=\"bg-card text-card-foreground flex flex-col gap-6 rounded-xl border py-6 shadow-sm\"><div data-slot=\"card-content\" class=\"px-6 py-8 text-muted-foreground\">Loading forms...</div></div></div></div><!--$--><!--/$--><section aria-label=\"Notifications alt+T\" tabindex=\"-1\" aria-live=\"polite\" aria-relevant=\"additions text\" aria-atomic=\"false\"></section><!--$!--><template data-dgst=\"BAILOUT_TO_CLIENT_SIDE_RENDERING\"></template><!--/$--><script src=\"/_next/static/chunks/5bcee453cc4bce6d.js\" id=\"_R_\" async=\"\"></script><script>(self.__next_f=self.__next_f||[]).push([0])</script><script>self.__next_f.push([1,\"1:\\\"$Sreact.fragment\\\"\\n2:I[39756,[\\\"/_next/static/chunks/ff1a16fafef87110.js\\\",\\\"/_next/static/chunks/202b956bc838ef27.js\\\"],\\\"default\\\"]\\n3:I[37457,[\\\"/_next/static/chunks/ff1a16fafef87110.js\\\",\\\"/_next/static/chunks/202b956bc838ef27.js\\\"],\\\"default\\\"]\\n4:I[18247,[\\\"/_next/static/chunks/a86f17c4e10019a9.js\\\"],\\\"DynamicBrandingEffects\\\"]\\n5:I[3484,[\\\"/_next/static/chunks/a86f17c4e10019a9.js\\\"],\\\"Toaster\\\"]\\n6:I[2355,[\\\"/_next/static/chunks/a86f17c4e10019a9.js\\\"],\\\"Analytics\\\"]\\n7:I[47257,[\\\"/_next/static/chunks/ff1a16fafef87110.js\\\",\\\"/_next/static/chunks/202b956bc838ef27.js\\\"],\\\"ClientPageRoot\\\"]\\n8:I[69116,[\\\"/_next/static/chunks/a86f17c4e10019a9.js\\\",\\\"/_next/static/chunks/39a08e8124f3e1d7.js\\\",\\\"/_next/static/chunks/aebfb45b4fb0a228.js\\\"],\\\"default\\\"]\\nb:I[97367,[\\\"/_next/static/chunks/ff1a16fafef87110.js\\\",\\\"/_next/static/chunks/202b956bc838ef27.js\\\"],\\\"OutletBoundary\\\"]\\nc:\\\"$Sreact.suspense\\\"\\ne:I[97367,[\\\"/_next/static/chunks/ff1a16fafef87110.js\\\",\\\"/_next/static/chunks/202b956bc838ef27.js\\\"],\\\"ViewportBoundary\\\"]\\n10:I[97367,[\\\"/_next/static/chunks/ff1a16fafef87110.js\\\",\\\"/_next/static/chunks/202b956bc838ef27.js\\\"],\\\"MetadataBoundary\\\"]\\n12:I[68027,[\\\"/_next/static/chunks/ff1a16fafef87110.js\\\",\\\"/_next/static/chunks/202b956bc838ef27.js\\\"],\\\"default\\\"]\\n:HL[\\\"/_next/static/chunks/8840d24b381fdd33.css\\\",\\\"style\\\"]\\n:HL[\\\"/_next/static/chunks/17a41fc63e8c9548.css\\\",\\\"style\\\"]\\n:HL[\\\"/_next/static/media/797e433ab948586e-s.p.29207c2f.woff2\\\",\\\"font\\\",{\\\"crossOrigin\\\":\\\"\\\",\\\"type\\\":\\\"font/woff2\\\"}]\\n:HL[\\\"/_next/static/media/caa3a2e1cccd8315-s.p.3b6cae6d.woff2\\\",\\\"font\\\",{\\\"crossOrigin\\\":\\\"\\\",\\\"type\\\":\\\"font/woff2\\\"}]\\n\"])</script><script>self.__next_f.push([1,\"0:{\\\"P\\\":null,\\\"b\\\":\\\"jp9DgzBHDY8bsKmkwZdLV\\\",\\\"c\\\":[\\\"\\\",\\\"forms\\\"],\\\"q\\\":\\\"\\\",\\\"i\\\":false,\\\"f\\\":[[[\\\"\\\",{\\\"children\\\":[\\\"forms\\\",{\\\"children\\\":[\\\"__PAGE__\\\",{}]}]},\\\"$undefined\\\",\\\"$undefined\\\",true],[[\\\"$\\\",\\\"$1\\\",\\\"c\\\",{\\\"children\\\":[[[\\\"$\\\",\\\"link\\\",\\\"0\\\",{\\\"rel\\\":\\\"stylesheet\\\",\\\"href\\\":\\\"/_next/static/chunks/8840d24b381fdd33.css\\\",\\\"precedence\\\":\\\"next\\\",\\\"crossOrigin\\\":\\\"$undefined\\\",\\\"nonce\\\":\\\"$undefined\\\"}],[\\\"$\\\",\\\"link\\\",\\\"1\\\",{\\\"rel\\\":\\\"stylesheet\\\",\\\"href\\\":\\\"/_next/static/chunks/17a41fc63e8c9548.css\\\",\\\"precedence\\\":\\\"next\\\",\\\"crossOrigin\\\":\\\"$undefined\\\",\\\"nonce\\\":\\\"$undefined\\\"}],[\\\"$\\\",\\\"script\\\",\\\"script-0\\\",{\\\"src\\\":\\\"/_next/static/chunks/a86f17c4e10019a9.js\\\",\\\"async\\\":true,\\\"nonce\\\":\\\"$undefined\\\"}]],[\\\"$\\\",\\\"html\\\",null,{\\\"lang\\\":\\\"en\\\",\\\"children\\\":[\\\"$\\\",\\\"body\\\",null,{\\\"className\\\":\\\"geist_dd5f33c6-module__WggDGG__variable geist_mono_d6617093-module__z61v7q__variable font-sans antialiased\\\",\\\"children\\\":[[\\\"$\\\",\\\"$L2\\\",null,{\\\"parallelRouterKey\\\":\\\"children\\\",\\\"error\\\":\\\"$undefined\\\",\\\"errorStyles\\\":\\\"$undefined\\\",\\\"errorScripts\\\":\\\"$undefined\\\",\\\"template\\\":[\\\"$\\\",\\\"$L3\\\",null,{}],\\\"templateStyles\\\":\\\"$undefined\\\",\\\"templateScripts\\\":\\\"$undefined\\\",\\\"notFound\\\":[[[\\\"$\\\",\\\"title\\\",null,{\\\"children\\\":\\\"404: This page could not be found.\\\"}],[\\\"$\\\",\\\"div\\\",null,{\\\"style\\\":{\\\"fontFamily\\\":\\\"system-ui,\\\\\\\"Segoe UI\\\\\\\",Roboto,Helvetica,Arial,sans-serif,\\\\\\\"Apple Color Emoji\\\\\\\",\\\\\\\"Segoe UI Emoji\\\\\\\"\\\",\\\"height\\\":\\\"100vh\\\",\\\"textAlign\\\":\\\"center\\\",\\\"display\\\":\\\"flex\\\",\\\"flexDirection\\\":\\\"column\\\",\\\"alignItems\\\":\\\"center\\\",\\\"justifyContent\\\":\\\"center\\\"},\\\"children\\\":[\\\"$\\\",\\\"div\\\",null,{\\\"children\\\":[[\\\"$\\\",\\\"style\\\",null,{\\\"dangerouslySetInnerHTML\\\":{\\\"__html\\\":\\\"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}\\\"}}],[\\\"$\\\",\\\"h1\\\",null,{\\\"className\\\":\\\"next-error-h1\\\",\\\"style\\\":{\\\"display\\\":\\\"inline-block\\\",\\\"margin\\\":\\\"0 20px 0 0\\\",\\\"padding\\\":\\\"0 23px 0 0\\\",\\\"fontSize\\\":24,\\\"fontWeight\\\":500,\\\"verticalAlign\\\":\\\"top\\\",\\\"lineHeight\\\":\\\"49px\\\"},\\\"children\\\":404}],[\\\"$\\\",\\\"div\\\",null,{\\\"style\\\":{\\\"display\\\":\\\"inline-block\\\"},\\\"children\\\":[\\\"$\\\",\\\"h2\\\",null,{\\\"style\\\":{\\\"fontSize\\\":14,\\\"fontWeight\\\":400,\\\"lineHeight\\\":\\\"49px\\\",\\\"margin\\\":0},\\\"children\\\":\\\"This page could not be found.\\\"}]}]]}]}]],[]],\\\"forbidden\\\":\\\"$undefined\\\",\\\"unauthorized\\\":\\\"$undefined\\\"}],[\\\"$\\\",\\\"$L4\\\",null,{}],[\\\"$\\\",\\\"$L5\\\",null,{}],[\\\"$\\\",\\\"$L6\\\",null,{}]]}]}]]}],{\\\"children\\\":[[\\\"$\\\",\\\"$1\\\",\\\"c\\\",{\\\"children\\\":[null,[\\\"$\\\",\\\"$L2\\\",null,{\\\"parallelRouterKey\\\":\\\"children\\\",\\\"error\\\":\\\"$undefined\\\",\\\"errorStyles\\\":\\\"$undefined\\\",\\\"errorScripts\\\":\\\"$undefined\\\",\\\"template\\\":[\\\"$\\\",\\\"$L3\\\",null,{}],\\\"templateStyles\\\":\\\"$undefined\\\",\\\"templateScripts\\\":\\\"$undefined\\\",\\\"notFound\\\":\\\"$undefined\\\",\\\"forbidden\\\":\\\"$undefined\\\",\\\"unauthorized\\\":\\\"$undefined\\\"}]]}],{\\\"children\\\":[[\\\"$\\\",\\\"$1\\\",\\\"c\\\",{\\\"children\\\":[[\\\"$\\\",\\\"$L7\\\",null,{\\\"Component\\\":\\\"$8\\\",\\\"serverProvidedParams\\\":{\\\"searchParams\\\":{},\\\"params\\\":{},\\\"promises\\\":[\\\"$@9\\\",\\\"$@a\\\"]}}],[[\\\"$\\\",\\\"script\\\",\\\"script-0\\\",{\\\"src\\\":\\\"/_next/static/chunks/39a08e8124f3e1d7.js\\\",\\\"async\\\":true,\\\"nonce\\\":\\\"$undefined\\\"}],[\\\"$\\\",\\\"script\\\",\\\"script-1\\\",{\\\"src\\\":\\\"/_next/static/chunks/aebfb45b4fb0a228.js\\\",\\\"async\\\":true,\\\"nonce\\\":\\\"$undefined\\\"}]],[\\\"$\\\",\\\"$Lb\\\",null,{\\\"children\\\":[\\\"$\\\",\\\"$c\\\",null,{\\\"name\\\":\\\"Next.MetadataOutlet\\\",\\\"children\\\":\\\"$@d\\\"}]}]]}],{},null,false,false]},null,false,false]},null,false,false],[\\\"$\\\",\\\"$1\\\",\\\"h\\\",{\\\"children\\\":[null,[\\\"$\\\",\\\"$Le\\\",null,{\\\"children\\\":\\\"$Lf\\\"}],[\\\"$\\\",\\\"div\\\",null,{\\\"hidden\\\":true,\\\"children\\\":[\\\"$\\\",\\\"$L10\\\",null,{\\\"children\\\":[\\\"$\\\",\\\"$c\\\",null,{\\\"name\\\":\\\"Next.Metadata\\\",\\\"children\\\":\\\"$L11\\\"}]}]}],[\\\"$\\\",\\\"meta\\\",null,{\\\"name\\\":\\\"next-size-adjust\\\",\\\"content\\\":\\\"\\\"}]]}],false]],\\\"m\\\":\\\"$undefined\\\",\\\"G\\\":[\\\"$12\\\",[]],\\\"S\\\":true}\\n\"])</script><script>self.__next_f.push([1,\"9:{}\\na:\\\"$0:f:0:1:1:children:1:children:0:props:children:0:props:serverProvidedParams:params\\\"\\n\"])</script><script>self.__next_f.push([1,\"f:[[\\\"$\\\",\\\"meta\\\",\\\"0\\\",{\\\"charSet\\\":\\\"utf-8\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"1\\\",{\\\"name\\\":\\\"viewport\\\",\\\"content\\\":\\\"width=device-width, initial-scale=1\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"2\\\",{\\\"name\\\":\\\"theme-color\\\",\\\"content\\\":\\\"#1a4d3e\\\"}]]\\n\"])</script><script>self.__next_f.push([1,\"d:null\\n11:[[\\\"$\\\",\\\"title\\\",\\\"0\\\",{\\\"children\\\":\\\"Digital Onboarding Admin\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"1\\\",{\\\"name\\\":\\\"description\\\",\\\"content\\\":\\\"Digital account opening administration portal\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"2\\\",{\\\"name\\\":\\\"generator\\\",\\\"content\\\":\\\"v0.app\\\"}]]\\n\"])</script></body></html>",
+    "location": "/forms",
+    "headers": {
+      "x-nextjs-cache": "HIT",
+      "content-length": "9114",
+      "x-powered-by": "Next.js",
+      "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding",
+      "keep-alive": "timeout=5",
+      "x-nextjs-stale-time": "300",
+      "connection": "keep-alive",
+      "etag": "\"tsoajm541y716\"",
+      "cache-control": "s-maxage=31536000",
+      "date": "Fri, 31 Jul 2026 20:11:56 GMT",
+      "x-nextjs-prerender": "1, 1",
+      "content-type": "text/html; charset=utf-8"
+    },
+    "server": null,
+    "sitemap": null
+  },
+  "os": null,
+  "transport": "tcp",
+  "timestamp": "2026-07-31T20:11:56.849225",
+  "isp": "Hetzner Online GmbH",
+  "cpe23": [
+    "cpe:2.3:a:facebook:react",
+    "cpe:2.3:a:vercel:next.js"
+  ],
+  "cpe": [
+    "cpe:/a:facebook:react",
+    "cpe:/a:vercel:next.js"
+  ],
+  "_shodan": {
+    "region": "eu",
+    "module": "auto"
+  },
+  "cpe23_hash": 286908511,
+  "location": {
+    "country_code": "FI",
+    "country_name": "Finland"
+  },
+  "org": "Hetzner Online GmbH",
+  "data": "HTTP/1.1 200 OK\r\nVary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding\r\nx-nextjs-cache: HIT\r\nx-nextjs-prerender: 1\r\nx-nextjs-prerender: 1\r\nx-nextjs-stale-time: 300\r\nX-Powered-By: Next.js\r\nCache-Control: s-maxage=31536000\r\nETag: \"tsoajm541y716\"\r\nContent-Type: text/html; charset=utf-8\r\nContent-Length: 9114\r\nDate: Fri, 31 Jul 2026 20:11:56 GMT\r\nConnection: keep-alive\r\nKeep-Alive: timeout=5\r\n\r\n",
+  "port": 6002,
+  "opts": {},
+  "_artifact": {
+    "host_id": "11b630608283f5fef93060917d308679",
+    "ip_id": "9e9fd5ce3a8133564857223864cbea8b",
+    "port": 6002,
+    "framework": "next",
+    "tier": "Oc",
+    "tier_label": "Objective generator-fingerprint",
+    "html_chars_original": 9114,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 25
+    }
+  }
+}

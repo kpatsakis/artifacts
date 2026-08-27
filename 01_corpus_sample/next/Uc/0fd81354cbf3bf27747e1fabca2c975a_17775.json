@@ -1,0 +1,72 @@
+{
+  "http": {
+    "status": 200,
+    "redirects": [],
+    "securitytxt": null,
+    "title": null,
+    "robots": null,
+    "components_hash": -1708940428,
+    "html": "<!DOCTYPE html>\n<html>\n<head>\n    <meta name=\"generator\" content=\"Waku\"/>\n    <link rel=\"icon\" href=\"/favicon.png\">\n</head>\n<body>\n    <div id=\"root\"></div>\n    <script src=\"/react-router-dom.js\"></script>\n</body>\n</html>\n",
+    "location": "/",
+    "headers": {
+      "content-length": "222",
+      "x-powered-by": "Next.js",
+      "vary": "RSC",
+      "server": "Apache Coyote/1.0",
+      "last-modified": "Mon, 30 Dec 2019 21:16:17 GMT",
+      "date": "Thu, 06 Aug 2026 23:02:59 GMT",
+      "content-type": "text/x-component"
+    },
+    "server": "Apache Coyote/1.0",
+    "sitemap": null
+  },
+  "port": 17775,
+  "transport": "tcp",
+  "cpe23_hash": -605875875,
+  "cloud": {
+    "region": "eu-west-3",
+    "service": "EC2",
+    "provider": "Amazon"
+  },
+  "location": {
+    "country_code": "FR",
+    "country_name": "France"
+  },
+  "tags": [
+    "cloud"
+  ],
+  "timestamp": "2026-08-06T23:02:59.897950",
+  "org": "Amazon Data Services France",
+  "data": "HTTP/1.1 200 OK\r\nDate: Thu, 06 Aug 2026 23:02:59 GMT\r\nServer: Apache Coyote/1.0\r\nLast-Modified: Mon, 30 Dec 2019 21:16:17 GMT\r\nX-Powered-By: Next.js\r\nContent-Type: text/x-component\r\nVary: RSC\r\nContent-Length: 222\r\n\r\n",
+  "asn": "AS16509",
+  "cpe23": [
+    "cpe:2.3:a:apache:http_server",
+    "cpe:2.3:a:facebook:react",
+    "cpe:2.3:a:vercel:next.js"
+  ],
+  "isp": "Amazon.com, Inc.",
+  "cpe": [
+    "cpe:/a:apache:http_server",
+    "cpe:/a:facebook:react",
+    "cpe:/a:vercel:next.js"
+  ],
+  "os": null,
+  "_shodan": {
+    "region": "na",
+    "module": "auto"
+  },
+  "opts": {},
+  "_artifact": {
+    "host_id": "0fd81354cbf3bf27747e1fabca2c975a",
+    "ip_id": "631306ff5112bb039fdf87ea233b737f",
+    "port": 17775,
+    "framework": "next",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 222,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 24
+    }
+  }
+}

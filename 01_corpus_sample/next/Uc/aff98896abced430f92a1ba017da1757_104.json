@@ -1,0 +1,70 @@
+{
+  "http": {
+    "status": 200,
+    "redirects": [],
+    "securitytxt": null,
+    "title": null,
+    "robots": null,
+    "components_hash": -892850553,
+    "html": "<!DOCTYPE html>\n<html>\n<head>\n    <meta name=\"generator\" content=\"Waku\"/>\n    <link rel=\"icon\" href=\"/favicon.png\">\n</head>\n<body>\n    <div id=\"root\"></div>\n    <script src=\"/react-router-dom.js\"></script>\n</body>\n</html>\n",
+    "location": "/",
+    "headers": {
+      "content-length": "222",
+      "x-powered-by": "Next.js",
+      "vary": "RSC",
+      "server": "ZyXEL-RomPager/4.34",
+      "last-modified": "Thu, 03 Oct 2024 23:24:40 GMT",
+      "date": "Fri, 07 Aug 2026 14:47:19 GMT",
+      "content-type": "text/x-component"
+    },
+    "server": "ZyXEL-RomPager/4.34",
+    "sitemap": null
+  },
+  "port": 104,
+  "transport": "tcp",
+  "cpe23_hash": 286908511,
+  "cloud": {
+    "region": "ca-west-1",
+    "service": "EC2",
+    "provider": "Amazon"
+  },
+  "location": {
+    "country_code": "CA",
+    "country_name": "Canada"
+  },
+  "tags": [
+    "cloud"
+  ],
+  "timestamp": "2026-08-07T14:47:19.759032",
+  "org": "Amazon Data Services Canada",
+  "data": "HTTP/1.1 200 OK\r\nDate: Fri, 07 Aug 2026 14:47:19 GMT\r\nServer: ZyXEL-RomPager/4.34\r\nLast-Modified: Thu, 03 Oct 2024 23:24:40 GMT\r\nX-Powered-By: Next.js\r\nContent-Type: text/x-component\r\nVary: RSC\r\nContent-Length: 222\r\n\r\n",
+  "asn": "AS16509",
+  "cpe23": [
+    "cpe:2.3:a:facebook:react",
+    "cpe:2.3:a:vercel:next.js"
+  ],
+  "isp": "Amazon.com, Inc.",
+  "cpe": [
+    "cpe:/a:facebook:react",
+    "cpe:/a:vercel:next.js"
+  ],
+  "os": null,
+  "_shodan": {
+    "region": "na",
+    "module": "auto"
+  },
+  "opts": {},
+  "_artifact": {
+    "host_id": "aff98896abced430f92a1ba017da1757",
+    "ip_id": "3dc1ca8b76716b1736129d51419fffb0",
+    "port": 104,
+    "framework": "next",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 222,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 24
+    }
+  }
+}

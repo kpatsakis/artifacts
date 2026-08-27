@@ -1,0 +1,60 @@
+{
+  "asn": "AS16509",
+  "http": {
+    "status": 200,
+    "redirects": [],
+    "securitytxt": null,
+    "title": null,
+    "robots": null,
+    "server": "6.0.6000 2/, UPnP/1.0, TVersity Media Server",
+    "headers": {
+      "content-length": "222",
+      "x-powered-by": "Next.js",
+      "vary": "RSC",
+      "server": "6.0.6000 2/, UPnP/1.0, TVersity Media Server",
+      "last-modified": "Tue, 30 Jun 2020 13:15:38 GMT",
+      "date": "Thu, 23 Jul 2026 13:24:09 GMT",
+      "content-type": "text/x-component"
+    },
+    "html": "<!DOCTYPE html>\n<html>\n<head>\n    <meta name=\"generator\" content=\"Waku\"/>\n    <link rel=\"icon\" href=\"/favicon.png\">\n</head>\n<body>\n    <div id=\"root\"></div>\n    <script src=\"/react-router-dom.js\"></script>\n</body>\n</html>\n",
+    "location": "/",
+    "sitemap": null
+  },
+  "os": null,
+  "tags": [
+    "cloud"
+  ],
+  "timestamp": "2026-07-23T13:24:09.468638",
+  "isp": "Amazon.com, Inc.",
+  "transport": "tcp",
+  "_shodan": {
+    "region": "eu",
+    "module": "http-simple-new"
+  },
+  "cloud": {
+    "region": "eu-west-2",
+    "service": "EC2",
+    "provider": "Amazon"
+  },
+  "location": {
+    "country_code": "GB",
+    "country_name": "United Kingdom"
+  },
+  "org": "Amazon Data Services UK",
+  "data": "HTTP/1.1 200 OK\r\nDate: Thu, 23 Jul 2026 13:24:09 GMT\r\nServer: 6.0.6000 2/, UPnP/1.0, TVersity Media Server\r\nLast-Modified: Tue, 30 Jun 2020 13:15:38 GMT\r\nX-Powered-By: Next.js\r\nContent-Type: text/x-component\r\nVary: RSC\r\nContent-Length: 222\r\n\r\n",
+  "port": 52311,
+  "opts": {},
+  "_artifact": {
+    "host_id": "4771f3fe78b5fa8512d7815b79541633",
+    "ip_id": "8748fc2ef66fe91471cd29efefb701bc",
+    "port": 52311,
+    "framework": "next",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 222,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 19
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "http": {
+    "status": 200,
+    "redirects": [],
+    "securitytxt": null,
+    "title": "Oreate Image Gateway",
+    "robots": null,
+    "server": null,
+    "headers": {
+      "x-nextjs-cache": "HIT",
+      "content-length": "7192",
+      "x-powered-by": "Next.js",
+      "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding",
+      "keep-alive": "timeout=5",
+      "x-nextjs-stale-time": "300",
+      "connection": "keep-alive",
+      "etag": "\"t74myyyrn05js\"",
+      "cache-control": "s-maxage=31536000",
+      "date": "Sat, 25 Jul 2026 09:46:37 GMT",
+      "x-nextjs-prerender": "1, 1",
+      "content-type": "text/html; charset=utf-8"
+    },
+    "html": "<!DOCTYPE html><!--MBcMA92ymmporeYILrwSN--><html lang=\"zh-CN\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"stylesheet\" href=\"/_next/static/css/cd92ab54fbb1cbf1.css\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/webpack-b1f4e234a4f6318a.js\"/><script src=\"/_next/static/chunks/4bd1b696-c023c6e3521b1417.js\" async=\"\"></script><script src=\"/_next/static/chunks/255-3981a3d1f3561bd8.js\" async=\"\"></script><script src=\"/_next/static/chunks/main-app-2ecc3bf42ae2d122.js\" async=\"\"></script><script src=\"/_next/static/chunks/762-3de175ac22169e47.js\" async=\"\"></script><script src=\"/_next/static/chunks/app/page-9210a0dc7b82d0f4.js\" async=\"\"></script><title>Oreate Image Gateway</title><meta name=\"description\" content=\"OpenAI-compatible Oreate image gateway console\"/><script src=\"/_next/static/chunks/polyfills-42372ed130431b0a.js\" noModule=\"\"></script></head><body><div hidden=\"\"><!--$--><!--/$--></div><main class=\"min-h-screen bg-background p-6\"><div class=\"mx-auto flex max-w-xl flex-col gap-6\"><div class=\"rounded-xl border bg-card text-card-foreground shadow\"><div class=\"flex flex-col gap-1.5 p-6\"><h3 class=\"font-semibold leading-none tracking-tight flex items-center gap-2\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-lock\" data-icon=\"inline-start\"><rect width=\"18\" height=\"11\" x=\"3\" y=\"11\" rx=\"2\" ry=\"2\"></rect><path d=\"M7 11V7a5 5 0 0 1 10 0v4\"></path></svg>Unlock Console</h3><p class=\"text-sm text-muted-foreground\">Enter DASHBOARD_TOKEN. It is kept in sessionStorage for this browser session.</p></div><div class=\"p-6 pt-0\"><form><div class=\"flex flex-col gap-4\"><div class=\"flex flex-col gap-2 data-[disabled=true]:opacity-50 data-[invalid=true]:text-destructive\"><label class=\"text-sm font-medium leading-none\" for=\"unlock-token\">Dashboard Token</label><input type=\"password\" class=\"flex h-9 w-full rounded-md border border-input bg-transparent px-3 py-1 text-sm shadow-sm transition-colors file:border-0 file:bg-transparent file:text-sm file:font-medium file:text-foreground placeholder:text-muted-foreground focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:cursor-not-allowed disabled:opacity-50\" id=\"unlock-token\" autoComplete=\"off\" value=\"\"/></div><div class=\"flex flex-col gap-2 data-[disabled=true]:opacity-50 data-[invalid=true]:text-destructive\"><button class=\"inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg]:size-4 [&amp;_svg]:shrink-0 bg-primary text-primary-foreground shadow hover:bg-primary/90 h-9 px-4 py-2\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-lock\" data-icon=\"inline-start\"><rect width=\"18\" height=\"11\" x=\"3\" y=\"11\" rx=\"2\" ry=\"2\"></rect><path d=\"M7 11V7a5 5 0 0 1 10 0v4\"></path></svg>Unlock</button></div></div></form></div></div></div></main><!--$--><!--/$--><script src=\"/_next/static/chunks/webpack-b1f4e234a4f6318a.js\" id=\"_R_\" async=\"\"></script><script>(self.__next_f=self.__next_f||[]).push([0])</script><script>self.__next_f.push([1,\"1:\\\"$Sreact.fragment\\\"\\n2:I[9766,[],\\\"\\\"]\\n3:I[8924,[],\\\"\\\"]\\n4:I[818,[\\\"762\\\",\\\"static/chunks/762-3de175ac22169e47.js\\\",\\\"974\\\",\\\"static/chunks/app/page-9210a0dc7b82d0f4.js\\\"],\\\"GatewayConsole\\\"]\\n5:I[4431,[],\\\"OutletBoundary\\\"]\\n7:I[5278,[],\\\"AsyncMetadataOutlet\\\"]\\n9:I[4431,[],\\\"ViewportBoundary\\\"]\\nb:I[4431,[],\\\"MetadataBoundary\\\"]\\nc:\\\"$Sreact.suspense\\\"\\ne:I[7150,[],\\\"\\\"]\\n:HL[\\\"/_next/static/css/cd92ab54fbb1cbf1.css\\\",\\\"style\\\"]\\n\"])</script><script>self.__next_f.push([1,\"0:{\\\"P\\\":null,\\\"b\\\":\\\"MBcMA92ymmporeYILrwSN\\\",\\\"p\\\":\\\"\\\",\\\"c\\\":[\\\"\\\",\\\"\\\"],\\\"i\\\":false,\\\"f\\\":[[[\\\"\\\",{\\\"children\\\":[\\\"__PAGE__\\\",{}]},\\\"$undefined\\\",\\\"$undefined\\\",true],[\\\"\\\",[\\\"$\\\",\\\"$1\\\",\\\"c\\\",{\\\"children\\\":[[[\\\"$\\\",\\\"link\\\",\\\"0\\\",{\\\"rel\\\":\\\"stylesheet\\\",\\\"href\\\":\\\"/_next/static/css/cd92ab54fbb1cbf1.css\\\",\\\"precedence\\\":\\\"next\\\",\\\"crossOrigin\\\":\\\"$undefined\\\",\\\"nonce\\\":\\\"$undefined\\\"}]],[\\\"$\\\",\\\"html\\\",null,{\\\"lang\\\":\\\"zh-CN\\\",\\\"children\\\":[\\\"$\\\",\\\"body\\\",null,{\\\"children\\\":[\\\"$\\\",\\\"$L2\\\",null,{\\\"parallelRouterKey\\\":\\\"children\\\",\\\"error\\\":\\\"$undefined\\\",\\\"errorStyles\\\":\\\"$undefined\\\",\\\"errorScripts\\\":\\\"$undefined\\\",\\\"template\\\":[\\\"$\\\",\\\"$L3\\\",null,{}],\\\"templateStyles\\\":\\\"$undefined\\\",\\\"templateScripts\\\":\\\"$undefined\\\",\\\"notFound\\\":[[[\\\"$\\\",\\\"title\\\",null,{\\\"children\\\":\\\"404: This page could not be found.\\\"}],[\\\"$\\\",\\\"div\\\",null,{\\\"style\\\":{\\\"fontFamily\\\":\\\"system-ui,\\\\\\\"Segoe UI\\\\\\\",Roboto,Helvetica,Arial,sans-serif,\\\\\\\"Apple Color Emoji\\\\\\\",\\\\\\\"Segoe UI Emoji\\\\\\\"\\\",\\\"height\\\":\\\"100vh\\\",\\\"textAlign\\\":\\\"center\\\",\\\"display\\\":\\\"flex\\\",\\\"flexDirection\\\":\\\"column\\\",\\\"alignItems\\\":\\\"center\\\",\\\"justifyContent\\\":\\\"center\\\"},\\\"children\\\":[\\\"$\\\",\\\"div\\\",null,{\\\"children\\\":[[\\\"$\\\",\\\"style\\\",null,{\\\"dangerouslySetInnerHTML\\\":{\\\"__html\\\":\\\"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}\\\"}}],[\\\"$\\\",\\\"h1\\\",null,{\\\"className\\\":\\\"next-error-h1\\\",\\\"style\\\":{\\\"display\\\":\\\"inline-block\\\",\\\"margin\\\":\\\"0 20px 0 0\\\",\\\"padding\\\":\\\"0 23px 0 0\\\",\\\"fontSize\\\":24,\\\"fontWeight\\\":500,\\\"verticalAlign\\\":\\\"top\\\",\\\"lineHeight\\\":\\\"49px\\\"},\\\"children\\\":404}],[\\\"$\\\",\\\"div\\\",null,{\\\"style\\\":{\\\"display\\\":\\\"inline-block\\\"},\\\"children\\\":[\\\"$\\\",\\\"h2\\\",null,{\\\"style\\\":{\\\"fontSize\\\":14,\\\"fontWeight\\\":400,\\\"lineHeight\\\":\\\"49px\\\",\\\"margin\\\":0},\\\"children\\\":\\\"This page could not be found.\\\"}]}]]}]}]],[]],\\\"forbidden\\\":\\\"$undefined\\\",\\\"unauthorized\\\":\\\"$undefined\\\"}]}]}]]}],{\\\"children\\\":[\\\"__PAGE__\\\",[\\\"$\\\",\\\"$1\\\",\\\"c\\\",{\\\"children\\\":[[\\\"$\\\",\\\"$L4\\\",null,{}],null,[\\\"$\\\",\\\"$L5\\\",null,{\\\"children\\\":[\\\"$L6\\\",[\\\"$\\\",\\\"$L7\\\",null,{\\\"promise\\\":\\\"$@8\\\"}]]}]]}],{},null,false]},null,false],[\\\"$\\\",\\\"$1\\\",\\\"h\\\",{\\\"children\\\":[null,[[\\\"$\\\",\\\"$L9\\\",null,{\\\"children\\\":\\\"$La\\\"}],null],[\\\"$\\\",\\\"$Lb\\\",null,{\\\"children\\\":[\\\"$\\\",\\\"div\\\",null,{\\\"hidden\\\":true,\\\"children\\\":[\\\"$\\\",\\\"$c\\\",null,{\\\"fallback\\\":null,\\\"children\\\":\\\"$Ld\\\"}]}]}]]}],false]],\\\"m\\\":\\\"$undefined\\\",\\\"G\\\":[\\\"$e\\\",[]],\\\"s\\\":false,\\\"S\\\":true}\\n\"])</script><script>self.__next_f.push([1,\"a:[[\\\"$\\\",\\\"meta\\\",\\\"0\\\",{\\\"charSet\\\":\\\"utf-8\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"1\\\",{\\\"name\\\":\\\"viewport\\\",\\\"content\\\":\\\"width=device-width, initial-scale=1\\\"}]]\\n6:null\\n\"])</script><script>self.__next_f.push([1,\"8:{\\\"metadata\\\":[[\\\"$\\\",\\\"title\\\",\\\"0\\\",{\\\"children\\\":\\\"Oreate Image Gateway\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"1\\\",{\\\"name\\\":\\\"description\\\",\\\"content\\\":\\\"OpenAI-compatible Oreate image gateway console\\\"}]],\\\"error\\\":null,\\\"digest\\\":\\\"$undefined\\\"}\\n\"])</script><script>self.__next_f.push([1,\"d:\\\"$8:metadata\\\"\\n\"])</script></body></html>",
+    "location": "/",
+    "sitemap": null
+  },
+  "os": null,
+  "timestamp": "2026-07-25T09:46:38.129539",
+  "isp": null,
+  "transport": "tcp",
+  "_shodan": {
+    "region": "na",
+    "module": "http-simple-new"
+  },
+  "location": {
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  "org": "xTom",
+  "data": "HTTP/1.1 200 OK\r\nVary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding\r\nx-nextjs-cache: HIT\r\nx-nextjs-prerender: 1\r\nx-nextjs-prerender: 1\r\nx-nextjs-stale-time: 300\r\nX-Powered-By: Next.js\r\nCache-Control: s-maxage=31536000\r\nETag: \"t74myyyrn05js\"\r\nContent-Type: text/html; charset=utf-8\r\nContent-Length: 7192\r\nDate: Sat, 25 Jul 2026 09:46:37 GMT\r\nConnection: keep-alive\r\nKeep-Alive: timeout=5\r\n\r\n",
+  "port": 3000,
+  "opts": {},
+  "_artifact": {
+    "host_id": "ed7c2d12ae219dab01f479af22c80bf8",
+    "ip_id": "dd7e5b3962f1290de9e9039197b77141",
+    "port": 3000,
+    "framework": "next",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 7192,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 19
+    }
+  }
+}

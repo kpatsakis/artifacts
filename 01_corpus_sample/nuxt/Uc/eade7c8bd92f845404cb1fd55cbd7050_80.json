@@ -1,0 +1,66 @@
+{
+  "http": {
+    "status": 404,
+    "redirects": [],
+    "securitytxt": null,
+    "title": null,
+    "robots": null,
+    "components_hash": 1295931225,
+    "html": "<!DOCTYPE html><html  data-capo=\"\"><head><meta charset=\"utf-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1, user-scalable=no\">\n<link rel=\"stylesheet\" href=\"/print/_nuxt/entry.Cd9le8uX.css\" crossorigin>\n<link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/print/_nuxt/C-FaZQN5.js\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/print/_nuxt/DzAPGbGW.js\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/print/_nuxt/BZ6GE30R.js\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/print/_nuxt/DaicPn64.js\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/print/_nuxt/CZEGD4nu.js\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/print/_nuxt/BlykjOJd.js\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/print/_nuxt/C2ibTOwg.js\">\n<link rel=\"prefetch\" as=\"style\" crossorigin href=\"/print/_nuxt/index.B0bzs3sZ.css\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/print/_nuxt/BQLEVpb7.js\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/print/_nuxt/BqFb7G16.js\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/print/_nuxt/BCqUwGNn.js\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/print/_nuxt/D8PEtX60.js\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/print/_nuxt/pdf.worker.BgryrOlp.mjs\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/print/_nuxt/CtyY15RQ.js\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/print/_nuxt/ApAOP7SO.js\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/print/_nuxt/7znkS85R.js\">\n<script type=\"module\" src=\"/print/_nuxt/C-FaZQN5.js\" crossorigin></script><script>\"use strict\";(()=>{const t=window,e=document.documentElement,c=[\"dark\",\"light\"],n=getStorageValue(\"localStorage\",\"nuxt-color-mode\")||\"light\";let i=n===\"system\"?u():n;const r=e.getAttribute(\"data-color-mode-forced\");r&&(i=r),l(i),t[\"__NUXT_COLOR_MODE__\"]={preference:n,value:i,getColorScheme:u,addColorScheme:l,removeColorScheme:d};function l(o){const s=\"\"+o+\"\",a=\"\";e.classList?e.classList.add(s):e.className+=\" \"+s,a&&e.setAttribute(\"data-\"+a,o)}function d(o){const s=\"\"+o+\"\",a=\"\";e.classList?e.classList.remove(s):e.className=e.className.replace(new RegExp(s,\"g\"),\"\"),a&&e.removeAttribute(\"data-\"+a)}function f(o){return t.matchMedia(\"(prefers-color-scheme\"+o+\")\")}function u(){if(t.matchMedia&&f(\"\").media!==\"not all\"){for(const o of c)if(f(\":\"+o).matches)return o}return\"light\"}})();function getStorageValue(t,e){switch(t){case\"localStorage\":return window.localStorage.getItem(e);case\"sessionStorage\":return window.sessionStorage.getItem(e);case\"cookie\":return getCookie(e);default:return null}}function getCookie(t){const c=(\"; \"+window.document.cookie).split(\"; \"+t+\"=\");if(c.length===2)return c.pop()?.split(\";\").shift()}</script></head><body><div id=\"__nuxt\"></div><div id=\"teleports\"></div><script type=\"application/json\" data-nuxt-data=\"nuxt-app\" data-ssr=\"false\" id=\"__NUXT_DATA__\">[{\"error\":1,\"serverRendered\":6},[\"null\",\"url\",2,\"statusCode\",3,\"statusMessage\",4,\"message\",4,\"stack\",5],\"/\",404,\"Cannot find any path matching /.\",\"\",false]</script>\n<script>window.__NUXT__={};window.__NUXT__.config={public:{appEnv:\"production\",dropboxClientId:\"aonz7zj0a364qkx\",apiKey:\"Xzyri16XfsdNjMZf5ycX8SAsacpgcvvrTvGTayzEEdZiaHygSjIVUi5ITEzUeDFG\",apiBase:\"https://nsvc.family.com.tw/print/api/frontend/v1/\",fileBaseUrl:\"https://nsvc.family.com.tw/print\",loadingImgPath:\"/api/frontend/v1/file-simple/response/loading\",fmApiBase:\"https://nsvc.family.com.tw/api\",awsBaseUrl:\"https://asuscloudportal01.asuswebstorage.com\",awsSid:\"31319499\",awsProgramKey:\"45FE13A306354EAEB0F43E1C3A9474DD\",gtag:{enabled:true,initMode:\"auto\",id:\"G-1M9413SLC5\",initCommands:[],config:{debug_mode:false},tags:[],loadingStrategy:\"defer\",url:\"https://www.googletagmanager.com/gtag/js\"}},app:{baseURL:\"/print/\",buildId:\"ca433db2-4457-4c41-9e0b-e803482b51ff\",buildAssetsDir:\"/_nuxt/\",cdnURL:\"\"}}</script></body></html>",
+    "location": "/",
+    "headers": {
+      "date": "Fri, 31 Jul 2026 16:33:17 GMT",
+      "content-length": "3868",
+      "content-type": "text/html;charset=utf-8",
+      "connection": "keep-alive",
+      "x-powered-by": "Nuxt"
+    },
+    "server": null,
+    "sitemap": null
+  },
+  "port": 80,
+  "transport": "tcp",
+  "cpe23_hash": 222339076,
+  "cloud": {
+    "region": "ap-northeast-1",
+    "service": "EC2",
+    "provider": "Amazon"
+  },
+  "location": {
+    "country_code": "JP",
+    "country_name": "Japan"
+  },
+  "tags": [
+    "cloud"
+  ],
+  "timestamp": "2026-07-31T16:33:17.888853",
+  "org": "Amazon.com, Inc.",
+  "data": "HTTP/1.1 404 Cannot find any path matching /.\r\nDate: Fri, 31 Jul 2026 16:33:17 GMT\r\nContent-Type: text/html;charset=utf-8\r\nContent-Length: 3868\r\nConnection: keep-alive\r\nx-powered-by: Nuxt\r\n\r\n",
+  "asn": "AS16509",
+  "cpe23": [
+    "cpe:2.3:a:nuxt:nuxt"
+  ],
+  "isp": "Amazon.com, Inc.",
+  "cpe": [
+    "cpe:/a:nuxt:nuxt"
+  ],
+  "os": null,
+  "_shodan": {
+    "region": "na",
+    "module": "http"
+  },
+  "opts": {},
+  "_artifact": {
+    "host_id": "eade7c8bd92f845404cb1fd55cbd7050",
+    "ip_id": "044dbffbd820c397053175fb88937908",
+    "port": 80,
+    "framework": "nuxt",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 3868,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 24
+    }
+  }
+}

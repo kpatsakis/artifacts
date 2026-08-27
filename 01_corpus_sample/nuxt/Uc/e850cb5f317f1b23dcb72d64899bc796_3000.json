@@ -1,0 +1,72 @@
+{
+  "http": {
+    "redirects": [],
+    "securitytxt": null,
+    "title": null,
+    "html": "<!DOCTYPE html><html><head><meta charset=\"utf-8\" name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no\">\n<script src=\"/cdn/js/jquery.slim.min.js\"></script>\n<script src=\"/cdn/js/bootstrap.bundle.min.js\"></script>\n<script src=\"/cdn/js/popper.min.js\"></script>\n<script src=\"/cdn/js/wow.min.js\"></script>\n<script src=\"https://www.gstatic.com/charts/loader.js\"></script>\n<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css\">\n<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css\">\n<link rel=\"stylesheet\" href=\"https://fonts.cdnfonts.com/css/eraser\">\n<link rel=\"stylesheet\" href=\"https://fonts.cdnfonts.com/css/tafelschrift\">\n<link rel=\"stylesheet\" href=\"https://owlcarousel2.github.io/OwlCarousel2/assets/owlcarousel/assets/owl.carousel.min.css\">\n<link rel=\"stylesheet\" href=\"https://owlcarousel2.github.io/OwlCarousel2/assets/owlcarousel/assets/owl.theme.default.min.css\">\n<link rel=\"stylesheet\" href=\"/_nuxt/entry.Bl_93yr-.css\" crossorigin>\n<link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/DE26DImd.js\">\n<script type=\"module\" src=\"/_nuxt/DE26DImd.js\" crossorigin></script>\n<link rel=\"prefetch\" as=\"image\" type=\"image/png\" href=\"/_nuxt/error.DuR8RTpt.png\">\n<link rel=\"prefetch\" as=\"image\" type=\"image/svg+xml\" href=\"/_nuxt/icons.D7_Nf86v.svg\">\n<meta property=\"og:url\" content=\"https://promarty.com\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:image\" content=\"https://promarty.com/og-image.jpg\">\n<meta name=\"twitter:card\" content=\"summary_large_image\">\n<meta property=\"twitter:domain\" content=\"promarty.com\">\n<meta property=\"twitter:url\" content=\"https://promarty.com\">\n<meta name=\"twitter:image\" content=\"https://promarty.com/og-image.jpg\">\n<link rel=\"icon\" type=\"image/x-icon\" href=\"/favicon.ico\"></head><body><div id=\"__nuxt\"></div><div id=\"teleports\"></div><script>window.__NUXT_SITE_CONFIG__={env:\"production\",name:\"promarty\",url:\"http:\\u002F\\u002F[ip-redacted]\\u002F\"}</script><script>window.__NUXT__={};window.__NUXT__.config={public:{apiBase:\"https://seller.promarty.com/\",auth_token_key:\"pm_frontend_auth\",i18n:{baseUrl:\"\",defaultLocale:\"\",defaultDirection:\"ltr\",strategy:\"no_prefix\",lazy:true,rootRedirect:\"\",routesNameSeparator:\"___\",defaultLocaleRouteNameSuffix:\"default\",skipSettingLocaleOnNavigate:false,differentDomains:false,trailingSlash:false,locales:[{code:\"en\",files:[]},{code:\"fr\",files:[]},{code:\"ar\",files:[]},{code:\"tr\",files:[]},{code:\"hi\",files:[]}],detectBrowserLanguage:false,experimental:{localeDetector:\"\",switchLocalePathLinkSSR:false,autoImportTranslationFunctions:false,typedPages:true,typedOptionsAndMessages:false,generatedLocaleFilePathFormat:\"absolute\",alternateLinkCanonicalQueries:false,hmr:true},multiDomainLocales:false,domainLocales:{en:{domain:\"\"},fr:{domain:\"\"},ar:{domain:\"\"},tr:{domain:\"\"},hi:{domain:\"\"}}}},app:{baseURL:\"/\",buildId:\"f0993ee6-3c97-46cc-8dde-fc9a7c435464\",buildAssetsDir:\"/_nuxt/\",cdnURL:\"\"}}</script>\n<script src=\"/cdn/js/video.min.js\"></script>\n<script src=\"/cdn/js/secondary.js\"></script>\n<script src=\"https://owlcarousel2.github.io/OwlCarousel2/assets/owlcarousel/owl.carousel.min.js\"></script>\n<script src=\"https://owlcarousel2.github.io/OwlCarousel2/assets/owlcarousel/owl.carousel.js\"></script>\n<script type=\"application/json\" data-nuxt-data=\"nuxt-app\" data-ssr=\"false\" id=\"__NUXT_DATA__\">[{\"serverRendered\":1},false]</script></body></html>",
+    "location": "/",
+    "status": 200,
+    "robots": null,
+    "components_hash": 1137016830,
+    "server": null,
+    "headers": {
+      "content-length": "3489",
+      "x-powered-by": "Nuxt",
+      "keep-alive": "timeout=5",
+      "connection": "keep-alive",
+      "date": "Thu, 06 Aug 2026 17:46:03 GMT",
+      "content-type": "text/html;charset=utf-8"
+    },
+    "sitemap": null
+  },
+  "port": 3000,
+  "transport": "tcp",
+  "cpe23_hash": -1939821329,
+  "cloud": {
+    "region": "ap-southeast-1",
+    "service": "EC2",
+    "provider": "Amazon"
+  },
+  "location": {
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  "tags": [
+    "cloud"
+  ],
+  "timestamp": "2026-08-06T17:46:03.287074",
+  "org": "Amazon Data Services Singapore",
+  "data": "HTTP/1.1 200 OK\r\ncontent-type: text/html;charset=utf-8\r\nx-powered-by: Nuxt\r\nDate: Thu, 06 Aug 2026 17:46:03 GMT\r\nConnection: keep-alive\r\nKeep-Alive: timeout=5\r\nContent-Length: 3489\r\n\r\n",
+  "asn": "AS16509",
+  "cpe23": [
+    "cpe:2.3:a:getbootstrap:bootstrap",
+    "cpe:2.3:a:jquery:jquery",
+    "cpe:2.3:a:nuxt:nuxt"
+  ],
+  "isp": "Amazon.com, Inc.",
+  "cpe": [
+    "cpe:/a:getbootstrap:bootstrap",
+    "cpe:/a:jquery:jquery",
+    "cpe:/a:nuxt:nuxt"
+  ],
+  "os": null,
+  "_shodan": {
+    "region": "na",
+    "module": "http-simple-new"
+  },
+  "opts": {},
+  "_artifact": {
+    "host_id": "e850cb5f317f1b23dcb72d64899bc796",
+    "ip_id": "56ccb33cd51fb75953f0ed822132be55",
+    "port": 3000,
+    "framework": "nuxt",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 3489,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 25,
+      "ip": 1
+    }
+  }
+}

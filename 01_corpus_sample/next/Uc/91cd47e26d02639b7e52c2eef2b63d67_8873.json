@@ -1,0 +1,60 @@
+{
+  "asn": "AS16509",
+  "http": {
+    "status": 200,
+    "redirects": [],
+    "securitytxt": null,
+    "title": null,
+    "robots": null,
+    "server": "Apache/2.2.4 (Win32) PHP/5.2.2",
+    "headers": {
+      "content-length": "222",
+      "x-powered-by": "Next.js",
+      "vary": "RSC",
+      "server": "Apache/2.2.4 (Win32) PHP/5.2.2",
+      "last-modified": "Sun, 30 Aug 2020 19:30:36 GMT",
+      "date": "Wed, 15 Jul 2026 21:07:21 GMT",
+      "content-type": "text/x-component"
+    },
+    "html": "<!DOCTYPE html>\n<html>\n<head>\n    <meta name=\"generator\" content=\"Waku\"/>\n    <link rel=\"icon\" href=\"/favicon.png\">\n</head>\n<body>\n    <div id=\"root\"></div>\n    <script src=\"/react-router-dom.js\"></script>\n</body>\n</html>\n",
+    "location": "/",
+    "sitemap": null
+  },
+  "os": null,
+  "tags": [
+    "cloud"
+  ],
+  "timestamp": "2026-07-15T21:05:06.635764",
+  "isp": "Amazon.com, Inc.",
+  "transport": "tcp",
+  "_shodan": {
+    "region": "na",
+    "module": "auto"
+  },
+  "cloud": {
+    "region": "eu-north-1",
+    "service": "EC2",
+    "provider": "Amazon"
+  },
+  "location": {
+    "country_code": "SE",
+    "country_name": "Sweden"
+  },
+  "org": "Amazon Data Services Sweden",
+  "data": "HTTP/1.1 200 OK\r\nDate: Wed, 15 Jul 2026 21:07:21 GMT\r\nServer: Apache/2.2.4 (Win32) PHP/5.2.2\r\nLast-Modified: Sun, 30 Aug 2020 19:30:36 GMT\r\nX-Powered-By: Next.js\r\nContent-Type: text/x-component\r\nVary: RSC\r\nContent-Length: 222\r\n\r\n",
+  "port": 8873,
+  "opts": {},
+  "_artifact": {
+    "host_id": "91cd47e26d02639b7e52c2eef2b63d67",
+    "ip_id": "d2cf56c9afd9ed53b0d35c75387763e3",
+    "port": 8873,
+    "framework": "next",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 222,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 18
+    }
+  }
+}

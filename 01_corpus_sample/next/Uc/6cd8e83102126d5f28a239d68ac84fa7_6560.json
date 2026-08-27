@@ -1,0 +1,60 @@
+{
+  "asn": "AS16509",
+  "http": {
+    "status": 200,
+    "redirects": [],
+    "securitytxt": null,
+    "title": null,
+    "robots": null,
+    "server": "avenida",
+    "headers": {
+      "content-length": "222",
+      "x-powered-by": "Next.js",
+      "vary": "RSC",
+      "server": "avenida",
+      "last-modified": "Thu, 24 Oct 2024 03:52:56 GMT",
+      "date": "Sun, 12 Jul 2026 04:08:36 GMT",
+      "content-type": "text/x-component"
+    },
+    "html": "<!DOCTYPE html>\n<html>\n<head>\n    <meta name=\"generator\" content=\"Waku\"/>\n    <link rel=\"icon\" href=\"/favicon.png\">\n</head>\n<body>\n    <div id=\"root\"></div>\n    <script src=\"/react-router-dom.js\"></script>\n</body>\n</html>\n",
+    "location": "/",
+    "sitemap": null
+  },
+  "os": null,
+  "tags": [
+    "cloud"
+  ],
+  "timestamp": "2026-07-12T04:08:36.600856",
+  "isp": "Amazon.com, Inc.",
+  "transport": "tcp",
+  "_shodan": {
+    "region": "na",
+    "module": "auto"
+  },
+  "cloud": {
+    "region": "il-central-1",
+    "service": "EC2",
+    "provider": "Amazon"
+  },
+  "location": {
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  "org": "A100 ROW Inc",
+  "data": "HTTP/1.1 200 OK\r\nDate: Sun, 12 Jul 2026 04:08:36 GMT\r\nServer: avenida\r\nLast-Modified: Thu, 24 Oct 2024 03:52:56 GMT\r\nX-Powered-By: Next.js\r\nContent-Type: text/x-component\r\nVary: RSC\r\nContent-Length: 222\r\n\r\n",
+  "port": 6560,
+  "opts": {},
+  "_artifact": {
+    "host_id": "6cd8e83102126d5f28a239d68ac84fa7",
+    "ip_id": "32a900b16eafc82a76166b8317091fb7",
+    "port": 6560,
+    "framework": "next",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 222,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 18
+    }
+  }
+}

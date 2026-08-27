@@ -1,0 +1,55 @@
+{
+  "asn": "AS58224",
+  "http": {
+    "status": 307,
+    "redirects": [],
+    "securitytxt": null,
+    "title": "سامانه مدیریت وظایف سازمانی",
+    "robots": null,
+    "headers": {
+      "x-nextjs-cache": "HIT",
+      "content-length": "7123",
+      "x-powered-by": "Next.js",
+      "vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Accept-Encoding",
+      "keep-alive": "timeout=5",
+      "connection": "keep-alive",
+      "etag": "\"16za6autdgg5dp\"",
+      "cache-control": "s-maxage=31536000, stale-while-revalidate",
+      "date": "Tue, 28 Jul 2026 14:06:39 GMT",
+      "content-type": "text/html; charset=utf-8"
+    },
+    "html": "<!DOCTYPE html><html id=\"__next_error__\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/webpack-8ef63ea8bec9b0d1.js\"/><script src=\"/_next/static/chunks/fd9d1056-d701a3d18d3451c9.js\" async=\"\"></script><script src=\"/_next/static/chunks/2117-718438c54f2ec01c.js\" async=\"\"></script><script src=\"/_next/static/chunks/main-app-495821757969be69.js\" async=\"\"></script><title>سامانه مدیریت وظایف سازمانی</title><meta name=\"description\" content=\"سامانه فارسی و راست‌به‌چپ برای اتوماسیون وظایف سازمانی\"/><script src=\"/_next/static/chunks/polyfills-42372ed130431b0a.js\" noModule=\"\"></script></head><body><script src=\"/_next/static/chunks/webpack-8ef63ea8bec9b0d1.js\" async=\"\"></script><script>(self.__next_f=self.__next_f||[]).push([0]);self.__next_f.push([2,null])</script><script>self.__next_f.push([1,\"1:HL[\\\"/_next/static/css/223d85a3df605fd7.css\\\",\\\"style\\\"]\\n\"])</script><script>self.__next_f.push([1,\"2:I[2846,[],\\\"\\\"]\\n6:I[7514,[\\\"8448\\\",\\\"static/chunks/8448-2dd031a80b5a7218.js\\\",\\\"3185\\\",\\\"static/chunks/app/layout-2c3770e488c4d040.js\\\"],\\\"ThemeProvider\\\"]\\n7:I[1917,[\\\"8448\\\",\\\"static/chunks/8448-2dd031a80b5a7218.js\\\",\\\"3185\\\",\\\"static/chunks/app/layout-2c3770e488c4d040.js\\\"],\\\"ToastProvider\\\"]\\n8:I[4707,[],\\\"\\\"]\\n9:I[3879,[\\\"5489\\\",\\\"static/chunks/app/template-7daca4981548c053.js\\\"],\\\"default\\\"]\\na:I[6423,[],\\\"\\\"]\\nb:\\\"$Sreact.suspense\\\"\\nc:I[624,[\\\"8448\\\",\\\"static/chunks/8448-2dd031a80b5a7218.js\\\",\\\"3185\\\",\\\"static/chunks/app/layout-2c3770e488c4d040.js\\\"],\\\"PersistedViewState\\\"]\\ne:I[1060,[],\\\"\\\"]\\n5:T539,\\n(function () {\\n  if (window.isSecureContext \\u0026\\u0026 navigator.clipboard \\u0026\\u0026 typeof navigator.clipboard.writeText === \\\"function\\\") {\\n    return;\\n  }\\n\\n  function legacyWriteText(text) {\\n    return new Promise(function (resolve, reject) {\\n      var textarea = document.createElement(\\\"textarea\\\");\\n      textarea.value = String(text);\\n      textarea.setAttribute(\\\"readonly\\\", \\\"\\\");\\n      textarea.style.position = \\\"fixed\\\";\\n      textarea.style.inset = \\\"0 auto auto -9999px\\\";\\n      textarea.style.opacity = \\\"0\\\";\\n      document.body.appendChild(textarea);\\n      textarea.focus();\\n      textarea.select();\\n      textarea.setSelectionRange(0, textarea.value.length);\\n\\n      try {\\n        var copied = document.execCommand(\\\"copy\\\");\\n        if (!copied) {\\n          throw new Error(\\\"Copy command was rejected.\\\");\\n        }\\n        resolve();\\n      } catch (error) {\\n        reject(error);\\n      } finally {\\n        textarea.remove();\\n      }\\n    });\\n  }\\n\\n  var clipboardFallback = { writeText: legacyWriteText };\\n\\n  try {\\n    Object.defineProperty(navigator, \\\"clipboard\\\", {\\n      configurable: true,\\n      value: clipboardFallback,\\n    });\\n  } catch (error) {\\n    try {\\n      navigator.clipboard.writeText = legacyWriteText;\\n    } catch (ignoredError) {\\n      // The calling UI already handles copy failures and shows manual-copy guidance.\\n    }\\n  }\\n})();\\nf:[]\\n\"])</script><script>self.__next_f.push([1,\"0:[\\\"$\\\",\\\"$L2\\\",null,{\\\"buildId\\\":\\\"aOMUJwZGZmPHZBhiDwIzq\\\",\\\"assetPrefix\\\":\\\"\\\",\\\"urlParts\\\":[\\\"\\\",\\\"\\\"],\\\"initialTree\\\":[\\\"\\\",{\\\"children\\\":[\\\"__PAGE__\\\",{}]},\\\"$undefined\\\",\\\"$undefined\\\",true],\\\"initialSeedData\\\":[\\\"\\\",{\\\"children\\\":[\\\"__PAGE__\\\",{},[[\\\"$L3\\\",\\\"$L4\\\",null],null],null]},[[[[\\\"$\\\",\\\"link\\\",\\\"0\\\",{\\\"rel\\\":\\\"stylesheet\\\",\\\"href\\\":\\\"/_next/static/css/223d85a3df605fd7.css\\\",\\\"precedence\\\":\\\"next\\\",\\\"crossOrigin\\\":\\\"$undefined\\\"}]],[\\\"$\\\",\\\"html\\\",null,{\\\"lang\\\":\\\"fa\\\",\\\"dir\\\":\\\"rtl\\\",\\\"data-theme\\\":\\\"light\\\",\\\"suppressHydrationWarning\\\":true,\\\"children\\\":[[\\\"$\\\",\\\"head\\\",null,{\\\"children\\\":[[\\\"$\\\",\\\"script\\\",null,{\\\"dangerouslySetInnerHTML\\\":{\\\"__html\\\":\\\"\\\\n(function () {\\\\n  try {\\\\n    var themeKey = \\\\\\\"ai-task-management-theme\\\\\\\";\\\\n    var modeKey = \\\\\\\"ai-task-management-theme-mode\\\\\\\";\\\\n    var mode = window.localStorage.getItem(modeKey) || \\\\\\\"manual\\\\\\\";\\\\n    var manualTheme = window.localStorage.getItem(themeKey) || \\\\\\\"light\\\\\\\";\\\\n    var hour = new Date().getHours();\\\\n    var autoTheme = hour \\u003e= 7 \\u0026\\u0026 hour \\u003c 19 ? \\\\\\\"light\\\\\\\" : \\\\\\\"dark\\\\\\\";\\\\n    var theme = mode === \\\\\\\"auto\\\\\\\" ? autoTheme : manualTheme;\\\\n    document.documentElement.dataset.theme = theme === \\\\\\\"dark\\\\\\\" ? \\\\\\\"dark\\\\\\\" : \\\\\\\"light\\\\\\\";\\\\n  } catch (error) {\\\\n    document.documentElement.dataset.theme = \\\\\\\"light\\\\\\\";\\\\n  }\\\\n})();\\\\n\\\"}}],[\\\"$\\\",\\\"script\\\",null,{\\\"dangerouslySetInnerHTML\\\":{\\\"__html\\\":\\\"$5\\\"}}]]}],[\\\"$\\\",\\\"body\\\",null,{\\\"children\\\":[[\\\"$\\\",\\\"$L6\\\",null,{\\\"children\\\":[\\\"$\\\",\\\"$L7\\\",null,{\\\"children\\\":[\\\"$\\\",\\\"$L8\\\",null,{\\\"parallelRouterKey\\\":\\\"children\\\",\\\"segmentPath\\\":[\\\"children\\\"],\\\"error\\\":\\\"$undefined\\\",\\\"errorStyles\\\":\\\"$undefined\\\",\\\"errorScripts\\\":\\\"$undefined\\\",\\\"template\\\":[\\\"$\\\",\\\"$L9\\\",null,{\\\"children\\\":[\\\"$\\\",\\\"$La\\\",null,{}]}],\\\"templateStyles\\\":[],\\\"templateScripts\\\":[],\\\"notFound\\\":[[\\\"$\\\",\\\"title\\\",null,{\\\"children\\\":\\\"404: This page could not be found.\\\"}],[\\\"$\\\",\\\"div\\\",null,{\\\"style\\\":{\\\"fontFamily\\\":\\\"system-ui,\\\\\\\"Segoe UI\\\\\\\",Roboto,Helvetica,Arial,sans-serif,\\\\\\\"Apple Color Emoji\\\\\\\",\\\\\\\"Segoe UI Emoji\\\\\\\"\\\",\\\"height\\\":\\\"100vh\\\",\\\"textAlign\\\":\\\"center\\\",\\\"display\\\":\\\"flex\\\",\\\"flexDirection\\\":\\\"column\\\",\\\"alignItems\\\":\\\"center\\\",\\\"justifyContent\\\":\\\"center\\\"},\\\"children\\\":[\\\"$\\\",\\\"div\\\",null,{\\\"children\\\":[[\\\"$\\\",\\\"style\\\",null,{\\\"dangerouslySetInnerHTML\\\":{\\\"__html\\\":\\\"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}\\\"}}],[\\\"$\\\",\\\"h1\\\",null,{\\\"className\\\":\\\"next-error-h1\\\",\\\"style\\\":{\\\"display\\\":\\\"inline-block\\\",\\\"margin\\\":\\\"0 20px 0 0\\\",\\\"padding\\\":\\\"0 23px 0 0\\\",\\\"fontSize\\\":24,\\\"fontWeight\\\":500,\\\"verticalAlign\\\":\\\"top\\\",\\\"lineHeight\\\":\\\"49px\\\"},\\\"children\\\":\\\"404\\\"}],[\\\"$\\\",\\\"div\\\",null,{\\\"style\\\":{\\\"display\\\":\\\"inline-block\\\"},\\\"children\\\":[\\\"$\\\",\\\"h2\\\",null,{\\\"style\\\":{\\\"fontSize\\\":14,\\\"fontWeight\\\":400,\\\"lineHeight\\\":\\\"49px\\\",\\\"margin\\\":0},\\\"children\\\":\\\"This page could not be found.\\\"}]}]]}]}]],\\\"notFoundStyles\\\":[]}]}]}],[\\\"$\\\",\\\"$b\\\",null,{\\\"fallback\\\":null,\\\"children\\\":[\\\"$\\\",\\\"$Lc\\\",null,{}]}]]}]]}]],null],null],\\\"couldBeIntercepted\\\":false,\\\"initialHead\\\":[null,\\\"$Ld\\\"],\\\"globalErrorComponent\\\":\\\"$e\\\",\\\"missingSlots\\\":\\\"$Wf\\\"}]\\n\"])</script><script>self.__next_f.push([1,\"4:E{\\\"digest\\\":\\\"NEXT_REDIRECT;replace;/login;307;\\\"}\\n\"])</script><script>self.__next_f.push([1,\"d:[[\\\"$\\\",\\\"meta\\\",\\\"0\\\",{\\\"name\\\":\\\"viewport\\\",\\\"content\\\":\\\"width=device-width, initial-scale=1\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"1\\\",{\\\"charSet\\\":\\\"utf-8\\\"}],[\\\"$\\\",\\\"title\\\",\\\"2\\\",{\\\"children\\\":\\\"سامانه مدیریت وظایف سازمانی\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"3\\\",{\\\"name\\\":\\\"description\\\",\\\"content\\\":\\\"سامانه فارسی و راست‌به‌چپ برای اتوماسیون وظایف سازمانی\\\"}]]\\n3:null\\n\"])</script></body></html>",
+    "location": "/",
+    "server": null,
+    "sitemap": null
+  },
+  "os": null,
+  "timestamp": "2026-07-28T14:06:55.154301",
+  "isp": "Iran Telecommunication Company PJS",
+  "transport": "tcp",
+  "_shodan": {
+    "region": "eu",
+    "module": "http-simple-new"
+  },
+  "location": {
+    "country_code": "IR",
+    "country_name": "Iran, Islamic Republic of"
+  },
+  "org": "Telecommunication Company of Tehran",
+  "data": "HTTP/1.1 307 Temporary Redirect\r\nVary: RSC, Next-Router-State-Tree, Next-Router-Prefetch, Accept-Encoding\r\nx-nextjs-cache: HIT\r\nX-Powered-By: Next.js\r\nCache-Control: s-maxage=31536000, stale-while-revalidate\r\nETag: \"16za6autdgg5dp\"\r\nContent-Type: text/html; charset=utf-8\r\nContent-Length: 7123\r\nDate: Tue, 28 Jul 2026 14:06:39 GMT\r\nConnection: keep-alive\r\nKeep-Alive: timeout=5\r\n\r\n",
+  "port": 37215,
+  "opts": {},
+  "_artifact": {
+    "host_id": "ccb7a52a01aa0736421e3c855c00f5fa",
+    "ip_id": "e0522105dce33aa7f6cf8058bf16db15",
+    "port": 37215,
+    "framework": "next",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 6977,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 23
+    }
+  }
+}

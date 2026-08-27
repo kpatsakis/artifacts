@@ -1,0 +1,70 @@
+{
+  "http": {
+    "redirects": [],
+    "securitytxt": null,
+    "title": "Login | aAHARAN",
+    "html": "<!DOCTYPE html>\n<html>\n<head>\n<meta charset=\"utf-8\">\n<title>Login | aAHARAN</title>\n<link rel=\"shortcut icon\" href=\"/favicon_4e61620f-21f8-4f9c-8672-4414b04ec35e.ico\">\n</head>\n<body>\n<div id=\"app\">\n<li class=\"detail\">ZkOf9FKN5NCD9e5grd DEUk0db7</li>\n<h2>bNFxTMgaiqz2kISm6ULDNmj1TG SQ2itpc14xUK7JrYs6vsME feKooe6IVJUylOBvYwT 5p7TpGk6rziRF</h2>\n<h3 class=\"text\">5ZlSLGtMA4ABhZfxR</h3>\n<header class=\"body\">Tn9ODsVPSeplm1fA62THTNM9zocNf pBc5zT5WbqAHh2</header>\n<header class=\"post\">Q70opc5id ArYC4M37KWmtQKtMI0PhJ6OFrQA z7Vl0ri43SnK9OjfwUd7RAulpF uOxPwQBpaa 0L8PhR5fv5ShMlDKB6vLrni</header>\n<div class=\"wrap\">CIGC9RINyitEIxdjB Bkz5zmQeXXGUTos6oap</div>\n<h1>T3xVaRmmzqhzd3XZ07edYL2HJ</h1>\n<h5 class=\"inner\">PkjrFJVMMkrX</h5>\n<footer>VdUcbnDvRiOHIp pHv6BgYzOjhzT2J46VoRTx 2YaTZkJM73qeMSs0BqGox9ESbx9QpK y7YjAd1S9gufw4SfemWz mR6WAKJQc45c4dS1</footer>\n<aside class=\"card\">DVHLm8FpF9L dj5YJ7xLeA QRJeUfHOPwFhFhd</aside>\n<h4 class=\"box\">qoYHBFn0VygDAF WfOAxH86tBANSZeF8F hUjaZkL0Iip6Rll0</h4>\n<strong class=\"detail\">gVsm29H</strong>\n<main>J0DqezNUNe7ehfBgIPFUw8CZoMCC oBt4BTBXBUyIPdygr6dvum IAu516JqvRH3 9aWVjMxCCZosh QEfFdZ3FDOO65ZQwEvGhQs7y</main>\n</div>\n</body>\n</html>",
+    "location": "/",
+    "status": 200,
+    "robots": null,
+    "components_hash": -892850553,
+    "server": "5.2.3790 2/Service Pack 1, UPnP/1.0, TVersity Media Server",
+    "headers": {
+      "content-length": "1163",
+      "x-powered-by": "Next.js",
+      "set-cookie": "csrftoken=Rp5IkrtJBwzXVjAIA2tY",
+      "server": "5.2.3790 2/Service Pack 1, UPnP/1.0, TVersity Media Server",
+      "last-modified": "Thu, 17 Jul 2025 18:52:55 GMT",
+      "date": "Fri, 31 Jul 2026 00:32:31 GMT",
+      "content-type": "text/html"
+    },
+    "sitemap": null
+  },
+  "port": 32001,
+  "transport": "tcp",
+  "cpe23_hash": 286908511,
+  "cloud": {
+    "region": "il-central-1",
+    "service": "EC2",
+    "provider": "Amazon"
+  },
+  "location": {
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  "tags": [
+    "cloud"
+  ],
+  "timestamp": "2026-07-31T00:29:08.292104",
+  "org": "A100 Row Inc",
+  "data": "HTTP/1.1 200 OK\r\nDate: Fri, 31 Jul 2026 00:32:31 GMT\r\nServer: 5.2.3790 2/Service Pack 1, UPnP/1.0, TVersity Media Server\r\nLast-Modified: Thu, 17 Jul 2025 18:52:55 GMT\r\nX-Powered-By: Next.js\r\nContent-Length: 1163\r\nContent-Type: text/html\r\nSet-Cookie: csrftoken=Rp5IkrtJBwzXVjAIA2tY\r\n\r\n",
+  "asn": "AS16509",
+  "cpe23": [
+    "cpe:2.3:a:facebook:react",
+    "cpe:2.3:a:vercel:next.js"
+  ],
+  "isp": "Amazon.com, Inc.",
+  "cpe": [
+    "cpe:/a:facebook:react",
+    "cpe:/a:vercel:next.js"
+  ],
+  "os": null,
+  "_shodan": {
+    "region": "na",
+    "module": "auto"
+  },
+  "opts": {},
+  "_artifact": {
+    "host_id": "f863e13c071d4e54a107a9e4bff7b53f",
+    "ip_id": "6215c344e4d3f60fbcc27f4e4e095a22",
+    "port": 32001,
+    "framework": "next",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 1163,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 24
+    }
+  }
+}

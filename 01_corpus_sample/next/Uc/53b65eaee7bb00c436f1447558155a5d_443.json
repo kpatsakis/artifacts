@@ -1,0 +1,77 @@
+{
+  "asn": "AS63949",
+  "http": {
+    "status": 200,
+    "redirects": [
+      {
+        "data": "HTTP/1.1 307 Temporary Redirect\r\nServer: nginx\r\nDate: Mon, 27 Jul 2026 04:08:06 GMT\r\nTransfer-Encoding: chunked\r\nConnection: keep-alive\r\nlocation: /login\r\nX-Content-Type-Options: nosniff\r\nX-Frame-Options: SAMEORIGIN\r\nReferrer-Policy: strict-origin-when-cross-origin\r\n\r\n",
+        "location": "/"
+      }
+    ],
+    "securitytxt": null,
+    "title": "雲端發票平台",
+    "robots": null,
+    "server": "nginx",
+    "headers": {
+      "x-nextjs-cache": "HIT",
+      "content-length": "7560",
+      "x-content-type-options": "nosniff",
+      "x-powered-by": "Next.js",
+      "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding",
+      "server": "nginx",
+      "x-nextjs-stale-time": "300",
+      "connection": "keep-alive",
+      "etag": "\"l2veogo8ng5nk\"",
+      "cache-control": "s-maxage=31536000",
+      "date": "Mon, 27 Jul 2026 04:08:07 GMT",
+      "x-nextjs-prerender": "1, 1",
+      "x-frame-options": "SAMEORIGIN",
+      "referrer-policy": "strict-origin-when-cross-origin",
+      "content-type": "text/html; charset=utf-8"
+    },
+    "html": "<!DOCTYPE html><html lang=\"zh-Hant\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/42h3r-loqoe1m.css\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/1jq4o6yq14o4c.js\"/><script src=\"/_next/static/chunks/15orcrkp-_9ct.js\" async=\"\"></script><script src=\"/_next/static/chunks/3hdj40qmts5sf.js\" async=\"\"></script><script src=\"/_next/static/chunks/2-5nk792mwq2y.js\" async=\"\"></script><script src=\"/_next/static/chunks/turbopack-3w0x8-lbi4uex.js\" async=\"\"></script><script src=\"/_next/static/chunks/05-c3ty_6dwfk.js\" async=\"\"></script><script src=\"/_next/static/chunks/14mrh2-p_w84d.js\" async=\"\"></script><script src=\"/_next/static/chunks/1ky69lf2k9mxx.js\" async=\"\"></script><title>雲端發票平台</title><meta name=\"description\" content=\"雲端發票帳號與登入平台\"/><script src=\"/_next/static/chunks/0cz1d0mv5g_q7.js\" noModule=\"\"></script></head><body><div hidden=\"\"><!--$--><!--/$--></div><main class=\"auth-shell\"><section class=\"auth-card\"><div class=\"brand-panel\"><p class=\"eyebrow\">CLOUD INVOICE</p><h1>雲端發票平台</h1><p>帳號由地端加值中心安全同步，登入憑證與 session 則由雲端獨立管理。</p></div><div class=\"form-panel\"><h2>登入</h2><form class=\"auth-form\"><label>登入 Email<input type=\"email\" autoComplete=\"username\" required=\"\" value=\"\"/></label><label>雲端平台密碼<input type=\"password\" autoComplete=\"current-password\" required=\"\" value=\"\"/></label><button type=\"submit\">登入</button></form></div></section></main><!--$--><!--/$--><script src=\"/_next/static/chunks/1jq4o6yq14o4c.js\" id=\"_R_\" async=\"\"></script><script>(self.__next_f=self.__next_f||[]).push([0])</script><script>self.__next_f.push([1,\"1:\\\"$Sreact.fragment\\\"\\n2:I[39756,[\\\"/_next/static/chunks/05-c3ty_6dwfk.js\\\",\\\"/_next/static/chunks/14mrh2-p_w84d.js\\\"],\\\"default\\\"]\\n3:I[37457,[\\\"/_next/static/chunks/05-c3ty_6dwfk.js\\\",\\\"/_next/static/chunks/14mrh2-p_w84d.js\\\"],\\\"default\\\"]\\n4:I[94765,[\\\"/_next/static/chunks/05-c3ty_6dwfk.js\\\",\\\"/_next/static/chunks/14mrh2-p_w84d.js\\\",\\\"/_next/static/chunks/1ky69lf2k9mxx.js\\\"],\\\"default\\\"]\\n5:I[97367,[\\\"/_next/static/chunks/05-c3ty_6dwfk.js\\\",\\\"/_next/static/chunks/14mrh2-p_w84d.js\\\"],\\\"OutletBoundary\\\"]\\n6:\\\"$Sreact.suspense\\\"\\n9:I[97367,[\\\"/_next/static/chunks/05-c3ty_6dwfk.js\\\",\\\"/_next/static/chunks/14mrh2-p_w84d.js\\\"],\\\"ViewportBoundary\\\"]\\nb:I[97367,[\\\"/_next/static/chunks/05-c3ty_6dwfk.js\\\",\\\"/_next/static/chunks/14mrh2-p_w84d.js\\\"],\\\"MetadataBoundary\\\"]\\nd:I[68027,[\\\"/_next/static/chunks/05-c3ty_6dwfk.js\\\",\\\"/_next/static/chunks/14mrh2-p_w84d.js\\\"],\\\"default\\\",1]\\n:HL[\\\"/_next/static/chunks/42h3r-loqoe1m.css\\\",\\\"style\\\"]\\n\"])</script><script>self.__next_f.push([1,\"0:{\\\"P\\\":null,\\\"c\\\":[\\\"\\\",\\\"login\\\"],\\\"q\\\":\\\"\\\",\\\"i\\\":false,\\\"f\\\":[[[\\\"\\\",{\\\"children\\\":[\\\"login\\\",{\\\"children\\\":[\\\"__PAGE__\\\",{}]}]},\\\"$undefined\\\",\\\"$undefined\\\",16],[[\\\"$\\\",\\\"$1\\\",\\\"c\\\",{\\\"children\\\":[[[\\\"$\\\",\\\"link\\\",\\\"0\\\",{\\\"rel\\\":\\\"stylesheet\\\",\\\"href\\\":\\\"/_next/static/chunks/42h3r-loqoe1m.css\\\",\\\"precedence\\\":\\\"next\\\",\\\"crossOrigin\\\":\\\"$undefined\\\",\\\"nonce\\\":\\\"$undefined\\\"}],[\\\"$\\\",\\\"script\\\",\\\"script-0\\\",{\\\"src\\\":\\\"/_next/static/chunks/05-c3ty_6dwfk.js\\\",\\\"async\\\":true,\\\"nonce\\\":\\\"$undefined\\\"}],[\\\"$\\\",\\\"script\\\",\\\"script-1\\\",{\\\"src\\\":\\\"/_next/static/chunks/14mrh2-p_w84d.js\\\",\\\"async\\\":true,\\\"nonce\\\":\\\"$undefined\\\"}]],[\\\"$\\\",\\\"html\\\",null,{\\\"lang\\\":\\\"zh-Hant\\\",\\\"children\\\":[\\\"$\\\",\\\"body\\\",null,{\\\"children\\\":[\\\"$\\\",\\\"$L2\\\",null,{\\\"parallelRouterKey\\\":\\\"children\\\",\\\"error\\\":\\\"$undefined\\\",\\\"errorStyles\\\":\\\"$undefined\\\",\\\"errorScripts\\\":\\\"$undefined\\\",\\\"template\\\":[\\\"$\\\",\\\"$L3\\\",null,{}],\\\"templateStyles\\\":\\\"$undefined\\\",\\\"templateScripts\\\":\\\"$undefined\\\",\\\"notFound\\\":[[[\\\"$\\\",\\\"title\\\",null,{\\\"children\\\":\\\"404: This page could not be found.\\\"}],[\\\"$\\\",\\\"div\\\",null,{\\\"style\\\":{\\\"fontFamily\\\":\\\"system-ui,\\\\\\\"Segoe UI\\\\\\\",Roboto,Helvetica,Arial,sans-serif,\\\\\\\"Apple Color Emoji\\\\\\\",\\\\\\\"Segoe UI Emoji\\\\\\\"\\\",\\\"height\\\":\\\"100vh\\\",\\\"textAlign\\\":\\\"center\\\",\\\"display\\\":\\\"flex\\\",\\\"flexDirection\\\":\\\"column\\\",\\\"alignItems\\\":\\\"center\\\",\\\"justifyContent\\\":\\\"center\\\"},\\\"children\\\":[\\\"$\\\",\\\"div\\\",null,{\\\"children\\\":[[\\\"$\\\",\\\"style\\\",null,{\\\"dangerouslySetInnerHTML\\\":{\\\"__html\\\":\\\"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}\\\"}}],[\\\"$\\\",\\\"h1\\\",null,{\\\"className\\\":\\\"next-error-h1\\\",\\\"style\\\":{\\\"display\\\":\\\"inline-block\\\",\\\"margin\\\":\\\"0 20px 0 0\\\",\\\"padding\\\":\\\"0 23px 0 0\\\",\\\"fontSize\\\":24,\\\"fontWeight\\\":500,\\\"verticalAlign\\\":\\\"top\\\",\\\"lineHeight\\\":\\\"49px\\\"},\\\"children\\\":404}],[\\\"$\\\",\\\"div\\\",null,{\\\"style\\\":{\\\"display\\\":\\\"inline-block\\\"},\\\"children\\\":[\\\"$\\\",\\\"h2\\\",null,{\\\"style\\\":{\\\"fontSize\\\":14,\\\"fontWeight\\\":400,\\\"lineHeight\\\":\\\"49px\\\",\\\"margin\\\":0},\\\"children\\\":\\\"This page could not be found.\\\"}]}]]}]}]],[]],\\\"forbidden\\\":\\\"$undefined\\\",\\\"unauthorized\\\":\\\"$undefined\\\"}]}]}]]}],{\\\"children\\\":[[\\\"$\\\",\\\"$1\\\",\\\"c\\\",{\\\"children\\\":[null,[\\\"$\\\",\\\"$L2\\\",null,{\\\"parallelRouterKey\\\":\\\"children\\\",\\\"error\\\":\\\"$undefined\\\",\\\"errorStyles\\\":\\\"$undefined\\\",\\\"errorScripts\\\":\\\"$undefined\\\",\\\"template\\\":[\\\"$\\\",\\\"$L3\\\",null,{}],\\\"templateStyles\\\":\\\"$undefined\\\",\\\"templateScripts\\\":\\\"$undefined\\\",\\\"notFound\\\":\\\"$undefined\\\",\\\"forbidden\\\":\\\"$undefined\\\",\\\"unauthorized\\\":\\\"$undefined\\\"}]]}],{\\\"children\\\":[[\\\"$\\\",\\\"$1\\\",\\\"c\\\",{\\\"children\\\":[[\\\"$\\\",\\\"main\\\",null,{\\\"className\\\":\\\"auth-shell\\\",\\\"children\\\":[\\\"$\\\",\\\"section\\\",null,{\\\"className\\\":\\\"auth-card\\\",\\\"children\\\":[[\\\"$\\\",\\\"div\\\",null,{\\\"className\\\":\\\"brand-panel\\\",\\\"children\\\":[[\\\"$\\\",\\\"p\\\",null,{\\\"className\\\":\\\"eyebrow\\\",\\\"children\\\":\\\"CLOUD INVOICE\\\"}],[\\\"$\\\",\\\"h1\\\",null,{\\\"children\\\":\\\"雲端發票平台\\\"}],[\\\"$\\\",\\\"p\\\",null,{\\\"children\\\":\\\"帳號由地端加值中心安全同步，登入憑證與 session 則由雲端獨立管理。\\\"}]]}],[\\\"$\\\",\\\"div\\\",null,{\\\"className\\\":\\\"form-panel\\\",\\\"children\\\":[[\\\"$\\\",\\\"h2\\\",null,{\\\"children\\\":\\\"登入\\\"}],[\\\"$\\\",\\\"$L4\\\",null,{}]]}]]}]}],[[\\\"$\\\",\\\"script\\\",\\\"script-0\\\",{\\\"src\\\":\\\"/_next/static/chunks/1ky69lf2k9mxx.js\\\",\\\"async\\\":true,\\\"nonce\\\":\\\"$undefined\\\"}]],[\\\"$\\\",\\\"$L5\\\",null,{\\\"children\\\":[\\\"$\\\",\\\"$6\\\",null,{\\\"name\\\":\\\"Next.MetadataOutlet\\\",\\\"children\\\":\\\"$@7\\\"}]}]]}],{},null,false,null]},null,false,\\\"$@8\\\"]},null,false,null],[\\\"$\\\",\\\"$1\\\",\\\"h\\\",{\\\"children\\\":[null,[\\\"$\\\",\\\"$L9\\\",null,{\\\"children\\\":\\\"$La\\\"}],[\\\"$\\\",\\\"div\\\",null,{\\\"hidden\\\":true,\\\"children\\\":[\\\"$\\\",\\\"$Lb\\\",null,{\\\"children\\\":[\\\"$\\\",\\\"$6\\\",null,{\\\"name\\\":\\\"Next.Metadata\\\",\\\"children\\\":\\\"$Lc\\\"}]}]}],null]}],false]],\\\"m\\\":\\\"$undefined\\\",\\\"G\\\":[\\\"$d\\\",[[\\\"$\\\",\\\"link\\\",\\\"0\\\",{\\\"rel\\\":\\\"stylesheet\\\",\\\"href\\\":\\\"/_next/static/chunks/42h3r-loqoe1m.css\\\",\\\"precedence\\\":\\\"next\\\",\\\"crossOrigin\\\":\\\"$undefined\\\",\\\"nonce\\\":\\\"$undefined\\\"}]]],\\\"S\\\":true,\\\"h\\\":null,\\\"s\\\":\\\"$undefined\\\",\\\"l\\\":\\\"$undefined\\\",\\\"p\\\":\\\"$undefined\\\",\\\"d\\\":\\\"$undefined\\\",\\\"b\\\":\\\"FLEWnqdoYN0s-ZHgz3Mx9\\\"}\\n\"])</script><script>self.__next_f.push([1,\"e:[]\\n8:\\\"$We\\\"\\n\"])</script><script>self.__next_f.push([1,\"a:[[\\\"$\\\",\\\"meta\\\",\\\"0\\\",{\\\"charSet\\\":\\\"utf-8\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"1\\\",{\\\"name\\\":\\\"viewport\\\",\\\"content\\\":\\\"width=device-width, initial-scale=1\\\"}]]\\n\"])</script><script>self.__next_f.push([1,\"7:null\\nc:[[\\\"$\\\",\\\"title\\\",\\\"0\\\",{\\\"children\\\":\\\"雲端發票平台\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"1\\\",{\\\"name\\\":\\\"description\\\",\\\"content\\\":\\\"雲端發票帳號與登入平台\\\"}]]\\n\"])</script></body></html>",
+    "location": "/login",
+    "sitemap": null
+  },
+  "os": null,
+  "tags": [
+    "cloud"
+  ],
+  "timestamp": "2026-07-27T04:08:07.609541",
+  "isp": "Akamai Connected Cloud",
+  "transport": "tcp",
+  "_shodan": {
+    "region": "na",
+    "module": "https"
+  },
+  "cloud": {
+    "region": "jp-13",
+    "service": null,
+    "provider": "Linode"
+  },
+  "location": {
+    "country_code": "JP",
+    "country_name": "Japan"
+  },
+  "org": "139.162.0.0/16",
+  "data": "HTTP/1.1 200 OK\r\nServer: nginx\r\nDate: Mon, 27 Jul 2026 04:08:07 GMT\r\nContent-Type: text/html; charset=utf-8\r\nContent-Length: 7560\r\nConnection: keep-alive\r\nVary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding\r\nx-nextjs-cache: HIT\r\nx-nextjs-prerender: 1\r\nx-nextjs-prerender: 1\r\nx-nextjs-stale-time: 300\r\nX-Powered-By: Next.js\r\nCache-Control: s-maxage=31536000\r\nETag: \"l2veogo8ng5nk\"\r\nX-Content-Type-Options: nosniff\r\nX-Frame-Options: SAMEORIGIN\r\nReferrer-Policy: strict-origin-when-cross-origin\r\n\r\n",
+  "port": 443,
+  "opts": {
+    "vulns": [],
+    "heartbleed": "2026/07/27 04:08:19 [ip-redacted]:443 - SAFE\n"
+  },
+  "_artifact": {
+    "host_id": "53b65eaee7bb00c436f1447558155a5d",
+    "ip_id": "2eaccec2fe42d4c4ee67a8653a1f645a",
+    "port": 443,
+    "framework": "next",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 7328,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 21,
+      "ip": 1
+    }
+  }
+}

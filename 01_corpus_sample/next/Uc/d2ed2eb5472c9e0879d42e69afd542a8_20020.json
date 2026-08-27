@@ -1,0 +1,70 @@
+{
+  "http": {
+    "redirects": [],
+    "securitytxt": null,
+    "title": null,
+    "html": "<!DOCTYPE html>\n<html>\n<head>\n    <meta name=\"generator\" content=\"Waku\"/>\n    <link rel=\"icon\" href=\"/favicon.png\">\n</head>\n<body>\n    <div id=\"root\"></div>\n    <script src=\"/react-router-dom.js\"></script>\n</body>\n</html>\n",
+    "location": "/",
+    "status": 200,
+    "robots": null,
+    "components_hash": -892850553,
+    "server": "Sophos Email Appliance",
+    "headers": {
+      "content-length": "222",
+      "x-powered-by": "Next.js",
+      "vary": "RSC",
+      "server": "Sophos Email Appliance",
+      "last-modified": "Sun, 18 Dec 2016 23:17:56 GMT",
+      "date": "Wed, 05 Aug 2026 23:32:37 GMT",
+      "content-type": "text/x-component"
+    },
+    "sitemap": null
+  },
+  "port": 20020,
+  "transport": "tcp",
+  "cpe23_hash": 286908511,
+  "cloud": {
+    "region": "ap-northeast-2",
+    "service": "EC2",
+    "provider": "Amazon"
+  },
+  "location": {
+    "country_code": "KR",
+    "country_name": "Korea, Republic of"
+  },
+  "tags": [
+    "cloud"
+  ],
+  "timestamp": "2026-08-05T23:29:01.938276",
+  "org": "AWS Asia Pacific (Seoul) Region",
+  "data": "HTTP/1.1 200 OK\r\nDate: Wed, 05 Aug 2026 23:32:37 GMT\r\nServer: Sophos Email Appliance\r\nLast-Modified: Sun, 18 Dec 2016 23:17:56 GMT\r\nX-Powered-By: Next.js\r\nContent-Type: text/x-component\r\nVary: RSC\r\nContent-Length: 222\r\n\r\n",
+  "asn": "AS16509",
+  "cpe23": [
+    "cpe:2.3:a:facebook:react",
+    "cpe:2.3:a:vercel:next.js"
+  ],
+  "isp": "Amazon.com, Inc.",
+  "cpe": [
+    "cpe:/a:facebook:react",
+    "cpe:/a:vercel:next.js"
+  ],
+  "os": null,
+  "_shodan": {
+    "region": "na",
+    "module": "auto"
+  },
+  "opts": {},
+  "_artifact": {
+    "host_id": "d2ed2eb5472c9e0879d42e69afd542a8",
+    "ip_id": "a887e608fdcc1b4d0ccbe9d9eb2b3631",
+    "port": 20020,
+    "framework": "next",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 222,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 24
+    }
+  }
+}

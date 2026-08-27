@@ -1,0 +1,70 @@
+{
+  "http": {
+    "status": 200,
+    "redirects": [],
+    "securitytxt": null,
+    "title": null,
+    "robots": null,
+    "components_hash": -892850553,
+    "html": "<!DOCTYPE html>\n<html>\n<head>\n    <meta name=\"generator\" content=\"Waku\"/>\n    <link rel=\"icon\" href=\"/favicon.png\">\n</head>\n<body>\n    <div id=\"root\"></div>\n    <script src=\"/react-router-dom.js\"></script>\n</body>\n</html>\n",
+    "location": "/",
+    "headers": {
+      "content-length": "222",
+      "x-powered-by": "Next.js",
+      "vary": "RSC",
+      "server": "ChaiServer",
+      "last-modified": "Tue, 23 Mar 2021 08:03:54 GMT",
+      "date": "Thu, 06 Aug 2026 08:21:40 GMT",
+      "content-type": "text/x-component"
+    },
+    "server": "ChaiServer",
+    "sitemap": null
+  },
+  "port": 5606,
+  "transport": "tcp",
+  "cpe23_hash": 286908511,
+  "cloud": {
+    "region": "ap-south-1",
+    "service": "EC2",
+    "provider": "Amazon"
+  },
+  "location": {
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  "tags": [
+    "cloud"
+  ],
+  "timestamp": "2026-08-06T08:18:04.818514",
+  "org": "Amazon.com, Inc.",
+  "data": "HTTP/1.1 200 OK\r\nDate: Thu, 06 Aug 2026 08:21:40 GMT\r\nServer: ChaiServer\r\nLast-Modified: Tue, 23 Mar 2021 08:03:54 GMT\r\nX-Powered-By: Next.js\r\nContent-Type: text/x-component\r\nVary: RSC\r\nContent-Length: 222\r\n\r\n",
+  "asn": "AS16509",
+  "cpe23": [
+    "cpe:2.3:a:facebook:react",
+    "cpe:2.3:a:vercel:next.js"
+  ],
+  "isp": "Amazon.com, Inc.",
+  "cpe": [
+    "cpe:/a:facebook:react",
+    "cpe:/a:vercel:next.js"
+  ],
+  "os": null,
+  "_shodan": {
+    "region": "na",
+    "module": "auto"
+  },
+  "opts": {},
+  "_artifact": {
+    "host_id": "451a0baa58898e052878414043ed653f",
+    "ip_id": "c3f826e75000da0be598f76c619fb1c6",
+    "port": 5606,
+    "framework": "next",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 222,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 23
+    }
+  }
+}

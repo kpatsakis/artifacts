@@ -1,0 +1,67 @@
+{
+  "http": {
+    "status": 200,
+    "redirects": [],
+    "securitytxt": null,
+    "title": "Libgen",
+    "robots": null,
+    "headers": {
+      "content-length": "1617",
+      "via": "1.1 Caddy",
+      "x-powered-by": "Nuxt",
+      "cache-status": "Souin; fwd=uri-miss; stored; key=GET-https-libgen.xyz-/",
+      "server": "nginx/1.26.3",
+      "cache-control": "",
+      "date": "Mon, 27 Jul 2026 22:08:55 GMT",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "content-type": "text/html;charset=utf-8"
+    },
+    "html": "<!DOCTYPE html><html><head><meta charset=\"utf-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n<title>Libgen</title>\n<meta name=\"description\" content>\n<link rel=\"icon\" type=\"image/x-icon\" href=\"/icons/favicon.ico\">\n<link rel=\"stylesheet\" href=\"/_nuxt/entry.C4mfbyBf.css\">\n<link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/entry.DpkGC0ve.js\">\n<link rel=\"prefetch\" as=\"style\" crossorigin href=\"/_nuxt/default.CNXtga5L.css\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/default.DjKyR0FO.js\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/_plugin-vue_export-helper.DlAUqK2U.js\">\n<link rel=\"prefetch\" as=\"style\" crossorigin href=\"/_nuxt/error-404.JekaaCis.css\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/error-404.C7L-RpWx.js\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/vue.-sixQ7xP.Byn7iXIF.js\">\n<link rel=\"prefetch\" as=\"style\" crossorigin href=\"/_nuxt/error-500.CNP9nqm1.css\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/error-500.BWhw16z_.js\">\n<script type=\"module\" src=\"/_nuxt/entry.DpkGC0ve.js\" crossorigin></script>\n<script id=\"unhead:payload\" type=\"application/json\">{\"title\":\"Libgen\"}</script></head><body><div id=\"__nuxt\"></div><script type=\"application/json\" id=\"__NUXT_DATA__\" data-ssr=\"false\">[{\"_errors\":1,\"serverRendered\":2,\"data\":3,\"state\":4,\"once\":5},{},false,{},{},[\"Set\"]]</script>\n<script>window.__NUXT__={};window.__NUXT__.config={public:{theme:\"antic\",persistedState:{storage:\"cookies\",debug:false,cookieOptions:{}}},app:{baseURL:\"/\",buildAssetsDir:\"/_nuxt/\",cdnURL:\"\"}}</script></body></html>",
+    "location": "/",
+    "server": "nginx/1.26.3",
+    "sitemap": null
+  },
+  "port": 80,
+  "transport": "tcp",
+  "version": "1.26.3",
+  "location": {
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  "product": "nginx",
+  "tags": [
+    "eol-product"
+  ],
+  "timestamp": "2026-07-27T22:08:55.720863",
+  "org": "Aeza International LTD",
+  "data": "HTTP/1.1 200 OK\r\nserver: nginx/1.26.3\r\ndate: Mon, 27 Jul 2026 22:08:55 GMT\r\ncontent-type: text/html;charset=utf-8\r\ncontent-length: 1617\r\ncache-control: \r\ncache-status: Souin; fwd=uri-miss; stored; key=GET-https-libgen.xyz-/\r\nvia: 1.1 Caddy\r\nx-powered-by: Nuxt\r\nalt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000\r\n\r\n",
+  "asn": "AS210644",
+  "cpe23": [
+    "cpe:2.3:a:f5:nginx:1.26.3",
+    "cpe:2.3:a:nuxt:nuxt"
+  ],
+  "isp": "AEZA INTERNATIONAL LTD",
+  "cpe": [
+    "cpe:/a:f5:nginx:1.26.3",
+    "cpe:/a:nuxt:nuxt"
+  ],
+  "os": null,
+  "_shodan": {
+    "region": "na",
+    "module": "http"
+  },
+  "opts": {},
+  "_artifact": {
+    "host_id": "0837d01716f45d13adfdbfce6edb0b08",
+    "ip_id": "bc27cd0c8a21723d29b8a742f5b2225d",
+    "port": 80,
+    "framework": "nuxt",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 1617,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 24
+    }
+  }
+}

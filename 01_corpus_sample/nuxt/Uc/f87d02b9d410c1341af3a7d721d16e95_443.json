@@ -1,0 +1,74 @@
+{
+  "http": {
+    "status": 200,
+    "redirects": [
+      {
+        "data": "HTTP/1.1 302 Found\r\nServer: nginx\r\nDate: Thu, 06 Aug 2026 02:22:36 GMT\r\nContent-Type: text/html\r\nContent-Length: 92\r\nConnection: keep-alive\r\nset-cookie: error_status=NOTFOUND; Max-Age=31536000; Path=/\r\nlocation: /error\r\nStrict-Transport-Security: max-age=31536000\r\n\r\n",
+        "location": "/"
+      }
+    ],
+    "securitytxt": null,
+    "title": "ERROR - ",
+    "robots": "#we use SHOPTF as our ecommerce platform\r\n\r\nUser-agent: *\r\nDisallow: /admin_*\r\nDisallow: /account\r\nDisallow: /product/evaluate\r\nDisallow: /product/payment\r\nDisallow: /error\r\nDisallow: /OfflinePayment\r\nDisallow: /OrderDetail\r\nDisallow: /paymentFailed\r\nDisallow: /paymentSuccessful\r\n\r\nUser-agent: adsbot-google\r\nDisallow: /admin_*\r\nDisallow: /account\r\nDisallow: /product/evaluate\r\nDisallow: /product/payment\r\nDisallow: /error\r\nDisallow: /OfflinePayment\r\nDisallow: /OrderDetail\r\nDisallow: /paymentFailed\r\nDisallow: /paymentSuccessful\r\n\r\nUser-agent: Nutch\r\nDisallow: /\r\n\r\nUser-agent: AhrefsBot\r\nCrawl-Delay: 10\r\nDisallow: /admin_*\r\nDisallow: /account\r\nDisallow: /product/evaluate\r\nDisallow: /product/payment\r\nDisallow: /error\r\nDisallow: /OfflinePayment\r\nDisallow: /OrderDetail\r\nDisallow: /paymentFailed\r\nDisallow: /paymentSuccessful\r\n\r\nUser-agent: AhrefsSiteAudit\r\nCrawl-Delay: 10\r\nDisallow: /admin_*\r\nDisallow: /account\r\nDisallow: /product/evaluate\r\nDisallow: /product/payment\r\nDisallow: /error\r\nDisallow: /OfflinePayment\r\nDisallow: /OrderDetail\r\nDisallow: /paymentFailed\r\nDisallow: /paymentSuccessful\r\n\r\nUser-agent: Googlebot\r\nCrawl-Delay: 10\r\nDisallow: /admin_*\r\nDisallow: /account\r\nDisallow: /product/evaluate\r\nDisallow: /product/payment\r\nDisallow: /error\r\nDisallow: /OfflinePayment\r\nDisallow: /OrderDetail\r\nDisallow: /paymentFailed\r\nDisallow: /paymentSuccessful\r\n\r\nUser-agent: Googlebot-image\r\nCrawl-Delay: 10\r\nDisallow: /admin_*\r\nDisallow: /account\r\nDisallow: /product/evaluate\r\nDisallow: /product/payment\r\nDisallow: /error\r\nDisallow: /OfflinePayment\r\nDisallow: /OrderDetail\r\nDisallow: /paymentFailed\r\nDisallow: /paymentSuccessful\r\n\r\nUser-agent: MJ12bot\r\nCrawl-Delay: 10\r\nDisallow: /admin_*\r\nDisallow: /account\r\nDisallow: /product/evaluate\r\nDisallow: /product/payment\r\nDisallow: /error\r\nDisallow: /OfflinePayment\r\nDisallow: /OrderDetail\r\nDisallow: /paymentFailed\r\nDisallow: /paymentSuccessful\r\n\r\nUser-agent: Pinterest\r\nCrawl-Delay: 1\r\nDisallow: /admin_*\r\nDisallow: /account\r\nDisallow: /product/evaluate\r\nDisallow: /product/payment\r\nDisallow: /error\r\nDisallow: /OfflinePayment\r\nDisallow: /OrderDetail\r\nDisallow: /paymentFailed\r\nDisallow: /paymentSuccessful",
+    "components_hash": 871147091,
+    "html": "<!DOCTYPE html><html  lang=\"en\" data-capo=\"\"><head><meta charset=\"utf-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no\">\n<title>ERROR - </title>\n<link rel=\"stylesheet\" href=\"https://cdn.shoptf.net/_nuxt/entry.Dp7gPcDr.css\" crossorigin>\n<link rel=\"stylesheet\" href=\"https://cdn.shoptf.net/_nuxt/Chat.BjrX8IqJ.css\" crossorigin>\n<link rel=\"modulepreload\" as=\"script\" crossorigin href=\"https://cdn.shoptf.net/_nuxt/BpXNE90A.js\">\n<link rel=\"modulepreload\" as=\"script\" crossorigin href=\"https://cdn.shoptf.net/_nuxt/i96fuuuj.js\">\n<link rel=\"modulepreload\" as=\"script\" crossorigin href=\"https://cdn.shoptf.net/_nuxt/BbK6wm72.js\">\n<link rel=\"modulepreload\" as=\"script\" crossorigin href=\"https://cdn.shoptf.net/_nuxt/CC9WXwXF.js\">\n<link rel=\"modulepreload\" as=\"script\" crossorigin href=\"https://cdn.shoptf.net/_nuxt/ByUnGGyk.js\">\n<link rel=\"modulepreload\" as=\"script\" crossorigin href=\"https://cdn.shoptf.net/_nuxt/D_siRwwb.js\">\n<link rel=\"modulepreload\" as=\"script\" crossorigin href=\"https://cdn.shoptf.net/_nuxt/BixJAxc8.js\">\n<link rel=\"prefetch\" as=\"style\" crossorigin href=\"https://cdn.shoptf.net/_nuxt/default.D7VkYN6t.css\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"https://cdn.shoptf.net/_nuxt/DxultaEQ.js\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"https://cdn.shoptf.net/_nuxt/EjZswt15.js\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"https://cdn.shoptf.net/_nuxt/kTP4e3-6.js\">\n<link rel=\"prefetch\" as=\"style\" crossorigin href=\"https://cdn.shoptf.net/_nuxt/error-404.Ch-FATqx.css\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"https://cdn.shoptf.net/_nuxt/LTWXBiR8.js\">\n<link rel=\"prefetch\" as=\"style\" crossorigin href=\"https://cdn.shoptf.net/_nuxt/error-500.CO7D9Hio.css\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"https://cdn.shoptf.net/_nuxt/CsKiqUew.js\">\n<link rel=\"icon\" type=\"image/x-icon\" href>\n<meta name=\"keywords\" content>\n<meta name=\"description\" content>\n<meta name=\"robots\" content=\"index, follow\">\n<meta name=\"copyright\" content>\n<meta property=\"og:site:name\" content>\n<meta property=\"og:url\" content>\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content>\n<meta property=\"og:description\" content>\n<meta name=\"twitter:card\" content=\"summary_large_image\">\n<meta name=\"twitter:title\" content>\n<meta name=\"twitter:description\" content>\n<script type=\"module\" src=\"https://cdn.shoptf.net/_nuxt/BpXNE90A.js\" crossorigin></script>\n<link rel=\"preload\" as=\"fetch\" fetchpriority=\"low\" crossorigin=\"anonymous\" href=\"https://cdn.shoptf.net/_nuxt/builds/meta/d75c891d-e89c-4ec8-82b9-e59ce8e75a63.json\"></head><body><div id=\"__nuxt\"><!--[--><div></div><span></span><div id=\"nuxt-app\" class=\"w-full flex\"><!--[--><div class=\"fixed z-[999999] w-full h-[100svh]\" style=\"background-color:var(--container-bg);\"></div><div style=\"display:none;width:100%;min-height:100svh;max-height:none;overflow:visible;background-color:var(--container-bg);box-shadow:none;\" element-loading-text element-loading-background=\"var(--mask-color)\" element-loading-custom-class=\"global-loading-class\" class=\"mx-auto overflow-auto\"><!--[--><div class=\"w-full box-border\" style=\"padding:0px 0px 0px 0px;\"><div class=\"flex flex-col items-center w-full mx-[auto]\" style=\"max-width:800px;gap:40px;\"><img loading=\"lazy\" src=\"/images/error.png\" alt=\"error\" style=\"min-width:300px;max-width:300px;height:300px;\"><div class=\"max-w-full break-words\" style=\"font-size:18px;color:var(--primary-font-color);text-align:center;\">Sorry, the current website has been banned</div></div></div><!--]--><!----><!----><!----></div><!--]--><!----></div><!--]--></div><div id=\"teleports\"></div><script type=\"application/json\" data-nuxt-data=\"nuxt-app\" data-ssr=\"true\" id=\"__NUXT_DATA__\">[[\"ShallowReactive\",1],{\"data\":2,\"state\":9,\"once\":20,\"_errors\":21,\"serverRendered\":23,\"path\":24},[\"ShallowReactive\",3],{\"QozIlu5oMx\":4},{\"code\":5,\"data\":6,\"message\":8},419,{\"type\":7},\"NOTFOUND\",\"\",[\"Reactive\",10],{\"$sinitNewModuleList\":11,\"$sinitCommonModuleList\":12,\"$sinitConfigModuleList\":13,\"$sdecorationHeaders\":14,\"$sstartTime\":15,\"$sisLoading\":16,\"$schatConfig\":17,\"$sshowMsg\":16,\"$sunreadCount\":15,\"$smessageList\":18,\"$scurViewProduct\":19,\"$smessageCount\":15},[],[],[],{},0,false,null,[],{},[\"Set\"],[\"ShallowReactive\",22],{\"QozIlu5oMx\":17},true,\"/error\"]</script>\n<script>window.__NUXT__={};window.__NUXT__.config={public:{isUseServer:\"true\",clientApiBase:\"https://api.shoptf.net\",serverApiBase:\"http://api.shoptf.net\",adminApiBase:\"https://accounts.shoptf.net\",webSocketUrl:\"wss://api.shoptf.net/ws?role=user&token=\",testDomainSuffix:\"[hostname-redacted]\"},app:{baseURL:\"/\",buildId:\"d75c891d-e89c-4ec8-82b9-e59ce8e75a63\",buildAssetsDir:\"/_nuxt/\",cdnURL:\"https://cdn.shoptf.net\"}}</script></body></html>",
+    "location": "/error",
+    "headers": {
+      "content-length": "4784",
+      "x-powered-by": "Nuxt",
+      "strict-transport-security": "max-age=31536000",
+      "vary": "Accept-Encoding",
+      "server": "nginx",
+      "connection": "keep-alive",
+      "date": "Thu, 06 Aug 2026 02:22:37 GMT",
+      "content-type": "text/html;charset=utf-8"
+    },
+    "server": "nginx",
+    "sitemap": null
+  },
+  "port": 443,
+  "transport": "tcp",
+  "cpe23_hash": -1083318865,
+  "location": {
+    "country_code": "US",
+    "country_name": "United States"
+  },
+  "product": "nginx",
+  "timestamp": "2026-08-06T02:22:37.400401",
+  "org": "Hetzner Online GmbH",
+  "data": "HTTP/1.1 200 OK\r\nServer: nginx\r\nDate: Thu, 06 Aug 2026 02:22:37 GMT\r\nContent-Type: text/html;charset=utf-8\r\nContent-Length: 4784\r\nConnection: keep-alive\r\nVary: Accept-Encoding\r\nx-powered-by: Nuxt\r\nStrict-Transport-Security: max-age=31536000\r\n\r\n",
+  "asn": "AS212317",
+  "cpe23": [
+    "cpe:2.3:a:f5:nginx",
+    "cpe:2.3:a:nuxt:nuxt"
+  ],
+  "isp": "Hetzner Online GmbH",
+  "cpe": [
+    "cpe:/a:f5:nginx",
+    "cpe:/a:nuxt:nuxt"
+  ],
+  "os": null,
+  "_shodan": {
+    "region": "eu",
+    "module": "https"
+  },
+  "opts": {
+    "vulns": [],
+    "heartbleed": "2026/08/06 02:22:49 [ip-redacted]:443 - SAFE\n"
+  },
+  "_artifact": {
+    "host_id": "f87d02b9d410c1341af3a7d721d16e95",
+    "ip_id": "9da9555d45c8f20aae34a1993b9fc75b",
+    "port": 443,
+    "framework": "nuxt",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 4784,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 26,
+      "hostname": 1,
+      "ip": 1
+    }
+  }
+}

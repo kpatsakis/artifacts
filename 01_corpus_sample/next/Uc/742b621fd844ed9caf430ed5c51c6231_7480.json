@@ -1,0 +1,70 @@
+{
+  "http": {
+    "status": 200,
+    "redirects": [],
+    "securitytxt": null,
+    "title": null,
+    "robots": null,
+    "components_hash": -892850553,
+    "html": "<!DOCTYPE html>\n<html>\n<head>\n    <meta name=\"generator\" content=\"Waku\"/>\n    <link rel=\"icon\" href=\"/favicon.png\">\n</head>\n<body>\n    <div id=\"root\"></div>\n    <script src=\"/react-router-dom.js\"></script>\n</body>\n</html>\n",
+    "location": "/",
+    "headers": {
+      "content-length": "222",
+      "x-powered-by": "Next.js",
+      "vary": "RSC",
+      "server": "Linux/2.6.28.1-xxxx-std-ipv4-32, UPnP/1.0, Portable SDK for UPnP devices/1.4.3",
+      "last-modified": "Fri, 18 Oct 2024 10:25:43 GMT",
+      "date": "Thu, 06 Aug 2026 12:34:02 GMT",
+      "content-type": "text/x-component"
+    },
+    "server": "Linux/2.6.28.1-xxxx-std-ipv4-32, UPnP/1.0, Portable SDK for UPnP devices/1.4.3",
+    "sitemap": null
+  },
+  "port": 7480,
+  "transport": "tcp",
+  "cpe23_hash": 286908511,
+  "cloud": {
+    "region": "eu-west-2",
+    "service": "EC2",
+    "provider": "Amazon"
+  },
+  "location": {
+    "country_code": "GB",
+    "country_name": "United Kingdom"
+  },
+  "tags": [
+    "cloud"
+  ],
+  "timestamp": "2026-08-06T12:31:19.133213",
+  "org": "Amazon Data Services UK",
+  "data": "HTTP/1.1 200 OK\r\nDate: Thu, 06 Aug 2026 12:34:02 GMT\r\nServer: Linux/2.6.28.1-xxxx-std-ipv4-32, UPnP/1.0, Portable SDK for UPnP devices/1.4.3\r\nLast-Modified: Fri, 18 Oct 2024 10:25:43 GMT\r\nX-Powered-By: Next.js\r\nContent-Type: text/x-component\r\nVary: RSC\r\nContent-Length: 222\r\n\r\n",
+  "asn": "AS16509",
+  "cpe23": [
+    "cpe:2.3:a:facebook:react",
+    "cpe:2.3:a:vercel:next.js"
+  ],
+  "isp": "Amazon.com, Inc.",
+  "cpe": [
+    "cpe:/a:facebook:react",
+    "cpe:/a:vercel:next.js"
+  ],
+  "os": null,
+  "_shodan": {
+    "region": "na",
+    "module": "auto"
+  },
+  "opts": {},
+  "_artifact": {
+    "host_id": "742b621fd844ed9caf430ed5c51c6231",
+    "ip_id": "48d70202a26cb6b4a9098d65bc73c706",
+    "port": 7480,
+    "framework": "next",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 222,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 23
+    }
+  }
+}

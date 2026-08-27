@@ -1,0 +1,56 @@
+{
+  "asn": "AS16276",
+  "http": {
+    "status": 200,
+    "redirects": [
+      {
+        "data": "HTTP/1.1 302 Found\r\nServer: nginx\r\nDate: Sun, 26 Jul 2026 07:35:38 GMT\r\nContent-Type: text/html\r\nTransfer-Encoding: chunked\r\nConnection: keep-alive\r\nlocation: /sandbox/accueil\r\n\r\n",
+        "location": "/"
+      }
+    ],
+    "securitytxt": null,
+    "title": "Accueil",
+    "robots": "User-Agent: *\nDisallow:\n",
+    "server": "nginx",
+    "headers": {
+      "x-powered-by": "Nuxt",
+      "transfer-encoding": "chunked",
+      "server": "nginx",
+      "connection": "keep-alive",
+      "date": "Sun, 26 Jul 2026 07:35:39 GMT",
+      "content-type": "text/html;charset=utf-8"
+    },
+    "html": "<!DOCTYPE html><html><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"><title>Accueil</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin><style>:root {\n  --palette-primary: #d05435;\n  --palette-primary-light: #faf5ef;\n  --palette-secondary: #1b8351;\n  --palette-secondary-light: #e1f2d9;\n  --palette-accent: #db2777;\n  --palette-accent-light: #f9d2e8;\n  --palette-light: #ebf2fa;\n  --palette-dark: #132742;\n}</style><style>body, p, li, blockquote, td, th {  font-size: clamp(14px, 1.33vw + 0.5rem, 16px); font-weight: 400; line-height: 1.5; letter-spacing: 0em; color: #132742; }\nh1 {  font-size: clamp(24px, 3.00vw + 0.5rem, 36px); font-weight: 400; line-height: 1.5; letter-spacing: 0em; color: #132742; }\nh2 {  font-size: clamp(20px, 2.50vw + 0.5rem, 30px); font-weight: 400; line-height: 1.5; letter-spacing: 0em; color: #132742; }\nh3 {  font-size: clamp(16px, 2.00vw + 0.5rem, 24px); font-weight: 400; line-height: 1.5; letter-spacing: 0em; color: #132742; }\nh4 {  font-size: clamp(17px, 1.67vw + 0.5rem, 20px); font-weight: 400; line-height: 1.5; letter-spacing: 0em; color: #132742; }\nh5 {  font-size: clamp(15px, 1.50vw + 0.5rem, 18px); font-weight: 400; line-height: 1.5; letter-spacing: 0em; color: #132742; }\nh6 {  font-size: clamp(14px, 1.33vw + 0.5rem, 16px); font-weight: 400; line-height: 1.5; letter-spacing: 0em; color: #132742; }\nnav a, .nav-link {  font-size: clamp(12px, 1.17vw + 0.5rem, 14px); font-weight: 400; line-height: 1.5; letter-spacing: 0em; color: #132742; }</style><link rel=\"stylesheet\" href=\"/_nuxt/entry.CIopzZ0v.css\" crossorigin><link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/CZjEcB3c.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/CiKLtzKY.js\"><script type=\"module\" src=\"/_nuxt/CZjEcB3c.js\" crossorigin></script></head><body><div id=\"__nuxt\"><div class=\"app-shell\" style=\"background-color:#ebf2fa;\"><!----><div><!--[--><!--]--></div><!----></div></div><div id=\"teleports\"></div><script>window.__NUXT__={};window.__NUXT__.config={public:{tenantMode:\"path\",apiUrl:\"http://api:3000/api\"},app:{baseURL:\"/\",buildId:\"78d454fb-1289-42bf-9d0f-d2844ce5a690\",buildAssetsDir:\"/_nuxt/\",cdnURL:\"\"}}</script><script type=\"application/json\" data-nuxt-data=\"nuxt-app\" data-ssr=\"true\" id=\"__NUXT_DATA__\">[[\"ShallowReactive\",1],{\"data\":2,\"state\":96,\"once\":98,\"_errors\":99,\"serverRendered\":85,\"path\":101},[\"ShallowReactive\",3],{\"site-data\":4,\"page-accueil\":88},{\"appearance\":5,\"header\":76,\"footer\":76,\"navigationItems\":79,\"fonts\":87},{\"id\":6,\"tenantId\":7,\"palette\":8,\"layout\":17,\"sectionDefaults\":19,\"blockDefaults\":24,\"typography\":26,\"background\":72,\"customCss\":76,\"createdAt\":77,\"updatedAt\":78},\"019e8e65-f75f-71d7-9fd5-568e8217d607\",\"019e8e03-f205-767c-9a98-3f6e69913671\",{\"primary\":9,\"primaryLight\":10,\"secondary\":11,\"secondaryLight\":12,\"accent\":13,\"accentLight\":14,\"light\":15,\"dark\":16},\"#d05435\",\"#faf5ef\",\"#1b8351\",\"#e1f2d9\",\"#db2777\",\"#f9d2e8\",\"#ebf2fa\",\"#132742\",{\"contentMaxWidth\":18},1200,{\"paddingTop\":20,\"paddingBottom\":20,\"paddingLeft\":20,\"paddingRight\":20,\"marginTop\":20,\"marginBottom\":20,\"marginLeft\":20,\"marginRight\":20,\"minHeight\":20,\"minHeightUnit\":21,\"scrollEffect\":22,\"scrollEffectDelay\":20,\"scrollEffectDuration\":23},0,\"PX\",\"NONE\",600,{\"paddingTop\":20,\"paddingBottom\":20,\"paddingLeft\":20,\"paddingRight\":20,\"marginTop\":20,\"marginBottom\":20,\"maxHeight\":20,\"maxHeightUnit\":21,\"scrollEffect\":22,\"scrollEffectDelay\":20,\"scrollEffectDuration\":23,\"hoverEffect\":22,\"hoverEffectDelay\":20,\"hoverEffectDuration\":25},300,[27,38,43,48,53,58,63,67],{\"id\":28,\"category\":29,\"fontId\":30,\"fontFamily\":30,\"fontSize\":31,\"fontWeight\":32,\"lineHeight\":33,\"letterSpacing\":34,\"color\":35},\"019e944d-b61c-7262-afbe-9d91365a7b28\",\"BODY\",null,16,400,\"1.5\",\"0em\",{\"type\":36,\"value\":37},\"PALETTE_REF\",\"dark\",{\"id\":39,\"category\":40,\"fontId\":30,\"fontFamily\":30,\"fontSize\":41,\"fontWeight\":32,\"lineHeight\":33,\"letterSpacing\":34,\"color\":42},\"019e944d-b61d-752d-b90d-790a4693c70c\",\"H1\",36,{\"type\":36,\"value\":37},{\"id\":44,\"category\":45,\"fontId\":30,\"fontFamily\":30,\"fontSize\":46,\"fontWeight\":32,\"lineHeight\":33,\"letterSpacing\":34,\"color\":47},\"019e944d-b61d-752d-b90d-7febd65ea814\",\"H2\",30,{\"type\":36,\"value\":37},{\"id\":49,\"category\":50,\"fontId\":30,\"fontFamily\":30,\"fontSize\":51,\"fontWeight\":32,\"lineHeight\":33,\"letterSpacing\":34,\"color\":52},\"019e944d-b61d-752d-b90d-82e4d481158b\",\"H3\",24,{\"type\":36,\"value\":37},{\"id\":54,\"category\":55,\"fontId\":30,\"fontFamily\":30,\"fontSize\":56,\"fontWeight\":32,\"lineHeight\":33,\"letterSpacing\":34,\"color\":57},\"019e944d-b61d-752d-b90d-841341392822\",\"H4\",20,{\"type\":36,\"value\":37},{\"id\":59,\"category\":60,\"fontId\":30,\"fontFamily\":30,\"fontSize\":61,\"fontWeight\":32,\"lineHeight\":33,\"letterSpacing\":34,\"color\":62},\"019e944d-b61d-752d-b90d-8a25caae9a70\",\"H5\",18,{\"type\":36,\"value\":37},{\"id\":64,\"category\":65,\"fontId\":30,\"fontFamily\":30,\"fontSize\":31,\"fontWeight\":32,\"lineHeight\":33,\"letterSpacing\":34,\"color\":66},\"019e944d-b61d-752d-b90d-8d42d9ff61f6\",\"H6\",{\"type\":36,\"value\":37},{\"id\":68,\"category\":69,\"fontId\":30,\"fontFamily\":30,\"fontSize\":70,\"fontWeight\":32,\"lineHeight\":33,\"letterSpacing\":34,\"color\":71},\"019e944d-b61d-752d-b90d-91e2a4cbf9aa\",\"NAV\",14,{\"type\":36,\"value\":37},{\"type\":73,\"color\":74},\"SOLID\",{\"type\":36,\"value\":75},\"light\",\"\",\"2026-06-03T16:51:47.709Z\",\"2026-06-04T20:23:01.419Z\",[80],{\"id\":81,\"title\":82,\"slug\":83,\"path\":84,\"position\":20,\"clickable\":85,\"children\":86},\"019e8e5d-1da9-75fb-ab12-31b95eb7f1be\",\"Accueil\",\"accueil\",\"/accueil\",true,[],[],{\"id\":81,\"title\":82,\"slug\":83,\"type\":89,\"externalUrl\":30,\"anchorTarget\":30,\"openMode\":90,\"parentId\":30,\"sections\":91,\"position\":20,\"status\":92,\"publishedAt\":93,\"createdAt\":94,\"updatedAt\":94,\"headerMode\":95,\"headerId\":30,\"resolvedHeader\":30,\"footerMode\":95,\"footerId\":30,\"resolvedFooter\":30},\"INTERNAL\",\"SELF\",[],\"PUBLISHED\",\"2026-06-04T11:43:00.586Z\",\"2026-06-03T16:42:07.867Z\",\"INHERIT\",[\"Reactive\",97],{},[\"Set\"],[\"ShallowReactive\",100],{\"site-data\":-1,\"page-accueil\":-1},\"/sandbox/accueil\"]</script></body></html>",
+    "location": "/sandbox/accueil",
+    "sitemap": null
+  },
+  "os": null,
+  "timestamp": "2026-07-26T07:35:40.043697",
+  "isp": "OVH SAS",
+  "transport": "tcp",
+  "_shodan": {
+    "region": "na",
+    "module": "http"
+  },
+  "location": {
+    "country_code": "FR",
+    "country_name": "France"
+  },
+  "org": "OVH SAS",
+  "data": "HTTP/1.1 200 OK\r\nServer: nginx\r\nDate: Sun, 26 Jul 2026 07:35:39 GMT\r\nContent-Type: text/html;charset=utf-8\r\nTransfer-Encoding: chunked\r\nConnection: keep-alive\r\nx-powered-by: Nuxt\r\n\r\n",
+  "port": 80,
+  "opts": {},
+  "_artifact": {
+    "host_id": "1a6b3da057c4fe4fca74f59dcfb78f79",
+    "ip_id": "5eba7cf38aba970c6e17c83525b2c35b",
+    "port": 80,
+    "framework": "nuxt",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 6071,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 20
+    }
+  }
+}

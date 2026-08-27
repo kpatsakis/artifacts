@@ -1,0 +1,68 @@
+{
+  "asn": "AS16509",
+  "http": {
+    "status": 200,
+    "redirects": [],
+    "securitytxt": null,
+    "title": "NVR301-04E",
+    "robots": null,
+    "server": "ipos/7.0 UPnP/1.0 TL-WR941N/2.0",
+    "headers": {
+      "content-length": "1966",
+      "x-powered-by": "Next.js",
+      "set-cookie": "csrftoken=mzCVEnBeHggYOHn7YCzscvfntiraID58",
+      "server": "ipos/7.0 UPnP/1.0 TL-WR941N/2.0",
+      "last-modified": "Tue, 19 Feb 2019 23:13:15 GMT",
+      "date": "Thu, 06 Aug 2026 07:32:38 GMT",
+      "content-type": "text/html"
+    },
+    "html": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"utf-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<title>NVR301-04E</title>\n<link rel=\"icon\" href=\"/favicon_5c6787b8-0848-48e8-96e6-f5c97bbf5d99.ico\" type=\"image/x-icon\">\n</head>\n<body>\n<main>\n<code class=\"entry\">zwX3qoGMF6syCIxSdSlm MVaq4YTBXsrdMq25UwkWwnDD dkEtBK3O7uUjAx9qXvPiKUGK92 SGbXDQPBik</code>\n<h5 class=\"row\">FkQ6ZfVEb1b0IBUQ101o6f1XDK qE4QWBZ5BphvQDO</h5>\n<footer class=\"box\">CHhFkj 0akhj6qa6P5Ev5bYWYN0 Fn4lQ</footer>\n<span>2UpDVnYoxlCM80LX9PoIs23J</span>\n<blockquote class=\"text\">rDsjHExK7suyWIL5 BDQDUVarTg1kJAmqiX i52aXREq2ltQE6QJ4Lsd8Dlik qB4lhVCLbtwwtXMeLJRHYhRyDkg6D</blockquote>\n<blockquote>iIm1jkf0y SZdh9TIYdkrOWiO4V F9w2D4VZkjfRVDmav3PeFCNj5cJ2k</blockquote>\n<article>4A8LBkLzf6 wLNry6 p6Xt3qMzG00922P</article>\n<nav>OPW3nXZneGAgaaZ0m9IhzkPuUJ vYJ4Fd13YL NdHsDEhlbvmJ6pXGUFoI MFccmcT95jf YJ0o2</nav>\n<pre class=\"row\">bah2QNotBD98u1K20kcR</pre>\n<header class=\"body\">22ATVJWrWGeeGwGH 2vBMbZV8YTMKGS 9QKxPWHfhluCS9xz9BHEucYrMuTrm p4lwE7vuKbRdJAkBXN9SAf9K4</header>\n<code class=\"main\">vjEAfhkSZ2U7AsSDPOopl5V3ed V2aq3coTLXeQouPPm9jq 9Mnu2igXHCi9PXN D0KZx3CdVjcbEHjwepiumSkx dbxfA</code>\n<footer class=\"summary\">elFwfvioBkH0Ul1wRJK0G3V5f5PD EQLj52LVMupHQxF9</footer>\n<h1>6Y1MMaQPkm4Lc4IJTEWhU07R WsnRxcoZbD8m1vzXa1Qw</h1>\n<blockquote>E7gTwKH3DxgNgtXvOaR01JDBH8q rZx8UMmW9EQEGAcQo cCDUXH2FpXU4mxfhIZaMD leK2lOHMlm0sULGuvw7Z IHTwe</blockquote>\n<pre>fXGAbtNd93k0qB</pre>\n<li>0MPzuySJ4LXCrKp CXUJNWM3oEOcu5IOHc8l4B</li>\n<main class=\"inner\">22ql479pGKPJf9uHQ7yVg2FVMFtlAJ OvXTxs9fi68DDEX jR2dnjmKrVA1G JQB6T9DcFfh 0OIVReA7pxjJHV4zShtF86K</main>\n<aside class=\"body\">RT1cWvZ lRJeAT2bEVm9Rez IIFeui1wDI ir2XUfWOOGFAl</aside>\n<header class=\"msg\">rODh8zb9I4CzAHulWbZLXp HaSGqt jZFjxuXsDq1qfrTruM PDCsZuoEcjYTzZs5JIPXKR 0fV7GRFGZkF9z340lDRFU77GmT6ODY</header>\n<span class=\"entry\">WLYHMcyS17ZkZyA0tYPqJVh YGtnxY V7cn93hYHEzekpO</span>\n<nav>UFvbCj</nav>\n</main>\n</body>\n</html>",
+    "location": "/",
+    "sitemap": null
+  },
+  "os": null,
+  "tags": [
+    "cloud"
+  ],
+  "transport": "tcp",
+  "timestamp": "2026-08-06T07:30:26.939975",
+  "isp": "Amazon.com, Inc.",
+  "cpe23": [
+    "cpe:2.3:a:facebook:react",
+    "cpe:2.3:a:vercel:next.js"
+  ],
+  "cpe": [
+    "cpe:/a:facebook:react",
+    "cpe:/a:vercel:next.js"
+  ],
+  "_shodan": {
+    "region": "na",
+    "module": "auto"
+  },
+  "cloud": {
+    "region": "eu-south-1",
+    "service": "EC2",
+    "provider": "Amazon"
+  },
+  "location": {
+    "country_code": "IT",
+    "country_name": "Italy"
+  },
+  "org": "Amazon Data Services Italy",
+  "data": "HTTP/1.1 200 OK\r\nDate: Thu, 06 Aug 2026 07:32:38 GMT\r\nServer: ipos/7.0 UPnP/1.0 TL-WR941N/2.0\r\nLast-Modified: Tue, 19 Feb 2019 23:13:15 GMT\r\nX-Powered-By: Next.js\r\nContent-Length: 1966\r\nContent-Type: text/html\r\nSet-Cookie: csrftoken=mzCVEnBeHggYOHn7YCzscvfntiraID58\r\n\r\n",
+  "port": 2002,
+  "opts": {},
+  "_artifact": {
+    "host_id": "57f90240ed41f318ec47317b1fd50f75",
+    "ip_id": "8f1379c5cd21ae39b7dfd0b9e1edda5b",
+    "port": 2002,
+    "framework": "next",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 1966,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 24
+    }
+  }
+}

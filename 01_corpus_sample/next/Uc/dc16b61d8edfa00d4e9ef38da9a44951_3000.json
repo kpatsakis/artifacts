@@ -1,0 +1,63 @@
+{
+  "asn": "AS14061",
+  "http": {
+    "status": 200,
+    "redirects": [],
+    "securitytxt": null,
+    "title": "Karyakarta Portal - Event Registration &amp; Management",
+    "robots": null,
+    "server": null,
+    "headers": {
+      "x-nextjs-cache": "HIT",
+      "content-length": "8106",
+      "x-powered-by": "Next.js",
+      "vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Accept-Encoding",
+      "keep-alive": "timeout=5",
+      "connection": "keep-alive",
+      "etag": "\"ywaeaw2ky768w\"",
+      "cache-control": "s-maxage=31536000, stale-while-revalidate",
+      "date": "Tue, 21 Jul 2026 03:29:34 GMT",
+      "content-type": "text/html; charset=utf-8"
+    },
+    "html": "<!DOCTYPE html><html lang=\"en\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no\"/><link rel=\"stylesheet\" href=\"/_next/static/css/7654f857e3281715.css\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/webpack-b56f4d57b679acc5.js\"/><script src=\"/_next/static/chunks/fd9d1056-68d80e1589025a21.js\" async=\"\"></script><script src=\"/_next/static/chunks/2117-29909c5e04c5999c.js\" async=\"\"></script><script src=\"/_next/static/chunks/main-app-70edab93ebd756ac.js\" async=\"\"></script><script src=\"/_next/static/chunks/6edf0643-8bed5ffe8ae2c033.js\" async=\"\"></script><script src=\"/_next/static/chunks/1743-8d70530c6626cb1d.js\" async=\"\"></script><script src=\"/_next/static/chunks/388-609b4f14a7cdda94.js\" async=\"\"></script><script src=\"/_next/static/chunks/3394-4265349f45d1ea56.js\" async=\"\"></script><script src=\"/_next/static/chunks/app/page-5471eef4cb6e4a4c.js\" async=\"\"></script><script src=\"/_next/static/chunks/4659-00b9fbc956fdf564.js\" async=\"\"></script><script src=\"/_next/static/chunks/5883-00797ac615154f13.js\" async=\"\"></script><script src=\"/_next/static/chunks/8269-c56b88797a0450aa.js\" async=\"\"></script><script src=\"/_next/static/chunks/5953-b1034ed0f99720a9.js\" async=\"\"></script><script src=\"/_next/static/chunks/6362-6df38615835fddf5.js\" async=\"\"></script><script src=\"/_next/static/chunks/app/layout-193f4c0fcbe4c9b0.js\" async=\"\"></script><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"/><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin=\"anonymous\"/><title>Karyakarta Portal - Event Registration &amp; Management</title><meta name=\"description\" content=\"Modern event registration and management portal with role-based access control\"/><link rel=\"icon\" href=\"/logo.png\"/><link href=\"https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&amp;family=Noto+Sans+Gujarati:wght@100..900&amp;display=swap\" rel=\"stylesheet\"/><link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css\"/><script>(function(){\n              try{if(localStorage.getItem('darkMode')==='true'){document.documentElement.classList.add('dark');}}catch(e){}\n            })();</script><script src=\"/_next/static/chunks/polyfills-42372ed130431b0a.js\" noModule=\"\"></script></head><body class=\"bg-stone-50 dark:bg-zinc-950 text-stone-900 dark:text-zinc-100 min-h-screen\"><div class=\"flex items-center justify-center min-h-[60vh]\"><div class=\"flex flex-col items-center gap-4\"><div class=\"relative\"><div class=\"border-stone-200 dark:border-zinc-700 border-t-brand-500 rounded-full animate-spin w-10 h-10 border-4\"></div><div class=\"absolute inset-0 flex items-center justify-center\"><div class=\"w-2 h-2 bg-brand-500 rounded-full animate-ping\"></div></div></div><p class=\"text-xs font-bold text-stone-400 dark:text-zinc-500 uppercase tracking-[0.2em] animate-pulse\">Initializing Portal</p></div></div><div data-rht-toaster=\"\" style=\"position:fixed;z-index:9999;top:16px;left:16px;right:16px;bottom:16px;pointer-events:none\"></div><script src=\"/_next/static/chunks/webpack-b56f4d57b679acc5.js\" async=\"\"></script><script>(self.__next_f=self.__next_f||[]).push([0]);self.__next_f.push([2,null])</script><script>self.__next_f.push([1,\"1:HL[\\\"/_next/static/css/7654f857e3281715.css\\\",\\\"style\\\"]\\n\"])</script><script>self.__next_f.push([1,\"2:I[12846,[],\\\"\\\"]\\n4:I[19107,[],\\\"ClientPageRoot\\\"]\\n5:I[57340,[\\\"3113\\\",\\\"static/chunks/6edf0643-8bed5ffe8ae2c033.js\\\",\\\"1743\\\",\\\"static/chunks/1743-8d70530c6626cb1d.js\\\",\\\"388\\\",\\\"static/chunks/388-609b4f14a7cdda94.js\\\",\\\"3394\\\",\\\"static/chunks/3394-4265349f45d1ea56.js\\\",\\\"1931\\\",\\\"static/chunks/app/page-5471eef4cb6e4a4c.js\\\"],\\\"default\\\",1]\\n6:I[49294,[\\\"4659\\\",\\\"static/chunks/4659-00b9fbc956fdf564.js\\\",\\\"5883\\\",\\\"static/chunks/5883-00797ac615154f13.js\\\",\\\"8269\\\",\\\"static/chunks/8269-c56b88797a0450aa.js\\\",\\\"5953\\\",\\\"static/chunks/5953-b1034ed0f99720a9.js\\\",\\\"6362\\\",\\\"static/chunks/6362-6df38615835fddf5.js\\\",\\\"3185\\\",\\\"static/chunks/app/layout-193f4c0fcbe4c9b0.js\\\"],\\\"Providers\\\"]\\n7:I[4707,[],\\\"\\\"]\\n8:I[36423,[],\\\"\\\"]\\na:I[61060,[],\\\"\\\"]\\nb:[]\\n\"])</script><script>self.__next_f.push([1,\"0:[\\\"$\\\",\\\"$L2\\\",null,{\\\"buildId\\\":\\\"EHAtcLhajmEoAfC5jozqk\\\",\\\"assetPrefix\\\":\\\"\\\",\\\"urlParts\\\":[\\\"\\\",\\\"\\\"],\\\"initialTree\\\":[\\\"\\\",{\\\"children\\\":[\\\"__PAGE__\\\",{}]},\\\"$undefined\\\",\\\"$undefined\\\",true],\\\"initialSeedData\\\":[\\\"\\\",{\\\"children\\\":[\\\"__PAGE__\\\",{},[[\\\"$L3\\\",[\\\"$\\\",\\\"$L4\\\",null,{\\\"props\\\":{\\\"params\\\":{},\\\"searchParams\\\":{}},\\\"Component\\\":\\\"$5\\\"}],null],null],null]},[[[[\\\"$\\\",\\\"link\\\",\\\"0\\\",{\\\"rel\\\":\\\"stylesheet\\\",\\\"href\\\":\\\"/_next/static/css/7654f857e3281715.css\\\",\\\"precedence\\\":\\\"next\\\",\\\"crossOrigin\\\":\\\"$undefined\\\"}]],[\\\"$\\\",\\\"html\\\",null,{\\\"lang\\\":\\\"en\\\",\\\"suppressHydrationWarning\\\":true,\\\"children\\\":[[\\\"$\\\",\\\"head\\\",null,{\\\"children\\\":[[\\\"$\\\",\\\"link\\\",null,{\\\"rel\\\":\\\"preconnect\\\",\\\"href\\\":\\\"https://fonts.googleapis.com\\\"}],[\\\"$\\\",\\\"link\\\",null,{\\\"rel\\\":\\\"preconnect\\\",\\\"href\\\":\\\"https://fonts.gstatic.com\\\",\\\"crossOrigin\\\":\\\"anonymous\\\"}],[\\\"$\\\",\\\"link\\\",null,{\\\"href\\\":\\\"https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800\\u0026family=Noto+Sans+Gujarati:wght@100..900\\u0026display=swap\\\",\\\"rel\\\":\\\"stylesheet\\\"}],[\\\"$\\\",\\\"link\\\",null,{\\\"rel\\\":\\\"stylesheet\\\",\\\"href\\\":\\\"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css\\\"}],[\\\"$\\\",\\\"script\\\",null,{\\\"dangerouslySetInnerHTML\\\":{\\\"__html\\\":\\\"(function(){\\\\n              try{if(localStorage.getItem('darkMode')==='true'){document.documentElement.classList.add('dark');}}catch(e){}\\\\n            })();\\\"}}]]}],[\\\"$\\\",\\\"body\\\",null,{\\\"className\\\":\\\"bg-stone-50 dark:bg-zinc-950 text-stone-900 dark:text-zinc-100 min-h-screen\\\",\\\"children\\\":[\\\"$\\\",\\\"$L6\\\",null,{\\\"children\\\":[\\\"$\\\",\\\"$L7\\\",null,{\\\"parallelRouterKey\\\":\\\"children\\\",\\\"segmentPath\\\":[\\\"children\\\"],\\\"error\\\":\\\"$undefined\\\",\\\"errorStyles\\\":\\\"$undefined\\\",\\\"errorScripts\\\":\\\"$undefined\\\",\\\"template\\\":[\\\"$\\\",\\\"$L8\\\",null,{}],\\\"templateStyles\\\":\\\"$undefined\\\",\\\"templateScripts\\\":\\\"$undefined\\\",\\\"notFound\\\":[[\\\"$\\\",\\\"title\\\",null,{\\\"children\\\":\\\"404: This page could not be found.\\\"}],[\\\"$\\\",\\\"div\\\",null,{\\\"style\\\":{\\\"fontFamily\\\":\\\"system-ui,\\\\\\\"Segoe UI\\\\\\\",Roboto,Helvetica,Arial,sans-serif,\\\\\\\"Apple Color Emoji\\\\\\\",\\\\\\\"Segoe UI Emoji\\\\\\\"\\\",\\\"height\\\":\\\"100vh\\\",\\\"textAlign\\\":\\\"center\\\",\\\"display\\\":\\\"flex\\\",\\\"flexDirection\\\":\\\"column\\\",\\\"alignItems\\\":\\\"center\\\",\\\"justifyContent\\\":\\\"center\\\"},\\\"children\\\":[\\\"$\\\",\\\"div\\\",null,{\\\"children\\\":[[\\\"$\\\",\\\"style\\\",null,{\\\"dangerouslySetInnerHTML\\\":{\\\"__html\\\":\\\"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}\\\"}}],[\\\"$\\\",\\\"h1\\\",null,{\\\"className\\\":\\\"next-error-h1\\\",\\\"style\\\":{\\\"display\\\":\\\"inline-block\\\",\\\"margin\\\":\\\"0 20px 0 0\\\",\\\"padding\\\":\\\"0 23px 0 0\\\",\\\"fontSize\\\":24,\\\"fontWeight\\\":500,\\\"verticalAlign\\\":\\\"top\\\",\\\"lineHeight\\\":\\\"49px\\\"},\\\"children\\\":\\\"404\\\"}],[\\\"$\\\",\\\"div\\\",null,{\\\"style\\\":{\\\"display\\\":\\\"inline-block\\\"},\\\"children\\\":[\\\"$\\\",\\\"h2\\\",null,{\\\"style\\\":{\\\"fontSize\\\":14,\\\"fontWeight\\\":400,\\\"lineHeight\\\":\\\"49px\\\",\\\"margin\\\":0},\\\"children\\\":\\\"This page could not be found.\\\"}]}]]}]}]],\\\"notFoundStyles\\\":[]}]}]}]]}]],null],null],\\\"couldBeIntercepted\\\":false,\\\"initialHead\\\":[null,\\\"$L9\\\"],\\\"globalErrorComponent\\\":\\\"$a\\\",\\\"missingSlots\\\":\\\"$Wb\\\"}]\\n\"])</script><script>self.__next_f.push([1,\"9:[[\\\"$\\\",\\\"meta\\\",\\\"0\\\",{\\\"name\\\":\\\"viewport\\\",\\\"content\\\":\\\"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"1\\\",{\\\"charSet\\\":\\\"utf-8\\\"}],[\\\"$\\\",\\\"title\\\",\\\"2\\\",{\\\"children\\\":\\\"Karyakarta Portal - Event Registration \\u0026 Management\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"3\\\",{\\\"name\\\":\\\"description\\\",\\\"content\\\":\\\"Modern event registration and management portal with role-based access control\\\"}],[\\\"$\\\",\\\"link\\\",\\\"4\\\",{\\\"rel\\\":\\\"icon\\\",\\\"href\\\":\\\"/logo.png\\\"}]]\\n3:null\\n\"])</script></body></html>",
+    "location": "/",
+    "sitemap": null
+  },
+  "os": null,
+  "tags": [
+    "cloud"
+  ],
+  "timestamp": "2026-07-21T03:29:35.494535",
+  "isp": "DigitalOcean, LLC",
+  "transport": "tcp",
+  "_shodan": {
+    "region": "na",
+    "module": "http-simple-new"
+  },
+  "cloud": {
+    "region": "in-ka",
+    "service": null,
+    "provider": "DigitalOcean"
+  },
+  "location": {
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  "org": "DigitalOcean, LLC",
+  "data": "HTTP/1.1 200 OK\r\nVary: RSC, Next-Router-State-Tree, Next-Router-Prefetch, Accept-Encoding\r\nx-nextjs-cache: HIT\r\nX-Powered-By: Next.js\r\nCache-Control: s-maxage=31536000, stale-while-revalidate\r\nETag: \"ywaeaw2ky768w\"\r\nContent-Type: text/html; charset=utf-8\r\nContent-Length: 8106\r\nDate: Tue, 21 Jul 2026 03:29:34 GMT\r\nConnection: keep-alive\r\nKeep-Alive: timeout=5\r\n\r\n",
+  "port": 3000,
+  "opts": {},
+  "_artifact": {
+    "host_id": "dc16b61d8edfa00d4e9ef38da9a44951",
+    "ip_id": "813d529366037081f9ea805d8713c27d",
+    "port": 3000,
+    "framework": "next",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 8106,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 19
+    }
+  }
+}

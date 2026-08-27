@@ -1,0 +1,78 @@
+{
+  "http": {
+    "redirects": [],
+    "securitytxt": null,
+    "title": "Bookmarks",
+    "html": "<!DOCTYPE html><!--6ylhDKKHWUbTnT9ZqBGgx--><html lang=\"en\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"preload\" as=\"image\" href=\"/logo.png\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/a7600d796623b68a.css\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/483f6799b7bfcae3.css\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/a60660afb5a3a04e.css\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/a4f31d7e167fca15.js\"/><script src=\"/_next/static/chunks/6041e00ed4149413.js\" async=\"\"></script><script src=\"/_next/static/chunks/904ca5dcefec7b6b.js\" async=\"\"></script><script src=\"/_next/static/chunks/turbopack-da2e7e04bf88c1e9.js\" async=\"\"></script><script src=\"/_next/static/chunks/d0bfbd0a951bbc81.js\" async=\"\"></script><script src=\"/_next/static/chunks/7ee9eb071a7df452.js\" async=\"\"></script><script src=\"/_next/static/chunks/aa71f866f3faaeac.js\" async=\"\"></script><script src=\"/_next/static/chunks/874f8079ca4ca82e.js\" async=\"\"></script><script src=\"/_next/static/chunks/0ad4247bdad405b7.js\" async=\"\"></script><script src=\"/_next/static/chunks/a0d1398a78cf363e.js\" async=\"\"></script><title>Bookmarks</title><meta name=\"description\" content=\"Your messages. Your bookmarks.\n\nBookmark messages to save them for later, or to share them with friends.\"/><script src=\"/_next/static/chunks/a6dad97d9634a72d.js\" noModule=\"\"></script></head><body><div hidden=\"\"><!--$--><!--/$--></div><div class=\"RootLayout-module__vsZ4Iq__layoutWrapper\"><div class=\"RootLayout-module__vsZ4Iq__topbar\"><div class=\"RootLayout-module__vsZ4Iq__brand\"><img src=\"/logo.png\" alt=\"Logo\" class=\"RootLayout-module__vsZ4Iq__logo\"/><div class=\"RootLayout-module__vsZ4Iq__title\">Bookmarks</div></div><div class=\"AuthButton-module__YFKEva__button\">Loading...</div></div><div class=\"page-module__K6VUqq__container\">Loading...</div><!--$--><!--/$--></div><script src=\"/_next/static/chunks/a4f31d7e167fca15.js\" id=\"_R_\" async=\"\"></script><script>(self.__next_f=self.__next_f||[]).push([0])</script><script>self.__next_f.push([1,\"1:\\\"$Sreact.fragment\\\"\\n2:I[55775,[\\\"/_next/static/chunks/d0bfbd0a951bbc81.js\\\",\\\"/_next/static/chunks/7ee9eb071a7df452.js\\\",\\\"/_next/static/chunks/aa71f866f3faaeac.js\\\"],\\\"Providers\\\"]\\n3:I[40871,[\\\"/_next/static/chunks/d0bfbd0a951bbc81.js\\\",\\\"/_next/static/chunks/7ee9eb071a7df452.js\\\",\\\"/_next/static/chunks/aa71f866f3faaeac.js\\\"],\\\"default\\\"]\\n4:I[572,[\\\"/_next/static/chunks/874f8079ca4ca82e.js\\\"],\\\"default\\\"]\\n5:I[89138,[\\\"/_next/static/chunks/874f8079ca4ca82e.js\\\"],\\\"default\\\"]\\n6:I[96838,[\\\"/_next/static/chunks/874f8079ca4ca82e.js\\\"],\\\"ClientPageRoot\\\"]\\n7:I[64211,[\\\"/_next/static/chunks/d0bfbd0a951bbc81.js\\\",\\\"/_next/static/chunks/7ee9eb071a7df452.js\\\",\\\"/_next/static/chunks/aa71f866f3faaeac.js\\\",\\\"/_next/static/chunks/0ad4247bdad405b7.js\\\",\\\"/_next/static/chunks/a0d1398a78cf363e.js\\\"],\\\"default\\\"]\\na:I[17728,[\\\"/_next/static/chunks/874f8079ca4ca82e.js\\\"],\\\"OutletBoundary\\\"]\\nb:\\\"$Sreact.suspense\\\"\\nd:I[17728,[\\\"/_next/static/chunks/874f8079ca4ca82e.js\\\"],\\\"ViewportBoundary\\\"]\\nf:I[17728,[\\\"/_next/static/chunks/874f8079ca4ca82e.js\\\"],\\\"MetadataBoundary\\\"]\\n11:I[85891,[\\\"/_next/static/chunks/874f8079ca4ca82e.js\\\"],\\\"default\\\"]\\n:HL[\\\"/_next/static/chunks/a7600d796623b68a.css\\\",\\\"style\\\"]\\n:HL[\\\"/_next/static/chunks/483f6799b7bfcae3.css\\\",\\\"style\\\"]\\n:HL[\\\"/_next/static/chunks/a60660afb5a3a04e.css\\\",\\\"style\\\"]\\n\"])</script><script>self.__next_f.push([1,\"0:{\\\"P\\\":null,\\\"b\\\":\\\"6ylhDKKHWUbTnT9ZqBGgx\\\",\\\"c\\\":[\\\"\\\",\\\"\\\"],\\\"q\\\":\\\"\\\",\\\"i\\\":false,\\\"f\\\":[[[\\\"\\\",{\\\"children\\\":[\\\"__PAGE__\\\",{}]},\\\"$undefined\\\",\\\"$undefined\\\",true],[[\\\"$\\\",\\\"$1\\\",\\\"c\\\",{\\\"children\\\":[[[\\\"$\\\",\\\"link\\\",\\\"0\\\",{\\\"rel\\\":\\\"stylesheet\\\",\\\"href\\\":\\\"/_next/static/chunks/a7600d796623b68a.css\\\",\\\"precedence\\\":\\\"next\\\",\\\"crossOrigin\\\":\\\"$undefined\\\",\\\"nonce\\\":\\\"$undefined\\\"}],[\\\"$\\\",\\\"link\\\",\\\"1\\\",{\\\"rel\\\":\\\"stylesheet\\\",\\\"href\\\":\\\"/_next/static/chunks/483f6799b7bfcae3.css\\\",\\\"precedence\\\":\\\"next\\\",\\\"crossOrigin\\\":\\\"$undefined\\\",\\\"nonce\\\":\\\"$undefined\\\"}],[\\\"$\\\",\\\"script\\\",\\\"script-0\\\",{\\\"src\\\":\\\"/_next/static/chunks/d0bfbd0a951bbc81.js\\\",\\\"async\\\":true,\\\"nonce\\\":\\\"$undefined\\\"}],[\\\"$\\\",\\\"script\\\",\\\"script-1\\\",{\\\"src\\\":\\\"/_next/static/chunks/7ee9eb071a7df452.js\\\",\\\"async\\\":true,\\\"nonce\\\":\\\"$undefined\\\"}],[\\\"$\\\",\\\"script\\\",\\\"script-2\\\",{\\\"src\\\":\\\"/_next/static/chunks/aa71f866f3faaeac.js\\\",\\\"async\\\":true,\\\"nonce\\\":\\\"$undefined\\\"}]],[\\\"$\\\",\\\"html\\\",null,{\\\"lang\\\":\\\"en\\\",\\\"children\\\":[\\\"$\\\",\\\"body\\\",null,{\\\"children\\\":[\\\"$\\\",\\\"$L2\\\",null,{\\\"children\\\":[\\\"$\\\",\\\"$L3\\\",null,{\\\"children\\\":[\\\"$\\\",\\\"$L4\\\",null,{\\\"parallelRouterKey\\\":\\\"children\\\",\\\"error\\\":\\\"$undefined\\\",\\\"errorStyles\\\":\\\"$undefined\\\",\\\"errorScripts\\\":\\\"$undefined\\\",\\\"template\\\":[\\\"$\\\",\\\"$L5\\\",null,{}],\\\"templateStyles\\\":\\\"$undefined\\\",\\\"templateScripts\\\":\\\"$undefined\\\",\\\"notFound\\\":[[[\\\"$\\\",\\\"title\\\",null,{\\\"children\\\":\\\"404: This page could not be found.\\\"}],[\\\"$\\\",\\\"div\\\",null,{\\\"style\\\":{\\\"fontFamily\\\":\\\"system-ui,\\\\\\\"Segoe UI\\\\\\\",Roboto,Helvetica,Arial,sans-serif,\\\\\\\"Apple Color Emoji\\\\\\\",\\\\\\\"Segoe UI Emoji\\\\\\\"\\\",\\\"height\\\":\\\"100vh\\\",\\\"textAlign\\\":\\\"center\\\",\\\"display\\\":\\\"flex\\\",\\\"flexDirection\\\":\\\"column\\\",\\\"alignItems\\\":\\\"center\\\",\\\"justifyContent\\\":\\\"center\\\"},\\\"children\\\":[\\\"$\\\",\\\"div\\\",null,{\\\"children\\\":[[\\\"$\\\",\\\"style\\\",null,{\\\"dangerouslySetInnerHTML\\\":{\\\"__html\\\":\\\"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}\\\"}}],[\\\"$\\\",\\\"h1\\\",null,{\\\"className\\\":\\\"next-error-h1\\\",\\\"style\\\":{\\\"display\\\":\\\"inline-block\\\",\\\"margin\\\":\\\"0 20px 0 0\\\",\\\"padding\\\":\\\"0 23px 0 0\\\",\\\"fontSize\\\":24,\\\"fontWeight\\\":500,\\\"verticalAlign\\\":\\\"top\\\",\\\"lineHeight\\\":\\\"49px\\\"},\\\"children\\\":404}],[\\\"$\\\",\\\"div\\\",null,{\\\"style\\\":{\\\"display\\\":\\\"inline-block\\\"},\\\"children\\\":[\\\"$\\\",\\\"h2\\\",null,{\\\"style\\\":{\\\"fontSize\\\":14,\\\"fontWeight\\\":400,\\\"lineHeight\\\":\\\"49px\\\",\\\"margin\\\":0},\\\"children\\\":\\\"This page could not be found.\\\"}]}]]}]}]],[]],\\\"forbidden\\\":\\\"$undefined\\\",\\\"unauthorized\\\":\\\"$undefined\\\"}]}]}]}]}]]}],{\\\"children\\\":[[\\\"$\\\",\\\"$1\\\",\\\"c\\\",{\\\"children\\\":[[\\\"$\\\",\\\"$L6\\\",null,{\\\"Component\\\":\\\"$7\\\",\\\"serverProvidedParams\\\":{\\\"searchParams\\\":{},\\\"params\\\":{},\\\"promises\\\":[\\\"$@8\\\",\\\"$@9\\\"]}}],[[\\\"$\\\",\\\"link\\\",\\\"0\\\",{\\\"rel\\\":\\\"stylesheet\\\",\\\"href\\\":\\\"/_next/static/chunks/a60660afb5a3a04e.css\\\",\\\"precedence\\\":\\\"next\\\",\\\"crossOrigin\\\":\\\"$undefined\\\",\\\"nonce\\\":\\\"$undefined\\\"}],[\\\"$\\\",\\\"script\\\",\\\"script-0\\\",{\\\"src\\\":\\\"/_next/static/chunks/0ad4247bdad405b7.js\\\",\\\"async\\\":true,\\\"nonce\\\":\\\"$undefined\\\"}],[\\\"$\\\",\\\"script\\\",\\\"script-1\\\",{\\\"src\\\":\\\"/_next/static/chunks/a0d1398a78cf363e.js\\\",\\\"async\\\":true,\\\"nonce\\\":\\\"$undefined\\\"}]],[\\\"$\\\",\\\"$La\\\",null,{\\\"children\\\":[\\\"$\\\",\\\"$b\\\",null,{\\\"name\\\":\\\"Next.MetadataOutlet\\\",\\\"children\\\":\\\"$@c\\\"}]}]]}],{},null,false,false]},null,false,false],[\\\"$\\\",\\\"$1\\\",\\\"h\\\",{\\\"children\\\":[null,[\\\"$\\\",\\\"$Ld\\\",null,{\\\"children\\\":\\\"$Le\\\"}],[\\\"$\\\",\\\"div\\\",null,{\\\"hidden\\\":true,\\\"children\\\":[\\\"$\\\",\\\"$Lf\\\",null,{\\\"children\\\":[\\\"$\\\",\\\"$b\\\",null,{\\\"name\\\":\\\"Next.Metadata\\\",\\\"children\\\":\\\"$L10\\\"}]}]}],null]}],false]],\\\"m\\\":\\\"$undefined\\\",\\\"G\\\":[\\\"$11\\\",[]],\\\"S\\\":true}\\n\"])</script><script>self.__next_f.push([1,\"8:{}\\n9:\\\"$0:f:0:1:1:children:0:props:children:0:props:serverProvidedParams:params\\\"\\n\"])</script><script>self.__next_f.push([1,\"e:[[\\\"$\\\",\\\"meta\\\",\\\"0\\\",{\\\"charSet\\\":\\\"utf-8\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"1\\\",{\\\"name\\\":\\\"viewport\\\",\\\"content\\\":\\\"width=device-width, initial-scale=1\\\"}]]\\n\"])</script><script>self.__next_f.push([1,\"c:null\\n10:[[\\\"$\\\",\\\"title\\\",\\\"0\\\",{\\\"children\\\":\\\"Bookmarks\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"1\\\",{\\\"name\\\":\\\"description\\\",\\\"content\\\":\\\"Your messages. Your bookmarks.\\\\n\\\\nBookmark messages to save them for later, or to share them with friends.\\\"}]]\\n\"])</script></body></html>",
+    "location": "/",
+    "status": 200,
+    "robots": null,
+    "components_hash": 122354275,
+    "server": "nginx/1.26.3 (Ubuntu)",
+    "headers": {
+      "x-nextjs-cache": "HIT",
+      "content-length": "7941",
+      "x-powered-by": "Next.js",
+      "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding",
+      "server": "nginx/1.26.3 (Ubuntu)",
+      "x-nextjs-stale-time": "300",
+      "connection": "keep-alive",
+      "etag": "\"100z4q7ymjn64l\"",
+      "cache-control": "s-maxage=31536000",
+      "date": "Thu, 30 Jul 2026 23:31:15 GMT",
+      "x-nextjs-prerender": "1, 1",
+      "content-type": "text/html; charset=utf-8"
+    },
+    "sitemap": null
+  },
+  "port": 80,
+  "transport": "tcp",
+  "cpe23_hash": 1778818234,
+  "version": "1.26.3",
+  "location": {
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  "product": "nginx",
+  "tags": [
+    "eol-product"
+  ],
+  "timestamp": "2026-07-30T23:31:16.472845",
+  "org": "OVH GmbH",
+  "data": "HTTP/1.1 200 OK\r\nServer: nginx/1.26.3 (Ubuntu)\r\nDate: Thu, 30 Jul 2026 23:31:15 GMT\r\nContent-Type: text/html; charset=utf-8\r\nContent-Length: 7941\r\nConnection: keep-alive\r\nVary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding\r\nx-nextjs-cache: HIT\r\nx-nextjs-prerender: 1\r\nx-nextjs-prerender: 1\r\nx-nextjs-stale-time: 300\r\nX-Powered-By: Next.js\r\nCache-Control: s-maxage=31536000\r\nETag: \"100z4q7ymjn64l\"\r\n\r\n",
+  "asn": "AS16276",
+  "cpe23": [
+    "cpe:2.3:a:f5:nginx:1.26.3",
+    "cpe:2.3:a:facebook:react",
+    "cpe:2.3:a:vercel:next.js",
+    "cpe:2.3:o:canonical:ubuntu_linux",
+    "cpe:2.3:o:linux:linux_kernel"
+  ],
+  "isp": "OVH SAS",
+  "cpe": [
+    "cpe:/a:f5:nginx:1.26.3",
+    "cpe:/a:facebook:react",
+    "cpe:/a:vercel:next.js",
+    "cpe:/o:canonical:ubuntu_linux",
+    "cpe:/o:linux:linux_kernel"
+  ],
+  "os": "Ubuntu",
+  "_shodan": {
+    "region": "na",
+    "module": "http"
+  },
+  "opts": {},
+  "_artifact": {
+    "host_id": "cf62373c596cceb3a754dd91d7a34cdd",
+    "ip_id": "751f1802f6d2d341e47901d7e80d92f1",
+    "port": 80,
+    "framework": "next",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 7941,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 25
+    }
+  }
+}

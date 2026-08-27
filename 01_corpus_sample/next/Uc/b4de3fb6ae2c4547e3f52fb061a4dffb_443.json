@@ -1,0 +1,67 @@
+{
+  "asn": "AS16509",
+  "http": {
+    "status": 200,
+    "redirects": [],
+    "securitytxt": null,
+    "title": "Admin Dashboard - Nakshatra",
+    "robots": null,
+    "server": "nginx/1.18.0 (Ubuntu)",
+    "headers": {
+      "x-nextjs-cache": "HIT",
+      "content-length": "5072",
+      "x-powered-by": "Next.js",
+      "vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Accept-Encoding",
+      "server": "nginx/1.18.0 (Ubuntu)",
+      "connection": "keep-alive",
+      "etag": "\"d2bu6j8ide3wp\"",
+      "cache-control": "s-maxage=31536000, stale-while-revalidate",
+      "date": "Sun, 26 Jul 2026 04:48:04 GMT",
+      "content-type": "text/html; charset=utf-8"
+    },
+    "html": "<!DOCTYPE html><html lang=\"en\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"preload\" href=\"/_next/static/media/e4af272ccee01ff0-s.p.woff2\" as=\"font\" crossorigin=\"\" type=\"font/woff2\"/><link rel=\"stylesheet\" href=\"/_next/static/css/d1ea880e06a2076b.css\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/webpack-56d088442ba9ae75.js\"/><script src=\"/_next/static/chunks/fd9d1056-13f2035e4b026c54.js\" async=\"\"></script><script src=\"/_next/static/chunks/117-bcc0263be5da02e9.js\" async=\"\"></script><script src=\"/_next/static/chunks/main-app-68d9a000a5fb6503.js\" async=\"\"></script><script src=\"/_next/static/chunks/app/page-7bbb039f808ed1c3.js\" async=\"\"></script><script src=\"/_next/static/chunks/809-8b5c62df80575596.js\" async=\"\"></script><script src=\"/_next/static/chunks/app/layout-8d4fa6717bc4a3fa.js\" async=\"\"></script><title>Admin Dashboard - Nakshatra</title><meta name=\"description\" content=\"Admin dashboard for Nakshatra management\"/><meta name=\"next-size-adjust\"/><script src=\"/_next/static/chunks/polyfills-42372ed130431b0a.js\" noModule=\"\"></script></head><body class=\"__className_f367f3\"><div class=\"min-h-screen flex items-center justify-center\"><div class=\"text-center\"><div class=\"animate-spin rounded-full h-12 w-12 border-b-2 border-primary-600 mx-auto\"></div><p class=\"mt-4 text-gray-600\">Redirecting...</p></div></div><script src=\"/_next/static/chunks/webpack-56d088442ba9ae75.js\" async=\"\"></script><script>(self.__next_f=self.__next_f||[]).push([0]);self.__next_f.push([2,null])</script><script>self.__next_f.push([1,\"1:HL[\\\"/_next/static/media/e4af272ccee01ff0-s.p.woff2\\\",\\\"font\\\",{\\\"crossOrigin\\\":\\\"\\\",\\\"type\\\":\\\"font/woff2\\\"}]\\n2:HL[\\\"/_next/static/css/d1ea880e06a2076b.css\\\",\\\"style\\\"]\\n\"])</script><script>self.__next_f.push([1,\"3:I[2846,[],\\\"\\\"]\\n5:I[9107,[],\\\"ClientPageRoot\\\"]\\n6:I[6117,[\\\"931\\\",\\\"static/chunks/app/page-7bbb039f808ed1c3.js\\\"],\\\"default\\\",1]\\n7:I[6298,[\\\"809\\\",\\\"static/chunks/809-8b5c62df80575596.js\\\",\\\"185\\\",\\\"static/chunks/app/layout-8d4fa6717bc4a3fa.js\\\"],\\\"ToastProvider\\\"]\\n8:I[4707,[],\\\"\\\"]\\n9:I[6423,[],\\\"\\\"]\\nb:I[1060,[],\\\"\\\"]\\nc:[]\\n\"])</script><script>self.__next_f.push([1,\"0:[\\\"$\\\",\\\"$L3\\\",null,{\\\"buildId\\\":\\\"w8WJNAS2sS-hwuyhTynLc\\\",\\\"assetPrefix\\\":\\\"\\\",\\\"urlParts\\\":[\\\"\\\",\\\"\\\"],\\\"initialTree\\\":[\\\"\\\",{\\\"children\\\":[\\\"__PAGE__\\\",{}]},\\\"$undefined\\\",\\\"$undefined\\\",true],\\\"initialSeedData\\\":[\\\"\\\",{\\\"children\\\":[\\\"__PAGE__\\\",{},[[\\\"$L4\\\",[\\\"$\\\",\\\"$L5\\\",null,{\\\"props\\\":{\\\"params\\\":{},\\\"searchParams\\\":{}},\\\"Component\\\":\\\"$6\\\"}],null],null],null]},[[[[\\\"$\\\",\\\"link\\\",\\\"0\\\",{\\\"rel\\\":\\\"stylesheet\\\",\\\"href\\\":\\\"/_next/static/css/d1ea880e06a2076b.css\\\",\\\"precedence\\\":\\\"next\\\",\\\"crossOrigin\\\":\\\"$undefined\\\"}]],[\\\"$\\\",\\\"html\\\",null,{\\\"lang\\\":\\\"en\\\",\\\"children\\\":[\\\"$\\\",\\\"body\\\",null,{\\\"className\\\":\\\"__className_f367f3\\\",\\\"children\\\":[\\\"$\\\",\\\"$L7\\\",null,{\\\"children\\\":[\\\"$\\\",\\\"$L8\\\",null,{\\\"parallelRouterKey\\\":\\\"children\\\",\\\"segmentPath\\\":[\\\"children\\\"],\\\"error\\\":\\\"$undefined\\\",\\\"errorStyles\\\":\\\"$undefined\\\",\\\"errorScripts\\\":\\\"$undefined\\\",\\\"template\\\":[\\\"$\\\",\\\"$L9\\\",null,{}],\\\"templateStyles\\\":\\\"$undefined\\\",\\\"templateScripts\\\":\\\"$undefined\\\",\\\"notFound\\\":[[\\\"$\\\",\\\"title\\\",null,{\\\"children\\\":\\\"404: This page could not be found.\\\"}],[\\\"$\\\",\\\"div\\\",null,{\\\"style\\\":{\\\"fontFamily\\\":\\\"system-ui,\\\\\\\"Segoe UI\\\\\\\",Roboto,Helvetica,Arial,sans-serif,\\\\\\\"Apple Color Emoji\\\\\\\",\\\\\\\"Segoe UI Emoji\\\\\\\"\\\",\\\"height\\\":\\\"100vh\\\",\\\"textAlign\\\":\\\"center\\\",\\\"display\\\":\\\"flex\\\",\\\"flexDirection\\\":\\\"column\\\",\\\"alignItems\\\":\\\"center\\\",\\\"justifyContent\\\":\\\"center\\\"},\\\"children\\\":[\\\"$\\\",\\\"div\\\",null,{\\\"children\\\":[[\\\"$\\\",\\\"style\\\",null,{\\\"dangerouslySetInnerHTML\\\":{\\\"__html\\\":\\\"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}\\\"}}],[\\\"$\\\",\\\"h1\\\",null,{\\\"className\\\":\\\"next-error-h1\\\",\\\"style\\\":{\\\"display\\\":\\\"inline-block\\\",\\\"margin\\\":\\\"0 20px 0 0\\\",\\\"padding\\\":\\\"0 23px 0 0\\\",\\\"fontSize\\\":24,\\\"fontWeight\\\":500,\\\"verticalAlign\\\":\\\"top\\\",\\\"lineHeight\\\":\\\"49px\\\"},\\\"children\\\":\\\"404\\\"}],[\\\"$\\\",\\\"div\\\",null,{\\\"style\\\":{\\\"display\\\":\\\"inline-block\\\"},\\\"children\\\":[\\\"$\\\",\\\"h2\\\",null,{\\\"style\\\":{\\\"fontSize\\\":14,\\\"fontWeight\\\":400,\\\"lineHeight\\\":\\\"49px\\\",\\\"margin\\\":0},\\\"children\\\":\\\"This page could not be found.\\\"}]}]]}]}]],\\\"notFoundStyles\\\":[]}]}]}]}]],null],null],\\\"couldBeIntercepted\\\":false,\\\"initialHead\\\":[null,\\\"$La\\\"],\\\"globalErrorComponent\\\":\\\"$b\\\",\\\"missingSlots\\\":\\\"$Wc\\\"}]\\n\"])</script><script>self.__next_f.push([1,\"a:[[\\\"$\\\",\\\"meta\\\",\\\"0\\\",{\\\"name\\\":\\\"viewport\\\",\\\"content\\\":\\\"width=device-width, initial-scale=1\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"1\\\",{\\\"charSet\\\":\\\"utf-8\\\"}],[\\\"$\\\",\\\"title\\\",\\\"2\\\",{\\\"children\\\":\\\"Admin Dashboard - Nakshatra\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"3\\\",{\\\"name\\\":\\\"description\\\",\\\"content\\\":\\\"Admin dashboard for Nakshatra management\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"4\\\",{\\\"name\\\":\\\"next-size-adjust\\\"}]]\\n4:null\\n\"])</script></body></html>",
+    "location": "/",
+    "sitemap": null
+  },
+  "os": null,
+  "tags": [
+    "cloud"
+  ],
+  "timestamp": "2026-07-26T04:48:04.695418",
+  "isp": "Amazon.com, Inc.",
+  "transport": "tcp",
+  "_shodan": {
+    "region": "na",
+    "module": "https"
+  },
+  "cloud": {
+    "region": "ap-south-1",
+    "service": "EC2",
+    "provider": "Amazon"
+  },
+  "location": {
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  "org": "Amazon Data Services India",
+  "data": "HTTP/1.1 200 OK\r\nServer: nginx/1.18.0 (Ubuntu)\r\nDate: Sun, 26 Jul 2026 04:48:04 GMT\r\nContent-Type: text/html; charset=utf-8\r\nContent-Length: 5072\r\nConnection: keep-alive\r\nVary: RSC, Next-Router-State-Tree, Next-Router-Prefetch, Accept-Encoding\r\nx-nextjs-cache: HIT\r\nX-Powered-By: Next.js\r\nCache-Control: s-maxage=31536000, stale-while-revalidate\r\nETag: \"d2bu6j8ide3wp\"\r\n\r\n",
+  "port": 443,
+  "opts": {
+    "vulns": [],
+    "heartbleed": "2026/07/26 04:48:27 [ip-redacted]:443 - SAFE\n"
+  },
+  "_artifact": {
+    "host_id": "b4de3fb6ae2c4547e3f52fb061a4dffb",
+    "ip_id": "e9de47ed86c3ee94350f597af28d7e56",
+    "port": 443,
+    "framework": "next",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 5072,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 20,
+      "ip": 1
+    }
+  }
+}

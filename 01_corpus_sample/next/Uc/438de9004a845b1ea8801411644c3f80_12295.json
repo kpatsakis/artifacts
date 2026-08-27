@@ -1,0 +1,70 @@
+{
+  "http": {
+    "redirects": [],
+    "securitytxt": null,
+    "title": null,
+    "html": "<!DOCTYPE html>\n<html>\n<head>\n    <meta name=\"generator\" content=\"Waku\"/>\n    <link rel=\"icon\" href=\"/favicon.png\">\n</head>\n<body>\n    <div id=\"root\"></div>\n    <script src=\"/react-router-dom.js\"></script>\n</body>\n</html>\n",
+    "location": "/",
+    "status": 200,
+    "robots": null,
+    "components_hash": -892850553,
+    "server": "thin 1 codename Flaming Astroboy",
+    "headers": {
+      "content-length": "222",
+      "x-powered-by": "Next.js",
+      "vary": "RSC",
+      "server": "thin 1 codename Flaming Astroboy",
+      "last-modified": "Sun, 27 Oct 2024 23:52:46 GMT",
+      "date": "Tue, 28 Jul 2026 13:01:31 GMT",
+      "content-type": "text/x-component"
+    },
+    "sitemap": null
+  },
+  "port": 12295,
+  "transport": "tcp",
+  "cpe23_hash": 286908511,
+  "cloud": {
+    "region": "eu-central-1",
+    "service": "EC2",
+    "provider": "Amazon"
+  },
+  "location": {
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  "tags": [
+    "cloud"
+  ],
+  "timestamp": "2026-07-28T13:01:31.305901",
+  "org": "A100 ROW GmbH",
+  "data": "HTTP/1.1 200 OK\r\nDate: Tue, 28 Jul 2026 13:01:31 GMT\r\nServer: thin 1 codename Flaming Astroboy\r\nLast-Modified: Sun, 27 Oct 2024 23:52:46 GMT\r\nX-Powered-By: Next.js\r\nContent-Type: text/x-component\r\nVary: RSC\r\nContent-Length: 222\r\n\r\n",
+  "asn": "AS16509",
+  "cpe23": [
+    "cpe:2.3:a:facebook:react",
+    "cpe:2.3:a:vercel:next.js"
+  ],
+  "isp": "Amazon.com, Inc.",
+  "cpe": [
+    "cpe:/a:facebook:react",
+    "cpe:/a:vercel:next.js"
+  ],
+  "os": null,
+  "_shodan": {
+    "region": "na",
+    "module": "auto"
+  },
+  "opts": {},
+  "_artifact": {
+    "host_id": "438de9004a845b1ea8801411644c3f80",
+    "ip_id": "8f5504d36f76064b9a730c13f886767b",
+    "port": 12295,
+    "framework": "next",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 222,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 25
+    }
+  }
+}

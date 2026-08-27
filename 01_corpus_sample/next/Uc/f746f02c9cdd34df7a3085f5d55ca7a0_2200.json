@@ -1,0 +1,71 @@
+{
+  "http": {
+    "redirects": [],
+    "securitytxt": null,
+    "title": null,
+    "html": "<!DOCTYPE html>\n<html>\n<head>\n    <meta name=\"generator\" content=\"Waku\"/>\n    <link rel=\"icon\" href=\"/favicon.png\">\n</head>\n<body>\n    <div id=\"root\"></div>\n    <script src=\"/react-router-dom.js\"></script>\n</body>\n</html>\n",
+    "location": "/",
+    "status": 200,
+    "robots": null,
+    "components_hash": -892850553,
+    "server": "Sun-Java-System-Web-Server/7.0",
+    "headers": {
+      "content-length": "222",
+      "x-powered-by": "Next.js",
+      "vary": "RSC",
+      "server": "Sun-Java-System-Web-Server/7.0",
+      "last-modified": "Wed, 31 Aug 2022 04:58:26 GMT",
+      "date": "Thu, 06 Aug 2026 12:27:18 GMT",
+      "content-type": "text/x-component"
+    },
+    "sitemap": null
+  },
+  "port": 2200,
+  "transport": "tcp",
+  "cpe23_hash": 286908511,
+  "cloud": {
+    "region": "eu-north-1",
+    "service": "EC2",
+    "provider": "Amazon"
+  },
+  "location": {
+    "country_code": "SE",
+    "country_name": "Sweden"
+  },
+  "product": "Sophos SSL VPN User Portal",
+  "tags": [
+    "cloud"
+  ],
+  "timestamp": "2026-08-06T12:27:18.528598",
+  "org": "Amazon Data Services Sweden",
+  "data": "HTTP/1.1 200 OK\r\nDate: Thu, 06 Aug 2026 12:27:18 GMT\r\nServer: Sun-Java-System-Web-Server/7.0\r\nLast-Modified: Wed, 31 Aug 2022 04:58:26 GMT\r\nX-Powered-By: Next.js\r\nContent-Type: text/x-component\r\nVary: RSC\r\nContent-Length: 222\r\n\r\n",
+  "asn": "AS16509",
+  "cpe23": [
+    "cpe:2.3:a:facebook:react",
+    "cpe:2.3:a:vercel:next.js"
+  ],
+  "isp": "Amazon.com, Inc.",
+  "cpe": [
+    "cpe:/a:facebook:react",
+    "cpe:/a:vercel:next.js"
+  ],
+  "os": null,
+  "_shodan": {
+    "region": "eu",
+    "module": "auto"
+  },
+  "opts": {},
+  "_artifact": {
+    "host_id": "f746f02c9cdd34df7a3085f5d55ca7a0",
+    "ip_id": "f138e9b6f3367fe65ba6143f5f8a7766",
+    "port": 2200,
+    "framework": "next",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 222,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 25
+    }
+  }
+}

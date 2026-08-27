@@ -1,0 +1,75 @@
+{
+  "http": {
+    "status": 200,
+    "redirects": [],
+    "securitytxt": null,
+    "title": null,
+    "robots": null,
+    "components_hash": 871147091,
+    "html": "<!DOCTYPE html><html><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Kanit:wght@100;200;300;400;500;600;700&display=swap\"><link rel=\"stylesheet\" href=\"/_nuxt/entry.NP5nxtCZ.css\" crossorigin><link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/CAWgPdcx.js\"><script type=\"module\" src=\"/_nuxt/CAWgPdcx.js\" crossorigin></script><link rel=\"icon\" type=\"image/svg+xml\" href=\"/favicon.svg\"></head><body><div id=\"__nuxt\"></div><div id=\"teleports\"></div><script>window.__NUXT__={};window.__NUXT__.config={public:{apiBaseUrl:\"https://asset-stage.[hostname-redacted]:8443\",appBaseUrl:\"https://asset-stage.[hostname-redacted]\"},app:{baseURL:\"/\",buildId:\"ebe78316-eeb7-4dca-ac61-0d21da50ab1c\",buildAssetsDir:\"/_nuxt/\",cdnURL:\"\"}}</script><script type=\"application/json\" data-nuxt-data=\"nuxt-app\" data-ssr=\"false\" id=\"__NUXT_DATA__\">[{\"serverRendered\":1},false]</script></body></html>",
+    "location": "/",
+    "headers": {
+      "content-length": "1116",
+      "x-xss-protection": "1; mode=block",
+      "x-content-type-options": "nosniff",
+      "x-powered-by": "Nuxt",
+      "strict-transport-security": "max-age=31536000; includeSubDomains, max-age=31536000; includeSubDomains",
+      "server": "nginx/1.27.4",
+      "connection": "keep-alive",
+      "date": "Thu, 06 Aug 2026 05:47:06 GMT",
+      "x-frame-options": "SAMEORIGIN",
+      "content-type": "text/html;charset=utf-8"
+    },
+    "server": "nginx/1.27.4",
+    "sitemap": null
+  },
+  "port": 443,
+  "transport": "tcp",
+  "cpe23_hash": 252748638,
+  "version": "1.27.4",
+  "location": {
+    "country_code": "TH",
+    "country_name": "Thailand"
+  },
+  "product": "nginx",
+  "tags": [
+    "eol-product"
+  ],
+  "timestamp": "2026-08-06T05:47:06.412500",
+  "org": "Office of Info.Tech. Admin. for Educational Development",
+  "data": "HTTP/1.1 200 OK\r\nServer: nginx/1.27.4\r\nDate: Thu, 06 Aug 2026 05:47:06 GMT\r\nContent-Type: text/html;charset=utf-8\r\nContent-Length: 1116\r\nConnection: keep-alive\r\nx-powered-by: Nuxt\r\nStrict-Transport-Security: max-age=31536000; includeSubDomains\r\nStrict-Transport-Security: max-age=31536000; includeSubDomains\r\nX-Frame-Options: SAMEORIGIN\r\nX-Content-Type-Options: nosniff\r\nX-XSS-Protection: 1; mode=block\r\n\r\n",
+  "asn": "AS9551",
+  "cpe23": [
+    "cpe:2.3:a:f5:nginx:1.27.4",
+    "cpe:2.3:a:nuxt:nuxt"
+  ],
+  "isp": "King Mongkut's University of Technology",
+  "cpe": [
+    "cpe:/a:f5:nginx:1.27.4",
+    "cpe:/a:nuxt:nuxt"
+  ],
+  "os": null,
+  "_shodan": {
+    "region": "na",
+    "module": "https"
+  },
+  "opts": {
+    "vulns": [],
+    "heartbleed": "2026/08/06 05:47:43 [ip-redacted]:443 - ERROR: EOF\n"
+  },
+  "_artifact": {
+    "host_id": "67eefe29138c59ff08134bcf302ee013",
+    "ip_id": "64cf35dee8d46cdc0054214191176a95",
+    "port": 443,
+    "framework": "nuxt",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 1116,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 25,
+      "hostname": 2,
+      "ip": 1
+    }
+  }
+}

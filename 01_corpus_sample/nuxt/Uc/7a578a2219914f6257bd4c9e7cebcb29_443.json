@@ -1,0 +1,60 @@
+{
+  "asn": "AS38365",
+  "http": {
+    "status": 200,
+    "redirects": [
+      {
+        "data": "HTTP/1.1 307 Temporary Redirect\r\nServer: nginx/1.24.0 (Ubuntu)\r\nDate: Sat, 18 Jul 2026 18:15:33 GMT\r\nContent-Type: text/html\r\nContent-Length: 92\r\nConnection: keep-alive\r\nlocation: /login\r\n\r\n",
+        "location": "/"
+      }
+    ],
+    "securitytxt": null,
+    "title": null,
+    "robots": null,
+    "server": "nginx/1.24.0 (Ubuntu)",
+    "headers": {
+      "content-length": "4923",
+      "x-powered-by": "Nuxt",
+      "server": "nginx/1.24.0 (Ubuntu)",
+      "connection": "keep-alive",
+      "date": "Sat, 18 Jul 2026 18:15:34 GMT",
+      "content-type": "text/html;charset=utf-8"
+    },
+    "html": "<!DOCTYPE html><html><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"><style>:root{--van-primary-color:#2C2C2C!important;--van-blue:#2C2C2C!important}</style><style>.global-loading{position:fixed;top:0;left:0;right:0;height:2px;z-index:10000;background:var(--van-text-color,#323233);animation:loading-slide 1.2s ease-in-out infinite}@keyframes loading-slide{0%{transform:translate(-100%)}50%{transform:translate(0)}to{transform:translate(100%)}}.van-cell-group--inset{margin:0!important}</style><style>.login-layout[data-v-ffa1ecad]{min-height:100vh;background:#f6f6f6;touch-action:manipulation;-webkit-tap-highlight-color:transparent}</style><style>.login-page[data-v-07dbd7a8]{display:flex;flex-direction:column;align-items:center;padding:100px 32px 0;min-height:100vh}.login-header[data-v-07dbd7a8]{text-align:center;margin-bottom:44px}.login-header h2[data-v-07dbd7a8]{margin:0;font-size:26px;font-weight:600;color:#4e342e;letter-spacing:2px}.login-header p[data-v-07dbd7a8]{margin-top:8px;font-size:14px;color:#a1887f}.login-form[data-v-07dbd7a8]{width:100%;display:flex;flex-direction:column;gap:18px}.input-wrap[data-v-07dbd7a8]{position:relative}.input-field[data-v-07dbd7a8]{width:100%;padding:16px 20px;border:none;border-radius:16px;background:#fff;font-size:15px;color:#4e342e;outline:none;box-sizing:border-box;transition:box-shadow .3s}.input-field[data-v-07dbd7a8]::-moz-placeholder{color:#c4a96a}.input-field[data-v-07dbd7a8]::placeholder{color:#c4a96a}.input-field[data-v-07dbd7a8]:focus{box-shadow:0 0 0 2px #f5e1c8}.pwd-toggle[data-v-07dbd7a8]{position:absolute;right:18px;top:50%;transform:translateY(-50%);cursor:pointer}.login-btn[data-v-07dbd7a8]{width:100%;padding:16px 0;margin-top:10px;border:none;border-radius:16px;background:#2c2c2c;color:#fff;font-size:17px;font-weight:500;letter-spacing:6px;cursor:pointer;transition:opacity .3s,transform .1s}.login-btn[data-v-07dbd7a8]:active{opacity:.88;transform:scale(.98)}.login-footer[data-v-07dbd7a8]{margin-top:auto;padding:36px 0;font-size:12px;color:#d7ccc8}</style><link rel=\"stylesheet\" href=\"/_nuxt/entry.CMKHKfnS.css\" crossorigin><link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/V1_QBuwV.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/CMT7OpF7.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/DlAUqK2U.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/-g6vOCTy.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/CxHlzkTn.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/CVk3Lh5y.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/DVoLWsTR.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/CWEiY2wT.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/C9XvuhXi.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/zlJTySmv.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/aFrc27Jo.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/XmJXeA41.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/D_6XIPAg.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/DmbtCKOI.js\"><script type=\"module\" src=\"/_nuxt/V1_QBuwV.js\" crossorigin></script></head><body><div id=\"__nuxt\"><!--[--><div class=\"global-loading\" style=\"display:none;\"></div><div class=\"login-layout\" data-v-ffa1ecad><!--[--><div class=\"login-page\" data-v-07dbd7a8><div class=\"login-header\" data-v-07dbd7a8><h2 data-v-07dbd7a8>随艺</h2><p data-v-07dbd7a8>用非遗温暖您的生活</p></div><div class=\"login-form\" data-v-07dbd7a8><input value=\"\" type=\"tel\" class=\"input-field\" placeholder=\"手机号\" maxlength=\"11\" data-v-07dbd7a8><div class=\"input-wrap\" data-v-07dbd7a8><input value=\"\" type=\"password\" class=\"input-field\" placeholder=\"密码\" maxlength=\"16\" data-v-07dbd7a8><span class=\"pwd-toggle\" data-v-07dbd7a8><i class=\"van-badge__wrapper van-icon van-icon-closed-eye\" style=\"color:#C4A96A;font-size:18px;\" data-v-07dbd7a8><!--[--><!----><!----><!--]--><!----></i></span></div><button class=\"login-btn\" data-v-07dbd7a8>登 录</button></div><p class=\"login-footer\" data-v-07dbd7a8>登录即表示同意服务条款和隐私政策</p></div><!--]--></div><!--]--></div><div id=\"teleports\"></div><script>window.__NUXT__={};window.__NUXT__.config={public:{},app:{baseURL:\"/\",buildId:\"23f852f1-5eba-4da1-a417-13e37d613a51\",buildAssetsDir:\"/_nuxt/\",cdnURL:\"\"}}</script><script type=\"application/json\" data-nuxt-data=\"nuxt-app\" data-ssr=\"true\" id=\"__NUXT_DATA__\">[[\"ShallowReactive\",1],{\"data\":2,\"state\":4,\"once\":8,\"_errors\":9,\"serverRendered\":11,\"path\":12,\"pinia\":13},[\"ShallowReactive\",3],{},[\"Reactive\",5],{\"$sreq-count\":6},[\"EmptyRef\",7],\"0\",[\"Set\"],[\"ShallowReactive\",10],{},true,\"\\u002Flogin\",[\"Reactive\",14],{\"user\":15},{\"userList\":16,\"subAccounts\":17,\"currentUser\":18},[],[],null]</script></body></html>",
+    "location": "/login",
+    "sitemap": null
+  },
+  "os": null,
+  "timestamp": "2026-07-18T18:15:34.761760",
+  "isp": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
+  "transport": "tcp",
+  "_shodan": {
+    "region": "eu",
+    "module": "https"
+  },
+  "location": {
+    "country_code": "CN",
+    "country_name": "China"
+  },
+  "org": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
+  "data": "HTTP/1.1 200 OK\r\nServer: nginx/1.24.0 (Ubuntu)\r\nDate: Sat, 18 Jul 2026 18:15:34 GMT\r\nContent-Type: text/html;charset=utf-8\r\nContent-Length: 4923\r\nConnection: keep-alive\r\nx-powered-by: Nuxt\r\n\r\n",
+  "port": 443,
+  "opts": {
+    "vulns": [],
+    "heartbleed": "2026/07/18 18:15:46 [ip-redacted]:443 - SAFE\n"
+  },
+  "_artifact": {
+    "host_id": "7a578a2219914f6257bd4c9e7cebcb29",
+    "ip_id": "efd30b1bd7d8f4450e9bf4a5239335de",
+    "port": 443,
+    "framework": "nuxt",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 4855,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 21,
+      "ip": 1
+    }
+  }
+}

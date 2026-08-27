@@ -1,0 +1,74 @@
+{
+  "http": {
+    "status": 200,
+    "redirects": [],
+    "securitytxt": null,
+    "title": "Hynetic Admin Panel",
+    "robots": null,
+    "components_hash": -1130971133,
+    "html": "<!DOCTYPE html><html lang=\"en\" class=\"dark\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"preload\" href=\"/_next/static/media/22a5144ee8d83bca-s.p.woff2\" as=\"font\" crossorigin=\"\" type=\"font/woff2\"/><link rel=\"preload\" href=\"/_next/static/media/f5271587012faf78-s.p.woff2\" as=\"font\" crossorigin=\"\" type=\"font/woff2\"/><link rel=\"stylesheet\" href=\"/_next/static/css/19f6fbb56590c956.css\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/css/6e1e503a1e8b12f6.css\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/webpack-80e0c2d629eeed3a.js\"/><script src=\"/_next/static/chunks/4bd1b696-df4c0fb946159b6a.js\" async=\"\"></script><script src=\"/_next/static/chunks/3794-3e29288ed8954e61.js\" async=\"\"></script><script src=\"/_next/static/chunks/main-app-c2390a92f593c3fc.js\" async=\"\"></script><script src=\"/_next/static/chunks/6609-80e42c74e2ed6b14.js\" async=\"\"></script><script src=\"/_next/static/chunks/8751-42c6f61ceece42cc.js\" async=\"\"></script><script src=\"/_next/static/chunks/5956-3f9ab10b4de56d5f.js\" async=\"\"></script><script src=\"/_next/static/chunks/2356-0ea74d203ed918f5.js\" async=\"\"></script><script src=\"/_next/static/chunks/app/layout-c7c18e3fbf9a4568.js\" async=\"\"></script><meta name=\"next-size-adjust\" content=\"\"/><title>Hynetic Admin Panel</title><meta name=\"description\" content=\"Server network administration panel for Hynetic\"/><meta name=\"generator\" content=\"v0.app\"/><link rel=\"shortcut icon\" href=\"/favicon.webp\"/><link rel=\"icon\" href=\"/favicon.webp\" type=\"image/webp\"/><link rel=\"apple-touch-icon\" href=\"/favicon.webp\"/><script src=\"/_next/static/chunks/polyfills-42372ed130431b0a.js\" noModule=\"\"></script></head><body class=\"font-sans antialiased\"><div hidden=\"\"><!--$--><!--/$--></div><div class=\"flex min-h-screen items-center justify-center\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-loader-circle h-8 w-8 animate-spin text-primary\"><path d=\"M21 12a9 9 0 1 1-6.219-8.56\"></path></svg></div><!--$!--><template data-dgst=\"BAILOUT_TO_CLIENT_SIDE_RENDERING\"></template><!--/$--><script src=\"/_next/static/chunks/webpack-80e0c2d629eeed3a.js\" id=\"_R_\" async=\"\"></script><script>(self.__next_f=self.__next_f||[]).push([0])</script><script>self.__next_f.push([1,\"1:\\\"$Sreact.fragment\\\"\\n2:I[5306,[\\\"6609\\\",\\\"static/chunks/6609-80e42c74e2ed6b14.js\\\",\\\"8751\\\",\\\"static/chunks/8751-42c6f61ceece42cc.js\\\",\\\"5956\\\",\\\"static/chunks/5956-3f9ab10b4de56d5f.js\\\",\\\"2356\\\",\\\"static/chunks/2356-0ea74d203ed918f5.js\\\",\\\"7177\\\",\\\"static/chunks/app/layout-c7c18e3fbf9a4568.js\\\"],\\\"GlobalDatabaseGuard\\\"]\\n3:I[17224,[\\\"6609\\\",\\\"static/chunks/6609-80e42c74e2ed6b14.js\\\",\\\"8751\\\",\\\"static/chunks/8751-42c6f61ceece42cc.js\\\",\\\"5956\\\",\\\"static/chunks/5956-3f9ab10b4de56d5f.js\\\",\\\"2356\\\",\\\"static/chunks/2356-0ea74d203ed918f5.js\\\",\\\"7177\\\",\\\"static/chunks/app/layout-c7c18e3fbf9a4568.js\\\"],\\\"AuthProvider\\\"]\\n4:I[15956,[\\\"6609\\\",\\\"static/chunks/6609-80e42c74e2ed6b14.js\\\",\\\"8751\\\",\\\"static/chunks/8751-42c6f61ceece42cc.js\\\",\\\"5956\\\",\\\"static/chunks/5956-3f9ab10b4de56d5f.js\\\",\\\"2356\\\",\\\"static/chunks/2356-0ea74d203ed918f5.js\\\",\\\"7177\\\",\\\"static/chunks/app/layout-c7c18e3fbf9a4568.js\\\"],\\\"I18nProvider\\\"]\\n5:I[57121,[],\\\"\\\"]\\n6:I[74581,[],\\\"\\\"]\\n7:I[61549,[\\\"6609\\\",\\\"static/chunks/6609-80e42c74e2ed6b14.js\\\",\\\"8751\\\",\\\"static/chunks/8751-42c6f61ceece42cc.js\\\",\\\"5956\\\",\\\"static/chunks/5956-3f9ab10b4de56d5f.js\\\",\\\"2356\\\",\\\"static/chunks/2356-0ea74d203ed918f5.js\\\",\\\"7177\\\",\\\"static/chunks/app/layout-c7c18e3fbf9a4568.js\\\"],\\\"Toaster\\\"]\\n8:I[30282,[\\\"6609\\\",\\\"static/chunks/6609-80e42c74e2ed6b14.js\\\",\\\"8751\\\",\\\"static/chunks/8751-42c6f61ceece42cc.js\\\",\\\"5956\\\",\\\"static/chunks/5956-3f9ab10b4de56d5f.js\\\",\\\"2356\\\",\\\"static/chunks/2356-0ea74d203ed918f5.js\\\",\\\"7177\\\",\\\"static/chunks/app/layout-c7c18e3fbf9a4568.js\\\"],\\\"Analytics\\\"]\\na:I[90484,[],\\\"OutletBoundary\\\"]\\nb:\\\"$Sreact.suspense\\\"\\nd:I[90484,[],\\\"ViewportBoundary\\\"]\\nf:I[90484,[],\\\"MetadataBoundary\\\"]\\n11:I[27123,[],\\\"default\\\",1]\\n:HL[\\\"/_next/static/media/22a5144ee8d83bca-s.p.woff2\\\",\\\"font\\\",{\\\"crossOrigin\\\":\\\"\\\",\\\"type\\\":\\\"font/woff2\\\"}]\\n:HL[\\\"/_next/static/media/f5271587012faf78-s.p.woff2\\\",\\\"font\\\",{\\\"crossOrigin\\\":\\\"\\\",\\\"type\\\":\\\"font/woff2\\\"}]\\n:HL[\\\"/_next/static/css/19f6fbb56590c956.css\\\",\\\"style\\\"]\\n:HL[\\\"/_next/static/css/6e1e503a1e8b12f6.css\\\",\\\"style\\\"]\\n\"])</script><script>self.__next_f.push([1,\"0:{\\\"P\\\":null,\\\"c\\\":[\\\"\\\",\\\"\\\"],\\\"q\\\":\\\"\\\",\\\"i\\\":false,\\\"f\\\":[[[\\\"\\\",{\\\"children\\\":[\\\"__PAGE__\\\",{}]},\\\"$undefined\\\",\\\"$undefined\\\",16],[[\\\"$\\\",\\\"$1\\\",\\\"c\\\",{\\\"children\\\":[[[\\\"$\\\",\\\"link\\\",\\\"0\\\",{\\\"rel\\\":\\\"stylesheet\\\",\\\"href\\\":\\\"/_next/static/css/19f6fbb56590c956.css\\\",\\\"precedence\\\":\\\"next\\\",\\\"crossOrigin\\\":\\\"$undefined\\\",\\\"nonce\\\":\\\"$undefined\\\"}],[\\\"$\\\",\\\"link\\\",\\\"1\\\",{\\\"rel\\\":\\\"stylesheet\\\",\\\"href\\\":\\\"/_next/static/css/6e1e503a1e8b12f6.css\\\",\\\"precedence\\\":\\\"next\\\",\\\"crossOrigin\\\":\\\"$undefined\\\",\\\"nonce\\\":\\\"$undefined\\\"}]],[\\\"$\\\",\\\"html\\\",null,{\\\"lang\\\":\\\"en\\\",\\\"className\\\":\\\"dark\\\",\\\"children\\\":[\\\"$\\\",\\\"body\\\",null,{\\\"className\\\":\\\"font-sans antialiased\\\",\\\"children\\\":[[\\\"$\\\",\\\"$L2\\\",null,{\\\"children\\\":[\\\"$\\\",\\\"$L3\\\",null,{\\\"children\\\":[\\\"$\\\",\\\"$L4\\\",null,{\\\"children\\\":[[\\\"$\\\",\\\"$L5\\\",null,{\\\"parallelRouterKey\\\":\\\"children\\\",\\\"error\\\":\\\"$undefined\\\",\\\"errorStyles\\\":\\\"$undefined\\\",\\\"errorScripts\\\":\\\"$undefined\\\",\\\"template\\\":[\\\"$\\\",\\\"$L6\\\",null,{}],\\\"templateStyles\\\":\\\"$undefined\\\",\\\"templateScripts\\\":\\\"$undefined\\\",\\\"notFound\\\":[[[\\\"$\\\",\\\"title\\\",null,{\\\"children\\\":\\\"404: This page could not be found.\\\"}],[\\\"$\\\",\\\"div\\\",null,{\\\"style\\\":{\\\"fontFamily\\\":\\\"system-ui,\\\\\\\"Segoe UI\\\\\\\",Roboto,Helvetica,Arial,sans-serif,\\\\\\\"Apple Color Emoji\\\\\\\",\\\\\\\"Segoe UI Emoji\\\\\\\"\\\",\\\"height\\\":\\\"100vh\\\",\\\"textAlign\\\":\\\"center\\\",\\\"display\\\":\\\"flex\\\",\\\"flexDirection\\\":\\\"column\\\",\\\"alignItems\\\":\\\"center\\\",\\\"justifyContent\\\":\\\"center\\\"},\\\"children\\\":[\\\"$\\\",\\\"div\\\",null,{\\\"children\\\":[[\\\"$\\\",\\\"style\\\",null,{\\\"dangerouslySetInnerHTML\\\":{\\\"__html\\\":\\\"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}\\\"}}],[\\\"$\\\",\\\"h1\\\",null,{\\\"className\\\":\\\"next-error-h1\\\",\\\"style\\\":{\\\"display\\\":\\\"inline-block\\\",\\\"margin\\\":\\\"0 20px 0 0\\\",\\\"padding\\\":\\\"0 23px 0 0\\\",\\\"fontSize\\\":24,\\\"fontWeight\\\":500,\\\"verticalAlign\\\":\\\"top\\\",\\\"lineHeight\\\":\\\"49px\\\"},\\\"children\\\":404}],[\\\"$\\\",\\\"div\\\",null,{\\\"style\\\":{\\\"display\\\":\\\"inline-block\\\"},\\\"children\\\":[\\\"$\\\",\\\"h2\\\",null,{\\\"style\\\":{\\\"fontSize\\\":14,\\\"fontWeight\\\":400,\\\"lineHeight\\\":\\\"49px\\\",\\\"margin\\\":0},\\\"children\\\":\\\"This page could not be found.\\\"}]}]]}]}]],[]],\\\"forbidden\\\":\\\"$undefined\\\",\\\"unauthorized\\\":\\\"$undefined\\\"}],[\\\"$\\\",\\\"$L7\\\",null,{\\\"richColors\\\":true,\\\"position\\\":\\\"bottom-right\\\"}]]}]}]}],[\\\"$\\\",\\\"$L8\\\",null,{}]]}]}]]}],{\\\"children\\\":[[\\\"$\\\",\\\"$1\\\",\\\"c\\\",{\\\"children\\\":[\\\"$L9\\\",null,[\\\"$\\\",\\\"$La\\\",null,{\\\"children\\\":[\\\"$\\\",\\\"$b\\\",null,{\\\"name\\\":\\\"Next.MetadataOutlet\\\",\\\"children\\\":\\\"$@c\\\"}]}]]}],{},null,false,null]},null,false,null],[\\\"$\\\",\\\"$1\\\",\\\"h\\\",{\\\"children\\\":[null,[\\\"$\\\",\\\"$Ld\\\",null,{\\\"children\\\":\\\"$Le\\\"}],[\\\"$\\\",\\\"div\\\",null,{\\\"hidden\\\":true,\\\"children\\\":[\\\"$\\\",\\\"$Lf\\\",null,{\\\"children\\\":[\\\"$\\\",\\\"$b\\\",null,{\\\"name\\\":\\\"Next.Metadata\\\",\\\"children\\\":\\\"$L10\\\"}]}]}],[\\\"$\\\",\\\"meta\\\",null,{\\\"name\\\":\\\"next-size-adjust\\\",\\\"content\\\":\\\"\\\"}]]}],false]],\\\"m\\\":\\\"$undefined\\\",\\\"G\\\":[\\\"$11\\\",[]],\\\"S\\\":true,\\\"h\\\":null,\\\"s\\\":\\\"$undefined\\\",\\\"l\\\":\\\"$undefined\\\",\\\"p\\\":\\\"$undefined\\\",\\\"d\\\":\\\"$undefined\\\",\\\"b\\\":\\\"6DIpGeNGAep8qY387AI5B\\\"}\\n\"])</script><script>self.__next_f.push([1,\"9:E{\\\"digest\\\":\\\"NEXT_REDIRECT;replace;/dashboard;307;\\\"}\\n\"])</script><script>self.__next_f.push([1,\"e:[[\\\"$\\\",\\\"meta\\\",\\\"0\\\",{\\\"charSet\\\":\\\"utf-8\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"1\\\",{\\\"name\\\":\\\"viewport\\\",\\\"content\\\":\\\"width=device-width, initial-scale=1\\\"}]]\\n\"])</script><script>self.__next_f.push([1,\"12:I[86869,[],\\\"IconMark\\\"]\\nc:null\\n10:[[\\\"$\\\",\\\"title\\\",\\\"0\\\",{\\\"children\\\":\\\"Hynetic Admin Panel\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"1\\\",{\\\"name\\\":\\\"description\\\",\\\"content\\\":\\\"Server network administration panel for Hynetic\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"2\\\",{\\\"name\\\":\\\"generator\\\",\\\"content\\\":\\\"v0.app\\\"}],[\\\"$\\\",\\\"link\\\",\\\"3\\\",{\\\"rel\\\":\\\"shortcut icon\\\",\\\"href\\\":\\\"/favicon.webp\\\"}],[\\\"$\\\",\\\"link\\\",\\\"4\\\",{\\\"rel\\\":\\\"icon\\\",\\\"href\\\":\\\"/favicon.webp\\\",\\\"type\\\":\\\"image/webp\\\"}],[\\\"$\\\",\\\"link\\\",\\\"5\\\",{\\\"rel\\\":\\\"apple-touch-icon\\\",\\\"href\\\":\\\"/favicon.webp\\\"}],[\\\"$\\\",\\\"$L12\\\",\\\"6\\\",{}]]\\n\"])</script></body></html>",
+    "location": "/",
+    "headers": {
+      "x-nextjs-cache": "HIT",
+      "content-length": "8664",
+      "x-powered-by": "Next.js",
+      "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding",
+      "server": "nginx",
+      "x-nextjs-stale-time": "300",
+      "connection": "keep-alive",
+      "etag": "\"j91r74c4ge6oo\"",
+      "cache-control": "s-maxage=31536000",
+      "date": "Sat, 01 Aug 2026 18:24:53 GMT",
+      "x-nextjs-prerender": "1, 1",
+      "content-type": "text/html; charset=utf-8"
+    },
+    "server": "nginx",
+    "sitemap": null
+  },
+  "port": 443,
+  "transport": "tcp",
+  "cpe23_hash": -405627344,
+  "location": {
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  "product": "nginx",
+  "timestamp": "2026-08-01T18:24:53.449730",
+  "org": "Hetzner Online GmbH",
+  "data": "HTTP/1.1 200 OK\r\nServer: nginx\r\nDate: Sat, 01 Aug 2026 18:24:53 GMT\r\nContent-Type: text/html; charset=utf-8\r\nContent-Length: 8664\r\nConnection: keep-alive\r\nVary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding\r\nx-nextjs-cache: HIT\r\nx-nextjs-prerender: 1\r\nx-nextjs-prerender: 1\r\nx-nextjs-stale-time: 300\r\nX-Powered-By: Next.js\r\nCache-Control: s-maxage=31536000\r\nETag: \"j91r74c4ge6oo\"\r\n\r\n",
+  "asn": "AS24940",
+  "cpe23": [
+    "cpe:2.3:a:f5:nginx",
+    "cpe:2.3:a:facebook:react",
+    "cpe:2.3:a:vercel:next.js"
+  ],
+  "isp": "Hetzner Online GmbH",
+  "cpe": [
+    "cpe:/a:f5:nginx",
+    "cpe:/a:facebook:react",
+    "cpe:/a:vercel:next.js"
+  ],
+  "os": null,
+  "_shodan": {
+    "region": "eu",
+    "module": "https"
+  },
+  "opts": {
+    "vulns": [],
+    "heartbleed": "2026/08/01 18:24:58 [ip-redacted]:443 - SAFE\n"
+  },
+  "_artifact": {
+    "host_id": "400d5cf4dbeb1c31f2e98a15e4c2291f",
+    "ip_id": "ffc17e70031f599dcdf9b05d35e69b13",
+    "port": 443,
+    "framework": "next",
+    "tier": "Oc",
+    "tier_label": "Objective generator-fingerprint",
+    "html_chars_original": 8664,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 25,
+      "ip": 1
+    }
+  }
+}

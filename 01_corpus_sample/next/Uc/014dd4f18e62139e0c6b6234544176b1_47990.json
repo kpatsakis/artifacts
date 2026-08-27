@@ -1,0 +1,74 @@
+{
+  "http": {
+    "redirects": [],
+    "securitytxt": null,
+    "title": "Archer C5v",
+    "html": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"utf-8\">\n<link rel=\"icon\" href=\"/favicon_20775fa5-f1e3-4e35-b73b-f3f7171a352a.ico\">\n<title>Archer C5v</title>\n</head>\n<body>\n<footer>n4opxd9IM 4YdSR qTRTztPUnizHTYtm8EcvQJzEUJ2jhU</footer>\n<pre>Ufj8CXJWW GiNrE4ju 10ZUhh4C5Tcsx8UiXHKtMrDOHN7w tgB3PAgKavy9UPX</pre>\n<div>fAsZulbEZ17GwWcVbdcwpRgSkZ ylEG2GB r73MmFLL dMGIVXHAcDSiuSQ i6ZZiQCFyiqonVDEip0O2pli8A</div>\n<li class=\"card\">YW5cVejl1wv4sUrYAzqgPUzy mHfNogeFEP hTCdzP9 zEgjigsGfu2r3idRTJGAS3hKBzaZx IuliHatlEDuUjTKvXAQ</li>\n<section>Yg8L5ELSZBGdmf7tqY NTYkYiYBpVNShrOFkL tZV1Gi8mir2hN</section>\n<p class=\"body\">QuNXNZ6sudLQBK46MBAhly0iph LjiJ0esp</p>\n<article>L1TG19KsGU31O8aOk1tynegn2s</article>\n<aside class=\"post\">ppC0H87EV4wovti2f2kLLq0j 4LwJxG4aK3OV8AL7QK8uO7t o13zj8td5St4rwyArFWaNTH</aside>\n<header class=\"content\">yTORYRyVeh8pvrEMJpaBFoGsk2 EfyVgQP MYrve YgKgXVH DGHPSxdAezR4iOp</header>\n<h1>sE3tV7sRXAjx9CNeBwdxh0KGmMAmM BsJwizZPsmNUQNQSDi6 aTt0qhKxW5xcV IQ63jg zzjPIVCyz4b3hc</h1>\n<h1>G2t8QRxqqUfBvLBRGoVgjCYuAy4y 6ANoSrbd8HV g7xLT2GrrYf47gpSB2Vuzt</h1>\n<article class=\"inner\">v3pAL457imYYSdEKkYTc2uVogPuSy GEPsawMJeO4BAijKxOZA zy1T0DWXaI2Ec Dib68Exp8nxgaZm6OmvXXg</article>\n<h2>6Ht1vIwljD5fwaUM6l2fF3RRjBsA uFkh8jwanPJm pJL1oIm3oFvClifDwG IS2LhvU7IQIr 45eGTMW4hP2ceD9PappZ03TKtujyS0</h2>\n<h2>3Vuz1vRm WxB2cvkoYuAohwduhgopG57TEq 3XEaopCUJvusN etv7mVBKYDLvfglQHaZ4 V4aRNDns</h2>\n<aside>aUkzlkyenOR4Ds6lA4zI0SITB mp38et37YDiCno33 8O0XYcVG1C UgPmZrcYb10L5XU9VeJGb6l xr6SaWAhU</aside>\n<pre class=\"desc\">wA6Jv FkPeqoAE0QstvvALBKIWrDFNCxB ULrtsyxB61ENIVoLCVNd1o</pre>\n<span>AabJ8d0bFAAofa53f8yp 7HrFwLQxGMerrCUfWEK uPo6y0FsyIh</span>\n<footer>fECobBY77U6uHG3bzQnC UQFrt06xFSnLBMXb1TP8OxQ1eL bA2qIBXEHbKIPHmxvIKGiojj18L ZHyOktkb7brjTeh</footer>\n<blockquote class=\"detail\">WDLzhHSTLMwneMcn0m1GEwtNBRQsGu KekzPb UrbzlF2Ab JBAxO0HGfp2WXdQmFOCoBaXS feArlj8IKzv4X</blockquote>\n</body>\n</html>",
+    "location": "/",
+    "status": 200,
+    "robots": null,
+    "components_hash": -892850553,
+    "server": "Cougar/9.01.01.3841",
+    "headers": {
+      "content-length": "1897",
+      "x-powered-by": "Next.js",
+      "set-cookie": "csrftoken=6y1bgAduxFGirFQH91bx",
+      "server": "Cougar/9.01.01.3841",
+      "last-modified": "Mon, 16 May 2022 07:42:33 GMT",
+      "date": "Sat, 01 Aug 2026 20:11:02 GMT",
+      "content-type": "text/html"
+    },
+    "sitemap": null
+  },
+  "port": 47990,
+  "transport": "tcp",
+  "cpe23_hash": 286908511,
+  "cloud": {
+    "region": "ap-northeast-1",
+    "service": "EC2",
+    "provider": "Amazon"
+  },
+  "location": {
+    "country_code": "JP",
+    "country_name": "Japan"
+  },
+  "tags": [
+    "cloud"
+  ],
+  "timestamp": "2026-08-01T20:11:02.903326",
+  "org": "Amazon Data Services Japan",
+  "data": "HTTP/1.1 200 OK\r\nDate: Sat, 01 Aug 2026 20:11:02 GMT\r\nServer: Cougar/9.01.01.3841\r\nLast-Modified: Mon, 16 May 2022 07:42:33 GMT\r\nX-Powered-By: Next.js\r\nContent-Length: 1897\r\nContent-Type: text/html\r\nSet-Cookie: csrftoken=6y1bgAduxFGirFQH91bx\r\n\r\n",
+  "asn": "AS16509",
+  "cpe23": [
+    "cpe:2.3:a:facebook:react",
+    "cpe:2.3:a:vercel:next.js"
+  ],
+  "isp": "Amazon.com, Inc.",
+  "cpe": [
+    "cpe:/a:facebook:react",
+    "cpe:/a:vercel:next.js"
+  ],
+  "os": null,
+  "_shodan": {
+    "region": "eu",
+    "module": "https-simple-new"
+  },
+  "opts": {
+    "vulns": [],
+    "heartbleed": "2026/08/01 20:11:13 [ip-redacted]:47990 - SAFE\n"
+  },
+  "_artifact": {
+    "host_id": "014dd4f18e62139e0c6b6234544176b1",
+    "ip_id": "88fb63c063fea6d69ee6de3c0920222f",
+    "port": 47990,
+    "framework": "next",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 1897,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 26,
+      "ip": 1
+    }
+  }
+}

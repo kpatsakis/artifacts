@@ -1,0 +1,65 @@
+{
+  "asn": "AS16509",
+  "http": {
+    "status": 200,
+    "redirects": [],
+    "securitytxt": null,
+    "title": null,
+    "robots": null,
+    "server": "nginx/1.28.3",
+    "headers": {
+      "x-powered-by": "Next.js",
+      "transfer-encoding": "chunked",
+      "vary": "Accept-Encoding, rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding",
+      "server": "nginx/1.28.3",
+      "connection": "keep-alive",
+      "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
+      "date": "Mon, 27 Jul 2026 17:15:02 GMT",
+      "content-type": "text/html; charset=utf-8"
+    },
+    "html": "<!DOCTYPE html><html lang=\"en\" class=\"__variable_f367f3 __variable_a06722\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"stylesheet\" href=\"/_next/static/css/ebfb38e1b33bf969.css\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/css/38d78601799d1442.css\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/css/cb7913d2cac0056c.css\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/webpack-5820c02076587450.js\"/><script src=\"/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js\" async=\"\"></script><script src=\"/_next/static/chunks/1255-ab54a41c275880be.js\" async=\"\"></script><script src=\"/_next/static/chunks/main-app-2f746e3a405bbf18.js\" async=\"\"></script><script src=\"/_next/static/chunks/357-877615d07cbb0bcb.js\" async=\"\"></script><script src=\"/_next/static/chunks/762-47b14c7c6fd1d72f.js\" async=\"\"></script><script src=\"/_next/static/chunks/9698-bea5bd485db1d7fa.js\" async=\"\"></script><script src=\"/_next/static/chunks/3598-5cd2967e62100628.js\" async=\"\"></script><script src=\"/_next/static/chunks/6205-7631542b3d939e3f.js\" async=\"\"></script><script src=\"/_next/static/chunks/app/layout-e2257c1d15e8a525.js\" async=\"\"></script><script src=\"/_next/static/chunks/app/page-2be65e38d4cfa88d.js\" async=\"\"></script><link rel=\"icon\" href=\"/favicon.png\" type=\"image/png\" sizes=\"32x32\"/><link rel=\"icon\" href=\"/favicon.ico\" type=\"image/x-icon\" sizes=\"30x32\"/><script src=\"/_next/static/chunks/polyfills-42372ed130431b0a.js\" noModule=\"\"></script></head><body><div hidden=\"\"><!--$--><!--/$--></div><style>#nprogress{pointer-events:none}#nprogress .bar{background:#e84f21;position:fixed;z-index:1600;top: 0;left:0;width:100%;height:2px}#nprogress .peg{display:block;position:absolute;right:0;width:100px;height:100%;box-shadow:0 0 10px #e84f21,0 0 5px #e84f21;opacity:1;-webkit-transform:rotate(3deg) translate(0px,-4px);-ms-transform:rotate(3deg) translate(0px,-4px);transform:rotate(3deg) translate(0px,-4px)}#nprogress .spinner{display:block;position:fixed;z-index:1600;top: 15px;right:15px}#nprogress .spinner-icon{width:18px;height:18px;box-sizing:border-box;border:2px solid transparent;border-top-color:#e84f21;border-left-color:#e84f21;border-radius:50%;-webkit-animation:nprogress-spinner 400ms linear infinite;animation:nprogress-spinner 400ms linear infinite}.nprogress-custom-parent{overflow:hidden;position:relative}.nprogress-custom-parent #nprogress .bar,.nprogress-custom-parent #nprogress .spinner{position:absolute}@-webkit-keyframes nprogress-spinner{0%{-webkit-transform:rotate(0deg)}100%{-webkit-transform:rotate(360deg)}}@keyframes nprogress-spinner{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}</style><!--$--><!--$--><!--/$--><!--/$--><section class=\"Toastify\" aria-live=\"polite\" aria-atomic=\"false\" aria-relevant=\"additions text\" aria-label=\"Notifications Alt+T\"></section><script src=\"/_next/static/chunks/webpack-5820c02076587450.js\" id=\"_R_\" async=\"\"></script><script>(self.__next_f=self.__next_f||[]).push([0])</script><script>self.__next_f.push([1,\"1:\\\"$Sreact.fragment\\\"\\n2:I[17989,[],\\\"ClientSegmentRoot\\\"]\\n3:I[87469,[\\\"357\\\",\\\"static/chunks/357-877615d07cbb0bcb.js\\\",\\\"762\\\",\\\"static/chunks/762-47b14c7c6fd1d72f.js\\\",\\\"9698\\\",\\\"static/chunks/9698-bea5bd485db1d7fa.js\\\",\\\"3598\\\",\\\"static/chunks/3598-5cd2967e62100628.js\\\",\\\"6205\\\",\\\"static/chunks/6205-7631542b3d939e3f.js\\\",\\\"7177\\\",\\\"static/chunks/app/layout-e2257c1d15e8a525.js\\\"],\\\"default\\\"]\\n4:I[9766,[],\\\"\\\"]\\n5:I[98924,[],\\\"\\\"]\\n7:I[81959,[],\\\"ClientPageRoot\\\"]\\n8:I[89547,[\\\"8974\\\",\\\"static/chunks/app/page-2be65e38d4cfa88d.js\\\"],\\\"default\\\"]\\n9:I[24431,[],\\\"OutletBoundary\\\"]\\nb:I[15278,[],\\\"AsyncMetadataOutlet\\\"]\\nd:I[24431,[],\\\"ViewportBoundary\\\"]\\nf:I[24431,[],\\\"MetadataBoundary\\\"]\\n10:\\\"$Sreact.suspense\\\"\\n12:I[57150,[],\\\"\\\"]\\n13:I[80622,[],\\\"IconMark\\\"]\\n:HL[\\\"/_next/static/css/ebfb38e1b33bf969.css\\\",\\\"style\\\"]\\n:HL[\\\"/_next/static/css/38d78601799d1442.css\\\",\\\"style\\\"]\\n:HL[\\\"/_next/static/css/cb7913d2cac0056c.css\\\",\\\"style\\\"]\\n\"])</script><script>self.__next_f.push([1,\"0:{\\\"P\\\":null,\\\"b\\\":\\\"m24AaqwI3yJzfY6E6DENh\\\",\\\"p\\\":\\\"\\\",\\\"c\\\":[\\\"\\\",\\\"\\\"],\\\"i\\\":false,\\\"f\\\":[[[\\\"\\\",{\\\"children\\\":[\\\"__PAGE__\\\",{}]},\\\"$undefined\\\",\\\"$undefined\\\",true],[\\\"\\\",[\\\"$\\\",\\\"$1\\\",\\\"c\\\",{\\\"children\\\":[[[\\\"$\\\",\\\"link\\\",\\\"0\\\",{\\\"rel\\\":\\\"stylesheet\\\",\\\"href\\\":\\\"/_next/static/css/ebfb38e1b33bf969.css\\\",\\\"precedence\\\":\\\"next\\\",\\\"crossOrigin\\\":\\\"$undefined\\\",\\\"nonce\\\":\\\"$undefined\\\"}],[\\\"$\\\",\\\"link\\\",\\\"1\\\",{\\\"rel\\\":\\\"stylesheet\\\",\\\"href\\\":\\\"/_next/static/css/38d78601799d1442.css\\\",\\\"precedence\\\":\\\"next\\\",\\\"crossOrigin\\\":\\\"$undefined\\\",\\\"nonce\\\":\\\"$undefined\\\"}],[\\\"$\\\",\\\"link\\\",\\\"2\\\",{\\\"rel\\\":\\\"stylesheet\\\",\\\"href\\\":\\\"/_next/static/css/cb7913d2cac0056c.css\\\",\\\"precedence\\\":\\\"next\\\",\\\"crossOrigin\\\":\\\"$undefined\\\",\\\"nonce\\\":\\\"$undefined\\\"}]],[\\\"$\\\",\\\"$L2\\\",null,{\\\"Component\\\":\\\"$3\\\",\\\"slots\\\":{\\\"children\\\":[\\\"$\\\",\\\"$L4\\\",null,{\\\"parallelRouterKey\\\":\\\"children\\\",\\\"error\\\":\\\"$undefined\\\",\\\"errorStyles\\\":\\\"$undefined\\\",\\\"errorScripts\\\":\\\"$undefined\\\",\\\"template\\\":[\\\"$\\\",\\\"$L5\\\",null,{}],\\\"templateStyles\\\":\\\"$undefined\\\",\\\"templateScripts\\\":\\\"$undefined\\\",\\\"notFound\\\":[\\\"$L6\\\",[[\\\"$\\\",\\\"link\\\",\\\"0\\\",{\\\"rel\\\":\\\"stylesheet\\\",\\\"href\\\":\\\"/_next/static/css/5af60822304aba26.css\\\",\\\"precedence\\\":\\\"next\\\",\\\"crossOrigin\\\":\\\"$undefined\\\",\\\"nonce\\\":\\\"$undefined\\\"}]]],\\\"forbidden\\\":\\\"$undefined\\\",\\\"unauthorized\\\":\\\"$undefined\\\"}]},\\\"params\\\":{}}]]}],{\\\"children\\\":[\\\"__PAGE__\\\",[\\\"$\\\",\\\"$1\\\",\\\"c\\\",{\\\"children\\\":[[\\\"$\\\",\\\"$L7\\\",null,{\\\"Component\\\":\\\"$8\\\",\\\"searchParams\\\":{},\\\"params\\\":\\\"$0:f:0:1:1:props:children:1:props:params\\\"}],null,[\\\"$\\\",\\\"$L9\\\",null,{\\\"children\\\":[\\\"$La\\\",[\\\"$\\\",\\\"$Lb\\\",null,{\\\"promise\\\":\\\"$@c\\\"}]]}]]}],{},null,false]},[[\\\"$\\\",\\\"div\\\",\\\"l\\\",{\\\"className\\\":\\\"loading\\\",\\\"children\\\":[\\\"$\\\",\\\"span\\\",null,{\\\"className\\\":\\\"loader\\\"}]}],[],[]],false],[\\\"$\\\",\\\"$1\\\",\\\"h\\\",{\\\"children\\\":[null,[[\\\"$\\\",\\\"$Ld\\\",null,{\\\"children\\\":\\\"$Le\\\"}],null],[\\\"$\\\",\\\"$Lf\\\",null,{\\\"children\\\":[\\\"$\\\",\\\"div\\\",null,{\\\"hidden\\\":true,\\\"children\\\":[\\\"$\\\",\\\"$10\\\",null,{\\\"fallback\\\":null,\\\"children\\\":\\\"$L11\\\"}]}]}]]}],false]],\\\"m\\\":\\\"$undefined\\\",\\\"G\\\":[\\\"$12\\\",[]],\\\"s\\\":false,\\\"S\\\":false}\\n\"])</script><script>self.__next_f.push([1,\"e:[[\\\"$\\\",\\\"meta\\\",\\\"0\\\",{\\\"charSet\\\":\\\"utf-8\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"1\\\",{\\\"name\\\":\\\"viewport\\\",\\\"content\\\":\\\"width=device-width, initial-scale=1\\\"}]]\\na:null\\nc:{\\\"metadata\\\":[[\\\"$\\\",\\\"link\\\",\\\"0\\\",{\\\"rel\\\":\\\"icon\\\",\\\"href\\\":\\\"/favicon.ico\\\",\\\"type\\\":\\\"image/x-icon\\\",\\\"sizes\\\":\\\"30x32\\\"}],[\\\"$\\\",\\\"$L13\\\",\\\"1\\\",{}]],\\\"error\\\":null,\\\"digest\\\":\\\"$undefined\\\"}\\n11:\\\"$c:metadata\\\"\\n6:E{\\\"digest\\\":\\\"NEXT_REDIRECT;replace;/signup;307;\\\"}\\n\"])</script></body></html>",
+    "location": "/",
+    "sitemap": null
+  },
+  "os": null,
+  "tags": [
+    "cloud"
+  ],
+  "timestamp": "2026-07-27T17:15:03.105310",
+  "isp": "Amazon.com, Inc.",
+  "transport": "tcp",
+  "_shodan": {
+    "region": "",
+    "module": "https"
+  },
+  "cloud": {
+    "region": "ap-south-1",
+    "service": "EC2",
+    "provider": "Amazon"
+  },
+  "location": {
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  "org": "Amazon Technologies Inc.",
+  "data": "HTTP/1.1 200 OK\r\nServer: nginx/1.28.3\r\nDate: Mon, 27 Jul 2026 17:15:02 GMT\r\nContent-Type: text/html; charset=utf-8\r\nTransfer-Encoding: chunked\r\nConnection: keep-alive\r\nVary: Accept-Encoding\r\nVary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding\r\nX-Powered-By: Next.js\r\nCache-Control: private, no-cache, no-store, max-age=0, must-revalidate\r\n\r\n",
+  "port": 443,
+  "opts": {
+    "vulns": [],
+    "heartbleed": "2026/07/27 17:15:19 [ip-redacted]:443 - SAFE\n"
+  },
+  "_artifact": {
+    "host_id": "13b280f4270e07cf08092a942ddc02f8",
+    "ip_id": "d1faebaeffa0dcce28de42e21a6d8334",
+    "port": 443,
+    "framework": "next",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 6727,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 20,
+      "ip": 1
+    }
+  }
+}

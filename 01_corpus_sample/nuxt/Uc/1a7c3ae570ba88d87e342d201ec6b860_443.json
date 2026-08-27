@@ -1,0 +1,79 @@
+{
+  "http": {
+    "redirects": [
+      {
+        "data": "HTTP/1.1 302 Found\r\nServer: nginx/1.31.1\r\nDate: Wed, 05 Aug 2026 16:38:11 GMT\r\nContent-Type: text/html\r\nContent-Length: 118\r\nConnection: keep-alive\r\nset-cookie: __Host-next-auth.csrf-token=c17546eaa055f97f91e50dc42cd1626da4b4b09c0c9a60f11cd2cf3d0b22c923%7C1c09c826ed7d5e65a07f2bca716c102bb093b27a76cde9c218bd6d51375b6d78; Path=/; HttpOnly; Secure; SameSite=Lax\r\nset-cookie: __Secure-next-auth.callback-url=https%3A%2F%2F[hostname-redacted]; Path=/; HttpOnly; Secure; SameSite=Lax\r\nset-cookie: __Host-next-auth.csrf-token=c17546eaa055f97f91e50dc42cd1626da4b4b09c0c9a60f11cd2cf3d0b22c923%7C1c09c826ed7d5e65a07f2bca716c102bb093b27a76cde9c218bd6d51375b6d78; Path=/; HttpOnly; Secure; SameSite=Lax\r\nset-cookie: __Secure-next-auth.callback-url=https%3A%2F%2F[hostname-redacted]; Path=/; HttpOnly; Secure; SameSite=Lax\r\nset-cookie: callbackUrl=https%3A%2F%2F[hostname-redacted]%2F; Path=/\r\nset-cookie: needsLandingPageRedirect=false; Path=/\r\nlocation: /api/auth/signin?callbackUrl=%2F\r\n\r\n",
+        "location": "/"
+      },
+      {
+        "data": "HTTP/1.1 302 Found\r\nServer: nginx/1.31.1\r\nDate: Wed, 05 Aug 2026 16:38:11 GMT\r\nContent-Type: text/html\r\nContent-Length: 148\r\nConnection: keep-alive\r\nset-cookie: __Host-next-auth.csrf-token=4b3451e43f37b33ccb5730949f803b389113bdf9b65e66ebead2daf6d4eda639%7Cd4b7d62b0a879be3afbf520a876005b2f5fb754c06e6cee7381b2057b87fcc32; Path=/; HttpOnly; Secure; SameSite=Lax\r\nset-cookie: __Secure-next-auth.callback-url=https%3A%2F%2F[hostname-redacted]%2F; Path=/; HttpOnly; Secure; SameSite=Lax\r\nlocation: /login?callbackUrl=https%3A%2F%2F[hostname-redacted]%2F\r\n\r\n",
+        "location": "/api/auth/signin?callbackUrl=%2F"
+      }
+    ],
+    "securitytxt": null,
+    "title": "Digitaal Toetsen",
+    "html": "<!DOCTYPE html><html  lang=\"nl\"><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"><style>:root{--nv-root-top:6rem}.notify__success{border-left-width:4px;--tw-border-opacity:1;border-left-color:rgb(5 173 132/var(--tw-border-opacity,1))}.notify__info{border-left-width:4px;--tw-border-opacity:1;border-left-color:rgb(37 153 219/var(--tw-border-opacity,1))}.notify__warning{border-left-width:4px;--tw-border-opacity:1;border-left-color:rgb(243 160 53/var(--tw-border-opacity,1))}.notify__error{border-left-width:4px;--tw-border-opacity:1;border-left-color:rgb(227 0 11/var(--tw-border-opacity,1))}.notify__pop-in{animation:pop-in-kf .25s cubic-bezier(.25,.46,.45,.94)}.notify__pop-out{animation:pop-out-kf .25s cubic-bezier(.25,.46,.45,.94)}.notify__fade{animation:fade-kf .5s ease-out}@keyframes pop-in-kf{0%{transform:scale(.2);opacity:0}to{transform:scale(1);opacity:1}}@keyframes pop-out-kf{0%{transform:scale(1);opacity:.5}to{transform:scale(1.05);opacity:0}}@keyframes fade-kf{0%{opacity:1}to{opacity:0}}</style><link rel=\"stylesheet\" href=\"/_nuxt/entry.CJduOiVh.css\" crossorigin><link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/jajI7tJZ.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/BQJbcBXz.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/DYwYLwc4.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/Cdz184FH.js\"><script type=\"module\" src=\"/_nuxt/jajI7tJZ.js\" crossorigin></script><link rel=\"prefetch\" as=\"style\" crossorigin href=\"/_nuxt/select.G0TUpN2c.css\"><link rel=\"prefetch\" as=\"style\" crossorigin href=\"/_nuxt/input.B5UJ8SGI.css\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/Bis_NlMW.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/N43sbHuE.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/DecKV4rG.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/CN7oHdfF.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/BAMIhI4d.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/D109JJJt.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/C-wOyA5t.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/C3lubBok.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/BiX0P3hS.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/DJoAbVtS.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/DL9DaK5b.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/B4otcGit.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/DFHo_iJU.js\"><title>Digitaal Toetsen</title></head><body><div id=\"__nuxt\"><!--[--><!--[--><!----><!--]--><main class=\"h-screen w-screen flex items-center justify-center\"><!--[--><div class=\"nuxt-loading-indicator\" style=\"position:fixed;top:0;right:0;left:0;pointer-events:none;width:auto;height:4px;opacity:0;background:#99211c;background-size:0% auto;transform:scaleX(0%);transform-origin:left;transition:transform 0.1s, height 0.4s, opacity 0.4s;z-index:999999;\"></div><div class=\"flex\"><svg class=\"animate-spin -ml-1 mr-3 h-8 w-8 text-foreground\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewbox=\"0 0 24 24\"><circle class=\"opacity-25\" cx=\"12\" cy=\"12\" r=\"10\" stroke=\"currentColor\" stroke-width=\"4\"></circle><path class=\"opacity-75\" fill=\"currentColor\" d=\"M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z\"></path></svg><span class=\"text-xl\">Je wordt doorgestuurd naar SurfConext...</span></div><span></span><!--]--></main><!--[--><!--v-if--><!--]--><!--]--></div><div id=\"teleports\"></div><script>window.__NUXT__={};window.__NUXT__.config={public:{baseUrl:\"https://[hostname-redacted]\",isProduction:true,lhcUrl:\"https://wdt-chat-acc.hosting.[hostname-redacted]\",auth:{isEnabled:true,baseURL:\"/api/auth\",disableInternalRouting:false,disableServerSideAuth:false,originEnvKey:\"NUXT_AUTH_ORIGIN\",sessionRefresh:{enablePeriodically:900000,enableOnWindowFocus:true,handler:\"\"},globalAppMiddleware:true,provider:{type:\"authjs\",trustHost:false,defaultProvider:\"\",addDefaultCallbackUrl:true}},notivue:{notifications:{global:{duration:5000}},animations:{enter:\"notify__pop-in\",leave:\"notify__pop-out\",clearAll:\"notify__fade\"}}},app:{baseURL:\"/\",buildId:\"331f1952-786b-47c0-a28f-4452ca0761c3\",buildAssetsDir:\"/_nuxt/\",cdnURL:\"\"}}</script><script type=\"application/json\" data-nuxt-data=\"nuxt-app\" data-ssr=\"true\" id=\"__NUXT_DATA__\">[[\"ShallowReactive\",1],{\"data\":2,\"state\":4,\"once\":9,\"_errors\":10,\"serverRendered\":12,\"path\":13,\"pinia\":14},[\"ShallowReactive\",3],{},[\"Reactive\",5],{\"$sauth:data\":6,\"$sauth:lastRefreshedAt\":7,\"$sauth:loading\":8,\"$ssessionExpireModalActive\":8,\"$ssessionExpiring\":8},null,[\"Date\",\"2026-08-05T16:38:11.897Z\"],false,[\"Set\"],[\"ShallowReactive\",11],{},true,\"\\u002Flogin?callbackUrl=https%3A%2F%2F[hostname-redacted]%2F\",[\"Reactive\",15],{\"session\":16,\"app\":23},{\"account\":17,\"loginCallbackUrl\":19,\"needsLandingPageRedirect\":21},[\"EmptyRef\",18],\"null\",[\"Ref\",20],\"\\u002F\",[\"EmptyRef\",22],\"false\",{\"pageTitle\":24,\"sidebarOpen\":26},[\"EmptyRef\",25],\"\\\"\\\"\",[\"EmptyRef\",22]]</script></body></html>",
+    "location": "/login?callbackUrl=https%3A%2F%2F[hostname-redacted]%2F",
+    "status": 200,
+    "robots": null,
+    "components_hash": 1762660885,
+    "server": "nginx/1.31.1",
+    "headers": {
+      "content-length": "5139",
+      "x-powered-by": "Nuxt",
+      "set-cookie": "__Host-next-auth.csrf-token=be934e8f7b70ef31943887d859b4fd4de00dbbd1dae0ad6f7e488303f8235e3f%7C01bb41e6b5fdcd156e2e4b7f824a2150971e689e916dcec53912436a7546ed47; Path=/; HttpOnly; Secure; SameSite=Lax, __Secure-next-auth.callback-url=https%3A%2F%2F[hostname-redacted]; Path=/; HttpOnly; Secure; SameSite=Lax, __Host-next-auth.csrf-token=be934e8f7b70ef31943887d859b4fd4de00dbbd1dae0ad6f7e488303f8235e3f%7C01bb41e6b5fdcd156e2e4b7f824a2150971e689e916dcec53912436a7546ed47; Path=/; HttpOnly; Secure; SameSite=Lax, __Secure-next-auth.callback-url=https%3A%2F%2F[hostname-redacted]; Path=/; HttpOnly; Secure; SameSite=Lax, callbackUrl=%2F; Path=/, needsLandingPageRedirect=false; Path=/",
+      "vary": "Accept-Encoding",
+      "server": "nginx/1.31.1",
+      "connection": "keep-alive",
+      "date": "Wed, 05 Aug 2026 16:38:11 GMT",
+      "content-type": "text/html;charset=utf-8"
+    },
+    "sitemap": null
+  },
+  "port": 443,
+  "transport": "tcp",
+  "cpe23_hash": 2133120536,
+  "version": "1.31.1",
+  "location": {
+    "country_code": "NL",
+    "country_name": "Netherlands"
+  },
+  "product": "nginx",
+  "timestamp": "2026-08-05T16:38:12.137458",
+  "org": "Radboud Universiteit Nijmegen",
+  "data": "HTTP/1.1 200 OK\r\nServer: nginx/1.31.1\r\nDate: Wed, 05 Aug 2026 16:38:11 GMT\r\nContent-Type: text/html;charset=utf-8\r\nContent-Length: 5139\r\nConnection: keep-alive\r\nVary: Accept-Encoding\r\nset-cookie: __Host-next-auth.csrf-token=be934e8f7b70ef31943887d859b4fd4de00dbbd1dae0ad6f7e488303f8235e3f%7C01bb41e6b5fdcd156e2e4b7f824a2150971e689e916dcec53912436a7546ed47; Path=/; HttpOnly; Secure; SameSite=Lax\r\nset-cookie: __Secure-next-auth.callback-url=https%3A%2F%2F[hostname-redacted]; Path=/; HttpOnly; Secure; SameSite=Lax\r\nset-cookie: __Host-next-auth.csrf-token=be934e8f7b70ef31943887d859b4fd4de00dbbd1dae0ad6f7e488303f8235e3f%7C01bb41e6b5fdcd156e2e4b7f824a2150971e689e916dcec53912436a7546ed47; Path=/; HttpOnly; Secure; SameSite=Lax\r\nset-cookie: __Secure-next-auth.callback-url=https%3A%2F%2F[hostname-redacted]; Path=/; HttpOnly; Secure; SameSite=Lax\r\nset-cookie: callbackUrl=%2F; Path=/\r\nset-cookie: needsLandingPageRedirect=false; Path=/\r\nx-powered-by: Nuxt\r\n\r\n",
+  "asn": "AS1103",
+  "cpe23": [
+    "cpe:2.3:a:f5:nginx:1.31.1",
+    "cpe:2.3:a:nuxt:nuxt"
+  ],
+  "isp": "SURF B.V.",
+  "cpe": [
+    "cpe:/a:f5:nginx:1.31.1",
+    "cpe:/a:nuxt:nuxt"
+  ],
+  "os": null,
+  "_shodan": {
+    "region": "eu",
+    "module": "https"
+  },
+  "opts": {
+    "vulns": [],
+    "heartbleed": "2026/08/05 16:38:16 [ip-redacted]:443 - SAFE\n"
+  },
+  "_artifact": {
+    "host_id": "1a7c3ae570ba88d87e342d201ec6b860",
+    "ip_id": "df00d8d1945f216589e25e7f2da1aabb",
+    "port": 443,
+    "framework": "nuxt",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 5139,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 28,
+      "hostname": 13,
+      "ip": 1
+    }
+  }
+}

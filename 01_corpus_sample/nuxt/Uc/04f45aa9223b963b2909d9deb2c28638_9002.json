@@ -1,0 +1,62 @@
+{
+  "asn": "AS19527",
+  "http": {
+    "status": 200,
+    "redirects": [],
+    "securitytxt": null,
+    "title": "ATD",
+    "robots": null,
+    "headers": {
+      "content-length": "8898",
+      "x-powered-by": "Nuxt",
+      "expires": "0",
+      "keep-alive": "timeout=5",
+      "connection": "keep-alive",
+      "pragma": "no-cache",
+      "cache-control": "no-cache, no-store, must-revalidate",
+      "date": "Tue, 04 Aug 2026 21:23:19 GMT",
+      "content-type": "text/html;charset=utf-8"
+    },
+    "html": "<!DOCTYPE html><html><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"><title>ATD</title><script type=\"text/javascript\">(function(){var s=localStorage.getItem('atd-color-mode');var m=(s==='light'||s==='dark')?s:(window.matchMedia('(prefers-color-scheme:light)').matches?'light':'dark');document.documentElement.classList.add(m)})()</script><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Geist+Mono:wght@400;500;600;700;800&family=Geist:wght@400;500;600;700&display=swap\"><link rel=\"stylesheet\" href=\"/_nuxt/pages/commits/[id].vue?vue&type=style&index=0&scoped=401c8d68&lang.css\" crossorigin><link rel=\"stylesheet\" href=\"/_nuxt/pages/commits/[id].vue?vue&type=style&index=1&lang.css\" crossorigin><link rel=\"stylesheet\" href=\"/_nuxt/pages/employee-master/index.vue?vue&type=style&index=0&scoped=c9597397&lang.css\" crossorigin><link rel=\"stylesheet\" href=\"/_nuxt/pages/employee-master/index.vue?vue&type=style&index=1&lang.css\" crossorigin><link rel=\"stylesheet\" href=\"/_nuxt/pages/employee-master/[id].vue?vue&type=style&index=0&scoped=a5864d08&lang.css\" crossorigin><link rel=\"stylesheet\" href=\"/_nuxt/pages/employee-master/[id].vue?vue&type=style&index=1&lang.css\" crossorigin><link rel=\"stylesheet\" href=\"/_nuxt/assets/css/main.css\" crossorigin><link rel=\"stylesheet\" href=\"/_nuxt/components/GlobalHeader.vue?vue&type=style&index=0&scoped=fa08d1fb&lang.css\" crossorigin><link rel=\"stylesheet\" href=\"/_nuxt/components/GlobalHeader.vue?vue&type=style&index=1&lang.css\" crossorigin><link rel=\"stylesheet\" href=\"/_nuxt/pages/alert-rules.vue?vue&type=style&index=0&scoped=46d10e10&lang.css\" crossorigin><link rel=\"stylesheet\" href=\"/_nuxt/pages/alert-rules.vue?vue&type=style&index=1&lang.css\" crossorigin><link rel=\"stylesheet\" href=\"/_nuxt/components/ScreenshotTimeline.vue?vue&type=style&index=0&scoped=bb5b4883&lang.css\" crossorigin><link rel=\"stylesheet\" href=\"/_nuxt/components/ScreenshotTimeline.vue?vue&type=style&index=1&lang.css\" crossorigin><link rel=\"stylesheet\" href=\"/_nuxt/pages/index.vue?vue&type=style&index=0&scoped=02281a80&lang.css\" crossorigin><link rel=\"stylesheet\" href=\"/_nuxt/pages/index.vue?vue&type=style&index=1&lang.css\" crossorigin><link rel=\"stylesheet\" href=\"/_nuxt/home/hawkward/work/admin_team_dashboard/app_atd/assets/css/main.css\" crossorigin><link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/home/hawkward/work/admin_team_dashboard/app_atd/node_modules/nuxt/dist/app/entry.async.js\"><script type=\"module\" src=\"/_nuxt/@vite/client\" crossorigin></script><script type=\"module\" src=\"/_nuxt/home/hawkward/work/admin_team_dashboard/app_atd/node_modules/nuxt/dist/app/entry.async.js\" crossorigin></script><meta http-equiv=\"Cache-Control\" content=\"no-cache, no-store, must-revalidate\"><meta http-equiv=\"Pragma\" content=\"no-cache\"><meta http-equiv=\"Expires\" content=\"0\"><link rel=\"icon\" type=\"image/svg+xml\" href=\"/favicon.svg\"></head><body><div id=\"__nuxt\"><div><!----><header class=\"gh\" data-v-fa08d1fb><a aria-current=\"page\" href=\"/\" class=\"router-link-active router-link-exact-active gh__logo\" data-v-fa08d1fb>ATD</a><nav class=\"gh__nav\" data-v-fa08d1fb><!--[--><a href=\"/employee-master\" class=\"gh__link\" data-v-fa08d1fb>メンバー一覧</a><a href=\"/team-management\" class=\"gh__link\" data-v-fa08d1fb>チーム編成</a><a href=\"/statistics\" class=\"gh__link\" data-v-fa08d1fb>統計・ランキング</a><a href=\"/roles-view\" class=\"gh__link\" data-v-fa08d1fb>職種別ダッシュボード</a><a href=\"/jira\" class=\"gh__link\" data-v-fa08d1fb>Jira</a><a href=\"/alert-rules\" class=\"gh__link\" data-v-fa08d1fb>アラート通知</a><!--]--></nav><span class=\"gh__version\" data-v-fa08d1fb>v0.0.20-dev+5148f44</span><span data-v-fa08d1fb></span></header><div class=\"hp\" data-v-02281a80><!-- Header --><header class=\"hp-header\" data-v-02281a80><h1 class=\"hp-title\" data-v-02281a80>Admin Team Dashboard</h1></header><!-- Navigation cards --><section class=\"hp-nav\" data-v-02281a80><!--[--><a href=\"/employee-master\" class=\"hp-card\" style=\"--card-accent:#34d399;\" data-v-02281a80><span class=\"hp-card__icon\" data-v-02281a80>👤</span><span class=\"hp-card__label\" data-v-02281a80>メンバー一覧</span><span class=\"hp-card__desc\" data-v-02281a80>メンバー一覧・個別パフォーマンス</span><span class=\"hp-card__arrow\" data-v-02281a80>→</span></a><a href=\"/team-management\" class=\"hp-card\" style=\"--card-accent:#60a5fa;\" data-v-02281a80><span class=\"hp-card__icon\" data-v-02281a80>🏠</span><span class=\"hp-card__label\" data-v-02281a80>チーム編成</span><span class=\"hp-card__desc\" data-v-02281a80>プロジェクトへのアサイン管理</span><span class=\"hp-card__arrow\" data-v-02281a80>→</span></a><a href=\"/statistics\" class=\"hp-card\" style=\"--card-accent:#f472b6;\" data-v-02281a80><span class=\"hp-card__icon\" data-v-02281a80>🏆</span><span class=\"hp-card__label\" data-v-02281a80>統計・ランキング</span><span class=\"hp-card__desc\" data-v-02281a80>職種別・PJ別パフォーマンス</span><span class=\"hp-card__arrow\" data-v-02281a80>→</span></a><a href=\"/roles-view\" class=\"hp-card\" style=\"--card-accent:#a855f7;\" data-v-02281a80><span class=\"hp-card__icon\" data-v-02281a80>📊</span><span class=\"hp-card__label\" data-v-02281a80>職種別ダッシュボード</span><span class=\"hp-card__desc\" data-v-02281a80>メンバー別 KPI 推移・ヒートマップ</span><span class=\"hp-card__arrow\" data-v-02281a80>→</span></a><a href=\"/jira\" class=\"hp-card\" style=\"--card-accent:#f97316;\" data-v-02281a80><span class=\"hp-card__icon\" data-v-02281a80>🎫</span><span class=\"hp-card__label\" data-v-02281a80>Jira</span><span class=\"hp-card__desc\" data-v-02281a80>課題・スプリント・アクティビティ</span><span class=\"hp-card__arrow\" data-v-02281a80>→</span></a><a href=\"/alert-rules\" class=\"hp-card\" style=\"--card-accent:#facc15;\" data-v-02281a80><span class=\"hp-card__icon\" data-v-02281a80>🔔</span><span class=\"hp-card__label\" data-v-02281a80>アラート通知</span><span class=\"hp-card__desc\" data-v-02281a80>Slack 通知の閾値・ルール設定</span><span class=\"hp-card__arrow\" data-v-02281a80>→</span></a><!--]--></section><!-- Main grid: batch + output + jobs --><div class=\"hp-grid\" data-v-02281a80><div class=\"hp-panel hp-panel--wide\" data-v-02281a80><h2 class=\"hp-panel__title\" data-v-02281a80>バッチデータ</h2><!--[--><p class=\"text-sm\" style=\"color:var(--hp-muted);\" data-v-02281a80>読み込み中...</p><!--]--></div><div class=\"hp-panel\" data-v-02281a80><h2 class=\"hp-panel__title\" data-v-02281a80>Output データ</h2><!--[--><p class=\"text-sm\" style=\"color:var(--hp-muted);\" data-v-02281a80>読み込み中...</p><!--]--></div><div class=\"hp-panel\" data-v-02281a80><h2 class=\"hp-panel__title\" data-v-02281a80>ジョブ履歴</h2><!--[--><p class=\"text-sm\" style=\"color:var(--hp-muted);\" data-v-02281a80>読み込み中...</p><!--]--></div></div><!-- Bottom: spreadsheet + auth --><div class=\"hp-bottom\" data-v-02281a80><div class=\"hp-panel\" data-v-02281a80><h2 class=\"hp-panel__title\" data-v-02281a80>Spreadsheet</h2><div class=\"hp-sheet-list\" data-v-02281a80><!--[--><a href=\"https://docs.google.com/spreadsheets/d/1GveeHe-idrJjweQEJT5ioRUciUSEDbLLFaha_1DchlI/edit?gid=1637521327#gid=1637521327\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"hp-sheet-link\" data-v-02281a80>sys:_従業員マスター <span data-v-02281a80>→</span></a><!--]--></div></div><div class=\"hp-panel hp-panel--small\" data-v-02281a80><h2 class=\"hp-panel__title\" data-v-02281a80>初回認証・設定</h2><div class=\"hp-note\" data-v-02281a80> 法定祝日データ: <strong data-v-02281a80>2024〜2027年</strong> / 年末年始: <strong data-v-02281a80>2024〜2028年</strong> （<code data-v-02281a80>lib/holidays.ts</code> に直書き・内閣府CSV由来） </div><div class=\"hp-auth-list\" data-v-02281a80><!--[--><a href=\"/freee/auth\" class=\"hp-auth-link\" data-v-02281a80>freee 認証 <span data-v-02281a80>→</span></a><a href=\"/google/auth\" class=\"hp-auth-link\" data-v-02281a80>Google Sheets 認証 <span data-v-02281a80>→</span></a><!--]--></div></div></div><!-- Test link --><div class=\"hp-test-link\" data-v-02281a80><a href=\"/mzb-test\" class=\"hp-test-anchor\" data-v-02281a80>mzb テストページ</a></div></div></div></div><div id=\"teleports\"></div><script type=\"application/json\" data-nuxt-logs=\"nuxt-app\">[[]]</script><script>window.__NUXT__={};window.__NUXT__.config={public:{appVersion:\"0.0.20\",buildMode:\"dev\",gitHash:\"5148f44\"},app:{baseURL:\"/\",buildId:\"dev\",buildAssetsDir:\"/_nuxt/\",cdnURL:\"\"}}</script><script type=\"application/json\" data-nuxt-data=\"nuxt-app\" data-ssr=\"true\" id=\"__NUXT_DATA__\">[[\"ShallowReactive\",1],{\"data\":2,\"state\":4,\"once\":6,\"_errors\":7,\"serverRendered\":9,\"path\":10},[\"ShallowReactive\",3],{},[\"Reactive\",5],{},[\"Set\"],[\"ShallowReactive\",8],{},true,\"\\u002F\"]</script></body></html>",
+    "location": "/",
+    "server": null,
+    "sitemap": null
+  },
+  "os": null,
+  "tags": [
+    "cloud"
+  ],
+  "timestamp": "2026-08-04T21:23:20.418665",
+  "isp": "Google LLC",
+  "transport": "tcp",
+  "_shodan": {
+    "region": "eu",
+    "module": "https-simple-new"
+  },
+  "cloud": {
+    "region": "asia-east1",
+    "service": null,
+    "provider": "Google"
+  },
+  "location": {
+    "country_code": "TW",
+    "country_name": "Taiwan"
+  },
+  "org": "Google LLC",
+  "data": "HTTP/1.1 200 OK\r\ncache-control: no-cache, no-store, must-revalidate\r\npragma: no-cache\r\nexpires: 0\r\ncontent-type: text/html;charset=utf-8\r\nx-powered-by: Nuxt\r\ndate: Tue, 04 Aug 2026 21:23:19 GMT\r\nconnection: keep-alive\r\nkeep-alive: timeout=5\r\ncontent-length: 8898\r\n\r\n",
+  "port": 9002,
+  "opts": {},
+  "_artifact": {
+    "host_id": "04f45aa9223b963b2909d9deb2c28638",
+    "ip_id": "bd9ba3dd480baa5ca057f8a825d0d6e5",
+    "port": 9002,
+    "framework": "nuxt",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 8396,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 23
+    }
+  }
+}

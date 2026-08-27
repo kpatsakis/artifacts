@@ -1,0 +1,74 @@
+{
+  "asn": "AS270002",
+  "http": {
+    "status": 200,
+    "redirects": [
+      {
+        "data": "HTTP/1.1 307 Temporary Redirect\r\nlocation: /api/auth/signin?callbackUrl=%2F\r\nDate: Wed, 29 Jul 2026 18:10:55 GMT\r\nConnection: keep-alive\r\nKeep-Alive: timeout=5\r\nTransfer-Encoding: chunked\r\n\r\n",
+        "location": "/"
+      },
+      {
+        "data": "HTTP/1.1 302 Found\r\nvary: RSC, Next-Router-State-Tree, Next-Router-Prefetch\r\nlocation: /login?callbackUrl=http%3A%2F%2F[ip-redacted]%3A3000%2F\r\nset-cookie: next-auth.csrf-token=26424afb28fc63c5166ccd94e2fba0bb6fed16097631bfe75cc5fcd507ef4f86%7Cfa61b828fc0fb7c7b7b9685132b6238f423ef32ff23451274055f6f59488e2a9; Path=/; HttpOnly; SameSite=Lax\r\nset-cookie: next-auth.callback-url=http%3A%2F%2F[ip-redacted]%3A3000%2F; Path=/; HttpOnly; SameSite=Lax\r\nDate: Wed, 29 Jul 2026 18:10:56 GMT\r\nConnection: keep-alive\r\nKeep-Alive: timeout=5\r\nTransfer-Encoding: chunked\r\n\r\n",
+        "location": "/api/auth/signin?callbackUrl=%2F"
+      }
+    ],
+    "securitytxt": null,
+    "title": "NMS GPON Monitor - Sistema de Monitoreo VSOL",
+    "robots": null,
+    "components_hash": -892850553,
+    "html": "<!DOCTYPE html><html lang=\"es\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"stylesheet\" href=\"/_next/static/css/8ca56c0bf8edb342.css\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/webpack-9b6bd795.js\"/><script src=\"/_next/static/chunks/fd9d1056-8e0367ad.js\" async=\"\"></script><script src=\"/_next/static/chunks/117-760cd612.js\" async=\"\"></script><script src=\"/_next/static/chunks/main-app-43cc2790.js\" async=\"\"></script><script src=\"/_next/static/chunks/429-d3eced29.js\" async=\"\"></script><script src=\"/_next/static/chunks/605-3ca81e2c.js\" async=\"\"></script><script src=\"/_next/static/chunks/app/login/page-6fcd96c4.js\" async=\"\"></script><script src=\"/_next/static/chunks/424-2e9b6a1f.js\" async=\"\"></script><script src=\"/_next/static/chunks/app/layout-d3bd428f.js\" async=\"\"></script><title>NMS GPON Monitor - Sistema de Monitoreo VSOL</title><meta name=\"description\" content=\"Sistema de monitoreo de red GPON para OLTs VSOL con alertas en tiempo real\"/><meta property=\"og:title\" content=\"NMS GPON Monitor\"/><meta property=\"og:description\" content=\"Sistema de monitoreo de red GPON para OLTs VSOL\"/><meta property=\"og:image\" content=\"http://[ip-redacted]:3000/og-image.png\"/><meta name=\"twitter:card\" content=\"summary_large_image\"/><meta name=\"twitter:title\" content=\"NMS GPON Monitor\"/><meta name=\"twitter:description\" content=\"Sistema de monitoreo de red GPON para OLTs VSOL\"/><meta name=\"twitter:image\" content=\"http://[ip-redacted]:3000/og-image.png\"/><link rel=\"shortcut icon\" href=\"/favicon.svg\"/><link rel=\"icon\" href=\"/favicon.svg\"/><meta name=\"next-size-adjust\"/><script src=\"https://apps.abacus.ai/chatllm/appllm-lib.js\"></script><script src=\"/_next/static/chunks/polyfills-42372ed130431b0a.js\" noModule=\"\"></script></head><body class=\"__className_f367f3 antialiased\"><div class=\"min-h-screen bg-background flex items-center justify-center\"><div class=\"animate-pulse text-primary\">Cargando...</div></div><script src=\"/_next/static/chunks/webpack-9b6bd795.js\" async=\"\"></script><script>(self.__next_f=self.__next_f||[]).push([0]);self.__next_f.push([2,null])</script><script>self.__next_f.push([1,\"1:HL[\\\"/_next/static/media/e4af272ccee01ff0-s.p.woff2\\\",\\\"font\\\",{\\\"crossOrigin\\\":\\\"\\\",\\\"type\\\":\\\"font/woff2\\\"}]\\n2:HL[\\\"/_next/static/css/8ca56c0bf8edb342.css\\\",\\\"style\\\"]\\n\"])</script><script>self.__next_f.push([1,\"3:I[2846,[],\\\"\\\"]\\n5:I[9107,[],\\\"ClientPageRoot\\\"]\\n6:I[1354,[\\\"429\\\",\\\"static/chunks/429-d3eced29.js\\\",\\\"605\\\",\\\"static/chunks/605-3ca81e2c.js\\\",\\\"626\\\",\\\"static/chunks/app/login/page-6fcd96c4.js\\\"],\\\"default\\\",1]\\n7:I[4707,[],\\\"\\\"]\\n8:I[6423,[],\\\"\\\"]\\n9:I[2232,[\\\"429\\\",\\\"static/chunks/429-d3eced29.js\\\",\\\"605\\\",\\\"static/chunks/605-3ca81e2c.js\\\",\\\"424\\\",\\\"static/chunks/424-2e9b6a1f.js\\\",\\\"185\\\",\\\"static/chunks/app/layout-d3bd428f.js\\\"],\\\"Providers\\\"]\\na:I[5976,[\\\"429\\\",\\\"static/chunks/429-d3eced29.js\\\",\\\"605\\\",\\\"static/chunks/605-3ca81e2c.js\\\",\\\"424\\\",\\\"static/chunks/424-2e9b6a1f.js\\\",\\\"185\\\",\\\"static/chunks/app/layout-d3bd428f.js\\\"],\\\"Toaster\\\"]\\nc:I[1060,[],\\\"\\\"]\\nd:[]\\n\"])</script><script>self.__next_f.push([1,\"0:[\\\"$\\\",\\\"$L3\\\",null,{\\\"buildId\\\":\\\"-LA6xkdj8jnVWwe4DQGN5\\\",\\\"assetPrefix\\\":\\\"\\\",\\\"urlParts\\\":[\\\"\\\",\\\"login?callbackUrl=http%3A%2F%2F[ip-redacted]%3A3000%2F\\\"],\\\"initialTree\\\":[\\\"\\\",{\\\"children\\\":[\\\"login\\\",{\\\"children\\\":[\\\"__PAGE__?{\\\\\\\"callbackUrl\\\\\\\":\\\\\\\"http://[ip-redacted]:3000/\\\\\\\"}\\\",{}]}]},\\\"$undefined\\\",\\\"$undefined\\\",true],\\\"initialSeedData\\\":[\\\"\\\",{\\\"children\\\":[\\\"login\\\",{\\\"children\\\":[\\\"__PAGE__\\\",{},[[\\\"$L4\\\",[\\\"$\\\",\\\"$L5\\\",null,{\\\"props\\\":{\\\"params\\\":{},\\\"searchParams\\\":{\\\"callbackUrl\\\":\\\"http://[ip-redacted]:3000/\\\"}},\\\"Component\\\":\\\"$6\\\"}],null],null],null]},[null,[\\\"$\\\",\\\"$L7\\\",null,{\\\"parallelRouterKey\\\":\\\"children\\\",\\\"segmentPath\\\":[\\\"children\\\",\\\"login\\\",\\\"children\\\"],\\\"error\\\":\\\"$undefined\\\",\\\"errorStyles\\\":\\\"$undefined\\\",\\\"errorScripts\\\":\\\"$undefined\\\",\\\"template\\\":[\\\"$\\\",\\\"$L8\\\",null,{}],\\\"templateStyles\\\":\\\"$undefined\\\",\\\"templateScripts\\\":\\\"$undefined\\\",\\\"notFound\\\":\\\"$undefined\\\",\\\"notFoundStyles\\\":\\\"$undefined\\\"}]],null]},[[[[\\\"$\\\",\\\"link\\\",\\\"0\\\",{\\\"rel\\\":\\\"stylesheet\\\",\\\"href\\\":\\\"/_next/static/css/8ca56c0bf8edb342.css\\\",\\\"precedence\\\":\\\"next\\\",\\\"crossOrigin\\\":\\\"$undefined\\\"}]],[\\\"$\\\",\\\"html\\\",null,{\\\"lang\\\":\\\"es\\\",\\\"suppressHydrationWarning\\\":true,\\\"children\\\":[[\\\"$\\\",\\\"head\\\",null,{\\\"children\\\":[\\\"$\\\",\\\"script\\\",null,{\\\"src\\\":\\\"https://apps.abacus.ai/chatllm/appllm-lib.js\\\"}]}],[\\\"$\\\",\\\"body\\\",null,{\\\"className\\\":\\\"__className_f367f3 antialiased\\\",\\\"suppressHydrationWarning\\\":true,\\\"children\\\":[\\\"$\\\",\\\"$L9\\\",null,{\\\"children\\\":[[\\\"$\\\",\\\"$L7\\\",null,{\\\"parallelRouterKey\\\":\\\"children\\\",\\\"segmentPath\\\":[\\\"children\\\"],\\\"error\\\":\\\"$undefined\\\",\\\"errorStyles\\\":\\\"$undefined\\\",\\\"errorScripts\\\":\\\"$undefined\\\",\\\"template\\\":[\\\"$\\\",\\\"$L8\\\",null,{}],\\\"templateStyles\\\":\\\"$undefined\\\",\\\"templateScripts\\\":\\\"$undefined\\\",\\\"notFound\\\":[[\\\"$\\\",\\\"title\\\",null,{\\\"children\\\":\\\"404: This page could not be found.\\\"}],[\\\"$\\\",\\\"div\\\",null,{\\\"style\\\":{\\\"fontFamily\\\":\\\"system-ui,\\\\\\\"Segoe UI\\\\\\\",Roboto,Helvetica,Arial,sans-serif,\\\\\\\"Apple Color Emoji\\\\\\\",\\\\\\\"Segoe UI Emoji\\\\\\\"\\\",\\\"height\\\":\\\"100vh\\\",\\\"textAlign\\\":\\\"center\\\",\\\"display\\\":\\\"flex\\\",\\\"flexDirection\\\":\\\"column\\\",\\\"alignItems\\\":\\\"center\\\",\\\"justifyContent\\\":\\\"center\\\"},\\\"children\\\":[\\\"$\\\",\\\"div\\\",null,{\\\"children\\\":[[\\\"$\\\",\\\"style\\\",null,{\\\"dangerouslySetInnerHTML\\\":{\\\"__html\\\":\\\"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}\\\"}}],[\\\"$\\\",\\\"h1\\\",null,{\\\"className\\\":\\\"next-error-h1\\\",\\\"style\\\":{\\\"display\\\":\\\"inline-block\\\",\\\"margin\\\":\\\"0 20px 0 0\\\",\\\"padding\\\":\\\"0 23px 0 0\\\",\\\"fontSize\\\":24,\\\"fontWeight\\\":500,\\\"verticalAlign\\\":\\\"top\\\",\\\"lineHeight\\\":\\\"49px\\\"},\\\"children\\\":\\\"404\\\"}],[\\\"$\\\",\\\"div\\\",null,{\\\"style\\\":{\\\"display\\\":\\\"inline-block\\\"},\\\"children\\\":[\\\"$\\\",\\\"h2\\\",null,{\\\"style\\\":{\\\"fontSize\\\":14,\\\"fontWeight\\\":400,\\\"lineHeight\\\":\\\"49px\\\",\\\"margin\\\":0},\\\"children\\\":\\\"This page could not be found.\\\"}]}]]}]}]],\\\"notFoundStyles\\\":[]}],[\\\"$\\\",\\\"$La\\\",null,{}]]}]}]]}]],null],null],\\\"couldBeIntercepted\\\":false,\\\"initialHead\\\":[null,\\\"$Lb\\\"],\\\"globalErrorComponent\\\":\\\"$c\\\",\\\"missingSlots\\\":\\\"$Wd\\\"}]\\n\"])</script><script>self.__next_f.push([1,\"b:[[\\\"$\\\",\\\"meta\\\",\\\"0\\\",{\\\"name\\\":\\\"viewport\\\",\\\"content\\\":\\\"width=device-width, initial-scale=1\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"1\\\",{\\\"charSet\\\":\\\"utf-8\\\"}],[\\\"$\\\",\\\"title\\\",\\\"2\\\",{\\\"children\\\":\\\"NMS GPON Monitor - Sistema de Monitoreo VSOL\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"3\\\",{\\\"name\\\":\\\"description\\\",\\\"content\\\":\\\"Sistema de monitoreo de red GPON para OLTs VSOL con alertas en tiempo real\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"4\\\",{\\\"property\\\":\\\"og:title\\\",\\\"content\\\":\\\"NMS GPON Monitor\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"5\\\",{\\\"property\\\":\\\"og:description\\\",\\\"content\\\":\\\"Sistema de monitoreo de red GPON para OLTs VSOL\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"6\\\",{\\\"property\\\":\\\"og:image\\\",\\\"content\\\":\\\"http://[ip-redacted]:3000/og-image.png\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"7\\\",{\\\"name\\\":\\\"twitter:card\\\",\\\"content\\\":\\\"summary_large_image\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"8\\\",{\\\"name\\\":\\\"twitter:title\\\",\\\"content\\\":\\\"NMS GPON Monitor\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"9\\\",{\\\"name\\\":\\\"twitter:description\\\",\\\"content\\\":\\\"Sistema de monitoreo de red GPON para OLTs VSOL\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"10\\\",{\\\"name\\\":\\\"twitter:image\\\",\\\"content\\\":\\\"http://[ip-redacted]:3000/og-image.png\\\"}],[\\\"$\\\",\\\"link\\\",\\\"11\\\",{\\\"rel\\\":\\\"shortcut icon\\\",\\\"href\\\":\\\"/favicon.svg\\\"}],[\\\"$\\\",\\\"link\\\",\\\"12\\\",{\\\"rel\\\":\\\"icon\\\",\\\"href\\\":\\\"/favicon.svg\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"13\\\",{\\\"name\\\":\\\"next-size-adjust\\\"}]]\\n4:null\\n\"])</script></body></html>",
+    "location": "/login?callbackUrl=http%3A%2F%2F[ip-redacted]%3A3000%2F",
+    "headers": {
+      "x-powered-by": "Next.js",
+      "transfer-encoding": "chunked",
+      "vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Accept-Encoding",
+      "keep-alive": "timeout=5",
+      "connection": "keep-alive",
+      "link": "</_next/static/media/e4af272ccee01ff0-s.p.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\"",
+      "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
+      "date": "Wed, 29 Jul 2026 18:10:57 GMT",
+      "content-type": "text/html; charset=utf-8"
+    },
+    "server": null,
+    "sitemap": null
+  },
+  "os": null,
+  "transport": "tcp",
+  "timestamp": "2026-07-29T18:10:57.546990",
+  "isp": "SIEBEN SERGIO OVIDIO (INTRAGIGA)",
+  "cpe23": [
+    "cpe:2.3:a:facebook:react",
+    "cpe:2.3:a:vercel:next.js"
+  ],
+  "cpe": [
+    "cpe:/a:facebook:react",
+    "cpe:/a:vercel:next.js"
+  ],
+  "_shodan": {
+    "region": "eu",
+    "module": "http-simple-new"
+  },
+  "cpe23_hash": 286908511,
+  "location": {
+    "country_code": "AR",
+    "country_name": "Argentina"
+  },
+  "org": null,
+  "data": "HTTP/1.1 200 OK\r\nVary: RSC, Next-Router-State-Tree, Next-Router-Prefetch, Accept-Encoding\r\nlink: </_next/static/media/e4af272ccee01ff0-s.p.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\"\r\nX-Powered-By: Next.js\r\nCache-Control: private, no-cache, no-store, max-age=0, must-revalidate\r\nContent-Type: text/html; charset=utf-8\r\nDate: Wed, 29 Jul 2026 18:10:57 GMT\r\nConnection: keep-alive\r\nKeep-Alive: timeout=5\r\nTransfer-Encoding: chunked\r\n\r\n",
+  "port": 3000,
+  "opts": {},
+  "_artifact": {
+    "host_id": "a4f57e78f5c70c3eeef6f222eb86659e",
+    "ip_id": "c47d922ff26146e3b7bd3aacc1bd1ef6",
+    "port": 3000,
+    "framework": "next",
+    "tier": "Oc",
+    "tier_label": "Objective generator-fingerprint",
+    "html_chars_original": 7735,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 26,
+      "ip": 10
+    }
+  }
+}

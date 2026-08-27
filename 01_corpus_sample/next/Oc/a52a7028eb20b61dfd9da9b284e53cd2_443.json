@@ -1,0 +1,67 @@
+{
+  "asn": "AS16509",
+  "http": {
+    "status": 200,
+    "redirects": [],
+    "securitytxt": null,
+    "title": "neuron",
+    "robots": null,
+    "server": "nginx/1.24.0 (Ubuntu)",
+    "headers": {
+      "x-nextjs-cache": "HIT",
+      "content-length": "5628",
+      "x-powered-by": "Next.js",
+      "vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Accept-Encoding",
+      "server": "nginx/1.24.0 (Ubuntu)",
+      "connection": "keep-alive",
+      "etag": "\"r8wi7djf7o4bm\"",
+      "cache-control": "s-maxage=31536000, stale-while-revalidate",
+      "date": "Mon, 13 Jul 2026 14:46:52 GMT",
+      "content-type": "text/html; charset=utf-8"
+    },
+    "html": "<!DOCTYPE html><html lang=\"en\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"preload\" href=\"/_next/static/media/1e41be92c43b3255-s.p.woff2\" as=\"font\" crossorigin=\"\" type=\"font/woff2\"/><link rel=\"stylesheet\" href=\"/_next/static/css/c57c60ecbf673b92.css\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/css/6a989adf83a5cbb2.css\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/webpack-5e8f5a8ed844634e.js\"/><script src=\"/_next/static/chunks/8bc8d761-11938e0d1a414465.js\" async=\"\"></script><script src=\"/_next/static/chunks/240-2968c72078612ded.js\" async=\"\"></script><script src=\"/_next/static/chunks/main-app-85715bfe743938ad.js\" async=\"\"></script><script src=\"/_next/static/chunks/7678-fc2a66c6ac030029.js\" async=\"\"></script><script src=\"/_next/static/chunks/app/page-0c3d8b663f24102a.js\" async=\"\"></script><script src=\"/_next/static/chunks/app/layout-64ff9a7feda24523.js\" async=\"\"></script><title>neuron</title><meta name=\"description\" content=\"Neuron AI Platform\"/><meta name=\"generator\" content=\"v0.app\"/><meta name=\"next-size-adjust\"/><script src=\"/_next/static/chunks/polyfills-42372ed130431b0a.js\" noModule=\"\"></script></head><body class=\"font-sans __variable_e81766 bg-[var(--background-primary)]\"><!--$--><div class=\"min-h-screen flex items-center justify-center\"><div class=\"text-center\"><div class=\"animate-spin rounded-full h-8 w-8 border-b-2 border-blue-500 mx-auto\"></div><p class=\"mt-2 text-gray-600\">Redirecting...</p></div></div><!--/$--><script src=\"/_next/static/chunks/webpack-5e8f5a8ed844634e.js\" async=\"\"></script><script>(self.__next_f=self.__next_f||[]).push([0]);self.__next_f.push([2,null])</script><script>self.__next_f.push([1,\"1:HL[\\\"/_next/static/media/1e41be92c43b3255-s.p.woff2\\\",\\\"font\\\",{\\\"crossOrigin\\\":\\\"\\\",\\\"type\\\":\\\"font/woff2\\\"}]\\n2:HL[\\\"/_next/static/css/c57c60ecbf673b92.css\\\",\\\"style\\\"]\\n3:HL[\\\"/_next/static/css/6a989adf83a5cbb2.css\\\",\\\"style\\\"]\\n\"])</script><script>self.__next_f.push([1,\"4:I[67266,[],\\\"\\\"]\\n6:I[26849,[],\\\"ClientPageRoot\\\"]\\n7:I[61058,[\\\"7678\\\",\\\"static/chunks/7678-fc2a66c6ac030029.js\\\",\\\"1931\\\",\\\"static/chunks/app/page-0c3d8b663f24102a.js\\\"],\\\"default\\\",1]\\n8:I[57094,[\\\"3185\\\",\\\"static/chunks/app/layout-64ff9a7feda24523.js\\\"],\\\"GlobalDateRangeInit\\\"]\\n9:I[16735,[\\\"3185\\\",\\\"static/chunks/app/layout-64ff9a7feda24523.js\\\"],\\\"BrandingTitle\\\"]\\na:I[82110,[],\\\"\\\"]\\nb:I[94718,[],\\\"\\\"]\\nd:I[94735,[],\\\"\\\"]\\ne:[]\\n\"])</script><script>self.__next_f.push([1,\"0:[\\\"$\\\",\\\"$L4\\\",null,{\\\"buildId\\\":\\\"YMFpJl_V6427tv4-z1YgC\\\",\\\"assetPrefix\\\":\\\"\\\",\\\"urlParts\\\":[\\\"\\\",\\\"\\\"],\\\"initialTree\\\":[\\\"\\\",{\\\"children\\\":[\\\"__PAGE__\\\",{}]},\\\"$undefined\\\",\\\"$undefined\\\",true],\\\"initialSeedData\\\":[\\\"\\\",{\\\"children\\\":[\\\"__PAGE__\\\",{},[[\\\"$L5\\\",[\\\"$\\\",\\\"$L6\\\",null,{\\\"props\\\":{\\\"params\\\":{},\\\"searchParams\\\":{}},\\\"Component\\\":\\\"$7\\\"}],null],null],null]},[[[[\\\"$\\\",\\\"link\\\",\\\"0\\\",{\\\"rel\\\":\\\"stylesheet\\\",\\\"href\\\":\\\"/_next/static/css/c57c60ecbf673b92.css\\\",\\\"precedence\\\":\\\"next\\\",\\\"crossOrigin\\\":\\\"$undefined\\\"}],[\\\"$\\\",\\\"link\\\",\\\"1\\\",{\\\"rel\\\":\\\"stylesheet\\\",\\\"href\\\":\\\"/_next/static/css/6a989adf83a5cbb2.css\\\",\\\"precedence\\\":\\\"next\\\",\\\"crossOrigin\\\":\\\"$undefined\\\"}]],[\\\"$\\\",\\\"html\\\",null,{\\\"lang\\\":\\\"en\\\",\\\"children\\\":[\\\"$\\\",\\\"body\\\",null,{\\\"className\\\":\\\"font-sans __variable_e81766 bg-[var(--background-primary)]\\\",\\\"children\\\":[[\\\"$\\\",\\\"$L8\\\",null,{}],[\\\"$\\\",\\\"$L9\\\",null,{}],[\\\"$\\\",\\\"$La\\\",null,{\\\"parallelRouterKey\\\":\\\"children\\\",\\\"segmentPath\\\":[\\\"children\\\"],\\\"error\\\":\\\"$undefined\\\",\\\"errorStyles\\\":\\\"$undefined\\\",\\\"errorScripts\\\":\\\"$undefined\\\",\\\"template\\\":[\\\"$\\\",\\\"$Lb\\\",null,{}],\\\"templateStyles\\\":\\\"$undefined\\\",\\\"templateScripts\\\":\\\"$undefined\\\",\\\"notFound\\\":[[\\\"$\\\",\\\"title\\\",null,{\\\"children\\\":\\\"404: This page could not be found.\\\"}],[\\\"$\\\",\\\"div\\\",null,{\\\"style\\\":{\\\"fontFamily\\\":\\\"system-ui,\\\\\\\"Segoe UI\\\\\\\",Roboto,Helvetica,Arial,sans-serif,\\\\\\\"Apple Color Emoji\\\\\\\",\\\\\\\"Segoe UI Emoji\\\\\\\"\\\",\\\"height\\\":\\\"100vh\\\",\\\"textAlign\\\":\\\"center\\\",\\\"display\\\":\\\"flex\\\",\\\"flexDirection\\\":\\\"column\\\",\\\"alignItems\\\":\\\"center\\\",\\\"justifyContent\\\":\\\"center\\\"},\\\"children\\\":[\\\"$\\\",\\\"div\\\",null,{\\\"children\\\":[[\\\"$\\\",\\\"style\\\",null,{\\\"dangerouslySetInnerHTML\\\":{\\\"__html\\\":\\\"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}\\\"}}],[\\\"$\\\",\\\"h1\\\",null,{\\\"className\\\":\\\"next-error-h1\\\",\\\"style\\\":{\\\"display\\\":\\\"inline-block\\\",\\\"margin\\\":\\\"0 20px 0 0\\\",\\\"padding\\\":\\\"0 23px 0 0\\\",\\\"fontSize\\\":24,\\\"fontWeight\\\":500,\\\"verticalAlign\\\":\\\"top\\\",\\\"lineHeight\\\":\\\"49px\\\"},\\\"children\\\":\\\"404\\\"}],[\\\"$\\\",\\\"div\\\",null,{\\\"style\\\":{\\\"display\\\":\\\"inline-block\\\"},\\\"children\\\":[\\\"$\\\",\\\"h2\\\",null,{\\\"style\\\":{\\\"fontSize\\\":14,\\\"fontWeight\\\":400,\\\"lineHeight\\\":\\\"49px\\\",\\\"margin\\\":0},\\\"children\\\":\\\"This page could not be found.\\\"}]}]]}]}]],\\\"notFoundStyles\\\":[]}]]}]}]],null],[null,[],[]]],\\\"couldBeIntercepted\\\":false,\\\"initialHead\\\":[null,\\\"$Lc\\\"],\\\"globalErrorComponent\\\":\\\"$d\\\",\\\"missingSlots\\\":\\\"$We\\\"}]\\n\"])</script><script>self.__next_f.push([1,\"c:[[\\\"$\\\",\\\"meta\\\",\\\"0\\\",{\\\"name\\\":\\\"viewport\\\",\\\"content\\\":\\\"width=device-width, initial-scale=1\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"1\\\",{\\\"charSet\\\":\\\"utf-8\\\"}],[\\\"$\\\",\\\"title\\\",\\\"2\\\",{\\\"children\\\":\\\"neuron\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"3\\\",{\\\"name\\\":\\\"description\\\",\\\"content\\\":\\\"Neuron AI Platform\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"4\\\",{\\\"name\\\":\\\"generator\\\",\\\"content\\\":\\\"v0.app\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"5\\\",{\\\"name\\\":\\\"next-size-adjust\\\"}]]\\n5:null\\n\"])</script></body></html>",
+    "location": "/",
+    "sitemap": null
+  },
+  "os": null,
+  "tags": [
+    "cloud"
+  ],
+  "timestamp": "2026-07-13T14:46:53.213998",
+  "isp": "Amazon.com, Inc.",
+  "transport": "tcp",
+  "_shodan": {
+    "region": "eu",
+    "module": "https"
+  },
+  "cloud": {
+    "region": "ap-south-1",
+    "service": "EC2",
+    "provider": "Amazon"
+  },
+  "location": {
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  "org": "Amazon Data Services India",
+  "data": "HTTP/1.1 200 OK\r\nServer: nginx/1.24.0 (Ubuntu)\r\nDate: Mon, 13 Jul 2026 14:46:52 GMT\r\nContent-Type: text/html; charset=utf-8\r\nContent-Length: 5628\r\nConnection: keep-alive\r\nVary: RSC, Next-Router-State-Tree, Next-Router-Prefetch, Accept-Encoding\r\nx-nextjs-cache: HIT\r\nX-Powered-By: Next.js\r\nCache-Control: s-maxage=31536000, stale-while-revalidate\r\nETag: \"r8wi7djf7o4bm\"\r\n\r\n",
+  "port": 443,
+  "opts": {
+    "vulns": [],
+    "heartbleed": "2026/07/13 14:47:02 [ip-redacted]:443 - SAFE\n"
+  },
+  "_artifact": {
+    "host_id": "a52a7028eb20b61dfd9da9b284e53cd2",
+    "ip_id": "615a505505c5aab0a70125f67ac7c24e",
+    "port": 443,
+    "framework": "next",
+    "tier": "Oc",
+    "tier_label": "Objective generator-fingerprint",
+    "html_chars_original": 5628,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 20,
+      "ip": 1
+    }
+  }
+}

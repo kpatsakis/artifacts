@@ -1,0 +1,68 @@
+{
+  "asn": "AS16509",
+  "http": {
+    "status": 200,
+    "redirects": [],
+    "securitytxt": null,
+    "title": null,
+    "robots": null,
+    "headers": {
+      "content-length": "222",
+      "x-powered-by": "Next.js",
+      "vary": "RSC",
+      "server": "mcp-modelfetch",
+      "last-modified": "Mon, 11 Oct 2021 21:34:52 GMT",
+      "date": "Mon, 27 Jul 2026 23:37:07 GMT",
+      "content-type": "text/x-component"
+    },
+    "html": "<!DOCTYPE html>\n<html>\n<head>\n    <meta name=\"generator\" content=\"Waku\"/>\n    <link rel=\"icon\" href=\"/favicon.png\">\n</head>\n<body>\n    <div id=\"root\"></div>\n    <script src=\"/react-router-dom.js\"></script>\n</body>\n</html>\n",
+    "location": "/",
+    "server": "mcp-modelfetch",
+    "sitemap": null
+  },
+  "os": null,
+  "tags": [
+    "cloud"
+  ],
+  "transport": "tcp",
+  "timestamp": "2026-07-27T23:37:07.761815",
+  "isp": "Amazon.com, Inc.",
+  "cpe23": [
+    "cpe:2.3:a:facebook:react",
+    "cpe:2.3:a:vercel:next.js"
+  ],
+  "cpe": [
+    "cpe:/a:facebook:react",
+    "cpe:/a:vercel:next.js"
+  ],
+  "_shodan": {
+    "region": "eu",
+    "module": "auto"
+  },
+  "cloud": {
+    "region": "il-central-1",
+    "service": "EC2",
+    "provider": "Amazon"
+  },
+  "location": {
+    "country_code": "IL",
+    "country_name": "Israel"
+  },
+  "org": "A100 ROW Inc",
+  "data": "HTTP/1.1 200 OK\r\nDate: Mon, 27 Jul 2026 23:37:07 GMT\r\nServer: mcp-modelfetch\r\nLast-Modified: Mon, 11 Oct 2021 21:34:52 GMT\r\nX-Powered-By: Next.js\r\nContent-Type: text/x-component\r\nVary: RSC\r\nContent-Length: 222\r\n\r\n",
+  "port": 8863,
+  "opts": {},
+  "_artifact": {
+    "host_id": "a39fdedec18b0305a4a6b4facb7fcc26",
+    "ip_id": "df1ed0c404992b0990e7da13db9af81c",
+    "port": 8863,
+    "framework": "next",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 222,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 24
+    }
+  }
+}

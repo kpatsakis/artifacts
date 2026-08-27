@@ -1,0 +1,66 @@
+{
+  "asn": "AS16509",
+  "http": {
+    "status": 500,
+    "redirects": [],
+    "securitytxt": null,
+    "title": null,
+    "robots": null,
+    "server": null,
+    "headers": {
+      "content-length": "7015",
+      "x-content-type-options": "nosniff",
+      "x-powered-by": "Nuxt",
+      "connection": "keep-alive",
+      "cache-control": "no-cache",
+      "date": "Sat, 25 Jul 2026 01:37:23 GMT",
+      "x-frame-options": "DENY",
+      "referrer-policy": "no-referrer",
+      "content-type": "text/html;charset=utf-8"
+    },
+    "html": "<!DOCTYPE html><html><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"><script type=\"importmap\">{\"imports\":{\"#entry\":\"/_nuxt/Bna0sve3.js\"}}</script><link rel=\"stylesheet\" href=\"/_nuxt/entry.D_WpfxQN.css\" crossorigin><link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/Bna0sve3.js\"><script type=\"module\" src=\"/_nuxt/Bna0sve3.js\" crossorigin></script></head><body><div id=\"__nuxt\"><div class=\"error-page\" style=\"display:none;\" data-v-4b16b4c8><div class=\"error-page__content\" data-v-4b16b4c8><div class=\"bp-error\" data-v-4b16b4c8><!----><div class=\"bp-error__illus\" aria-hidden=\"true\"><svg viewBox=\"0 0 300 200\"><g transform=\"rotate(-8 132 92)\"><circle class=\"ln\" cx=\"132\" cy=\"92\" r=\"36\"></circle><circle class=\"ln\" cx=\"132\" cy=\"92\" r=\"27\"></circle><circle class=\"ln\" cx=\"123\" cy=\"83\" r=\"3\"></circle><circle class=\"ln\" cx=\"141\" cy=\"83\" r=\"3\"></circle><circle class=\"ln\" cx=\"123\" cy=\"101\" r=\"3\"></circle><circle class=\"ln\" cx=\"141\" cy=\"101\" r=\"3\"></circle></g><path class=\"ln-accent anim-stitch\" style=\"transform-origin:144px 104px;\" d=\"M144 104 C164 118 148 136 168 145 C186 153 176 170 196 174\"></path><path class=\"ln-accent\" d=\"M182 46 L192 39\"></path><path class=\"ln-accent\" d=\"M196 62 L207 57\"></path></svg></div><div class=\"bp-error__eyebrow\">Something went wrong</div><h1 class=\"bp-error__title\">a stitch came <span class=\"bp-error__accent\">loose</span></h1><p class=\"bp-error__body\"><span>Server Error</span></p><div class=\"bp-error__actions\"><button class=\"c-button bp-btn bp-btn--primary bp-btn bp-btn--primary\" link type=\"button\"><!--[--><!----><!--[-->Back to homepage<!--]--><!--]--></button></div><!----></div></div></div></div><div id=\"teleports\"></div><script>window.__NUXT__={};window.__NUXT__.config={public:{hostOverwrite:\"\",apiUrl:\"https://no-webstore.dev.webstore.colect.io/api/\",apiPrefix:\"/api/\",deploymentEnv:\"dev\",posthogPublicKeyProd:\"phc_NBjKWXwjcf8kPMDkafDCr9idech17HYZvfuUCRlITAq\",hashKey:\"ph_colect\",cookieName:\"colect_gdpr_consent_settings\",awsRegion:\"eu-west-1\",identityPoolId:\"eu-west-1:1405f912-55c4-47cd-a189-c7118192372d\",colectSharedWeb:{authLoginPath:\"/user/login\"}},app:{baseURL:\"/\",buildId:\"064d14a3-bfbb-42cf-b29a-9862460799df\",buildAssetsDir:\"/_nuxt/\",cdnURL:\"\"}}</script><script type=\"application/json\" data-nuxt-data=\"nuxt-app\" data-ssr=\"true\" id=\"__NUXT_DATA__\">[[\"ShallowReactive\",1],{\"error\":2,\"data\":8,\"state\":10,\"once\":12,\"_errors\":13,\"serverRendered\":15,\"path\":4,\"pinia\":16},[\"null\",\"error\",3,\"url\",4,\"statusCode\",5,\"statusMessage\",6,\"message\",7,\"status\",5],\"true\",\"\\u002F\",500,\"Server Error\",\"Converting circular structure to JSON\\n    --> starting at object with constructor 'ClientRequest'\\n    |     property 'res' -> object with constructor 'IncomingMessage'\\n    --- property 'req' closes the circle\",[\"ShallowReactive\",9],{},[\"Reactive\",11],{},[\"Set\"],[\"ShallowReactive\",14],{},true,[\"Reactive\",17],{\"locale\":18,\"webstore\":21,\"auth\":26,\"collections\":27,\"customers\":31,\"app\":33,\"products\":35,\"productDetails\":40,\"cart\":44,\"downloadManagement\":46,\"invoices\":50,\"orderManagement\":56,\"orderDetails\":58,\"looks\":62,\"search\":66,\"settings\":74,\"ui\":75,\"user\":76,\"toast\":78,\"favoritesLists\":83,\"categories\":86,\"header\":89},{\"translations\":19,\"selectedLanguage\":20},[],\"en\",{\"loginEmail\":22,\"webstore\":-1,\"closedNotificationBars\":-1,\"publicContentPages\":23,\"privateContentPages\":24,\"privatePagesFetchPending\":25,\"privatePagesFetched\":25,\"companyDetails\":-1},\"\",[],[\"Map\"],false,{\"cognitoUserId\":-1,\"accessToken\":-1,\"idToken\":-1,\"awsUserPool\":-1,\"initialRoute\":22,\"error\":22},{\"selectedCollection\":22,\"collections\":28,\"fetchCollectionsPending\":15,\"collectionSelectState\":29,\"urlCollectionCheckInProgress\":25},[],{\"selectionPending\":25,\"selectionSuccess\":25,\"shouldFetchActiveCart\":15,\"onlyCustomerChanged\":30,\"collectionIdCandidate\":22,\"manualSelect\":25},0,{\"selectedCustomer\":22,\"collectionCustomers\":32},[\"Map\"],{\"currentPage\":34,\"isMobile\":25,\"isTablet\":25,\"isSecondaryColorLight\":25,\"isSecondaryColorCloseToWhite\":25,\"hasCameraHardware\":25},\"HOME\",{\"preFetchedProducts\":-1,\"products\":36,\"productsCount\":30,\"page\":30,\"itemsPerPage\":37,\"hasMore\":25,\"loadingProducts\":25,\"loadingPreFetchedProducts\":25,\"error\":22,\"forceFetch\":25,\"availableFilters\":38,\"loadingFilters\":25,\"sorts\":39},[],20,[],[],{\"loadingProductDetails\":25,\"products\":41,\"relatedProducts\":42,\"shouldToggleGridMode\":25,\"pageFullyLoaded\":25,\"selectedProduct\":43,\"returnUrl\":22,\"swatchClick\":25,\"totalsBarDetailedView\":25},[],[],{\"collectionId\":22,\"colorCode\":22,\"uniqueId\":22,\"customerNo\":-1},{\"activeCart\":-1,\"cartIsActivating\":25,\"cartIsSubmitting\":25,\"cartIsUpdating\":25,\"cartProposalIsSubmitting\":25,\"priceCheckInProgress\":25,\"formError\":22,\"priceCheckErrors\":45,\"submitCartResponse\":-1,\"priceCheckEnabled\":15,\"focusedDeliveryDate\":22},[],{\"activeMenuItem\":47,\"selectedDocuments\":48,\"selectedProducts\":49,\"generatingZip\":25,\"generatingCsv\":25,\"downloadError\":22},\"MARKETING_MATERIALS\",[],[],{\"loadingInvoices\":25,\"loadingFilters\":25,\"initialized\":25,\"manualLoading\":25,\"hasMore\":25,\"totalElements\":30,\"page\":30,\"invoices\":51,\"error\":22,\"selectedFilters\":52,\"selectedDateRanges\":53,\"availableFilters\":-1,\"sorts\":54,\"totalOutstandingAmount\":55},[],[],[],[],{},{\"activeMenuItem\":57,\"shouldReloadDrafts\":25,\"shouldReloadProposals\":25,\"shouldReloadPlacedOrders\":25,\"shouldReloadApprovals\":25,\"manualLoading\":25,\"loadingPage\":15},\"DRAFT_ORDERS\",{\"selectedOrderId\":22,\"selectedOrders\":59,\"loadingSelectedOrder\":25,\"loadingOrderLines\":15,\"orderLinesError\":22,\"orderLines\":60,\"orderLinesPage\":30,\"hasMoreOrderLines\":25,\"searchText\":22,\"columns\":61},[],[],[],{\"loadingLooks\":25,\"looks\":63,\"lookProducts\":64,\"loadingLookProducts\":25,\"selectedFilter\":65,\"currentSlide\":30,\"filterMenuOpen\":25,\"serverError\":25},[],[\"Map\"],{\"group\":22,\"subGroup\":22},{\"searchTerms\":67,\"products\":68,\"orders\":69,\"invoices\":70,\"marketingMaterials\":71,\"productsMedia\":72,\"loadingItems\":25,\"isPreparingToSearch\":25,\"isActive\":25,\"error\":22,\"totalNumberOfItems\":30,\"numberOfCards\":73},[],[],[],[],[],[],10,{\"openProductFilterColumn\":15,\"showProductFilterColumn\":15,\"storedShowRetailPrices\":15,\"storedShowWholesalePrices\":15,\"showLookbookProductDrawer\":15,\"isLookbookVideoMute\":15,\"showOrderShippingLocation\":15,\"showOrderLastUpdated\":15,\"showOrderComments\":25,\"showOrderReference\":15,\"showOrderOrigin\":15},{\"activeDialog\":-1,\"activeModal\":-1,\"activeDrawer\":-1},{\"user\":77,\"hasRespondedToCookieConsent\":25,\"cookieConsentAnalytics\":15,\"cookieConsentBrandScripts\":15},{},{\"visible\":25,\"duration\":79,\"message\":22,\"type\":80,\"iconVisible\":25,\"closable\":25,\"refreshTimer\":22,\"action\":81},4500,\"INFO\",{\"name\":22,\"action\":82},null,{\"favoritesLists\":84,\"fetchingFavoritesListsPending\":25,\"listProducts\":85,\"fetchingFavoritesListsError\":22},[],[\"Map\"],{\"categories\":87,\"loading\":25,\"fetched\":25,\"error\":22,\"categoryTree\":88},[],[],{\"hideHeader\":25,\"isSideMenuOpen\":25,\"leftSlideActive\":15,\"activeSideMenu\":90,\"activeSettingsTab\":30,\"activeMegaMenuCategory\":-1},\"PROFILE\"]</script></body></html>",
+    "location": "/",
+    "sitemap": null
+  },
+  "os": null,
+  "tags": [
+    "cloud"
+  ],
+  "timestamp": "2026-07-25T01:37:23.923244",
+  "isp": "Amazon.com, Inc.",
+  "transport": "tcp",
+  "_shodan": {
+    "region": "eu",
+    "module": "https"
+  },
+  "cloud": {
+    "region": "eu-west-1",
+    "service": "EC2",
+    "provider": "Amazon"
+  },
+  "location": {
+    "country_code": "IE",
+    "country_name": "Ireland"
+  },
+  "org": "Amazon Data Services Ireland Limited",
+  "data": "HTTP/1.1 500 Server Error\r\nDate: Sat, 25 Jul 2026 01:37:23 GMT\r\nContent-Type: text/html;charset=utf-8\r\nContent-Length: 7015\r\nConnection: keep-alive\r\nx-content-type-options: nosniff\r\nx-frame-options: DENY\r\nreferrer-policy: no-referrer\r\ncache-control: no-cache\r\nx-powered-by: Nuxt\r\n\r\n",
+  "port": 443,
+  "opts": {
+    "vulns": [],
+    "heartbleed": "2026/07/25 01:37:31 [ip-redacted]:443 - ERROR: write tcp [ip-redacted]:443: broken pipe\n"
+  },
+  "_artifact": {
+    "host_id": "f08008637bfe343b16d15b3ef5a61a4c",
+    "ip_id": "9d739fa2530fe2de97d2a8648c177326",
+    "port": 443,
+    "framework": "nuxt",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 7015,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 20,
+      "ip": 2
+    }
+  }
+}

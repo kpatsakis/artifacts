@@ -1,0 +1,60 @@
+{
+  "asn": "AS16509",
+  "http": {
+    "status": 200,
+    "redirects": [],
+    "securitytxt": null,
+    "title": null,
+    "robots": null,
+    "server": "cpsrvd/11.96.0.18",
+    "headers": {
+      "content-length": "222",
+      "x-powered-by": "Next.js",
+      "vary": "RSC",
+      "server": "cpsrvd/11.96.0.18",
+      "last-modified": "Wed, 11 Dec 2024 21:32:40 GMT",
+      "date": "Thu, 09 Jul 2026 22:38:48 GMT",
+      "content-type": "text/x-component"
+    },
+    "html": "<!DOCTYPE html>\n<html>\n<head>\n    <meta name=\"generator\" content=\"Waku\"/>\n    <link rel=\"icon\" href=\"/favicon.png\">\n</head>\n<body>\n    <div id=\"root\"></div>\n    <script src=\"/react-router-dom.js\"></script>\n</body>\n</html>\n",
+    "location": "/",
+    "sitemap": null
+  },
+  "os": null,
+  "tags": [
+    "cloud"
+  ],
+  "timestamp": "2026-07-09T22:38:48.599035",
+  "isp": "Amazon.com, Inc.",
+  "transport": "tcp",
+  "_shodan": {
+    "region": "na",
+    "module": "auto"
+  },
+  "cloud": {
+    "region": "ap-south-2",
+    "service": "EC2",
+    "provider": "Amazon"
+  },
+  "location": {
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  "org": "Amazon.com, Inc.",
+  "data": "HTTP/1.1 200 OK\r\nDate: Thu, 09 Jul 2026 22:38:48 GMT\r\nServer: cpsrvd/11.96.0.18\r\nLast-Modified: Wed, 11 Dec 2024 21:32:40 GMT\r\nX-Powered-By: Next.js\r\nContent-Type: text/x-component\r\nVary: RSC\r\nContent-Length: 222\r\n\r\n",
+  "port": 21515,
+  "opts": {},
+  "_artifact": {
+    "host_id": "ac1e20143fa548a097e4ae86d78de65b",
+    "ip_id": "01e1217e8ff1aa08960a98f76be1bbe6",
+    "port": 21515,
+    "framework": "next",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 222,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 19
+    }
+  }
+}

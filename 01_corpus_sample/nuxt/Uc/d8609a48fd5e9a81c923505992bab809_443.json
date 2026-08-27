@@ -1,0 +1,67 @@
+{
+  "http": {
+    "status": 200,
+    "redirects": [],
+    "securitytxt": null,
+    "title": "Block Union - News",
+    "robots": null,
+    "server": "nginx/1.27.5",
+    "headers": {
+      "content-length": "7274",
+      "x-powered-by": "Nuxt",
+      "server": "nginx/1.27.5",
+      "connection": "keep-alive",
+      "date": "Thu, 06 Aug 2026 00:39:07 GMT",
+      "content-type": "text/html;charset=utf-8"
+    },
+    "html": "<!DOCTYPE html><html><head><meta charset=\"utf-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1, viewport-fit=cover\">\n<title>Block Union - News</title>\n<link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n<link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n<script>\n            !function(f,b,e,v,n,t,s)\n            {if(f.fbq)return;n=f.fbq=function(){n.callMethod?\n            n.callMethod.apply(n,arguments):n.queue.push(arguments)};\n            if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';\n            n.queue=[];t=b.createElement(e);t.async=!0;\n            t.src=v;s=b.getElementsByTagName(e)[0];\n            s.parentNode.insertBefore(t,s)}(window, document,'script',\n            'https://connect.facebook.net/en_US/fbevents.js');\n\n            fbq('init', '974912768772278');\n            fbq('track', 'PageView');\n          </script>\n<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap\">\n<style>*,:after,:before{box-sizing:border-box}#__nuxt,body,html{margin:0;min-height:100%}</style>\n<style>.page[data-v-ce8f7252]{align-items:center;display:flex;font-family:Roboto,system-ui,sans-serif;justify-content:center;min-height:100dvh;overflow:hidden;padding:max(24px,env(safe-area-inset-top)) max(20px,env(safe-area-inset-right)) max(24px,env(safe-area-inset-bottom)) max(20px,env(safe-area-inset-left));position:relative}.page__bg[data-v-ce8f7252]{background:url(/fonts.png) 50%/cover no-repeat;inset:0;position:fixed;z-index:0}.content[data-v-ce8f7252]{background:#fffffff5;border-radius:20px;box-shadow:0 8px 32px #0000001f;color:#111;padding:clamp(24px,5vw,36px) clamp(18px,4.5vw,26px);position:relative;width:min(100%,400px);z-index:1}.profile[data-v-ce8f7252]{flex-direction:column;margin-bottom:20px}.avatar-frame[data-v-ce8f7252],.profile[data-v-ce8f7252]{align-items:center;display:flex}.avatar-frame[data-v-ce8f7252]{border:1px solid #111;height:112px;justify-content:center;margin-bottom:12px;padding:8px;width:112px}.avatar[data-v-ce8f7252]{border-radius:50%;height:100%;-o-object-fit:cover;object-fit:cover;width:100%}.channel-name[data-v-ce8f7252]{color:#000;font-size:clamp(17px,4.5vw,19px);font-weight:700;line-height:1.3;margin:0 0 4px;text-align:center}.subscribers[data-v-ce8f7252]{color:#8b8b8b;font-size:clamp(12px,3.2vw,13px);font-weight:500;margin:0;text-align:center}.headline[data-v-ce8f7252]{color:#000;font-size:clamp(22px,6vw,28px);font-weight:700;line-height:1.3;margin:0 0 16px;text-align:center}.subheadline[data-v-ce8f7252]{color:#333;font-size:clamp(15px,4vw,16px);line-height:1.55;margin:0 0 28px;text-align:center}.features[data-v-ce8f7252]{display:flex;flex-direction:column;gap:14px;list-style:none;margin:0 0 32px;padding:0}.features__item[data-v-ce8f7252]{align-items:flex-start;color:#222;display:flex;font-size:clamp(14px,3.8vw,15px);gap:12px;line-height:1.5}.features__emoji[data-v-ce8f7252]{flex-shrink:0;font-size:16px;line-height:1.5;text-align:center;width:22px}.cta[data-v-ce8f7252]{align-items:center;background:#2aabee;border-radius:999px;box-shadow:0 6px 20px #2aabee59;color:#fff;display:flex;font-size:clamp(14px,3.8vw,15px);font-weight:500;gap:10px;justify-content:center;letter-spacing:.04em;min-height:52px;padding:14px 24px;text-decoration:none;transition:background .2s ease,transform .15s ease,box-shadow .2s ease;width:100%}.cta[data-v-ce8f7252]:hover{background:#229ed9;box-shadow:0 10px 24px #2aabee73;transform:translateY(-2px)}.cta[data-v-ce8f7252]:active{transform:translateY(0)}.cta__icon[data-v-ce8f7252]{flex-shrink:0;height:20px;width:20px}@media(max-width:380px){.content[data-v-ce8f7252]{padding:24px 18px}.features[data-v-ce8f7252]{gap:12px;margin-bottom:28px}}</style>\n<link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/BMTiKn22.js\">\n<link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/CueWYSzF.js\">\n<link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/DkwLbKnM.js\">\n<script type=\"module\" src=\"/_nuxt/BMTiKn22.js\" crossorigin></script>\n<meta name=\"description\" content=\"Хватит читать 20 каналов и тратить время. Получай только то, что реально влияет на рынок!\">\n<link rel=\"icon\" type=\"image/jpeg\" href=\"/ava.jpg\">\n<link rel=\"apple-touch-icon\" href=\"/ava.jpg\">\n<noscript>\n            <img \n              height=\"1\" \n              width=\"1\" \n              style=\"display:none\"\n              src=\"https://www.facebook.com/tr?id=974912768772278&ev=PageView&noscript=1\"\n            />\n          </noscript>\n<meta name=\"theme-color\" content=\"#8fbf7a\"></head><body><div id=\"__nuxt\"><main class=\"page\" data-v-ce8f7252><div class=\"page__bg\" aria-hidden=\"true\" data-v-ce8f7252></div><section class=\"content\" data-v-ce8f7252><header class=\"profile\" data-v-ce8f7252><div class=\"avatar-frame\" data-v-ce8f7252><img class=\"avatar\" src=\"/ava.jpg\" alt=\"Block Union - News\" width=\"96\" height=\"96\" data-v-ce8f7252></div><h2 class=\"channel-name\" data-v-ce8f7252>Block Union - News</h2><p class=\"subscribers\" data-v-ce8f7252>2 732 подписчиков</p></header><h1 class=\"headline\" data-v-ce8f7252>Все новости крипты в одном месте. Коротко и по делу.</h1><p class=\"subheadline\" data-v-ce8f7252>Хватит читать 20 каналов и тратить время. Получай только то, что реально влияет на рынок!</p><ul class=\"features\" data-v-ce8f7252><!--[--><li class=\"features__item\" data-v-ce8f7252><span class=\"features__emoji\" aria-hidden=\"true\" data-v-ce8f7252>⚡</span><span data-v-ce8f7252>Главные инсайды и новости до того, как они изменят графики.</span></li><li class=\"features__item\" data-v-ce8f7252><span class=\"features__emoji\" aria-hidden=\"true\" data-v-ce8f7252>📊</span><span data-v-ce8f7252>Простой разбор сложных трендов (DeFi, Layer 2, AI-токены).</span></li><li class=\"features__item\" data-v-ce8f7252><span class=\"features__emoji\" aria-hidden=\"true\" data-v-ce8f7252>🚫</span><span data-v-ce8f7252>Никакого спама, рекламы скама и «успешного успеха».</span></li><!--]--></ul><a class=\"cta\" href=\"https://t.me/+EBUr2jM6am01Mjky\" target=\"_blank\" rel=\"noopener noreferrer\" data-v-ce8f7252><svg class=\"cta__icon\" viewBox=\"0 0 24 24\" aria-hidden=\"true\" data-v-ce8f7252><path fill=\"currentColor\" d=\"M9.78 15.28 9.5 19.8c.43 0 .62-.19.84-.41l2.02-1.94 4.18 3.07c.77.42 1.31.2 1.51-.71l2.74-12.86c.25-1.18-.43-1.64-1.2-1.36L2.3 10.2c-1.15.45-1.13 1.09-.2 1.38l4.86 1.52 11.26-7.1c.53-.33 1.01-.15.61.2\" data-v-ce8f7252></path></svg> ЧИТАТЬ В TELEGRAM</a></section></main></div><div id=\"teleports\"></div><script>window.__NUXT__={};window.__NUXT__.config={public:{},app:{baseURL:\"/\",buildId:\"4d96157c-5f79-4b01-b9dd-eb35a23889bc\",buildAssetsDir:\"/_nuxt/\",cdnURL:\"\"}}</script>\n<script type=\"application/json\" data-nuxt-data=\"nuxt-app\" data-ssr=\"true\" id=\"__NUXT_DATA__\">[[\"ShallowReactive\",1],{\"data\":2,\"state\":4,\"once\":6,\"_errors\":7,\"serverRendered\":9,\"path\":10},[\"ShallowReactive\",3],{},[\"Reactive\",5],{},[\"Set\"],[\"ShallowReactive\",8],{},true,\"\\u002F\"]</script></body></html>",
+    "location": "/",
+    "sitemap": null
+  },
+  "port": 443,
+  "transport": "tcp",
+  "cpe23_hash": 633340237,
+  "version": "1.27.5",
+  "location": {
+    "country_code": "NL",
+    "country_name": "Netherlands"
+  },
+  "product": "nginx",
+  "tags": [
+    "eol-product"
+  ],
+  "timestamp": "2026-08-06T00:39:08.078707",
+  "org": "3NT SOLUTIONS LLP",
+  "data": "HTTP/1.1 200 OK\r\nServer: nginx/1.27.5\r\nDate: Thu, 06 Aug 2026 00:39:07 GMT\r\nContent-Type: text/html;charset=utf-8\r\nContent-Length: 7274\r\nConnection: keep-alive\r\nx-powered-by: Nuxt\r\n\r\n",
+  "asn": "AS58061",
+  "cpe23": [
+    "cpe:2.3:a:f5:nginx:1.27.5"
+  ],
+  "isp": "Scalaxy B.V.",
+  "cpe": [
+    "cpe:/a:f5:nginx:1.27.5"
+  ],
+  "os": null,
+  "_shodan": {
+    "region": "na",
+    "module": "https"
+  },
+  "opts": {
+    "vulns": [],
+    "heartbleed": "2026/08/06 00:39:32 [ip-redacted]:443 - SAFE\n"
+  },
+  "_artifact": {
+    "host_id": "d8609a48fd5e9a81c923505992bab809",
+    "ip_id": "6aba488621f7b37d96f8bb2cca6418a2",
+    "port": 443,
+    "framework": "nuxt",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 6943,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 25,
+      "ip": 1
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "http": {
+    "status": 200,
+    "redirects": [
+      {
+        "data": "HTTP/1.1 307 Temporary Redirect\r\nServer: nginx\r\nDate: Tue, 04 Aug 2026 08:17:20 GMT\r\nContent-Type: text/html; charset=utf-8\r\nContent-Length: 4721\r\nConnection: keep-alive\r\nVary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding\r\nx-nextjs-cache: HIT\r\nx-nextjs-prerender: 1\r\nx-nextjs-prerender: 1\r\nlocation: /dashboard\r\nx-nextjs-stale-time: 300\r\nX-Powered-By: Next.js\r\nCache-Control: s-maxage=31536000\r\nETag: \"15juvm2i9le3n5\"\r\nX-Frame-Options: SAMEORIGIN\r\nX-Content-Type-Options: nosniff\r\nContent-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; connect-src 'self' https: wss:; font-src 'self' data:; frame-ancestors 'self'\r\nReferrer-Policy: strict-origin-when-cross-origin\r\nStrict-Transport-Security: max-age=31536000; includeSubDomains\r\n\r\n",
+        "location": "/"
+      }
+    ],
+    "securitytxt": null,
+    "title": "Brigli Admin",
+    "robots": null,
+    "components_hash": -9530739,
+    "html": "<!DOCTYPE html><!--B1Rmp2t3Hyx_uzZQXGZiX--><html lang=\"en\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"preload\" href=\"/_next/static/media/e4af272ccee01ff0-s.p.woff2\" as=\"font\" crossorigin=\"\" type=\"font/woff2\"/><link rel=\"stylesheet\" href=\"/_next/static/css/376a6b316199ebc9.css\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/webpack-20143f46cb676d37.js\"/><script src=\"/_next/static/chunks/87c73c54-24122e7b92478d00.js\" async=\"\"></script><script src=\"/_next/static/chunks/18-90b700ea37b686a2.js\" async=\"\"></script><script src=\"/_next/static/chunks/main-app-fb2915b5b3fa3177.js\" async=\"\"></script><script src=\"/_next/static/chunks/app/(admin)/layout-ca033d65132023b0.js\" async=\"\"></script><script src=\"/_next/static/chunks/app/(admin)/dashboard/page-4c7a73ef02b85a5c.js\" async=\"\"></script><meta name=\"next-size-adjust\" content=\"\"/><title>Brigli Admin</title><meta name=\"description\" content=\"Brigli Administration Panel\"/><script src=\"/_next/static/chunks/polyfills-42372ed130431b0a.js\" noModule=\"\"></script></head><body class=\"__className_f367f3\"><div hidden=\"\"><!--$--><!--/$--></div><div class=\"min-h-screen flex items-center justify-center\" style=\"background:#F8FAFE\"><div class=\"w-8 h-8 rounded-full border-2 animate-spin\" style=\"border-color:#1052B0;border-top-color:transparent\"></div></div><script src=\"/_next/static/chunks/webpack-20143f46cb676d37.js\" id=\"_R_\" async=\"\"></script><script>(self.__next_f=self.__next_f||[]).push([0])</script><script>self.__next_f.push([1,\"1:\\\"$Sreact.fragment\\\"\\n2:I[5341,[],\\\"\\\"]\\n3:I[25,[],\\\"\\\"]\\n4:I[540,[],\\\"ClientSegmentRoot\\\"]\\n5:I[5170,[\\\"12\\\",\\\"static/chunks/app/(admin)/layout-ca033d65132023b0.js\\\"],\\\"default\\\"]\\n7:I[1012,[],\\\"ClientPageRoot\\\"]\\n8:I[1039,[\\\"284\\\",\\\"static/chunks/app/(admin)/dashboard/page-4c7a73ef02b85a5c.js\\\"],\\\"default\\\"]\\nb:I[5104,[],\\\"OutletBoundary\\\"]\\nd:I[7158,[],\\\"AsyncMetadataOutlet\\\"]\\nf:I[5104,[],\\\"ViewportBoundary\\\"]\\n11:I[5104,[],\\\"MetadataBoundary\\\"]\\n12:\\\"$Sreact.suspense\\\"\\n14:I[4431,[],\\\"\\\"]\\n:HL[\\\"/_next/static/media/e4af272ccee01ff0-s.p.woff2\\\",\\\"font\\\",{\\\"crossOrigin\\\":\\\"\\\",\\\"type\\\":\\\"font/woff2\\\"}]\\n:HL[\\\"/_next/static/css/376a6b316199ebc9.css\\\",\\\"style\\\"]\\n\"])</script><script>self.__next_f.push([1,\"0:{\\\"P\\\":null,\\\"b\\\":\\\"B1Rmp2t3Hyx-uzZQXGZiX\\\",\\\"p\\\":\\\"\\\",\\\"c\\\":[\\\"\\\",\\\"dashboard\\\"],\\\"i\\\":false,\\\"f\\\":[[[\\\"\\\",{\\\"children\\\":[\\\"(admin)\\\",{\\\"children\\\":[\\\"dashboard\\\",{\\\"children\\\":[\\\"__PAGE__\\\",{}]}]}]},\\\"$undefined\\\",\\\"$undefined\\\",true],[\\\"\\\",[\\\"$\\\",\\\"$1\\\",\\\"c\\\",{\\\"children\\\":[[[\\\"$\\\",\\\"link\\\",\\\"0\\\",{\\\"rel\\\":\\\"stylesheet\\\",\\\"href\\\":\\\"/_next/static/css/376a6b316199ebc9.css\\\",\\\"precedence\\\":\\\"next\\\",\\\"crossOrigin\\\":\\\"$undefined\\\",\\\"nonce\\\":\\\"$undefined\\\"}]],[\\\"$\\\",\\\"html\\\",null,{\\\"lang\\\":\\\"en\\\",\\\"children\\\":[\\\"$\\\",\\\"body\\\",null,{\\\"className\\\":\\\"__className_f367f3\\\",\\\"children\\\":[\\\"$\\\",\\\"$L2\\\",null,{\\\"parallelRouterKey\\\":\\\"children\\\",\\\"error\\\":\\\"$undefined\\\",\\\"errorStyles\\\":\\\"$undefined\\\",\\\"errorScripts\\\":\\\"$undefined\\\",\\\"template\\\":[\\\"$\\\",\\\"$L3\\\",null,{}],\\\"templateStyles\\\":\\\"$undefined\\\",\\\"templateScripts\\\":\\\"$undefined\\\",\\\"notFound\\\":[[[\\\"$\\\",\\\"title\\\",null,{\\\"children\\\":\\\"404: This page could not be found.\\\"}],[\\\"$\\\",\\\"div\\\",null,{\\\"style\\\":{\\\"fontFamily\\\":\\\"system-ui,\\\\\\\"Segoe UI\\\\\\\",Roboto,Helvetica,Arial,sans-serif,\\\\\\\"Apple Color Emoji\\\\\\\",\\\\\\\"Segoe UI Emoji\\\\\\\"\\\",\\\"height\\\":\\\"100vh\\\",\\\"textAlign\\\":\\\"center\\\",\\\"display\\\":\\\"flex\\\",\\\"flexDirection\\\":\\\"column\\\",\\\"alignItems\\\":\\\"center\\\",\\\"justifyContent\\\":\\\"center\\\"},\\\"children\\\":[\\\"$\\\",\\\"div\\\",null,{\\\"children\\\":[[\\\"$\\\",\\\"style\\\",null,{\\\"dangerouslySetInnerHTML\\\":{\\\"__html\\\":\\\"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}\\\"}}],[\\\"$\\\",\\\"h1\\\",null,{\\\"className\\\":\\\"next-error-h1\\\",\\\"style\\\":{\\\"display\\\":\\\"inline-block\\\",\\\"margin\\\":\\\"0 20px 0 0\\\",\\\"padding\\\":\\\"0 23px 0 0\\\",\\\"fontSize\\\":24,\\\"fontWeight\\\":500,\\\"verticalAlign\\\":\\\"top\\\",\\\"lineHeight\\\":\\\"49px\\\"},\\\"children\\\":404}],[\\\"$\\\",\\\"div\\\",null,{\\\"style\\\":{\\\"display\\\":\\\"inline-block\\\"},\\\"children\\\":[\\\"$\\\",\\\"h2\\\",null,{\\\"style\\\":{\\\"fontSize\\\":14,\\\"fontWeight\\\":400,\\\"lineHeight\\\":\\\"49px\\\",\\\"margin\\\":0},\\\"children\\\":\\\"This page could not be found.\\\"}]}]]}]}]],[]],\\\"forbidden\\\":\\\"$undefined\\\",\\\"unauthorized\\\":\\\"$undefined\\\"}]}]}]]}],{\\\"children\\\":[\\\"(admin)\\\",[\\\"$\\\",\\\"$1\\\",\\\"c\\\",{\\\"children\\\":[null,[\\\"$\\\",\\\"$L4\\\",null,{\\\"Component\\\":\\\"$5\\\",\\\"slots\\\":{\\\"children\\\":[\\\"$\\\",\\\"$L2\\\",null,{\\\"parallelRouterKey\\\":\\\"children\\\",\\\"error\\\":\\\"$undefined\\\",\\\"errorStyles\\\":\\\"$undefined\\\",\\\"errorScripts\\\":\\\"$undefined\\\",\\\"template\\\":[\\\"$\\\",\\\"$L3\\\",null,{}],\\\"templateStyles\\\":\\\"$undefined\\\",\\\"templateScripts\\\":\\\"$undefined\\\",\\\"notFound\\\":[[[\\\"$\\\",\\\"title\\\",null,{\\\"children\\\":\\\"404: This page could not be found.\\\"}],[\\\"$\\\",\\\"div\\\",null,{\\\"style\\\":\\\"$0:f:0:1:1:props:children:1:props:children:props:children:props:notFound:0:1:props:style\\\",\\\"children\\\":[\\\"$\\\",\\\"div\\\",null,{\\\"children\\\":[[\\\"$\\\",\\\"style\\\",null,{\\\"dangerouslySetInnerHTML\\\":{\\\"__html\\\":\\\"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}\\\"}}],[\\\"$\\\",\\\"h1\\\",null,{\\\"className\\\":\\\"next-error-h1\\\",\\\"style\\\":\\\"$0:f:0:1:1:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:1:props:style\\\",\\\"children\\\":404}],[\\\"$\\\",\\\"div\\\",null,{\\\"style\\\":\\\"$0:f:0:1:1:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:style\\\",\\\"children\\\":[\\\"$\\\",\\\"h2\\\",null,{\\\"style\\\":\\\"$0:f:0:1:1:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:children:props:style\\\",\\\"children\\\":\\\"This page could not be found.\\\"}]}]]}]}]],[]],\\\"forbidden\\\":\\\"$undefined\\\",\\\"unauthorized\\\":\\\"$undefined\\\"}]},\\\"params\\\":{},\\\"promise\\\":\\\"$@6\\\"}]]}],{\\\"children\\\":[\\\"dashboard\\\",[\\\"$\\\",\\\"$1\\\",\\\"c\\\",{\\\"children\\\":[null,[\\\"$\\\",\\\"$L2\\\",null,{\\\"parallelRouterKey\\\":\\\"children\\\",\\\"error\\\":\\\"$undefined\\\",\\\"errorStyles\\\":\\\"$undefined\\\",\\\"errorScripts\\\":\\\"$undefined\\\",\\\"template\\\":[\\\"$\\\",\\\"$L3\\\",null,{}],\\\"templateStyles\\\":\\\"$undefined\\\",\\\"templateScripts\\\":\\\"$undefined\\\",\\\"notFound\\\":\\\"$undefined\\\",\\\"forbidden\\\":\\\"$undefined\\\",\\\"unauthorized\\\":\\\"$undefined\\\"}]]}],{\\\"children\\\":[\\\"__PAGE__\\\",[\\\"$\\\",\\\"$1\\\",\\\"c\\\",{\\\"children\\\":[[\\\"$\\\",\\\"$L7\\\",null,{\\\"Component\\\":\\\"$8\\\",\\\"searchParams\\\":{},\\\"params\\\":\\\"$0:f:0:1:2:children:1:props:children:1:props:params\\\",\\\"promises\\\":[\\\"$@9\\\",\\\"$@a\\\"]}],null,[\\\"$\\\",\\\"$Lb\\\",null,{\\\"children\\\":[\\\"$Lc\\\",[\\\"$\\\",\\\"$Ld\\\",null,{\\\"promise\\\":\\\"$@e\\\"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],[\\\"$\\\",\\\"$1\\\",\\\"h\\\",{\\\"children\\\":[null,[[\\\"$\\\",\\\"$Lf\\\",null,{\\\"children\\\":\\\"$L10\\\"}],[\\\"$\\\",\\\"meta\\\",null,{\\\"name\\\":\\\"next-size-adjust\\\",\\\"content\\\":\\\"\\\"}]],[\\\"$\\\",\\\"$L11\\\",null,{\\\"children\\\":[\\\"$\\\",\\\"div\\\",null,{\\\"hidden\\\":true,\\\"children\\\":[\\\"$\\\",\\\"$12\\\",null,{\\\"fallback\\\":null,\\\"children\\\":\\\"$L13\\\"}]}]}]]}],false]],\\\"m\\\":\\\"$undefined\\\",\\\"G\\\":[\\\"$14\\\",[]],\\\"s\\\":false,\\\"S\\\":true}\\n\"])</script><script>self.__next_f.push([1,\"6:\\\"$0:f:0:1:2:children:1:props:children:1:props:params\\\"\\n9:{}\\na:\\\"$0:f:0:1:2:children:1:props:children:1:props:params\\\"\\n\"])</script><script>self.__next_f.push([1,\"10:[[\\\"$\\\",\\\"meta\\\",\\\"0\\\",{\\\"charSet\\\":\\\"utf-8\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"1\\\",{\\\"name\\\":\\\"viewport\\\",\\\"content\\\":\\\"width=device-width, initial-scale=1\\\"}]]\\nc:null\\n\"])</script><script>self.__next_f.push([1,\"e:{\\\"metadata\\\":[[\\\"$\\\",\\\"title\\\",\\\"0\\\",{\\\"children\\\":\\\"Brigli Admin\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"1\\\",{\\\"name\\\":\\\"description\\\",\\\"content\\\":\\\"Brigli Administration Panel\\\"}]],\\\"error\\\":null,\\\"digest\\\":\\\"$undefined\\\"}\\n\"])</script><script>self.__next_f.push([1,\"13:\\\"$e:metadata\\\"\\n\"])</script></body></html>",
+    "location": "/dashboard",
+    "headers": {
+      "x-nextjs-cache": "HIT",
+      "content-length": "7993",
+      "content-security-policy": "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; connect-src 'self' https: wss:; font-src 'self' data:; frame-ancestors 'self'",
+      "x-content-type-options": "nosniff",
+      "x-powered-by": "Next.js",
+      "strict-transport-security": "max-age=31536000; includeSubDomains",
+      "vary": "Accept-Encoding, rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding",
+      "server": "nginx",
+      "x-nextjs-stale-time": "300",
+      "connection": "keep-alive",
+      "etag": "\"tnaox2ka86661\"",
+      "cache-control": "s-maxage=31536000",
+      "date": "Tue, 04 Aug 2026 08:17:20 GMT",
+      "x-nextjs-prerender": "1, 1",
+      "x-frame-options": "SAMEORIGIN",
+      "referrer-policy": "strict-origin-when-cross-origin",
+      "content-type": "text/html; charset=utf-8"
+    },
+    "server": "nginx",
+    "sitemap": null
+  },
+  "port": 443,
+  "transport": "tcp",
+  "cpe23_hash": -405627344,
+  "location": {
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  "product": "nginx",
+  "timestamp": "2026-08-04T08:17:21.130904",
+  "org": "Hetzner Online GmbH",
+  "data": "HTTP/1.1 200 OK\r\nServer: nginx\r\nDate: Tue, 04 Aug 2026 08:17:20 GMT\r\nContent-Type: text/html; charset=utf-8\r\nContent-Length: 7993\r\nConnection: keep-alive\r\nVary: Accept-Encoding\r\nVary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding\r\nx-nextjs-cache: HIT\r\nx-nextjs-prerender: 1\r\nx-nextjs-prerender: 1\r\nx-nextjs-stale-time: 300\r\nX-Powered-By: Next.js\r\nCache-Control: s-maxage=31536000\r\nETag: \"tnaox2ka86661\"\r\nX-Frame-Options: SAMEORIGIN\r\nX-Content-Type-Options: nosniff\r\nContent-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; connect-src 'self' https: wss:; font-src 'self' data:; frame-ancestors 'self'\r\nReferrer-Policy: strict-origin-when-cross-origin\r\nStrict-Transport-Security: max-age=31536000; includeSubDomains\r\n\r\n",
+  "asn": "AS24940",
+  "cpe23": [
+    "cpe:2.3:a:f5:nginx",
+    "cpe:2.3:a:facebook:react",
+    "cpe:2.3:a:vercel:next.js"
+  ],
+  "isp": "Hetzner Online GmbH",
+  "cpe": [
+    "cpe:/a:f5:nginx",
+    "cpe:/a:facebook:react",
+    "cpe:/a:vercel:next.js"
+  ],
+  "os": null,
+  "_shodan": {
+    "region": "na",
+    "module": "https"
+  },
+  "opts": {
+    "vulns": [],
+    "heartbleed": "2026/08/04 08:17:32 [ip-redacted]:443 - SAFE\n"
+  },
+  "_artifact": {
+    "host_id": "372bf8121b4cfb03434821a56ea577e7",
+    "ip_id": "5d704eb65c8146182d26235ff83c4fbd",
+    "port": 443,
+    "framework": "next",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 7993,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 26,
+      "ip": 1
+    }
+  }
+}

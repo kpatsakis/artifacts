@@ -1,0 +1,71 @@
+{
+  "http": {
+    "redirects": [],
+    "securitytxt": null,
+    "title": "CasinoGame",
+    "html": "<!DOCTYPE html><html  lang=\"en\" data-capo=\"\"><head><meta charset=\"utf-8\">\n<meta name=\"viewport\" content=\"width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=0,viewport-fit=cover,interactive-widget=resizes-content\">\n<title>CasinoGame</title>\n<link rel=\"stylesheet\" href=\"/v2/_nuxt/style.BkQGMeuF.css\">\n<link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/v2/_nuxt/Uf3suM5R.js\">\n<link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/v2/_nuxt/ZM3g2HS4.js\">\n<link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/v2/_nuxt/JxxmbFgP.js\">\n<link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/v2/_nuxt/gNN9k8T7.js\">\n<link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/v2/_nuxt/BT9agmdF.js\">\n<link rel=\"prefetch\" as=\"image\" type=\"image/svg+xml\" href=\"/v2/_nuxt/icomoon.DmMCxNDE.svg\">\n<link rel=\"prefetch\" as=\"image\" type=\"image/png\" href=\"/v2/_nuxt/stat-sprite.CvnYFH56.png\">\n<link rel=\"prefetch\" as=\"image\" type=\"image/png\" href=\"/v2/_nuxt/longdragon-pattern.Dzzow1tm.png\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/v2/_nuxt/B9K5rw8f.js\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/v2/_nuxt/DMrI5fHf.js\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/v2/_nuxt/DlAUqK2U.js\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/v2/_nuxt/D_PYgT-v.js\">\n<meta name=\"full-screen\" content=\"yes\">\n<meta name=\"x5-fullscreen\" content>\n<link rel=\"icon\" type=\"image/x-icon\" href=\"/v2/favicon.ico?v=1\">\n<script type=\"text/javascript\" charset=\"utf-8\" data-hid=\"5b8da75\">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode?.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-TBSTF4DB');</script>\n<script type=\"module\" src=\"/v2/_nuxt/Uf3suM5R.js\" crossorigin></script>\n<script id=\"unhead:payload\" type=\"application/json\">{\"title\":\"CasinoGame\"}</script></head><body><div id=\"__nuxt\"></div><div id=\"teleports\"></div><script type=\"application/json\" id=\"__NUXT_DATA__\" data-ssr=\"false\">[{\"serverRendered\":1},false]</script>\n<script>window.__NUXT__={};window.__NUXT__.config={public:{environment:\"production\",domain:\"\",endpoint:\"https://api\",endpointApi:\"https://api/api\",endpointWeb:\"\",pusherKey:\"d83d682824da80b993ef\",pusherCluster:\"ap1\",firebase_api:\"\",firebase_url:\"\",endpointCdn:\"https://cdn\",chatEndpointURL:\"https://chat-service\",chatPrefixID:\"CG_\",version:\"2.0.301\",appBaseUrl:\"/v2\"},app:{baseURL:\"/v2/\",buildId:\"2b2b9143-05fd-4de3-9dac-1a9a7e7c85e6\",buildAssetsDir:\"/_nuxt/\",cdnURL:\"\"}}</script>\n<noscript data-hid=\"10f3e3c\"><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-TBSTF4DB\" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript></body></html>",
+    "location": "/",
+    "status": 404,
+    "robots": null,
+    "components_hash": -432683537,
+    "identifiers": {
+      "google_tag_manager": [
+        "GTM-TBSTF4DB"
+      ]
+    },
+    "server": null,
+    "headers": {
+      "date": "Wed, 05 Aug 2026 23:52:43 GMT",
+      "content-length": "2866",
+      "content-type": "text/html;charset=utf-8",
+      "connection": "keep-alive",
+      "x-powered-by": "Nuxt"
+    },
+    "sitemap": null
+  },
+  "port": 80,
+  "transport": "tcp",
+  "cpe23_hash": 222339076,
+  "cloud": {
+    "region": "ap-southeast-1",
+    "service": "EC2",
+    "provider": "Amazon"
+  },
+  "location": {
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  "tags": [
+    "cloud"
+  ],
+  "timestamp": "2026-08-05T23:52:44.072988",
+  "org": "Amazon Data Services Singapore",
+  "data": "HTTP/1.1 404 Cannot find any path matching /.\r\nDate: Wed, 05 Aug 2026 23:52:43 GMT\r\nContent-Type: text/html;charset=utf-8\r\nContent-Length: 2866\r\nConnection: keep-alive\r\nx-powered-by: Nuxt\r\n\r\n",
+  "asn": "AS16509",
+  "cpe23": [
+    "cpe:2.3:a:nuxt:nuxt"
+  ],
+  "isp": "Amazon.com, Inc.",
+  "cpe": [
+    "cpe:/a:nuxt:nuxt"
+  ],
+  "os": null,
+  "_shodan": {
+    "region": "eu",
+    "module": "http"
+  },
+  "opts": {},
+  "_artifact": {
+    "host_id": "503a1cb36523c56d7d5d76aa3b8d8907",
+    "ip_id": "d0f07a8cbc802ab57bf1223ee6341029",
+    "port": 80,
+    "framework": "nuxt",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 2866,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 25
+    }
+  }
+}

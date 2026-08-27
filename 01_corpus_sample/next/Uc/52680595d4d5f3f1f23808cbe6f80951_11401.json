@@ -1,0 +1,70 @@
+{
+  "http": {
+    "status": 200,
+    "redirects": [],
+    "securitytxt": null,
+    "title": null,
+    "robots": null,
+    "components_hash": -892850553,
+    "html": "<!DOCTYPE html>\n<html>\n<head>\n    <meta name=\"generator\" content=\"Waku\"/>\n    <link rel=\"icon\" href=\"/favicon.png\">\n</head>\n<body>\n    <div id=\"root\"></div>\n    <script src=\"/react-router-dom.js\"></script>\n</body>\n</html>\n",
+    "location": "/",
+    "headers": {
+      "content-length": "222",
+      "x-powered-by": "Next.js",
+      "vary": "RSC",
+      "server": "LINUX/2.4 UPnP/1.0 BRCM400/1.0",
+      "last-modified": "Sun, 01 Dec 2019 08:22:30 GMT",
+      "date": "Fri, 07 Aug 2026 11:56:27 GMT",
+      "content-type": "text/x-component"
+    },
+    "server": "LINUX/2.4 UPnP/1.0 BRCM400/1.0",
+    "sitemap": null
+  },
+  "port": 11401,
+  "transport": "tcp",
+  "cpe23_hash": 286908511,
+  "cloud": {
+    "region": "eu-south-2",
+    "service": "EC2",
+    "provider": "Amazon"
+  },
+  "location": {
+    "country_code": "ES",
+    "country_name": "Spain"
+  },
+  "tags": [
+    "cloud"
+  ],
+  "timestamp": "2026-08-07T11:56:27.693005",
+  "org": "Amazon.com, Inc.",
+  "data": "HTTP/1.1 200 OK\r\nDate: Fri, 07 Aug 2026 11:56:27 GMT\r\nServer: LINUX/2.4 UPnP/1.0 BRCM400/1.0\r\nLast-Modified: Sun, 01 Dec 2019 08:22:30 GMT\r\nX-Powered-By: Next.js\r\nContent-Type: text/x-component\r\nVary: RSC\r\nContent-Length: 222\r\n\r\n",
+  "asn": "AS16509",
+  "cpe23": [
+    "cpe:2.3:a:facebook:react",
+    "cpe:2.3:a:vercel:next.js"
+  ],
+  "isp": "Amazon.com, Inc.",
+  "cpe": [
+    "cpe:/a:facebook:react",
+    "cpe:/a:vercel:next.js"
+  ],
+  "os": null,
+  "_shodan": {
+    "region": "na",
+    "module": "auto"
+  },
+  "opts": {},
+  "_artifact": {
+    "host_id": "52680595d4d5f3f1f23808cbe6f80951",
+    "ip_id": "9746a17bd0b68258eea47cea3b054e3d",
+    "port": 11401,
+    "framework": "next",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 222,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 24
+    }
+  }
+}

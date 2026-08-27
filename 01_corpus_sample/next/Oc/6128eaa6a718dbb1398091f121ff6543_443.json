@@ -1,0 +1,59 @@
+{
+  "asn": "AS24940",
+  "http": {
+    "status": 200,
+    "redirects": [],
+    "securitytxt": null,
+    "title": "VPN-Zugriffsmanager - Risikobewertung &amp; Lifecycle-Management",
+    "robots": null,
+    "server": "nginx/1.29.7",
+    "headers": {
+      "x-nextjs-cache": "HIT",
+      "content-length": "7394",
+      "x-powered-by": "Next.js",
+      "vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Accept-Encoding",
+      "server": "nginx/1.29.7",
+      "connection": "keep-alive",
+      "etag": "\"s0wawjkefl5p0\"",
+      "cache-control": "s-maxage=31536000, stale-while-revalidate",
+      "date": "Sat, 25 Jul 2026 03:45:47 GMT",
+      "content-type": "text/html; charset=utf-8"
+    },
+    "html": "<!DOCTYPE html><html lang=\"en\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"preload\" href=\"/_next/static/media/e4af272ccee01ff0-s.p.woff2\" as=\"font\" crossorigin=\"\" type=\"font/woff2\"/><link rel=\"stylesheet\" href=\"/_next/static/css/390339b9ad10a1d3.css\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/webpack-ab364ee30b651afe.js\"/><script src=\"/_next/static/chunks/fd9d1056-9e191f0896c1d560.js\" async=\"\"></script><script src=\"/_next/static/chunks/117-a45d150909b0e064.js\" async=\"\"></script><script src=\"/_next/static/chunks/main-app-6fca1515cee9a03c.js\" async=\"\"></script><script src=\"/_next/static/chunks/466-f6195bfcfcbc8341.js\" async=\"\"></script><script src=\"/_next/static/chunks/849-114a21b4e73b0293.js\" async=\"\"></script><script src=\"/_next/static/chunks/69-dc50b897fa8a0fac.js\" async=\"\"></script><script src=\"/_next/static/chunks/app/page-2ca40d956fe2dbca.js\" async=\"\"></script><script src=\"/_next/static/chunks/app/layout-b76731ce8f683753.js\" async=\"\"></script><title>VPN-Zugriffsmanager - Risikobewertung &amp; Lifecycle-Management</title><meta name=\"description\" content=\"Enterprise VPN-Zugriffsmanagementsystem mit erweiterter Risikobewertung\"/><meta property=\"og:title\" content=\"VPN-Zugriffsmanager - Risikobewertung &amp; Lifecycle-Management\"/><meta property=\"og:description\" content=\"Enterprise VPN-Zugriffsmanagementsystem mit erweiterter Risikobewertung\"/><meta property=\"og:image\" content=\"https://bolt.new/static/og_default.png\"/><meta name=\"twitter:card\" content=\"summary_large_image\"/><meta name=\"twitter:title\" content=\"VPN-Zugriffsmanager - Risikobewertung &amp; Lifecycle-Management\"/><meta name=\"twitter:description\" content=\"Enterprise VPN-Zugriffsmanagementsystem mit erweiterter Risikobewertung\"/><meta name=\"twitter:image\" content=\"https://bolt.new/static/og_default.png\"/><meta name=\"next-size-adjust\"/><script src=\"/_next/static/chunks/polyfills-42372ed130431b0a.js\" noModule=\"\"></script></head><body class=\"__className_f367f3 min-h-screen overflow-y-auto\"><div class=\"min-h-screen flex items-center justify-center\"><div class=\"text-center\"><div class=\"animate-spin rounded-full h-12 w-12 border-b-2 border-primary mx-auto mb-4\"></div><p class=\"font-regular text-label\">VPN Access Manager wird geladen...</p></div></div><div role=\"region\" aria-label=\"Notifications (F8)\" tabindex=\"-1\" style=\"pointer-events:none\"><ol tabindex=\"-1\" class=\"fixed top-0 z-[100] flex max-h-screen w-full flex-col-reverse p-4 sm:bottom-0 sm:right-0 sm:top-auto sm:flex-col md:max-w-[420px]\"></ol></div><script src=\"/_next/static/chunks/webpack-ab364ee30b651afe.js\" async=\"\"></script><script>(self.__next_f=self.__next_f||[]).push([0]);self.__next_f.push([2,null])</script><script>self.__next_f.push([1,\"1:HL[\\\"/_next/static/media/e4af272ccee01ff0-s.p.woff2\\\",\\\"font\\\",{\\\"crossOrigin\\\":\\\"\\\",\\\"type\\\":\\\"font/woff2\\\"}]\\n2:HL[\\\"/_next/static/css/390339b9ad10a1d3.css\\\",\\\"style\\\"]\\n\"])</script><script>self.__next_f.push([1,\"3:I[2846,[],\\\"\\\"]\\n5:I[9107,[],\\\"ClientPageRoot\\\"]\\n6:I[8433,[\\\"466\\\",\\\"static/chunks/466-f6195bfcfcbc8341.js\\\",\\\"849\\\",\\\"static/chunks/849-114a21b4e73b0293.js\\\",\\\"69\\\",\\\"static/chunks/69-dc50b897fa8a0fac.js\\\",\\\"931\\\",\\\"static/chunks/app/page-2ca40d956fe2dbca.js\\\"],\\\"default\\\",1]\\n7:I[4707,[],\\\"\\\"]\\n8:I[6423,[],\\\"\\\"]\\n9:I[4694,[\\\"466\\\",\\\"static/chunks/466-f6195bfcfcbc8341.js\\\",\\\"849\\\",\\\"static/chunks/849-114a21b4e73b0293.js\\\",\\\"185\\\",\\\"static/chunks/app/layout-b76731ce8f683753.js\\\"],\\\"Toaster\\\"]\\nb:I[1060,[],\\\"\\\"]\\nc:[]\\n\"])</script><script>self.__next_f.push([1,\"0:[\\\"$\\\",\\\"$L3\\\",null,{\\\"buildId\\\":\\\"qOAklcrukzSuVHXWB8R1E\\\",\\\"assetPrefix\\\":\\\"\\\",\\\"urlParts\\\":[\\\"\\\",\\\"\\\"],\\\"initialTree\\\":[\\\"\\\",{\\\"children\\\":[\\\"__PAGE__\\\",{}]},\\\"$undefined\\\",\\\"$undefined\\\",true],\\\"initialSeedData\\\":[\\\"\\\",{\\\"children\\\":[\\\"__PAGE__\\\",{},[[\\\"$L4\\\",[\\\"$\\\",\\\"$L5\\\",null,{\\\"props\\\":{\\\"params\\\":{},\\\"searchParams\\\":{}},\\\"Component\\\":\\\"$6\\\"}],null],null],null]},[[[[\\\"$\\\",\\\"link\\\",\\\"0\\\",{\\\"rel\\\":\\\"stylesheet\\\",\\\"href\\\":\\\"/_next/static/css/390339b9ad10a1d3.css\\\",\\\"precedence\\\":\\\"next\\\",\\\"crossOrigin\\\":\\\"$undefined\\\"}]],[\\\"$\\\",\\\"html\\\",null,{\\\"lang\\\":\\\"en\\\",\\\"children\\\":[\\\"$\\\",\\\"body\\\",null,{\\\"className\\\":\\\"__className_f367f3 min-h-screen overflow-y-auto\\\",\\\"children\\\":[[\\\"$\\\",\\\"$L7\\\",null,{\\\"parallelRouterKey\\\":\\\"children\\\",\\\"segmentPath\\\":[\\\"children\\\"],\\\"error\\\":\\\"$undefined\\\",\\\"errorStyles\\\":\\\"$undefined\\\",\\\"errorScripts\\\":\\\"$undefined\\\",\\\"template\\\":[\\\"$\\\",\\\"$L8\\\",null,{}],\\\"templateStyles\\\":\\\"$undefined\\\",\\\"templateScripts\\\":\\\"$undefined\\\",\\\"notFound\\\":[[\\\"$\\\",\\\"title\\\",null,{\\\"children\\\":\\\"404: This page could not be found.\\\"}],[\\\"$\\\",\\\"div\\\",null,{\\\"style\\\":{\\\"fontFamily\\\":\\\"system-ui,\\\\\\\"Segoe UI\\\\\\\",Roboto,Helvetica,Arial,sans-serif,\\\\\\\"Apple Color Emoji\\\\\\\",\\\\\\\"Segoe UI Emoji\\\\\\\"\\\",\\\"height\\\":\\\"100vh\\\",\\\"textAlign\\\":\\\"center\\\",\\\"display\\\":\\\"flex\\\",\\\"flexDirection\\\":\\\"column\\\",\\\"alignItems\\\":\\\"center\\\",\\\"justifyContent\\\":\\\"center\\\"},\\\"children\\\":[\\\"$\\\",\\\"div\\\",null,{\\\"children\\\":[[\\\"$\\\",\\\"style\\\",null,{\\\"dangerouslySetInnerHTML\\\":{\\\"__html\\\":\\\"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}\\\"}}],[\\\"$\\\",\\\"h1\\\",null,{\\\"className\\\":\\\"next-error-h1\\\",\\\"style\\\":{\\\"display\\\":\\\"inline-block\\\",\\\"margin\\\":\\\"0 20px 0 0\\\",\\\"padding\\\":\\\"0 23px 0 0\\\",\\\"fontSize\\\":24,\\\"fontWeight\\\":500,\\\"verticalAlign\\\":\\\"top\\\",\\\"lineHeight\\\":\\\"49px\\\"},\\\"children\\\":\\\"404\\\"}],[\\\"$\\\",\\\"div\\\",null,{\\\"style\\\":{\\\"display\\\":\\\"inline-block\\\"},\\\"children\\\":[\\\"$\\\",\\\"h2\\\",null,{\\\"style\\\":{\\\"fontSize\\\":14,\\\"fontWeight\\\":400,\\\"lineHeight\\\":\\\"49px\\\",\\\"margin\\\":0},\\\"children\\\":\\\"This page could not be found.\\\"}]}]]}]}]],\\\"notFoundStyles\\\":[]}],[\\\"$\\\",\\\"$L9\\\",null,{}]]}]}]],null],null],\\\"couldBeIntercepted\\\":false,\\\"initialHead\\\":[null,\\\"$La\\\"],\\\"globalErrorComponent\\\":\\\"$b\\\",\\\"missingSlots\\\":\\\"$Wc\\\"}]\\n\"])</script><script>self.__next_f.push([1,\"a:[[\\\"$\\\",\\\"meta\\\",\\\"0\\\",{\\\"name\\\":\\\"viewport\\\",\\\"content\\\":\\\"width=device-width, initial-scale=1\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"1\\\",{\\\"charSet\\\":\\\"utf-8\\\"}],[\\\"$\\\",\\\"title\\\",\\\"2\\\",{\\\"children\\\":\\\"VPN-Zugriffsmanager - Risikobewertung \\u0026 Lifecycle-Management\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"3\\\",{\\\"name\\\":\\\"description\\\",\\\"content\\\":\\\"Enterprise VPN-Zugriffsmanagementsystem mit erweiterter Risikobewertung\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"4\\\",{\\\"property\\\":\\\"og:title\\\",\\\"content\\\":\\\"VPN-Zugriffsmanager - Risikobewertung \\u0026 Lifecycle-Management\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"5\\\",{\\\"property\\\":\\\"og:description\\\",\\\"content\\\":\\\"Enterprise VPN-Zugriffsmanagementsystem mit erweiterter Risikobewertung\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"6\\\",{\\\"property\\\":\\\"og:image\\\",\\\"content\\\":\\\"https://bolt.new/static/og_default.png\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"7\\\",{\\\"name\\\":\\\"twitter:card\\\",\\\"content\\\":\\\"summary_large_image\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"8\\\",{\\\"name\\\":\\\"twitter:title\\\",\\\"content\\\":\\\"VPN-Zugriffsmanager - Risikobewertung \\u0026 Lifecycle-Management\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"9\\\",{\\\"name\\\":\\\"twitter:description\\\",\\\"content\\\":\\\"Enterprise VPN-Zugriffsmanagementsystem mit erweiterter Risikobewertung\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"10\\\",{\\\"name\\\":\\\"twitter:image\\\",\\\"content\\\":\\\"https://bolt.new/static/og_default.png\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"11\\\",{\\\"name\\\":\\\"next-size-adjust\\\"}]]\\n4:null\\n\"])</script></body></html>",
+    "location": "/",
+    "sitemap": null
+  },
+  "os": null,
+  "timestamp": "2026-07-25T03:45:47.644691",
+  "isp": "Hetzner Online GmbH",
+  "transport": "tcp",
+  "_shodan": {
+    "region": "na",
+    "module": "https"
+  },
+  "location": {
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  "org": "Hetzner Online GmbH",
+  "data": "HTTP/1.1 200 OK\r\nServer: nginx/1.29.7\r\nDate: Sat, 25 Jul 2026 03:45:47 GMT\r\nContent-Type: text/html; charset=utf-8\r\nContent-Length: 7394\r\nConnection: keep-alive\r\nVary: RSC, Next-Router-State-Tree, Next-Router-Prefetch, Accept-Encoding\r\nx-nextjs-cache: HIT\r\nX-Powered-By: Next.js\r\nCache-Control: s-maxage=31536000, stale-while-revalidate\r\nETag: \"s0wawjkefl5p0\"\r\n\r\n",
+  "port": 443,
+  "opts": {
+    "vulns": [],
+    "heartbleed": "2026/07/25 03:45:59 [ip-redacted]:443 - SAFE\n"
+  },
+  "_artifact": {
+    "host_id": "6128eaa6a718dbb1398091f121ff6543",
+    "ip_id": "e1338b44a870c5540a80d2a8c83335cf",
+    "port": 443,
+    "framework": "next",
+    "tier": "Oc",
+    "tier_label": "Objective generator-fingerprint",
+    "html_chars_original": 7394,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 20,
+      "ip": 1
+    }
+  }
+}

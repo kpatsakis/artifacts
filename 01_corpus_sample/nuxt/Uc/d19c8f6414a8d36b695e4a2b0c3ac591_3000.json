@@ -1,0 +1,51 @@
+{
+  "asn": "AS133800",
+  "http": {
+    "status": 200,
+    "redirects": [],
+    "securitytxt": null,
+    "title": null,
+    "robots": null,
+    "server": null,
+    "headers": {
+      "content-length": "706",
+      "x-powered-by": "Nuxt",
+      "keep-alive": "timeout=5",
+      "connection": "keep-alive",
+      "date": "Wed, 15 Jul 2026 00:26:43 GMT",
+      "content-type": "text/html;charset=utf-8"
+    },
+    "html": "<!DOCTYPE html><html><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"><link rel=\"stylesheet\" href=\"/_nuxt/entry.DbpkrxnY.css\" crossorigin><link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/-As5VEGZ.js\"><script type=\"module\" src=\"/_nuxt/-As5VEGZ.js\" crossorigin></script></head><body><div id=\"__nuxt\"></div><div id=\"teleports\"></div><script>window.__NUXT__={};window.__NUXT__.config={public:{},app:{baseURL:\"/\",buildId:\"61962295-563e-47a9-aa0c-454ea7fb0326\",buildAssetsDir:\"/_nuxt/\",cdnURL:\"\"}}</script><script type=\"application/json\" data-nuxt-data=\"nuxt-app\" data-ssr=\"false\" id=\"__NUXT_DATA__\">[{\"serverRendered\":1},false]</script></body></html>",
+    "location": "/",
+    "sitemap": null
+  },
+  "os": null,
+  "timestamp": "2026-07-15T00:26:43.266954",
+  "isp": "PT Biznet Gio Nusantara",
+  "transport": "tcp",
+  "_shodan": {
+    "region": "na",
+    "module": "http-simple-new"
+  },
+  "location": {
+    "country_code": "ID",
+    "country_name": "Indonesia"
+  },
+  "org": "PT Biznet Gio Nusantara",
+  "data": "HTTP/1.1 200 OK\r\ncontent-type: text/html;charset=utf-8\r\nx-powered-by: Nuxt\r\nDate: Wed, 15 Jul 2026 00:26:43 GMT\r\nConnection: keep-alive\r\nKeep-Alive: timeout=5\r\nContent-Length: 706\r\n\r\n",
+  "port": 3000,
+  "opts": {},
+  "_artifact": {
+    "host_id": "d19c8f6414a8d36b695e4a2b0c3ac591",
+    "ip_id": "09f3b959e311414addcf00aa52d59c32",
+    "port": 3000,
+    "framework": "nuxt",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 706,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 19
+    }
+  }
+}

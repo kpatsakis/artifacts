@@ -1,0 +1,73 @@
+{
+  "http": {
+    "status": 200,
+    "redirects": [],
+    "securitytxt": null,
+    "title": null,
+    "robots": null,
+    "components_hash": -1632031974,
+    "html": "<!DOCTYPE html><html  data-capo=\"\"><head><meta charset=\"utf-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n<link rel=\"stylesheet\" href=\"/_nuxt/entry.BLRdKpMm.css\">\n<link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/B65lvccF.js\">\n<link rel=\"prefetch\" as=\"image\" type=\"image/png\" href=\"/_nuxt/articleDefaultImg.BfUG_UOE.png\">\n<link rel=\"prefetch\" as=\"image\" type=\"image/png\" href=\"/_nuxt/content-header-bg.DbpCMV5F.png\">\n<link rel=\"prefetch\" as=\"image\" type=\"image/png\" href=\"/_nuxt/content-header-left.BLxBm4jK.png\">\n<link rel=\"prefetch\" as=\"image\" type=\"image/png\" href=\"/_nuxt/content-header-right.CPWgBeXS.png\">\n<link rel=\"prefetch\" as=\"image\" type=\"image/gif\" href=\"/_nuxt/404NotFound.BporoXzd.gif\">\n<link rel=\"prefetch\" as=\"image\" type=\"image/svg+xml\" href=\"/_nuxt/homeCardBg.Bkv-fsYW.svg\">\n<link rel=\"prefetch\" as=\"image\" type=\"image/svg+xml\" href=\"/_nuxt/homeEventBg.Cqvx2WlW.svg\">\n<link rel=\"prefetch\" as=\"image\" type=\"image/svg+xml\" href=\"/_nuxt/formDivider6.CwRtq2Le.svg\">\n<link rel=\"prefetch\" as=\"image\" type=\"image/svg+xml\" href=\"/_nuxt/formDivider8.BLvkukiL.svg\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/DLEqQopN.js\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/mgwr4CfK.js\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/DqZnKueS.js\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/BFw-lulf.js\">\n<link rel=\"prefetch\" as=\"style\" crossorigin href=\"/_nuxt/default.Dvigw4B-.css\">\n<link rel=\"prefetch\" as=\"style\" crossorigin href=\"/_nuxt/Footer.yuvOQgOj.css\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/DyMB0pxb.js\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/BtmTuJr5.js\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/DOWOAXW0.js\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/Bqm7eTk9.js\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/BH_Iq3Vi.js\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/Biw_bgGr.js\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/Blc-Oshn.js\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/mMDFrPdu.js\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/2HK3br58.js\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/DxdoFsxp.js\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/BUbooiaT.js\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/aJKa6fG_.js\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/ogyMFalW.js\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/BAftuh4j.js\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/CAFuaxNG.js\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/FSzuafZf.js\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/D2ExeJoA.js\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/BjYP5sR0.js\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/CCRnk4Nf.js\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/Czbd3W6X.js\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/Bpzlg08H.js\">\n<link rel=\"prefetch\" as=\"style\" crossorigin href=\"/_nuxt/simpleLayout.C5jBDkFg.css\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/JvxVTyPJ.js\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/BRfM8e-8.js\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/CqGmCgwE.js\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/C-d1yTLE.js\">\n<script type=\"module\" src=\"/_nuxt/B65lvccF.js\" crossorigin></script></head><body><div id=\"__nuxt\"></div><div id=\"teleports\"></div><script type=\"application/json\" data-nuxt-data=\"nuxt-app\" data-ssr=\"false\" id=\"__NUXT_DATA__\">[{\"serverRendered\":1},false]</script>\n<script>window.__NUXT__={};window.__NUXT__.config={public:{encryptKey:\"X19fTUFNUF9fS0VZX19fXw==\",i18n:{baseUrl:\"\",defaultLocale:\"zh-tw\",defaultDirection:\"ltr\",strategy:\"prefix_and_default\",lazy:false,rootRedirect:\"\",routesNameSeparator:\"___\",defaultLocaleRouteNameSuffix:\"default\",skipSettingLocaleOnNavigate:false,differentDomains:false,trailingSlash:false,configLocales:[\"en-us\",\"zh-tw\"],locales:{\"en-us\":{domain:\"\"},\"zh-tw\":{domain:\"\"}},detectBrowserLanguage:{alwaysRedirect:false,cookieCrossOrigin:false,cookieDomain:\"\",cookieKey:\"i18n_redirected\",cookieSecure:false,fallbackLocale:\"\",redirectOn:\"root\",useCookie:true},experimental:{localeDetector:\"\",switchLocalePathLinkSSR:false,autoImportTranslationFunctions:false},multiDomainLocales:false}},app:{baseURL:\"/\",buildId:\"45f9cc59-fdbc-4c7c-8ee8-26bb04590c29\",buildAssetsDir:\"/_nuxt/\",cdnURL:\"\"}}</script></body></html>",
+    "location": "/",
+    "headers": {
+      "content-length": "4581",
+      "via": "1.1 google",
+      "x-powered-by": "Nuxt",
+      "date": "Thu, 06 Aug 2026 11:12:33 GMT",
+      "alt-svc": "h3=\":443\"; ma=2592000",
+      "content-type": "text/html;charset=utf-8"
+    },
+    "server": null,
+    "sitemap": null
+  },
+  "port": 443,
+  "transport": "tcp",
+  "cpe23_hash": 161105955,
+  "cloud": {
+    "region": "global",
+    "service": null,
+    "provider": "Google"
+  },
+  "location": {
+    "country_code": "US",
+    "country_name": "United States"
+  },
+  "tags": [
+    "cloud"
+  ],
+  "timestamp": "2026-08-06T11:12:34.123859",
+  "org": "Google LLC",
+  "data": "HTTP/1.1 200 OK\r\ncontent-type: text/html;charset=utf-8\r\nx-powered-by: Nuxt\r\nDate: Thu, 06 Aug 2026 11:12:33 GMT\r\nContent-Length: 4581\r\nVia: 1.1 google\r\nAlt-Svc: h3=\":443\"; ma=2592000\r\n\r\n",
+  "asn": "AS396982",
+  "cpe23": [
+    "cpe:2.3:a:google:cloud_platform",
+    "cpe:2.3:a:nuxt:nuxt"
+  ],
+  "isp": "Google LLC",
+  "cpe": [
+    "cpe:/a:google:cloud_platform",
+    "cpe:/a:nuxt:nuxt"
+  ],
+  "os": null,
+  "_shodan": {
+    "region": "na",
+    "module": "https"
+  },
+  "opts": {
+    "vulns": [],
+    "heartbleed": "2026/08/06 11:12:42 [ip-redacted]:443 - SAFE\n"
+  },
+  "_artifact": {
+    "host_id": "899db0a5c5e3b9f7464ce082ac3dc5dd",
+    "ip_id": "7c62dda748cb8c55cbd2af78d4f36fa8",
+    "port": 443,
+    "framework": "nuxt",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 4581,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 24,
+      "ip": 1
+    }
+  }
+}

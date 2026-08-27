@@ -1,0 +1,55 @@
+{
+  "asn": "AS16509",
+  "http": {
+    "status": 200,
+    "redirects": [],
+    "securitytxt": null,
+    "title": "eticket web",
+    "robots": null,
+    "html": "<!DOCTYPE html><html lang=\"ja\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"stylesheet\" href=\"/_next/static/css/ac960b776bfe553f.css\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/webpack-d3ea7d04667160d4.js\"/><script src=\"/_next/static/chunks/a7067448-09861261ccca4d58.js\" async=\"\"></script><script src=\"/_next/static/chunks/520-b3535e51da1d4850.js\" async=\"\"></script><script src=\"/_next/static/chunks/main-app-f811335c8122a7ee.js\" async=\"\"></script><script src=\"/_next/static/chunks/290-efbac2d882c9a72b.js\" async=\"\"></script><script src=\"/_next/static/chunks/app/layout-a1dc800246fc89c0.js\" async=\"\"></script><script src=\"/_next/static/chunks/675-1fc5cfa9a5639019.js\" async=\"\"></script><script src=\"/_next/static/chunks/app/error-f637ed180ecffde2.js\" async=\"\"></script><script src=\"/_next/static/chunks/app/global-error-9b64407ac5daba69.js\" async=\"\"></script><title>eticket web</title><meta name=\"description\" content=\"AIXO eticket prototype web app\"/><script src=\"/_next/static/chunks/polyfills-42372ed130431b0a.js\" noModule=\"\"></script></head><body><main class=\"p-8 font-sans\"><h1 class=\"text-2xl font-bold\">eticket web</h1><p class=\"mt-2 text-gray-600\">AI 駆動電子チケット試作 (D-2 スケルトン)</p><button data-slot=\"button\" data-variant=\"default\" data-size=\"default\" class=\"group/button inline-flex shrink-0 items-center justify-center rounded-lg border border-transparent bg-clip-padding text-sm font-medium whitespace-nowrap transition-all outline-none select-none focus-visible:border-ring focus-visible:ring-3 focus-visible:ring-ring/50 active:not-aria-[haspopup]:translate-y-px disabled:pointer-events-none disabled:opacity-50 aria-invalid:border-destructive aria-invalid:ring-3 aria-invalid:ring-destructive/20 dark:aria-invalid:border-destructive/50 dark:aria-invalid:ring-destructive/40 [&amp;_svg]:pointer-events-none [&amp;_svg]:shrink-0 [&amp;_svg:not([class*=&#x27;size-&#x27;])]:size-4 bg-primary text-primary-foreground hover:bg-primary/80 h-8 gap-1.5 px-2.5 has-data-[icon=inline-end]:pr-2 has-data-[icon=inline-start]:pl-2 mt-4\">shadcn/ui Button</button></main><script src=\"/_next/static/chunks/webpack-d3ea7d04667160d4.js\" async=\"\"></script><script>(self.__next_f=self.__next_f||[]).push([0]);self.__next_f.push([2,null])</script><script>self.__next_f.push([1,\"1:HL[\\\"/_next/static/css/ac960b776bfe553f.css\\\",\\\"style\\\"]\\n\"])</script><script>self.__next_f.push([1,\"2:I[6939,[],\\\"\\\"]\\n4:I[7040,[\\\"290\\\",\\\"static/chunks/290-efbac2d882c9a72b.js\\\",\\\"185\\\",\\\"static/chunks/app/layout-a1dc800246fc89c0.js\\\"],\\\"Providers\\\"]\\n5:I[4268,[],\\\"\\\"]\\n6:I[9801,[\\\"675\\\",\\\"static/chunks/675-1fc5cfa9a5639019.js\\\",\\\"601\\\",\\\"static/chunks/app/error-f637ed180ecffde2.js\\\"],\\\"default\\\"]\\n7:I[1050,[],\\\"\\\"]\\n9:I[235,[\\\"675\\\",\\\"static/chunks/675-1fc5cfa9a5639019.js\\\",\\\"470\\\",\\\"static/chunks/app/global-error-9b64407ac5daba69.js\\\"],\\\"default\\\"]\\na:[]\\n\"])</script><script>self.__next_f.push([1,\"0:[\\\"$\\\",\\\"$L2\\\",null,{\\\"buildId\\\":\\\"lGYfIIAFeQ_PRInNW_SQH\\\",\\\"assetPrefix\\\":\\\"\\\",\\\"urlParts\\\":[\\\"\\\",\\\"\\\"],\\\"initialTree\\\":[\\\"\\\",{\\\"children\\\":[\\\"__PAGE__\\\",{}]},\\\"$undefined\\\",\\\"$undefined\\\",true],\\\"initialSeedData\\\":[\\\"\\\",{\\\"children\\\":[\\\"__PAGE__\\\",{},[[\\\"$L3\\\",[\\\"$\\\",\\\"main\\\",null,{\\\"className\\\":\\\"p-8 font-sans\\\",\\\"children\\\":[[\\\"$\\\",\\\"h1\\\",null,{\\\"className\\\":\\\"text-2xl font-bold\\\",\\\"children\\\":\\\"eticket web\\\"}],[\\\"$\\\",\\\"p\\\",null,{\\\"className\\\":\\\"mt-2 text-gray-600\\\",\\\"children\\\":\\\"AI 駆動電子チケット試作 (D-2 スケルトン)\\\"}],[\\\"$\\\",\\\"button\\\",null,{\\\"data-slot\\\":\\\"button\\\",\\\"data-variant\\\":\\\"default\\\",\\\"data-size\\\":\\\"default\\\",\\\"className\\\":\\\"group/button inline-flex shrink-0 items-center justify-center rounded-lg border border-transparent bg-clip-padding text-sm font-medium whitespace-nowrap transition-all outline-none select-none focus-visible:border-ring focus-visible:ring-3 focus-visible:ring-ring/50 active:not-aria-[haspopup]:translate-y-px disabled:pointer-events-none disabled:opacity-50 aria-invalid:border-destructive aria-invalid:ring-3 aria-invalid:ring-destructive/20 dark:aria-invalid:border-destructive/50 dark:aria-invalid:ring-destructive/40 [\\u0026_svg]:pointer-events-none [\\u0026_svg]:shrink-0 [\\u0026_svg:not([class*='size-'])]:size-4 bg-primary text-primary-foreground hover:bg-primary/80 h-8 gap-1.5 px-2.5 has-data-[icon=inline-end]:pr-2 has-data-[icon=inline-start]:pl-2 mt-4\\\",\\\"children\\\":\\\"shadcn/ui Button\\\"}]]}],null],null],null]},[[[[\\\"$\\\",\\\"link\\\",\\\"0\\\",{\\\"rel\\\":\\\"stylesheet\\\",\\\"href\\\":\\\"/_next/static/css/ac960b776bfe553f.css\\\",\\\"precedence\\\":\\\"next\\\",\\\"crossOrigin\\\":\\\"$undefined\\\"}]],[\\\"$\\\",\\\"html\\\",null,{\\\"lang\\\":\\\"ja\\\",\\\"children\\\":[\\\"$\\\",\\\"body\\\",null,{\\\"children\\\":[\\\"$\\\",\\\"$L4\\\",null,{\\\"children\\\":[\\\"$\\\",\\\"$L5\\\",null,{\\\"parallelRouterKey\\\":\\\"children\\\",\\\"segmentPath\\\":[\\\"children\\\"],\\\"error\\\":\\\"$6\\\",\\\"errorStyles\\\":[],\\\"errorScripts\\\":[],\\\"template\\\":[\\\"$\\\",\\\"$L7\\\",null,{}],\\\"templateStyles\\\":\\\"$undefined\\\",\\\"templateScripts\\\":\\\"$undefined\\\",\\\"notFound\\\":[[\\\"$\\\",\\\"title\\\",null,{\\\"children\\\":\\\"404: This page could not be found.\\\"}],[\\\"$\\\",\\\"div\\\",null,{\\\"style\\\":{\\\"fontFamily\\\":\\\"system-ui,\\\\\\\"Segoe UI\\\\\\\",Roboto,Helvetica,Arial,sans-serif,\\\\\\\"Apple Color Emoji\\\\\\\",\\\\\\\"Segoe UI Emoji\\\\\\\"\\\",\\\"height\\\":\\\"100vh\\\",\\\"textAlign\\\":\\\"center\\\",\\\"display\\\":\\\"flex\\\",\\\"flexDirection\\\":\\\"column\\\",\\\"alignItems\\\":\\\"center\\\",\\\"justifyContent\\\":\\\"center\\\"},\\\"children\\\":[\\\"$\\\",\\\"div\\\",null,{\\\"children\\\":[[\\\"$\\\",\\\"style\\\",null,{\\\"dangerouslySetInnerHTML\\\":{\\\"__html\\\":\\\"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}\\\"}}],[\\\"$\\\",\\\"h1\\\",null,{\\\"className\\\":\\\"next-error-h1\\\",\\\"style\\\":{\\\"display\\\":\\\"inline-block\\\",\\\"margin\\\":\\\"0 20px 0 0\\\",\\\"padding\\\":\\\"0 23px 0 0\\\",\\\"fontSize\\\":24,\\\"fontWeight\\\":500,\\\"verticalAlign\\\":\\\"top\\\",\\\"lineHeight\\\":\\\"49px\\\"},\\\"children\\\":\\\"404\\\"}],[\\\"$\\\",\\\"div\\\",null,{\\\"style\\\":{\\\"display\\\":\\\"inline-block\\\"},\\\"children\\\":[\\\"$\\\",\\\"h2\\\",null,{\\\"style\\\":{\\\"fontSize\\\":14,\\\"fontWeight\\\":400,\\\"lineHeight\\\":\\\"49px\\\",\\\"margin\\\":0},\\\"children\\\":\\\"This page could not be found.\\\"}]}]]}]}]],\\\"notFoundStyles\\\":[]}]}]}]}]],null],null],\\\"couldBeIntercepted\\\":false,\\\"initialHead\\\":[null,\\\"$L8\\\"],\\\"globalErrorComponent\\\":\\\"$9\\\",\\\"missingSlots\\\":\\\"$Wa\\\"}]\\n\"])</script><script>self.__next_f.push([1,\"8:[[\\\"$\\\",\\\"meta\\\",\\\"0\\\",{\\\"name\\\":\\\"viewport\\\",\\\"content\\\":\\\"width=device-width, initial-scale=1\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"1\\\",{\\\"charSet\\\":\\\"utf-8\\\"}],[\\\"$\\\",\\\"title\\\",\\\"2\\\",{\\\"children\\\":\\\"eticket web\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"3\\\",{\\\"name\\\":\\\"description\\\",\\\"content\\\":\\\"AIXO eticket prototype web app\\\"}]]\\n3:null\\n\"])</script></body></html>",
+    "location": "/",
+    "server": null,
+    "sitemap": null
+  },
+  "os": null,
+  "tags": [
+    "cloud"
+  ],
+  "timestamp": "2026-07-08T00:12:58.758930",
+  "isp": "Amazon.com, Inc.",
+  "transport": "tcp",
+  "_shodan": {
+    "region": "na",
+    "module": "https"
+  },
+  "cloud": {
+    "region": "ap-northeast-1",
+    "service": "EC2",
+    "provider": "Amazon"
+  },
+  "location": {
+    "country_code": "JP",
+    "country_name": "Japan"
+  },
+  "org": "Amazon Data Services Japan",
+  "data": "HTTP/1.1 200 OK\r\nDate: Wed, 08 Jul 2026 00:15:31 GMT\r\nContent-Type: text/html; charset=utf-8\r\nContent-Length: 6832\r\nConnection: keep-alive\r\nVary: RSC, Next-Router-State-Tree, Next-Router-Prefetch, Accept-Encoding\r\nx-nextjs-cache: HIT\r\nX-Powered-By: Next.js\r\nCache-Control: s-maxage=31536000, stale-while-revalidate\r\nETag: \"xi24snld4c57z\"\r\n\r\n",
+  "port": 443,
+  "opts": {
+    "vulns": [],
+    "heartbleed": "2026/07/08 00:13:26 [ip-redacted]:443 - ERROR: write tcp [ip-redacted]:443: broken pipe\n"
+  },
+  "_artifact": {
+    "host_id": "90c3755f47ea339e0373588389adb2a7",
+    "ip_id": "661edb9761593b53c05abdb9695c175e",
+    "port": 443,
+    "framework": "next",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 6772,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 23,
+      "ip": 2
+    }
+  }
+}

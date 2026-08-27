@@ -1,0 +1,55 @@
+{
+  "asn": "AS50867",
+  "http": {
+    "status": 200,
+    "redirects": [],
+    "securitytxt": null,
+    "title": "По шагам",
+    "robots": null,
+    "server": "nginx/1.18.0 (Ubuntu)",
+    "headers": {
+      "x-powered-by": "Nuxt",
+      "transfer-encoding": "chunked",
+      "server": "nginx/1.18.0 (Ubuntu)",
+      "connection": "keep-alive",
+      "date": "Mon, 27 Jul 2026 15:05:02 GMT",
+      "content-type": "text/html;charset=utf-8"
+    },
+    "html": "<!DOCTYPE html>\n<html >\n<head><meta charset=\"utf-8\">\n<title>По шагам</title>\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n<meta name=\"description\" content=\"Магазин инструкций для конструкторов\">\n<script src=\"https://auth.robokassa.ru/Merchant/bundle/robokassa_iframe.js\" async=\"\" defer=\"\"></script><link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/entry.71ffee94.js\"><link rel=\"preload\" as=\"style\" href=\"/_nuxt/entry.434e2bf5.css\"><link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/default.2184247a.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/nuxt-link.cb3984ec.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/getFormatNumber.15afa7eb.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/getEnding.c013a9d1.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/index.ad4d44c5.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/product.fc0999cf.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/toCache.695c731c.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/error-component.5c56b1df.js\"><link rel=\"prefetch\" as=\"image\" type=\"image/svg+xml\" href=\"/_nuxt/cart.1450f9e6.svg\"><link rel=\"prefetch\" as=\"image\" type=\"image/svg+xml\" href=\"/_nuxt/navArrow.b73b7db4.svg\"><link rel=\"stylesheet\" href=\"/_nuxt/entry.434e2bf5.css\"><style>.layout[data-v-3e765389]{display:flex;flex-direction:column;min-height:100vh}.container[data-v-3e765389]{color:#1f2432;margin-inline:auto;margin-bottom:115px;width:min(95%,1280px)}header[data-v-3e765389]{margin-bottom:50px}</style><style>.navbar[data-v-16e3dbc3]{align-items:center;display:flex;height:140px;padding-block:25px}</style><style>div[data-v-265e8a28]{display:flex}.wrapper[data-v-265e8a28]{align-items:center;font-weight:400;gap:12px;height:90px;margin-left:auto}.wrapper .title[data-v-265e8a28]{font-size:14px}.wrapper .cost[data-v-265e8a28],.wrapper .products[data-v-265e8a28]{font-size:12px;line-height:145%}.wrapper .products[data-v-265e8a28]{color:#797b86;margin-top:-2px}.wrapper .cost[data-v-265e8a28]{margin-top:-1px}.wrapper .cart-stats[data-v-265e8a28],.wrapper .cart-stats>div[data-v-265e8a28]{flex-direction:column}.wrapper .cart-stats-numbers[data-v-265e8a28]{min-height:32px}</style><style>.user-menu[data-v-f2766210]{align-items:center;display:flex;margin-left:24px;position:relative}.user-button[data-v-f2766210]{background:#fff;border:1px solid #e5e7eb;border-radius:999px;cursor:pointer;gap:8px;padding:8px 12px}.user-avatar[data-v-f2766210],.user-button[data-v-f2766210]{align-items:center;display:inline-flex;font-size:14px}.user-avatar[data-v-f2766210]{background:#2563eb;border-radius:999px;color:#fff;font-weight:600;height:28px;justify-content:center;width:28px}.user-label[data-v-f2766210]{white-space:nowrap}.user-dropdown[data-v-f2766210]{background:#fff;border-radius:12px;box-shadow:0 14px 30px rgba(15,23,42,.16);display:flex;flex-direction:column;gap:4px;min-width:180px;padding:8px;position:absolute;right:0;top:calc(100% + 8px);z-index:10}.user-item[data-v-f2766210]{background:transparent;border:none;border-radius:8px;cursor:pointer;font-size:14px;padding:8px 10px;text-align:left;width:100%}.user-item[data-v-f2766210]:hover{background:#f3f4f6}.user-item--logout[data-v-f2766210]{color:#dc2626}.user-item--logout button[data-v-f2766210]{text-align:left;width:100%}</style><style>div[data-v-2ba0b4bb]{display:flex;gap:16px}a[data-v-2ba0b4bb]{color:#797b86;min-width:-moz-fit-content;min-width:fit-content;text-decoration:none}a[data-v-2ba0b4bb]:hover{opacity:.7}.router-link-exact-active[data-v-2ba0b4bb]{color:#537694}.home[data-v-2ba0b4bb]{color:#33374e}</style><style>.products-grid[data-v-19f755de]{display:grid;gap:20px;grid-template-columns:repeat(auto-fill,minmax(300px,1fr))}.empty-products[data-v-19f755de]{color:#666;font-size:24px;font-weight:600;text-align:center}</style><style>.footer[data-v-55db7ca2]{background:#1f2432;box-sizing:border-box;color:#fff;margin-top:auto;max-width:100vw;padding:20px;width:100%}.footer-content[data-v-55db7ca2]{display:flex;flex-wrap:wrap;gap:40px;justify-content:space-between;margin:0 auto;max-width:1280px}.footer-section[data-v-55db7ca2]{min-width:200px}.footer-title[data-v-55db7ca2]{color:#fff;font-size:16px;font-weight:600;margin-bottom:16px}.footer-links[data-v-55db7ca2]{list-style:none;margin:0;padding:0}.footer-links li[data-v-55db7ca2]{margin-bottom:10px}.footer-links a[data-v-55db7ca2]{color:#a0a5b1;font-size:14px;text-decoration:none;transition:color .2s ease}.footer-links a[data-v-55db7ca2]:hover{color:#fff}.footer-bottom[data-v-55db7ca2]{border-top:1px solid #3a3f4d;margin:30px auto 0;max-width:1280px;padding-top:20px;text-align:center}.footer-bottom p[data-v-55db7ca2]{color:#797b86;font-size:13px;margin:0}@media (max-width:768px){.footer-content[data-v-55db7ca2]{flex-direction:column;gap:30px}.footer-section[data-v-55db7ca2]{width:100%}}</style></head>\n<body ><div id=\"__nuxt\"><!--[--><div class=\"layout\" data-v-3e765389><div class=\"container\" data-v-3e765389><header data-v-3e765389><div class=\"navbar\" data-v-3e765389 data-v-16e3dbc3><a aria-current=\"page\" href=\"/\" class=\"router-link-active router-link-exact-active\" data-v-16e3dbc3><img src=\"/images/logo.svg\" alt=\"logo\" width=\"200\" data-v-16e3dbc3></a><div class=\"wrapper\" data-v-16e3dbc3 data-v-265e8a28><a href=\"/cart\" class=\"\" data-v-265e8a28><img src=\"/_nuxt/cart.1450f9e6.svg\" style=\"width:32px;height:32px;\" data-v-265e8a28></a><div class=\"cart-stats\" data-v-265e8a28><span class=\"title\" data-v-265e8a28>Ваша корзина</span><div class=\"cart-stats-numbers\" data-v-265e8a28><!----></div></div></div><div class=\"user-menu\" data-v-16e3dbc3 data-v-f2766210><button type=\"button\" class=\"user-button\" data-v-f2766210><span class=\"user-avatar\" data-v-f2766210>U</span><span class=\"user-label\" data-v-f2766210>Аккаунт</span></button><!----></div></div><div data-v-3e765389 data-v-2ba0b4bb><a aria-current=\"page\" href=\"/\" class=\"router-link-active router-link-exact-active home\" data-v-2ba0b4bb>Главная</a><!----><!----><!----><!----></div></header><main data-v-3e765389><!--[--><!--[--><div data-v-19f755de><p data-v-19f755de>Загрузка...</p></div><!--]--><!--]--></main></div><footer class=\"footer\" data-v-3e765389 data-v-55db7ca2><div class=\"footer-content\" data-v-55db7ca2><div class=\"footer-section\" data-v-55db7ca2><h4 class=\"footer-title\" data-v-55db7ca2>Документы</h4><ul class=\"footer-links\" data-v-55db7ca2><li data-v-55db7ca2><a href=\"/documents/Публичная Оферта По Шагам.pdf\" target=\"_blank\" rel=\"noopener\" data-v-55db7ca2> Публичная оферта </a></li><li data-v-55db7ca2><a href=\"/documents/Политика конфденциальности.pdf\" target=\"_blank\" rel=\"noopener\" data-v-55db7ca2> Политика конфиденциальности </a></li><li data-v-55db7ca2><a href=\"/documents/Согласие на обработку ПД.pdf\" target=\"_blank\" rel=\"noopener\" data-v-55db7ca2> Согласие на обработку ПД </a></li><li data-v-55db7ca2><a href=\"/documents/Политика_возврата_и_обмена_товаров.pdf\" target=\"_blank\" rel=\"noopener\" data-v-55db7ca2> Политика возврата и обмена </a></li></ul></div><div class=\"footer-section\" data-v-55db7ca2><h4 class=\"footer-title\" data-v-55db7ca2>Контакты</h4><ul class=\"footer-links\" data-v-55db7ca2><li data-v-55db7ca2><a href=\"mailto:poshagam.store@gmail.com\" data-v-55db7ca2>poshagam.store@gmail.com</a></li></ul></div></div><div class=\"footer-bottom\" data-v-55db7ca2><p data-v-55db7ca2>© 2026 По Шагам. Все права защищены.</p></div></footer></div><!--]--></div><script>window.__NUXT__={data:{},state:{},_errors:{},serverRendered:true,config:{public:{},app:{baseURL:\"\\u002F\",buildAssetsDir:\"\\u002F_nuxt\\u002F\",cdnURL:\"\"}}}</script><script type=\"module\" src=\"/_nuxt/entry.71ffee94.js\" crossorigin></script></body>\n</html>",
+    "location": "/",
+    "sitemap": null
+  },
+  "os": null,
+  "timestamp": "2026-07-27T15:01:47.642380",
+  "isp": "HOSTKEY B.V.",
+  "transport": "tcp",
+  "_shodan": {
+    "region": "na",
+    "module": "https"
+  },
+  "location": {
+    "country_code": "RU",
+    "country_name": "Russian Federation"
+  },
+  "org": "LLC Server v arendy",
+  "data": "HTTP/1.1 200 OK\r\nServer: nginx/1.18.0 (Ubuntu)\r\nDate: Mon, 27 Jul 2026 15:05:02 GMT\r\nContent-Type: text/html;charset=utf-8\r\nTransfer-Encoding: chunked\r\nConnection: keep-alive\r\nx-powered-by: Nuxt\r\n\r\n",
+  "port": 443,
+  "opts": {
+    "vulns": [],
+    "heartbleed": "2026/07/27 15:02:49 [ip-redacted]:443 - ERROR: dial tcp [ip-redacted]:443: i/o timeout\n"
+  },
+  "_artifact": {
+    "host_id": "44b573b50ab4d8d0426bae995cbc6062",
+    "ip_id": "b2f0ab79ccfc13f0831f435baa7ee9ef",
+    "port": 443,
+    "framework": "nuxt",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 7769,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 19,
+      "ip": 2
+    }
+  }
+}

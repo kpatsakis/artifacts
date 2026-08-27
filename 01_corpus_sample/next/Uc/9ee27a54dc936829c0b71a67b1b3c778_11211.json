@@ -1,0 +1,72 @@
+{
+  "http": {
+    "redirects": [],
+    "securitytxt": null,
+    "title": "erxes",
+    "html": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"utf-8\">\n<link rel=\"icon\" href=\"/favicon_025387ba-431b-4fd7-af33-e7247ecef2ba.ico\">\n<title>erxes</title>\n</head>\n<body>\n<span class=\"wrap\">Uj0Q6G U2Ib53GohhK4TBDDS MG59q</span>\n<h3 class=\"item\">py7vElE75pbr5DCJ7ryPgSEN6IHw PFtQxX6WO</h3>\n<small>JGA19EI0OR2OZeH1wrcMc252YL</small>\n<header>CxwXGhNM b0DE92dCJ79KmZpgIwVpFj5QiQW pl4lw5HueeFmLEq1hBlZa7TR5if1y Vx5LJY46d7pGm0Ym9UR8xAPPgRs AR3wE7uoWiw</header>\n<span class=\"card\">ecrl79HCkPrBFVFlIT 5lc38</span>\n<main>10bLAiFvcuU4oOtMaFyOmc gJxaP9 AbUyO SHbdVVqA3ViWmQ PqBthfuvD7iGwH</main>\n<h2>rCNHhVnds55gu9HHxHhhT9 NQmvF1dz6zJ6Jlx</h2>\n<footer class=\"info\">bTc8G MaznS7Ho2geMoChnmp4rIpFty</footer>\n<strong class=\"entry\">BIpyblHTIr ObRryr4psC1vdSu</strong>\n<small class=\"desc\">mHkPBMghvLBjaFGF yXQ9HU0lTH2jNTlqF dZZjiA</small>\n<h1>wpTu2 0khp2ptZsBSde9mF oi48ASnAkiyJ pOptlZJ9QEW4ZWl2RVGW26K</h1>\n<main>lr3bRGXGF6ynp l0nJomCCf0T8FOL8HKFpT</main>\n<nav>VwVJLXtZB</nav>\n<h1>h2Ws9uteexdnr7fsntg2p X4PH9AeaCGYqA1cP8z KurR4yh99Z1pECpsWPd5KSa5o bcBRwPkXENXW</h1>\n<div class=\"main\">u6nyD5xlZRuJGDx89di7sX PRh5ghkaqat3hZ9uEUDPiIwe EDupohUfreV9xuntUPbCGgtYsXw PZlIt7EBqcsknkRcyg6btTaScMZ3 s7F3p0wum3NSYfU76uO8NxYYfuqRE6</div>\n<h1>JcSgZqCZlTu KUzZeco22TXb nYZu7MWOURRcnI</h1>\n<h3 class=\"post\">UTdwheP809TKWGQgFSwJ3q EdwRxREdkr2GbdFv0p9</h3>\n<li>L79qdDCfQ3J9iRfmEAKokoymrHvG v1un9X3hS1vrCy NrEjY1OqYxB7RYgGpv7qG N3UD1z4y1CablWAjUTouXv</li>\n<code>x1DY3gLIpZr3Abj1Gy</code>\n<code>CfJDX 3d3eMCP2lnz6Gz3iV</code>\n<header class=\"content\">Zz78dXyLMlEyxUq0jSB6G VmAmcVga2N qkmKtYTkSoUiiN3aW9XhLuoBzP 2o1PA3IdZYIXNLrJH3X8htRUjjyQ8k</header>\n<div>AGaZ8SDubS 6OweVhbdwLravjH ucrhxoJaVyVXe 9wFIKmHq62Gu4OU</div>\n<p>UQgtvwDEY8QE7LoNwwwydSU w5CVSML6FiXXn9ta13Fod7 QC6lKi 5k1pW LALcw</p>\n<li class=\"box\">M76o2bLrT</li>\n<h3 class=\"content\">zsyDDIHBhyvcJ6uLHtKD1qi</h3>\n</body>\n</html>",
+    "location": "/",
+    "status": 200,
+    "robots": null,
+    "components_hash": -2076132781,
+    "server": "HP Apache-based Web Server/1.3.26 (Unix)",
+    "headers": {
+      "content-length": "1855",
+      "x-powered-by": "Next.js",
+      "set-cookie": "csrftoken=DkXLSUnmm4erA31FfkytNAfKGhgFcsZu",
+      "server": "HP Apache-based Web Server/1.3.26 (Unix)",
+      "last-modified": "Wed, 19 Dec 2018 05:02:41 GMT",
+      "date": "Thu, 30 Jul 2026 06:20:50 GMT",
+      "content-type": "text/html"
+    },
+    "sitemap": null
+  },
+  "port": 11211,
+  "transport": "tcp",
+  "cpe23_hash": 94057271,
+  "cloud": {
+    "region": "eu-north-1",
+    "service": "EC2",
+    "provider": "Amazon"
+  },
+  "location": {
+    "country_code": "SE",
+    "country_name": "Sweden"
+  },
+  "tags": [
+    "cloud"
+  ],
+  "timestamp": "2026-07-30T06:20:50.255950",
+  "org": "Amazon Data Services Sweden",
+  "data": "HTTP/1.1 200 OK\r\nDate: Thu, 30 Jul 2026 06:20:50 GMT\r\nServer: HP Apache-based Web Server/1.3.26 (Unix)\r\nLast-Modified: Wed, 19 Dec 2018 05:02:41 GMT\r\nX-Powered-By: Next.js\r\nContent-Length: 1855\r\nContent-Type: text/html\r\nSet-Cookie: csrftoken=DkXLSUnmm4erA31FfkytNAfKGhgFcsZu\r\n\r\n",
+  "asn": "AS16509",
+  "cpe23": [
+    "cpe:2.3:a:facebook:react",
+    "cpe:2.3:a:vercel:next.js",
+    "cpe:2.3:o:unix:unix"
+  ],
+  "isp": "Amazon.com, Inc.",
+  "cpe": [
+    "cpe:/a:facebook:react",
+    "cpe:/a:vercel:next.js",
+    "cpe:/o:unix:unix"
+  ],
+  "os": null,
+  "_shodan": {
+    "region": "eu",
+    "module": "auto"
+  },
+  "opts": {},
+  "_artifact": {
+    "host_id": "9ee27a54dc936829c0b71a67b1b3c778",
+    "ip_id": "d195a9b8e762066b3b40b987ab5970bc",
+    "port": 11211,
+    "framework": "next",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 1855,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 25
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "asn": "AS202520",
+  "http": {
+    "status": 307,
+    "redirects": [],
+    "securitytxt": null,
+    "title": "Zarządzanie licencjami",
+    "robots": null,
+    "server": null,
+    "headers": {
+      "x-nextjs-cache": "HIT",
+      "content-length": "6451",
+      "x-powered-by": "Next.js",
+      "vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Accept-Encoding",
+      "keep-alive": "timeout=5",
+      "connection": "keep-alive",
+      "etag": "\"pxkfu5flpi4yy\"",
+      "cache-control": "s-maxage=31536000, stale-while-revalidate",
+      "date": "Thu, 23 Jul 2026 16:49:22 GMT",
+      "content-type": "text/html; charset=utf-8"
+    },
+    "html": "<!DOCTYPE html><html id=\"__next_error__\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/webpack-da92b0a4440fa657.js\"/><script src=\"/_next/static/chunks/fd9d1056-70def19fa543fe3a.js\" async=\"\"></script><script src=\"/_next/static/chunks/2117-77535c3b67cbee53.js\" async=\"\"></script><script src=\"/_next/static/chunks/main-app-e78e800a26023c94.js\" async=\"\"></script><title>Zarządzanie licencjami</title><meta name=\"description\" content=\"Panel zarządzania licencjami\"/><link rel=\"icon\" href=\"/logo.svg\"/><script src=\"/_next/static/chunks/polyfills-42372ed130431b0a.js\" noModule=\"\"></script></head><body><script src=\"/_next/static/chunks/webpack-da92b0a4440fa657.js\" async=\"\"></script><script>(self.__next_f=self.__next_f||[]).push([0]);self.__next_f.push([2,null])</script><script>self.__next_f.push([1,\"1:HL[\\\"/_next/static/css/cf2d253aea8730ea.css\\\",\\\"style\\\"]\\n\"])</script><script>self.__next_f.push([1,\"2:I[2846,[],\\\"\\\"]\\n5:I[7569,[\\\"4819\\\",\\\"static/chunks/4819-fefe2401f4084c69.js\\\",\\\"9763\\\",\\\"static/chunks/9763-3f1275fb91b0f272.js\\\",\\\"6053\\\",\\\"static/chunks/6053-42246b0b01cdcd2b.js\\\",\\\"9899\\\",\\\"static/chunks/9899-1a845efde85c55dd.js\\\",\\\"1668\\\",\\\"static/chunks/1668-86a550fd3e4f19b3.js\\\",\\\"9903\\\",\\\"static/chunks/9903-e3d918c6969c0178.js\\\",\\\"6937\\\",\\\"static/chunks/6937-86f98a1ea0e43560.js\\\",\\\"3185\\\",\\\"static/chunks/app/layout-2fe6aac5945159c2.js\\\"],\\\"QueryProvider\\\"]\\n6:I[9818,[\\\"4819\\\",\\\"static/chunks/4819-fefe2401f4084c69.js\\\",\\\"9763\\\",\\\"static/chunks/9763-3f1275fb91b0f272.js\\\",\\\"6053\\\",\\\"static/chunks/6053-42246b0b01cdcd2b.js\\\",\\\"9899\\\",\\\"static/chunks/9899-1a845efde85c55dd.js\\\",\\\"1668\\\",\\\"static/chunks/1668-86a550fd3e4f19b3.js\\\",\\\"9903\\\",\\\"static/chunks/9903-e3d918c6969c0178.js\\\",\\\"6937\\\",\\\"static/chunks/6937-86f98a1ea0e43560.js\\\",\\\"3185\\\",\\\"static/chunks/app/layout-2fe6aac5945159c2.js\\\"],\\\"AuthProvider\\\"]\\n7:I[6500,[\\\"4819\\\",\\\"static/chunks/4819-fefe2401f4084c69.js\\\",\\\"9763\\\",\\\"static/chunks/9763-3f1275fb91b0f272.js\\\",\\\"6053\\\",\\\"static/chunks/6053-42246b0b01cdcd2b.js\\\",\\\"9899\\\",\\\"static/chunks/9899-1a845efde85c55dd.js\\\",\\\"1668\\\",\\\"static/chunks/1668-86a550fd3e4f19b3.js\\\",\\\"9903\\\",\\\"static/chunks/9903-e3d918c6969c0178.js\\\",\\\"6937\\\",\\\"static/chunks/6937-86f98a1ea0e43560.js\\\",\\\"3185\\\",\\\"static/chunks/app/layout-2fe6aac5945159c2.js\\\"],\\\"ScopeProvider\\\"]\\n8:I[8039,[\\\"4819\\\",\\\"static/chunks/4819-fefe2401f4084c69.js\\\",\\\"9763\\\",\\\"static/chunks/9763-3f1275fb91b0f272.js\\\",\\\"6053\\\",\\\"static/chunks/6053-42246b0b01cdcd2b.js\\\",\\\"9899\\\",\\\"static/chunks/9899-1a845efde85c55dd.js\\\",\\\"1668\\\",\\\"static/chunks/1668-86a550fd3e4f19b3.js\\\",\\\"9903\\\",\\\"static/chunks/9903-e3d918c6969c0178.js\\\",\\\"6937\\\",\\\"static/chunks/6937-86f98a1ea0e43560.js\\\",\\\"3185\\\",\\\"static/chunks/app/layout-2fe6aac5945159c2.js\\\"],\\\"TooltipProvider\\\"]\\n9:I[4707,[],\\\"\\\"]\\na:I[6423,[],\\\"\\\"]\\nb:I[8760,[\\\"4819\\\",\\\"static/chunks/4819-fefe2401f4084c69.js\\\",\\\"9763\\\",\\\"static/chunks/9763-3f1275fb91b0f272.js\\\",\\\"6053\\\",\\\"static/chunks/6053-42246b0b01cdcd2b.js\\\",\\\"9899\\\",\\\"static/chunks/9899-1a845efde85c55dd.js\\\",\\\"1668\\\",\\\"static/chunks/1668-86a550fd3e4f19b3.js\\\",\\\"9903\\\",\\\"static/chunks/9903-e3d918c6969c0178.js\\\",\\\"6937\\\",\\\"static/chunks/6937-86\"])</script><script>self.__next_f.push([1,\"f98a1ea0e43560.js\\\",\\\"3185\\\",\\\"static/chunks/app/layout-2fe6aac5945159c2.js\\\"],\\\"Toaster\\\"]\\nd:I[1060,[],\\\"\\\"]\\ne:[]\\n\"])</script><script>self.__next_f.push([1,\"0:[\\\"$\\\",\\\"$L2\\\",null,{\\\"buildId\\\":\\\"iipqEcZbF4RYNQ_qvmmRk\\\",\\\"assetPrefix\\\":\\\"\\\",\\\"urlParts\\\":[\\\"\\\",\\\"\\\"],\\\"initialTree\\\":[\\\"\\\",{\\\"children\\\":[\\\"__PAGE__\\\",{}]},\\\"$undefined\\\",\\\"$undefined\\\",true],\\\"initialSeedData\\\":[\\\"\\\",{\\\"children\\\":[\\\"__PAGE__\\\",{},[[\\\"$L3\\\",\\\"$L4\\\",null],null],null]},[[[[\\\"$\\\",\\\"link\\\",\\\"0\\\",{\\\"rel\\\":\\\"stylesheet\\\",\\\"href\\\":\\\"/_next/static/css/cf2d253aea8730ea.css\\\",\\\"precedence\\\":\\\"next\\\",\\\"crossOrigin\\\":\\\"$undefined\\\"}]],[\\\"$\\\",\\\"html\\\",null,{\\\"lang\\\":\\\"pl\\\",\\\"className\\\":\\\"dark\\\",\\\"children\\\":[\\\"$\\\",\\\"body\\\",null,{\\\"children\\\":[\\\"$\\\",\\\"$L5\\\",null,{\\\"children\\\":[\\\"$\\\",\\\"$L6\\\",null,{\\\"children\\\":[\\\"$\\\",\\\"$L7\\\",null,{\\\"children\\\":[\\\"$\\\",\\\"$L8\\\",null,{\\\"children\\\":[[\\\"$\\\",\\\"$L9\\\",null,{\\\"parallelRouterKey\\\":\\\"children\\\",\\\"segmentPath\\\":[\\\"children\\\"],\\\"error\\\":\\\"$undefined\\\",\\\"errorStyles\\\":\\\"$undefined\\\",\\\"errorScripts\\\":\\\"$undefined\\\",\\\"template\\\":[\\\"$\\\",\\\"$La\\\",null,{}],\\\"templateStyles\\\":\\\"$undefined\\\",\\\"templateScripts\\\":\\\"$undefined\\\",\\\"notFound\\\":[[\\\"$\\\",\\\"title\\\",null,{\\\"children\\\":\\\"404: This page could not be found.\\\"}],[\\\"$\\\",\\\"div\\\",null,{\\\"style\\\":{\\\"fontFamily\\\":\\\"system-ui,\\\\\\\"Segoe UI\\\\\\\",Roboto,Helvetica,Arial,sans-serif,\\\\\\\"Apple Color Emoji\\\\\\\",\\\\\\\"Segoe UI Emoji\\\\\\\"\\\",\\\"height\\\":\\\"100vh\\\",\\\"textAlign\\\":\\\"center\\\",\\\"display\\\":\\\"flex\\\",\\\"flexDirection\\\":\\\"column\\\",\\\"alignItems\\\":\\\"center\\\",\\\"justifyContent\\\":\\\"center\\\"},\\\"children\\\":[\\\"$\\\",\\\"div\\\",null,{\\\"children\\\":[[\\\"$\\\",\\\"style\\\",null,{\\\"dangerouslySetInnerHTML\\\":{\\\"__html\\\":\\\"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}\\\"}}],[\\\"$\\\",\\\"h1\\\",null,{\\\"className\\\":\\\"next-error-h1\\\",\\\"style\\\":{\\\"display\\\":\\\"inline-block\\\",\\\"margin\\\":\\\"0 20px 0 0\\\",\\\"padding\\\":\\\"0 23px 0 0\\\",\\\"fontSize\\\":24,\\\"fontWeight\\\":500,\\\"verticalAlign\\\":\\\"top\\\",\\\"lineHeight\\\":\\\"49px\\\"},\\\"children\\\":\\\"404\\\"}],[\\\"$\\\",\\\"div\\\",null,{\\\"style\\\":{\\\"display\\\":\\\"inline-block\\\"},\\\"children\\\":[\\\"$\\\",\\\"h2\\\",null,{\\\"style\\\":{\\\"fontSize\\\":14,\\\"fontWeight\\\":400,\\\"lineHeight\\\":\\\"49px\\\",\\\"margin\\\":0},\\\"children\\\":\\\"This page could not be found.\\\"}]}]]}]}]],\\\"notFoundStyles\\\":[]}],[\\\"$\\\",\\\"$Lb\\\",null,{\\\"position\\\":\\\"top-right\\\"}]]}]}]}]}]}]}]],null],null],\\\"couldBeIntercepted\\\":false,\\\"initialHead\\\":[null,\\\"$Lc\\\"],\\\"globalErrorComponent\\\":\\\"$d\\\",\\\"missingSlots\\\":\\\"$We\\\"}]\\n\"])</script><script>self.__next_f.push([1,\"4:E{\\\"digest\\\":\\\"NEXT_REDIRECT;replace;/dashboard;307;\\\"}\\n\"])</script><script>self.__next_f.push([1,\"c:[[\\\"$\\\",\\\"meta\\\",\\\"0\\\",{\\\"name\\\":\\\"viewport\\\",\\\"content\\\":\\\"width=device-width, initial-scale=1\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"1\\\",{\\\"charSet\\\":\\\"utf-8\\\"}],[\\\"$\\\",\\\"title\\\",\\\"2\\\",{\\\"children\\\":\\\"Zarządzanie licencjami\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"3\\\",{\\\"name\\\":\\\"description\\\",\\\"content\\\":\\\"Panel zarządzania licencjami\\\"}],[\\\"$\\\",\\\"link\\\",\\\"4\\\",{\\\"rel\\\":\\\"icon\\\",\\\"href\\\":\\\"/logo.svg\\\"}]]\\n3:null\\n\"])</script></body></html>",
+    "location": "/",
+    "sitemap": null
+  },
+  "os": null,
+  "timestamp": "2026-07-23T16:49:22.628816",
+  "isp": "SkyPass Solutions Sp. z.o.o.",
+  "transport": "tcp",
+  "_shodan": {
+    "region": "na",
+    "module": "http-simple-new"
+  },
+  "location": {
+    "country_code": "PL",
+    "country_name": "Poland"
+  },
+  "org": "SkyPass Solutions Sp. z.o.o.",
+  "data": "HTTP/1.1 307 Temporary Redirect\r\nVary: RSC, Next-Router-State-Tree, Next-Router-Prefetch, Accept-Encoding\r\nx-nextjs-cache: HIT\r\nX-Powered-By: Next.js\r\nCache-Control: s-maxage=31536000, stale-while-revalidate\r\nETag: \"pxkfu5flpi4yy\"\r\nContent-Type: text/html; charset=utf-8\r\nContent-Length: 6451\r\nDate: Thu, 23 Jul 2026 16:49:22 GMT\r\nConnection: keep-alive\r\nKeep-Alive: timeout=5\r\n\r\n",
+  "port": 3000,
+  "opts": {},
+  "_artifact": {
+    "host_id": "5c1a2750fa8a868d330faa3399556770",
+    "ip_id": "f06cae94a9fe1637c227f545b381ce7b",
+    "port": 3000,
+    "framework": "next",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 6447,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 19
+    }
+  }
+}

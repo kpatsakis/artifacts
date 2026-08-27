@@ -1,0 +1,65 @@
+{
+  "asn": "AS25820",
+  "http": {
+    "redirects": [],
+    "securitytxt": null,
+    "title": "AI Chat Web",
+    "html": "<!DOCTYPE html><html lang=\"en\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1\"/><link rel=\"stylesheet\" href=\"/_next/static/css/9ebaaad491f11c18.css\" crossorigin=\"\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/css/72399668f83050c1.css\" crossorigin=\"\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/webpack-104a563e43e3a0bd.js\" crossorigin=\"\"/><script src=\"/_next/static/chunks/fd9d1056-780581548daa8eef.js\" async=\"\" crossorigin=\"\"></script><script src=\"/_next/static/chunks/2472-9dc1f2891d074b18.js\" async=\"\" crossorigin=\"\"></script><script src=\"/_next/static/chunks/main-app-fe8494148f0fcf10.js\" async=\"\" crossorigin=\"\"></script><script src=\"/_next/static/chunks/4b1a69f1-39092916c75fe593.js\" async=\"\"></script><script src=\"/_next/static/chunks/6570-bdcd945f77babf40.js\" async=\"\"></script><script src=\"/_next/static/chunks/app/page-334eb9f6162ef087.js\" async=\"\"></script><title>AI Chat Web</title><meta name=\"description\" content=\"Your personal AI Chat Bot.\"/><meta name=\"theme-color\" media=\"(prefers-color-scheme: light)\" content=\"#fafafa\"/><meta name=\"theme-color\" media=\"(prefers-color-scheme: dark)\" content=\"#151515\"/><meta name=\"apple-mobile-web-app-capable\" content=\"yes\"/><meta name=\"apple-mobile-web-app-title\" content=\"AI Chat Web\"/><meta name=\"apple-mobile-web-app-status-bar-style\" content=\"default\"/><meta name=\"config\" content=\"{&quot;version&quot;:&quot;v0.11.0&quot;,&quot;commitDate&quot;:&quot;unknown&quot;,&quot;commitHash&quot;:&quot;unknown&quot;,&quot;buildMode&quot;:&quot;standalone&quot;,&quot;isApp&quot;:false}\"/><link rel=\"manifest\" href=\"/site.webmanifest\"/><script src=\"/serviceWorkerRegister.js\" defer=\"\"></script><script src=\"/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js\" crossorigin=\"\" noModule=\"\"></script></head><body><div class=\"home_loading-content__7_JjP no-dark\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"30\" height=\"14\" fill=\"#fff\" viewBox=\"0 0 120 30\"><circle cx=\"15\" cy=\"15\" r=\"15\" fill=\"var(--primary, red)\"><animate attributeName=\"r\" begin=\"0s\" calcMode=\"linear\" dur=\"0.8s\" from=\"15\" repeatCount=\"indefinite\" to=\"15\" values=\"15;9;15\"></animate><animate attributeName=\"fill-opacity\" begin=\"0s\" calcMode=\"linear\" dur=\"0.8s\" from=\"1\" repeatCount=\"indefinite\" to=\"1\" values=\"1;.5;1\"></animate></circle><circle cx=\"60\" cy=\"15\" r=\"9\" fill=\"var(--primary, red)\" fill-opacity=\"0.3\"><animate attributeName=\"r\" begin=\"0s\" calcMode=\"linear\" dur=\"0.8s\" from=\"9\" repeatCount=\"indefinite\" to=\"9\" values=\"9;15;9\"></animate><animate attributeName=\"fill-opacity\" begin=\"0s\" calcMode=\"linear\" dur=\"0.8s\" from=\"0.5\" repeatCount=\"indefinite\" to=\"0.5\" values=\".5;1;.5\"></animate></circle><circle cx=\"105\" cy=\"15\" r=\"15\" fill=\"var(--primary, red)\"><animate attributeName=\"r\" begin=\"0s\" calcMode=\"linear\" dur=\"0.8s\" from=\"15\" repeatCount=\"indefinite\" to=\"15\" values=\"15;9;15\"></animate><animate attributeName=\"fill-opacity\" begin=\"0s\" calcMode=\"linear\" dur=\"0.8s\" from=\"1\" repeatCount=\"indefinite\" to=\"1\" values=\"1;.5;1\"></animate></circle></svg></div><script src=\"/_next/static/chunks/webpack-104a563e43e3a0bd.js\" crossorigin=\"\" async=\"\"></script><script>(self.__next_f=self.__next_f||[]).push([0]);self.__next_f.push([2,null])</script><script>self.__next_f.push([1,\"1:HL[\\\"/_next/static/css/9ebaaad491f11c18.css\\\",\\\"style\\\",{\\\"crossOrigin\\\":\\\"\\\"}]\\n0:\\\"$L2\\\"\\n\"])</script><script>self.__next_f.push([1,\"3:HL[\\\"/_next/static/css/72399668f83050c1.css\\\",\\\"style\\\",{\\\"crossOrigin\\\":\\\"\\\"}]\\n\"])</script><script>self.__next_f.push([1,\"4:I[33728,[],\\\"\\\"]\\n6:I[29928,[],\\\"\\\"]\\n7:I[56954,[],\\\"\\\"]\\n8:I[7264,[],\\\"\\\"]\\n\"])</script><script>self.__next_f.push([1,\"2:[[[\\\"$\\\",\\\"link\\\",\\\"0\\\",{\\\"rel\\\":\\\"stylesheet\\\",\\\"href\\\":\\\"/_next/static/css/9ebaaad491f11c18.css\\\",\\\"precedence\\\":\\\"next\\\",\\\"crossOrigin\\\":\\\"\\\"}]],[\\\"$\\\",\\\"$L4\\\",null,{\\\"buildId\\\":\\\"Z0OsnyYcYayLkpgy3fgGi\\\",\\\"assetPrefix\\\":\\\"\\\",\\\"initialCanonicalUrl\\\":\\\"/\\\",\\\"initialTree\\\":[\\\"\\\",{\\\"children\\\":[\\\"__PAGE__\\\",{}]},\\\"$undefined\\\",\\\"$undefined\\\",true],\\\"initialHead\\\":[false,\\\"$L5\\\"],\\\"globalErrorComponent\\\":\\\"$6\\\",\\\"children\\\":[null,[\\\"$\\\",\\\"html\\\",null,{\\\"lang\\\":\\\"en\\\",\\\"children\\\":[[\\\"$\\\",\\\"head\\\",null,{\\\"children\\\":[[\\\"$\\\",\\\"meta\\\",null,{\\\"name\\\":\\\"config\\\",\\\"content\\\":\\\"{\\\\\\\"version\\\\\\\":\\\\\\\"v0.11.0\\\\\\\",\\\\\\\"commitDate\\\\\\\":\\\\\\\"unknown\\\\\\\",\\\\\\\"commitHash\\\\\\\":\\\\\\\"unknown\\\\\\\",\\\\\\\"buildMode\\\\\\\":\\\\\\\"standalone\\\\\\\",\\\\\\\"isApp\\\\\\\":false}\\\"}],[\\\"$\\\",\\\"link\\\",null,{\\\"rel\\\":\\\"manifest\\\",\\\"href\\\":\\\"/site.webmanifest\\\"}],[\\\"$\\\",\\\"script\\\",null,{\\\"src\\\":\\\"/serviceWorkerRegister.js\\\",\\\"defer\\\":true}]]}],[\\\"$\\\",\\\"body\\\",null,{\\\"children\\\":[\\\"$\\\",\\\"$L7\\\",null,{\\\"parallelRouterKey\\\":\\\"children\\\",\\\"segmentPath\\\":[\\\"children\\\"],\\\"loading\\\":\\\"$undefined\\\",\\\"loadingStyles\\\":\\\"$undefined\\\",\\\"hasLoading\\\":false,\\\"error\\\":\\\"$undefined\\\",\\\"errorStyles\\\":\\\"$undefined\\\",\\\"template\\\":[\\\"$\\\",\\\"$L8\\\",null,{}],\\\"templateStyles\\\":\\\"$undefined\\\",\\\"notFound\\\":[[\\\"$\\\",\\\"title\\\",null,{\\\"children\\\":\\\"404: This page could not be found.\\\"}],[\\\"$\\\",\\\"div\\\",null,{\\\"style\\\":{\\\"fontFamily\\\":\\\"system-ui,\\\\\\\"Segoe UI\\\\\\\",Roboto,Helvetica,Arial,sans-serif,\\\\\\\"Apple Color Emoji\\\\\\\",\\\\\\\"Segoe UI Emoji\\\\\\\"\\\",\\\"height\\\":\\\"100vh\\\",\\\"textAlign\\\":\\\"center\\\",\\\"display\\\":\\\"flex\\\",\\\"flexDirection\\\":\\\"column\\\",\\\"alignItems\\\":\\\"center\\\",\\\"justifyContent\\\":\\\"center\\\"},\\\"children\\\":[\\\"$\\\",\\\"div\\\",null,{\\\"children\\\":[[\\\"$\\\",\\\"style\\\",null,{\\\"dangerouslySetInnerHTML\\\":{\\\"__html\\\":\\\"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}\\\"}}],[\\\"$\\\",\\\"h1\\\",null,{\\\"className\\\":\\\"next-error-h1\\\",\\\"style\\\":{\\\"display\\\":\\\"inline-block\\\",\\\"margin\\\":\\\"0 20px 0 0\\\",\\\"padding\\\":\\\"0 23px 0 0\\\",\\\"fontSize\\\":24,\\\"fontWeight\\\":500,\\\"verticalAlign\\\":\\\"top\\\",\\\"lineHeight\\\":\\\"49px\\\"},\\\"children\\\":\\\"404\\\"}],[\\\"$\\\",\\\"div\\\",null,{\\\"style\\\":{\\\"display\\\":\\\"inline-block\\\"},\\\"children\\\":[\\\"$\\\",\\\"h2\\\",null,{\\\"style\\\":{\\\"fontSize\\\":14,\\\"fontWeight\\\":400,\\\"lineHeight\\\":\\\"49px\\\",\\\"margin\\\":0},\\\"children\\\":\\\"This page could not be found.\\\"}]}]]}]}]],\\\"notFoundStyles\\\":[],\\\"childProp\\\":{\\\"current\\\":[\\\"$L9\\\",\\\"$La\\\",null],\\\"segment\\\":\\\"__PAGE__\\\"},\\\"styles\\\":[[\\\"$\\\",\\\"link\\\",\\\"0\\\",{\\\"rel\\\":\\\"stylesheet\\\",\\\"href\\\":\\\"/_next/static/css/72399668f83050c1.css\\\",\\\"precedence\\\":\\\"next\\\",\\\"crossOrigin\\\":\\\"\\\"}]]}]}]]}],null]}]]\\n\"])</script><script>self.__next_f.push([1,\"b:I[47737,[\\\"8252\\\",\\\"static/chunks/4b1a69f1-39092916c75fe593.js\\\",\\\"6570\\\",\\\"static/chunks/6570-bdcd945f77babf40.js\\\",\\\"1931\\\",\\\"static/chunks/app/page-334eb9f6162ef087.js\\\"],\\\"Home\\\"]\\na:[[\\\"$\\\",\\\"$Lb\\\",null,{}],false]\\n\"])</script><script>self.__next_f.push([1,\"5:[[\\\"$\\\",\\\"meta\\\",\\\"0\\\",{\\\"charSet\\\":\\\"utf-8\\\"}],[\\\"$\\\",\\\"title\\\",\\\"1\\\",{\\\"children\\\":\\\"AI Chat Web\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"2\\\",{\\\"name\\\":\\\"description\\\",\\\"content\\\":\\\"Your personal AI Chat Bot.\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"3\\\",{\\\"name\\\":\\\"theme-color\\\",\\\"media\\\":\\\"(prefers-color-scheme: light)\\\",\\\"content\\\":\\\"#fafafa\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"4\\\",{\\\"name\\\":\\\"theme-color\\\",\\\"media\\\":\\\"(prefers-color-scheme: dark)\\\",\\\"content\\\":\\\"#151515\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"5\\\",{\\\"name\\\":\\\"viewport\\\",\\\"content\\\":\\\"width=device-width, initial-scale=1, maximum-scale=1\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"6\\\",{\\\"name\\\":\\\"apple-mobile-web-app-capable\\\",\\\"content\\\":\\\"yes\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"7\\\",{\\\"name\\\":\\\"apple-mobile-web-app-title\\\",\\\"content\\\":\\\"AI Chat Web\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"8\\\",{\\\"name\\\":\\\"apple-mobile-web-app-status-bar-style\\\",\\\"content\\\":\\\"default\\\"}]]\\n\"])</script><script>self.__next_f.push([1,\"9:null\\n\"])</script></body></html>",
+    "location": "/",
+    "status": 200,
+    "robots": null,
+    "components_hash": -892850553,
+    "server": null,
+    "headers": {
+      "x-nextjs-cache": "HIT",
+      "content-length": "7685",
+      "x-powered-by": "Next.js",
+      "vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Next-Url, Accept-Encoding",
+      "keep-alive": "timeout=5",
+      "connection": "keep-alive",
+      "etag": "\"94o5rb0z6l5xh\"",
+      "cache-control": "s-maxage=31536000, stale-while-revalidate",
+      "date": "Thu, 06 Aug 2026 10:07:18 GMT",
+      "content-type": "text/html; charset=utf-8"
+    },
+    "sitemap": null
+  },
+  "os": null,
+  "transport": "tcp",
+  "timestamp": "2026-08-06T10:07:18.276102",
+  "isp": "IT7 Networks Inc",
+  "cpe23": [
+    "cpe:2.3:a:facebook:react",
+    "cpe:2.3:a:vercel:next.js"
+  ],
+  "cpe": [
+    "cpe:/a:facebook:react",
+    "cpe:/a:vercel:next.js"
+  ],
+  "_shodan": {
+    "region": "",
+    "module": "https-simple-new"
+  },
+  "cpe23_hash": 286908511,
+  "location": {
+    "country_code": "US",
+    "country_name": "United States"
+  },
+  "org": "Cluster Logic Inc",
+  "data": "HTTP/1.1 200 OK\r\nVary: RSC, Next-Router-State-Tree, Next-Router-Prefetch, Next-Url, Accept-Encoding\r\nx-nextjs-cache: HIT\r\nX-Powered-By: Next.js\r\nCache-Control: s-maxage=31536000, stale-while-revalidate\r\nETag: \"94o5rb0z6l5xh\"\r\nContent-Type: text/html; charset=utf-8\r\nContent-Length: 7685\r\nDate: Thu, 06 Aug 2026 10:07:18 GMT\r\nConnection: keep-alive\r\nKeep-Alive: timeout=5\r\n\r\n",
+  "port": 8081,
+  "opts": {},
+  "_artifact": {
+    "host_id": "9b749cde2d1472288e4de3bac780b2ac",
+    "ip_id": "d344b9de92447148939a32bc6687b7b7",
+    "port": 8081,
+    "framework": "next",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 7685,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 25
+    }
+  }
+}

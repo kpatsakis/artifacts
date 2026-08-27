@@ -1,0 +1,76 @@
+{
+  "http": {
+    "status": 200,
+    "redirects": [
+      {
+        "data": "HTTP/1.1 307 Temporary Redirect\r\nServer: nginx/1.31.1\r\nDate: Thu, 06 Aug 2026 05:12:16 GMT\r\nContent-Type: text/html; charset=utf-8\r\nContent-Length: 7451\r\nConnection: keep-alive\r\nset-cookie: hpvid=30ae687e-6429-41c9-abed-a09a5ea13449; Path=/; Expires=Fri, 06 Aug 2027 05:12:16 GMT; Max-Age=31536000; SameSite=lax\r\nVary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding\r\nx-nextjs-cache: HIT\r\nx-nextjs-prerender: 1\r\nx-nextjs-prerender: 1\r\nlocation: /login\r\nx-nextjs-stale-time: 300\r\nX-Powered-By: Next.js\r\nCache-Control: s-maxage=31536000\r\nETag: \"zl3ateqd4c5ob\"\r\n\r\n",
+        "location": "/"
+      }
+    ],
+    "securitytxt": null,
+    "title": "だれでもホームページ",
+    "robots": null,
+    "server": "nginx/1.31.1",
+    "headers": {
+      "x-nextjs-cache": "HIT",
+      "content-length": "10557",
+      "x-powered-by": "Next.js",
+      "set-cookie": "hpvid=80bba9e3-7ad7-4379-8688-6a3e90ce9e86; Path=/; Expires=Fri, 06 Aug 2027 05:12:17 GMT; Max-Age=31536000; SameSite=lax",
+      "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding",
+      "server": "nginx/1.31.1",
+      "x-nextjs-stale-time": "300",
+      "connection": "keep-alive",
+      "etag": "\"2i8pe9xc1l7zd\"",
+      "cache-control": "s-maxage=31536000",
+      "date": "Thu, 06 Aug 2026 05:12:17 GMT",
+      "x-nextjs-prerender": "1, 1",
+      "content-type": "text/html; charset=utf-8"
+    },
+    "html": "<!DOCTYPE html><html lang=\"ja\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"preload\" href=\"/fonts/material-symbols-rounded-subset.woff2\" as=\"font\" crossorigin=\"anonymous\" type=\"font/woff2\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/181.rq.7gfjmn.css\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/0-4oo_oi06i0r.js\"/><script src=\"/_next/static/chunks/0s31m5c2qz5i1.js\" async=\"\"></script><script src=\"/_next/static/chunks/0qtz4meecy2cb.js\" async=\"\"></script><script src=\"/_next/static/chunks/0.~2ky53fo~10.js\" async=\"\"></script><script src=\"/_next/static/chunks/0pqt~8bl3ukh4.js\" async=\"\"></script><script src=\"/_next/static/chunks/turbopack-0tg44rnzduui8.js\" async=\"\"></script><script src=\"/_next/static/chunks/17sdg_k6zhysp.js\" async=\"\"></script><script src=\"/_next/static/chunks/0d3shmwh5_nmn.js\" async=\"\"></script><script src=\"/_next/static/chunks/0esbd.bw4hn9l.js\" async=\"\"></script><link rel=\"preload\" href=\"/fonts/material-symbols-rounded-subset.woff2\" as=\"font\" type=\"font/woff2\" crossorigin=\"anonymous\"/><title>だれでもホームページ</title><meta name=\"description\" content=\"ホームページ制作SaaS 運営管理画面\"/><link rel=\"icon\" href=\"/icon.svg?icon.0gss7-svwl44_.svg\" sizes=\"any\" type=\"image/svg+xml\"/><link rel=\"icon\" href=\"/icon.png?icon.0zdvc3fyqfkym.png\" sizes=\"192x192\" type=\"image/png\"/><link rel=\"apple-touch-icon\" href=\"/apple-icon.png?apple-icon.0zdvc3fyqfkym.png\" sizes=\"192x192\" type=\"image/png\"/><script src=\"/_next/static/chunks/03~yq9q893hmn.js\" noModule=\"\"></script></head><body class=\"min-h-screen bg-slate-50 text-slate-900 antialiased\"><div hidden=\"\"><!--$--><!--/$--></div><style>@font-face{font-family:'Material Symbols Rounded';font-style:normal;font-weight:100 700;font-display:block;src:url('/fonts/material-symbols-rounded-subset.woff2') format('woff2')}</style><main class=\"flex min-h-screen items-center justify-center px-4\"><div class=\"w-full max-w-sm rounded-2xl border border-slate-200 bg-white p-8 shadow-sm\"><h1 class=\"text-xl font-semibold tracking-tight\">だれでもホームページ</h1><p class=\"mt-1 text-sm text-slate-500\">ログイン</p><form class=\"mt-6 space-y-4\"><div><label for=\"email\" class=\"block text-sm font-medium text-slate-700\">メールアドレス</label><input id=\"email\" type=\"email\" autoComplete=\"email\" class=\"mt-1 w-full rounded-md border border-slate-300 px-3 py-2 text-sm focus:border-sky-500 focus:outline-none focus:ring-1 focus:ring-sky-500\" value=\"\"/></div><div><label for=\"password\" class=\"block text-sm font-medium text-slate-700\">パスワード</label><input id=\"password\" type=\"password\" autoComplete=\"current-password\" class=\"mt-1 w-full rounded-md border border-slate-300 px-3 py-2 text-sm focus:border-sky-500 focus:outline-none focus:ring-1 focus:ring-sky-500\" value=\"\"/></div><button type=\"submit\" class=\"w-full rounded-md bg-sky-600 px-4 py-2 text-sm font-medium text-white hover:bg-sky-700 disabled:opacity-50\">ログイン</button><p class=\"text-center text-xs text-slate-500\">アカウントをお持ちでない方は<!-- --> <a class=\"text-sky-600 hover:underline\" href=\"/signup\">新規登録</a></p><p class=\"text-center text-xs text-slate-400\"><a class=\"hover:text-slate-600 hover:underline\" href=\"/forgot-password\">パスワードを忘れた方</a></p></form></div></main><!--$--><!--/$--><script src=\"/_next/static/chunks/0-4oo_oi06i0r.js\" id=\"_R_\" async=\"\"></script><script>(self.__next_f=self.__next_f||[]).push([0])</script><script>self.__next_f.push([1,\"1:\\\"$Sreact.fragment\\\"\\n2:I[26266,[\\\"/_next/static/chunks/17sdg_k6zhysp.js\\\",\\\"/_next/static/chunks/0d3shmwh5_nmn.js\\\"],\\\"default\\\"]\\n3:I[61691,[\\\"/_next/static/chunks/17sdg_k6zhysp.js\\\",\\\"/_next/static/chunks/0d3shmwh5_nmn.js\\\"],\\\"default\\\"]\\n4:I[39756,[\\\"/_next/static/chunks/17sdg_k6zhysp.js\\\",\\\"/_next/static/chunks/0d3shmwh5_nmn.js\\\"],\\\"default\\\"]\\n5:I[37457,[\\\"/_next/static/chunks/17sdg_k6zhysp.js\\\",\\\"/_next/static/chunks/0d3shmwh5_nmn.js\\\"],\\\"default\\\"]\\n6:I[47257,[\\\"/_next/static/chunks/17sdg_k6zhysp.js\\\",\\\"/_next/static/chunks/0d3shmwh5_nmn.js\\\"],\\\"ClientPageRoot\\\"]\\n7:I[94542,[\\\"/_next/static/chunks/17sdg_k6zhysp.js\\\",\\\"/_next/static/chunks/0d3shmwh5_nmn.js\\\",\\\"/_next/static/chunks/0esbd.bw4hn9l.js\\\"],\\\"default\\\"]\\na:I[97367,[\\\"/_next/static/chunks/17sdg_k6zhysp.js\\\",\\\"/_next/static/chunks/0d3shmwh5_nmn.js\\\"],\\\"OutletBoundary\\\"]\\nb:\\\"$Sreact.suspense\\\"\\ne:I[97367,[\\\"/_next/static/chunks/17sdg_k6zhysp.js\\\",\\\"/_next/static/chunks/0d3shmwh5_nmn.js\\\"],\\\"ViewportBoundary\\\"]\\n10:I[97367,[\\\"/_next/static/chunks/17sdg_k6zhysp.js\\\",\\\"/_next/static/chunks/0d3shmwh5_nmn.js\\\"],\\\"MetadataBoundary\\\"]\\n12:I[68027,[\\\"/_next/static/chunks/17sdg_k6zhysp.js\\\",\\\"/_next/static/chunks/0d3shmwh5_nmn.js\\\"],\\\"default\\\",1]\\n:HL[\\\"/_next/static/chunks/181.rq.7gfjmn.css\\\",\\\"style\\\"]\\n:HL[\\\"/fonts/material-symbols-rounded-subset.woff2\\\",\\\"font\\\",{\\\"crossOrigin\\\":\\\"anonymous\\\",\\\"type\\\":\\\"font/woff2\\\"}]\\n\"])</script><script>self.__next_f.push([1,\"0:{\\\"P\\\":null,\\\"c\\\":[\\\"\\\",\\\"login\\\"],\\\"q\\\":\\\"\\\",\\\"i\\\":false,\\\"f\\\":[[[\\\"\\\",{\\\"children\\\":[\\\"login\\\",{\\\"children\\\":[\\\"__PAGE__\\\",{}]}]},\\\"$undefined\\\",\\\"$undefined\\\",16],[[\\\"$\\\",\\\"$1\\\",\\\"c\\\",{\\\"children\\\":[[[\\\"$\\\",\\\"link\\\",\\\"0\\\",{\\\"rel\\\":\\\"stylesheet\\\",\\\"href\\\":\\\"/_next/static/chunks/181.rq.7gfjmn.css\\\",\\\"precedence\\\":\\\"next\\\",\\\"crossOrigin\\\":\\\"$undefined\\\",\\\"nonce\\\":\\\"$undefined\\\"}],[\\\"$\\\",\\\"script\\\",\\\"script-0\\\",{\\\"src\\\":\\\"/_next/static/chunks/17sdg_k6zhysp.js\\\",\\\"async\\\":true,\\\"nonce\\\":\\\"$undefined\\\"}],[\\\"$\\\",\\\"script\\\",\\\"script-1\\\",{\\\"src\\\":\\\"/_next/static/chunks/0d3shmwh5_nmn.js\\\",\\\"async\\\":true,\\\"nonce\\\":\\\"$undefined\\\"}]],[\\\"$\\\",\\\"html\\\",null,{\\\"lang\\\":\\\"ja\\\",\\\"children\\\":[\\\"$\\\",\\\"body\\\",null,{\\\"className\\\":\\\"min-h-screen bg-slate-50 text-slate-900 antialiased\\\",\\\"children\\\":[[\\\"$\\\",\\\"link\\\",null,{\\\"rel\\\":\\\"preload\\\",\\\"href\\\":\\\"/fonts/material-symbols-rounded-subset.woff2\\\",\\\"as\\\":\\\"font\\\",\\\"type\\\":\\\"font/woff2\\\",\\\"crossOrigin\\\":\\\"anonymous\\\"}],[\\\"$\\\",\\\"style\\\",null,{\\\"dangerouslySetInnerHTML\\\":{\\\"__html\\\":\\\"@font-face{font-family:'Material Symbols Rounded';font-style:normal;font-weight:100 700;font-display:block;src:url('/fonts/material-symbols-rounded-subset.woff2') format('woff2')}\\\"}}],[\\\"$\\\",\\\"$L2\\\",null,{}],[\\\"$\\\",\\\"$L3\\\",null,{}],[\\\"$\\\",\\\"$L4\\\",null,{\\\"parallelRouterKey\\\":\\\"children\\\",\\\"error\\\":\\\"$undefined\\\",\\\"errorStyles\\\":\\\"$undefined\\\",\\\"errorScripts\\\":\\\"$undefined\\\",\\\"template\\\":[\\\"$\\\",\\\"$L5\\\",null,{}],\\\"templateStyles\\\":\\\"$undefined\\\",\\\"templateScripts\\\":\\\"$undefined\\\",\\\"notFound\\\":[[[\\\"$\\\",\\\"title\\\",null,{\\\"children\\\":\\\"404: This page could not be found.\\\"}],[\\\"$\\\",\\\"div\\\",null,{\\\"style\\\":{\\\"fontFamily\\\":\\\"system-ui,\\\\\\\"Segoe UI\\\\\\\",Roboto,Helvetica,Arial,sans-serif,\\\\\\\"Apple Color Emoji\\\\\\\",\\\\\\\"Segoe UI Emoji\\\\\\\"\\\",\\\"height\\\":\\\"100vh\\\",\\\"textAlign\\\":\\\"center\\\",\\\"display\\\":\\\"flex\\\",\\\"flexDirection\\\":\\\"column\\\",\\\"alignItems\\\":\\\"center\\\",\\\"justifyContent\\\":\\\"center\\\"},\\\"children\\\":[\\\"$\\\",\\\"div\\\",null,{\\\"children\\\":[[\\\"$\\\",\\\"style\\\",null,{\\\"dangerouslySetInnerHTML\\\":{\\\"__html\\\":\\\"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}\\\"}}],[\\\"$\\\",\\\"h1\\\",null,{\\\"className\\\":\\\"next-error-h1\\\",\\\"style\\\":{\\\"display\\\":\\\"inline-block\\\",\\\"margin\\\":\\\"0 20px 0 0\\\",\\\"padding\\\":\\\"0 23px 0 0\\\",\\\"fontSize\\\":24,\\\"fontWeight\\\":500,\\\"verticalAlign\\\":\\\"top\\\",\\\"lineHeight\\\":\\\"49px\\\"},\\\"children\\\":404}],[\\\"$\\\",\\\"div\\\",null,{\\\"style\\\":{\\\"display\\\":\\\"inline-block\\\"},\\\"children\\\":[\\\"$\\\",\\\"h2\\\",null,{\\\"style\\\":{\\\"fontSize\\\":14,\\\"fontWeight\\\":400,\\\"lineHeight\\\":\\\"49px\\\",\\\"margin\\\":0},\\\"children\\\":\\\"This page could not be found.\\\"}]}]]}]}]],[]],\\\"forbidden\\\":\\\"$undefined\\\",\\\"unauthorized\\\":\\\"$undefined\\\"}]]}]}]]}],{\\\"children\\\":[[\\\"$\\\",\\\"$1\\\",\\\"c\\\",{\\\"children\\\":[null,[\\\"$\\\",\\\"$L4\\\",null,{\\\"parallelRouterKey\\\":\\\"children\\\",\\\"error\\\":\\\"$undefined\\\",\\\"errorStyles\\\":\\\"$undefined\\\",\\\"errorScripts\\\":\\\"$undefined\\\",\\\"template\\\":[\\\"$\\\",\\\"$L5\\\",null,{}],\\\"templateStyles\\\":\\\"$undefined\\\",\\\"templateScripts\\\":\\\"$undefined\\\",\\\"notFound\\\":\\\"$undefined\\\",\\\"forbidden\\\":\\\"$undefined\\\",\\\"unauthorized\\\":\\\"$undefined\\\"}]]}],{\\\"children\\\":[[\\\"$\\\",\\\"$1\\\",\\\"c\\\",{\\\"children\\\":[[\\\"$\\\",\\\"$L6\\\",null,{\\\"Component\\\":\\\"$7\\\",\\\"serverProvidedParams\\\":{\\\"searchParams\\\":{},\\\"params\\\":{},\\\"promises\\\":[\\\"$@8\\\",\\\"$@9\\\"]}}],[[\\\"$\\\",\\\"script\\\",\\\"script-0\\\",{\\\"src\\\":\\\"/_next/static/chunks/0esbd.bw4hn9l.js\\\",\\\"async\\\":true,\\\"nonce\\\":\\\"$undefined\\\"}]],[\\\"$\\\",\\\"$La\\\",null,{\\\"children\\\":[\\\"$\\\",\\\"$b\\\",null,{\\\"name\\\":\\\"Next.MetadataOutlet\\\",\\\"children\\\":\\\"$@c\\\"}]}]]}],{},null,false,null]},null,false,\\\"$@d\\\"]},null,false,null],[\\\"$\\\",\\\"$1\\\",\\\"h\\\",{\\\"children\\\":[null,[\\\"$\\\",\\\"$Le\\\",null,{\\\"children\\\":\\\"$Lf\\\"}],[\\\"$\\\",\\\"div\\\",null,{\\\"hidden\\\":true,\\\"children\\\":[\\\"$\\\",\\\"$L10\\\",null,{\\\"children\\\":[\\\"$\\\",\\\"$b\\\",null,{\\\"name\\\":\\\"Next.Metadata\\\",\\\"children\\\":\\\"$L11\\\"}]}]}],null]}],false]],\\\"m\\\":\\\"$undefined\\\",\\\"G\\\":[\\\"$12\\\",[[\\\"$\\\",\\\"link\\\",\\\"0\\\",{\\\"rel\\\":\\\"stylesheet\\\",\\\"href\\\":\\\"/_next/static/chunks/181.rq.7gfjmn.css\\\",\\\"precedence\\\":\\\"next\\\",\\\"crossOrigin\\\":\\\"$undefined\\\",\\\"nonce\\\":\\\"$undefined\\\"}]]],\\\"S\\\":true,\\\"h\\\":null,\\\"s\\\":\\\"$undefined\\\",\\\"l\\\":\\\"$undefined\\\",\\\"p\\\":\\\"$undefined\\\",\\\"d\\\":\\\"$undefined\\\",\\\"b\\\":\\\"b6-HzgFERzndqwpvByFsJ\\\"}\\n\"])</script><script>self.__next_f.push([1,\"13:[]\\nd:\\\"$W13\\\"\\n8:{}\\n9:\\\"$0:f:0:1:1:children:1:children:0:props:children:0:props:serverProvidedParams:params\\\"\\n\"])</script><script>self.__next_f.push([1,\"f:[[\\\"$\\\",\\\"meta\\\",\\\"0\\\",{\\\"charSet\\\":\\\"utf-8\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"1\\\",{\\\"name\\\":\\\"viewport\\\",\\\"content\\\":\\\"width=device-width, initial-scale=1\\\"}]]\\n\"])</script><script>self.__next_f.push([1,\"14:I[27201,[\\\"/_next/static/chunks/17sdg_k6zhysp.js\\\",\\\"/_next/static/chunks/0d3shmwh5_nmn.js\\\"],\\\"IconMark\\\"]\\nc:null\\n11:[[\\\"$\\\",\\\"title\\\",\\\"0\\\",{\\\"children\\\":\\\"だれでもホームページ\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"1\\\",{\\\"name\\\":\\\"description\\\",\\\"content\\\":\\\"ホームページ制作SaaS 運営管理画面\\\"}],[\\\"$\\\",\\\"link\\\",\\\"2\\\",{\\\"rel\\\":\\\"icon\\\",\\\"href\\\":\\\"/icon.svg?icon.0gss7-svwl44_.svg\\\",\\\"sizes\\\":\\\"any\\\",\\\"type\\\":\\\"image/svg+xml\\\"}],[\\\"$\\\",\\\"link\\\",\\\"3\\\",{\\\"rel\\\":\\\"icon\\\",\\\"href\\\":\\\"/icon.png?icon.0zdvc3fyqfkym.png\\\",\\\"sizes\\\":\\\"192x192\\\",\\\"type\\\":\\\"image/png\\\"}],[\\\"$\\\",\\\"link\\\",\\\"4\\\",{\\\"rel\\\":\\\"apple-touch-icon\\\",\\\"href\\\":\\\"/apple-icon.png?apple-icon.0zdvc3fyqfkym.png\\\",\\\"sizes\\\":\\\"192x192\\\",\\\"type\\\":\\\"image/png\\\"}],[\\\"$\\\",\\\"$L14\\\",\\\"5\\\",{}]]\\n\"])</script></body></html>",
+    "location": "/login",
+    "sitemap": null
+  },
+  "port": 443,
+  "transport": "tcp",
+  "cpe23_hash": 523014577,
+  "version": "1.31.1",
+  "location": {
+    "country_code": "JP",
+    "country_name": "Japan"
+  },
+  "product": "nginx",
+  "timestamp": "2026-08-06T05:12:17.656185",
+  "org": "XSERVER Inc.",
+  "data": "HTTP/1.1 200 OK\r\nServer: nginx/1.31.1\r\nDate: Thu, 06 Aug 2026 05:12:17 GMT\r\nContent-Type: text/html; charset=utf-8\r\nContent-Length: 10557\r\nConnection: keep-alive\r\nset-cookie: hpvid=80bba9e3-7ad7-4379-8688-6a3e90ce9e86; Path=/; Expires=Fri, 06 Aug 2027 05:12:17 GMT; Max-Age=31536000; SameSite=lax\r\nVary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding\r\nx-nextjs-cache: HIT\r\nx-nextjs-prerender: 1\r\nx-nextjs-prerender: 1\r\nx-nextjs-stale-time: 300\r\nX-Powered-By: Next.js\r\nCache-Control: s-maxage=31536000\r\nETag: \"2i8pe9xc1l7zd\"\r\n\r\n",
+  "asn": "AS131965",
+  "cpe23": [
+    "cpe:2.3:a:f5:nginx:1.31.1"
+  ],
+  "isp": "Xserver Inc.",
+  "cpe": [
+    "cpe:/a:f5:nginx:1.31.1"
+  ],
+  "os": null,
+  "_shodan": {
+    "region": "na",
+    "module": "https"
+  },
+  "opts": {
+    "vulns": [],
+    "heartbleed": "2026/08/06 05:12:32 [ip-redacted]:443 - SAFE\n"
+  },
+  "_artifact": {
+    "host_id": "ed1ff66ec713f6dc9b566fdb632d31a2",
+    "ip_id": "7238cd22c980a3d7bbcf585052aec53a",
+    "port": 443,
+    "framework": "next",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 10345,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 26,
+      "ip": 1
+    }
+  }
+}

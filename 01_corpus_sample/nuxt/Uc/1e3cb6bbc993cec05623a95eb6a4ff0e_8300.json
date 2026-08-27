@@ -1,0 +1,51 @@
+{
+  "asn": "AS45090",
+  "http": {
+    "status": 200,
+    "redirects": [],
+    "securitytxt": null,
+    "title": "科学智慧树",
+    "robots": null,
+    "server": null,
+    "headers": {
+      "content-length": "2268",
+      "x-powered-by": "Nuxt",
+      "keep-alive": "timeout=5",
+      "connection": "keep-alive",
+      "date": "Wed, 22 Jul 2026 11:39:22 GMT",
+      "content-type": "text/html;charset=utf-8"
+    },
+    "html": "<!DOCTYPE html><html  lang><head><meta charset=\"utf-8\">\n<meta name=\"viewport\" content=\"user-scalable=yes\">\n<title>科学智慧树</title>\n<script src=\"/js/jquery.min.js\"></script>\n<script src=\"/js/popper.min.js\"></script>\n<script src=\"/js/bootstrap.min.js\"></script>\n<script src=\"/js/console.js\"></script>\n<link rel=\"stylesheet\" href=\"/css/bootstrap.min.css\">\n<link rel=\"stylesheet\" href=\"/css/icons.min.css\">\n<link rel=\"stylesheet\" href=\"/css/animate.min.css\">\n<link rel=\"stylesheet\" href=\"/_nuxt/entry.DFxAh8-w.css\" crossorigin>\n<link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/DEt_XlZw.js\">\n<link rel=\"prefetch\" as=\"image\" type=\"image/png\" href=\"/_nuxt/logo.DclUVE-Z.png\">\n<link rel=\"prefetch\" as=\"image\" type=\"image/png\" href=\"/_nuxt/logo-white.acC-Os_e.png\">\n<link rel=\"prefetch\" as=\"image\" type=\"image/jpeg\" href=\"/_nuxt/gzh.D9QQzgh3.jpg\">\n<link rel=\"prefetch\" as=\"style\" crossorigin href=\"/_nuxt/Sidebar.CUEfaHEZ.css\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/BBx5STMJ.js\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/CP5MMjx9.js\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/CQITfDZb.js\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/I-ikQajg.js\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/l0sNRNKZ.js\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/D4LAQlz1.js\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/BBWrxqrn.js\">\n<link rel=\"prefetch\" as=\"style\" crossorigin href=\"/_nuxt/member.uh_kxVH1.css\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/ul1wKfEA.js\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/BMvdWUeA.js\">\n<script type=\"module\" src=\"/_nuxt/DEt_XlZw.js\" crossorigin></script>\n<script id=\"unhead:payload\" type=\"application/json\">{\"title\":\"科学智慧树\"}</script></head><body><div id=\"equations\"></div><div id=\"teleports\"></div><script type=\"application/json\" data-nuxt-data=\"nuxt-app\" data-ssr=\"false\" id=\"__NUXT_DATA__\">[{\"serverRendered\":1},false]</script>\n<script>window.__NUXT__={};window.__NUXT__.config={public:{persistedState:{storage:\"cookies\",debug:false,cookieOptions:{}}},app:{baseURL:\"/\",buildId:\"10ec4059-f97d-4299-a3a7-577a42587ca0\",buildAssetsDir:\"/_nuxt/\",cdnURL:\"\"}}</script></body></html>",
+    "location": "/",
+    "sitemap": null
+  },
+  "os": null,
+  "timestamp": "2026-07-22T11:39:22.862571",
+  "isp": "Shenzhen Tencent Computer Systems Company Limited",
+  "transport": "tcp",
+  "_shodan": {
+    "region": "na",
+    "module": "auto"
+  },
+  "location": {
+    "country_code": "CN",
+    "country_name": "China"
+  },
+  "org": "Tencent cloud computing (Beijing) Co., Ltd.",
+  "data": "HTTP/1.1 200 OK\r\ncontent-type: text/html;charset=utf-8\r\nx-powered-by: Nuxt\r\nDate: Wed, 22 Jul 2026 11:39:22 GMT\r\nConnection: keep-alive\r\nKeep-Alive: timeout=5\r\nContent-Length: 2268\r\n\r\n",
+  "port": 8300,
+  "opts": {},
+  "_artifact": {
+    "host_id": "1e3cb6bbc993cec05623a95eb6a4ff0e",
+    "ip_id": "d9dae2a71c0209f0e22b3ff899f9f709",
+    "port": 8300,
+    "framework": "nuxt",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 2248,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 18
+    }
+  }
+}

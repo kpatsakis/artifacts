@@ -1,0 +1,62 @@
+{
+  "asn": "AS16509",
+  "http": {
+    "status": 200,
+    "redirects": [],
+    "securitytxt": null,
+    "title": "| 株式会社ケン＆スタッフ",
+    "robots": null,
+    "server": null,
+    "headers": {
+      "date": "Fri, 24 Jul 2026 23:07:34 GMT",
+      "content-length": "1912",
+      "content-type": "text/html;charset=utf-8",
+      "connection": "keep-alive",
+      "x-powered-by": "Nuxt"
+    },
+    "html": "<!DOCTYPE html><html><head><meta charset=\"utf-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css\">\n<link rel=\"stylesheet\" href=\"/_nuxt/entry.D8jZczfq.css\" crossorigin>\n<link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/CUa_UkV-.js\">\n<script src=\"/js/bootstrap.bundle.min.js\" defer></script>\n<script src=\"/js/popper.min.js\" defer></script>\n<script src=\"/js/calendar.js\" defer></script>\n<script src=\"/js/password.js\" defer></script>\n<script src=\"/js/swipe.js\" defer></script>\n<script src=\"https://cdn.jsdelivr.net/npm/jquery@3.5.0/dist/jquery.slim.min.js\" defer></script>\n<script src=\"https://cdn.jsdelivr.net/npm/fullcalendar@6.1.17/index.global.min.js\" defer></script>\n<script src=\"https://cdnjs.cloudflare.com/ajax/libs/jscolor/2.5.2/jscolor.min.js\" defer></script>\n<script src=\"https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js\" defer></script>\n<title>| 株式会社ケン＆スタッフ</title>\n<script type=\"module\" src=\"/_nuxt/CUa_UkV-.js\" crossorigin></script>\n<script id=\"unhead:payload\" type=\"application/json\">{\"titleTemplate\":\"%s | 株式会社ケン＆スタッフ\"}</script></head><body  id=\"staffSite\"><div id=\"__nuxt\"></div><div id=\"teleports\"></div><script type=\"application/json\" data-nuxt-data=\"nuxt-app\" data-ssr=\"false\" id=\"__NUXT_DATA__\">[{\"serverRendered\":1},false]</script>\n<script>window.__NUXT__={};window.__NUXT__.config={public:{USER_SITE_DOMAIN:\"tokyo.ken-staff.co.jp\",USER_SITE_SUB_DOMAIN:\"osaka.ken-staff.co.jp\",USER_SITE_URL:\"https://tokyo.ken-staff.co.jp\",piniaPluginPersistedstate:{},bootstrapVueNext:{directives:[\"vBColorMode\",\"vBModal\",\"vBPopover\",\"vBScrollspy\",\"vBToggle\",\"vBTooltip\"],plugin:{}}},app:{baseURL:\"/\",buildId:\"c2075663-9eee-46b4-be59-a29fdaa86d85\",buildAssetsDir:\"/_nuxt/\",cdnURL:\"\"}}</script></body></html>",
+    "location": "/",
+    "sitemap": null
+  },
+  "os": null,
+  "tags": [
+    "cloud"
+  ],
+  "timestamp": "2026-07-24T23:07:35.072303",
+  "isp": "Amazon.com, Inc.",
+  "transport": "tcp",
+  "_shodan": {
+    "region": "na",
+    "module": "https"
+  },
+  "cloud": {
+    "region": "ap-northeast-1",
+    "service": "EC2",
+    "provider": "Amazon"
+  },
+  "location": {
+    "country_code": "JP",
+    "country_name": "Japan"
+  },
+  "org": "Amazon.com, Inc.",
+  "data": "HTTP/1.1 200 OK\r\nDate: Fri, 24 Jul 2026 23:07:34 GMT\r\nContent-Type: text/html;charset=utf-8\r\nContent-Length: 1912\r\nConnection: keep-alive\r\nx-powered-by: Nuxt\r\n\r\n",
+  "port": 443,
+  "opts": {
+    "vulns": [],
+    "heartbleed": "2026/07/24 23:07:47 [ip-redacted]:443 - ERROR: write tcp [ip-redacted]:443: broken pipe\n"
+  },
+  "_artifact": {
+    "host_id": "b8419d2fcad445c859b660f6314ee111",
+    "ip_id": "dd46baffc55baf5d45e6fa0118010629",
+    "port": 443,
+    "framework": "nuxt",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 1868,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 20,
+      "ip": 2
+    }
+  }
+}

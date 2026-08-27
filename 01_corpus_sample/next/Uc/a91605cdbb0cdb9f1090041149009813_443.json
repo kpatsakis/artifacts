@@ -1,0 +1,58 @@
+{
+  "asn": "AS9318",
+  "http": {
+    "status": 200,
+    "redirects": [],
+    "securitytxt": null,
+    "title": "카픽스",
+    "robots": "User-agent: *\nDisallow: /\n",
+    "server": "nginx/1.18.0 (Ubuntu)",
+    "headers": {
+      "content-length": "2062",
+      "x-robots-tag": "noindex, nofollow, noarchive, nosnippet",
+      "x-powered-by": "Next.js",
+      "vary": "Accept-Encoding",
+      "server": "nginx/1.18.0 (Ubuntu)",
+      "connection": "keep-alive",
+      "etag": "\"4rmhsgovga1l4\"",
+      "date": "Sat, 18 Jul 2026 18:43:44 GMT",
+      "content-type": "text/html; charset=utf-8"
+    },
+    "html": "<!DOCTYPE html><html lang=\"ko\"><head><meta charSet=\"utf-8\" data-next-head=\"\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=5\" data-next-head=\"\"/><script src=\"https://t1.daumcdn.net/mapjsapi/bundle/postcode/prod/postcode.v2.js\" async=\"\"></script><title data-next-head=\"\">카픽스</title><link rel=\"preload\" href=\"/_next/static/media/PretendardVariable-s.p.0a.~5ku~863u1.woff2\" as=\"font\" type=\"font/woff2\" crossorigin=\"anonymous\" data-next-font=\"size-adjust\"/><link rel=\"preload\" href=\"/_next/static/chunks/0i-_6q-6-_m_8.css\" as=\"style\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/0i-_6q-6-_m_8.css\" data-n-g=\"\"/><noscript data-n-css=\"\"></noscript><script src=\"/_next/static/chunks/0d601k_xohk1-.js\" defer=\"\"></script><script src=\"/_next/static/chunks/07.htovddxwav.js\" defer=\"\"></script><script src=\"/_next/static/chunks/0f7yzr3p46jq9.js\" defer=\"\"></script><script src=\"/_next/static/chunks/0gpoxr4j914f7.js\" defer=\"\"></script><script src=\"/_next/static/chunks/08b3ftsysp8o2.js\" defer=\"\"></script><script src=\"/_next/static/chunks/0uw~ov22uo1v0.js\" defer=\"\"></script><script src=\"/_next/static/chunks/turbopack-0iiv7~kzalqb8.js\" defer=\"\"></script><script src=\"/_next/static/chunks/0w937t.8~1ikq.js\" defer=\"\"></script><script src=\"/_next/static/chunks/turbopack-12-68.1g~2.o~.js\" defer=\"\"></script><script src=\"/_next/static/DNB4lRzaqTb4TGlC2Qvc2/_buildManifest.js\" defer=\"\"></script><script src=\"/_next/static/DNB4lRzaqTb4TGlC2Qvc2/_ssgManifest.js\" defer=\"\"></script><script src=\"/_next/static/DNB4lRzaqTb4TGlC2Qvc2/_clientMiddlewareManifest.js\" defer=\"\"></script></head><body class=\"antialiased\"><div id=\"__next\"><style>:root { --font-pretendard: 'pretendard', 'pretendard Fallback'; }</style><div class=\"pretendard_8c8b8c49-module__LrUfmq__variable\" style=\"display:contents\"></div></div><script id=\"__NEXT_DATA__\" type=\"application/json\">{\"props\":{\"pageProps\":{}},\"page\":\"/\",\"query\":{},\"buildId\":\"DNB4lRzaqTb4TGlC2Qvc2\",\"nextExport\":true,\"autoExport\":true,\"isFallback\":false,\"scriptLoader\":[]}</script></body></html>",
+    "location": "/",
+    "sitemap": null
+  },
+  "os": null,
+  "timestamp": "2026-07-18T18:43:45.017134",
+  "isp": "SK Broadband Co Ltd",
+  "transport": "tcp",
+  "_shodan": {
+    "region": "eu",
+    "module": "https"
+  },
+  "location": {
+    "country_code": "KR",
+    "country_name": "Korea, Republic of"
+  },
+  "org": "SK Broadband Co Ltd",
+  "data": "HTTP/1.1 200 OK\r\nServer: nginx/1.18.0 (Ubuntu)\r\nDate: Sat, 18 Jul 2026 18:43:44 GMT\r\nContent-Type: text/html; charset=utf-8\r\nContent-Length: 2062\r\nConnection: keep-alive\r\nX-Powered-By: Next.js\r\nETag: \"4rmhsgovga1l4\"\r\nVary: Accept-Encoding\r\nX-Robots-Tag: noindex, nofollow, noarchive, nosnippet\r\n\r\n",
+  "port": 443,
+  "opts": {
+    "vulns": [],
+    "heartbleed": "2026/07/18 18:44:08 [ip-redacted]:443 - SAFE\n"
+  },
+  "_artifact": {
+    "host_id": "a91605cdbb0cdb9f1090041149009813",
+    "ip_id": "4fe2cd0e41857442e942d9e19c0f6553",
+    "port": 443,
+    "framework": "next",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 2056,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 20,
+      "ip": 1
+    }
+  }
+}

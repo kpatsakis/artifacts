@@ -1,0 +1,60 @@
+{
+  "asn": "AS16509",
+  "http": {
+    "status": 200,
+    "redirects": [],
+    "securitytxt": null,
+    "title": null,
+    "robots": null,
+    "server": "6.1.7600 2/, UPnP/1.0, TVersity Media Server",
+    "headers": {
+      "content-length": "222",
+      "x-powered-by": "Next.js",
+      "vary": "RSC",
+      "server": "6.1.7600 2/, UPnP/1.0, TVersity Media Server",
+      "last-modified": "Mon, 02 Jan 2017 20:04:33 GMT",
+      "date": "Thu, 16 Jul 2026 21:23:49 GMT",
+      "content-type": "text/x-component"
+    },
+    "html": "<!DOCTYPE html>\n<html>\n<head>\n    <meta name=\"generator\" content=\"Waku\"/>\n    <link rel=\"icon\" href=\"/favicon.png\">\n</head>\n<body>\n    <div id=\"root\"></div>\n    <script src=\"/react-router-dom.js\"></script>\n</body>\n</html>\n",
+    "location": "/",
+    "sitemap": null
+  },
+  "os": null,
+  "tags": [
+    "cloud"
+  ],
+  "timestamp": "2026-07-16T21:23:49.460038",
+  "isp": "Amazon.com, Inc.",
+  "transport": "tcp",
+  "_shodan": {
+    "region": "na",
+    "module": "auto"
+  },
+  "cloud": {
+    "region": "eu-north-1",
+    "service": "EC2",
+    "provider": "Amazon"
+  },
+  "location": {
+    "country_code": "SE",
+    "country_name": "Sweden"
+  },
+  "org": "A100 ROW Inc",
+  "data": "HTTP/1.1 200 OK\r\nDate: Thu, 16 Jul 2026 21:23:49 GMT\r\nServer: 6.1.7600 2/, UPnP/1.0, TVersity Media Server\r\nLast-Modified: Mon, 02 Jan 2017 20:04:33 GMT\r\nX-Powered-By: Next.js\r\nContent-Type: text/x-component\r\nVary: RSC\r\nContent-Length: 222\r\n\r\n",
+  "port": 4949,
+  "opts": {},
+  "_artifact": {
+    "host_id": "99838ba8f7578981ebaeeaaf7d6dd04a",
+    "ip_id": "de71cbbaaf5fdfcb4bdffda2bd2b8fa0",
+    "port": 4949,
+    "framework": "next",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 222,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 19
+    }
+  }
+}

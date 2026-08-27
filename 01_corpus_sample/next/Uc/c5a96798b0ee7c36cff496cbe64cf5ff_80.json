@@ -1,0 +1,64 @@
+{
+  "asn": "AS16509",
+  "http": {
+    "status": 200,
+    "redirects": [],
+    "securitytxt": null,
+    "title": "Renovel Web Client",
+    "robots": null,
+    "headers": {
+      "x-nextjs-cache": "HIT",
+      "content-length": "5685",
+      "x-powered-by": "Next.js",
+      "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding",
+      "x-nextjs-stale-time": "300",
+      "connection": "keep-alive",
+      "etag": "\"si9up2qjln4c1\"",
+      "cache-control": "s-maxage=31536000",
+      "date": "Wed, 29 Jul 2026 08:47:23 GMT",
+      "x-nextjs-prerender": "1, 1",
+      "content-type": "text/html; charset=utf-8"
+    },
+    "html": "<!DOCTYPE html><!--ATcwuNWvBwqq5LfH3ePrA--><html lang=\"ko\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"stylesheet\" href=\"/_next/static/css/5d8dd690d6a3dfd7.css\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/css/ef46db3751d8e999.css\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/webpack-cf4dee25ac636afc.js\"/><script src=\"/_next/static/chunks/4bd1b696-c023c6e3521b1417.js\" async=\"\"></script><script src=\"/_next/static/chunks/255-38b49df12a94ee57.js\" async=\"\"></script><script src=\"/_next/static/chunks/main-app-2ecc3bf42ae2d122.js\" async=\"\"></script><script src=\"/_next/static/chunks/app/layout-9cea19492a6f13cf.js\" async=\"\"></script><script src=\"/_next/static/chunks/217-d2170a175916471f.js\" async=\"\"></script><script src=\"/_next/static/chunks/846-382bd29bd467ca4d.js\" async=\"\"></script><script src=\"/_next/static/chunks/app/page-664b0cc4827704b2.js\" async=\"\"></script><title>Renovel Web Client</title><meta name=\"description\" content=\"Swagger/OpenAPI 기반 외부 API를 직접 호출하는 Renovel 클라이언트 웹\"/><script src=\"/_next/static/chunks/polyfills-42372ed130431b0a.js\" noModule=\"\"></script></head><body><div hidden=\"\"><!--$--><!--/$--></div><!--$!--><template data-dgst=\"BAILOUT_TO_CLIENT_SIDE_RENDERING\"></template><!--/$--><!--$--><!--/$--><script src=\"/_next/static/chunks/webpack-cf4dee25ac636afc.js\" id=\"_R_\" async=\"\"></script><script>(self.__next_f=self.__next_f||[]).push([0])</script><script>self.__next_f.push([1,\"1:\\\"$Sreact.fragment\\\"\\n2:I[9063,[\\\"177\\\",\\\"static/chunks/app/layout-9cea19492a6f13cf.js\\\"],\\\"LangProvider\\\"]\\n3:I[9766,[],\\\"\\\"]\\n4:I[8924,[],\\\"\\\"]\\n5:\\\"$Sreact.suspense\\\"\\n6:I[19,[\\\"217\\\",\\\"static/chunks/217-d2170a175916471f.js\\\",\\\"846\\\",\\\"static/chunks/846-382bd29bd467ca4d.js\\\",\\\"974\\\",\\\"static/chunks/app/page-664b0cc4827704b2.js\\\"],\\\"HomePageClient\\\"]\\n7:I[4431,[],\\\"OutletBoundary\\\"]\\n9:I[5278,[],\\\"AsyncMetadataOutlet\\\"]\\nb:I[4431,[],\\\"ViewportBoundary\\\"]\\nd:I[4431,[],\\\"MetadataBoundary\\\"]\\nf:I[7150,[],\\\"\\\"]\\n:HL[\\\"/_next/static/css/5d8dd690d6a3dfd7.css\\\",\\\"style\\\"]\\n:HL[\\\"/_next/static/css/ef46db3751d8e999.css\\\",\\\"style\\\"]\\n\"])</script><script>self.__next_f.push([1,\"0:{\\\"P\\\":null,\\\"b\\\":\\\"ATcwuNWvBwqq5LfH3ePrA\\\",\\\"p\\\":\\\"\\\",\\\"c\\\":[\\\"\\\",\\\"\\\"],\\\"i\\\":false,\\\"f\\\":[[[\\\"\\\",{\\\"children\\\":[\\\"__PAGE__\\\",{}]},\\\"$undefined\\\",\\\"$undefined\\\",true],[\\\"\\\",[\\\"$\\\",\\\"$1\\\",\\\"c\\\",{\\\"children\\\":[[[\\\"$\\\",\\\"link\\\",\\\"0\\\",{\\\"rel\\\":\\\"stylesheet\\\",\\\"href\\\":\\\"/_next/static/css/5d8dd690d6a3dfd7.css\\\",\\\"precedence\\\":\\\"next\\\",\\\"crossOrigin\\\":\\\"$undefined\\\",\\\"nonce\\\":\\\"$undefined\\\"}],[\\\"$\\\",\\\"link\\\",\\\"1\\\",{\\\"rel\\\":\\\"stylesheet\\\",\\\"href\\\":\\\"/_next/static/css/ef46db3751d8e999.css\\\",\\\"precedence\\\":\\\"next\\\",\\\"crossOrigin\\\":\\\"$undefined\\\",\\\"nonce\\\":\\\"$undefined\\\"}]],[\\\"$\\\",\\\"html\\\",null,{\\\"lang\\\":\\\"ko\\\",\\\"children\\\":[\\\"$\\\",\\\"body\\\",null,{\\\"children\\\":[\\\"$\\\",\\\"$L2\\\",null,{\\\"children\\\":[\\\"$\\\",\\\"$L3\\\",null,{\\\"parallelRouterKey\\\":\\\"children\\\",\\\"error\\\":\\\"$undefined\\\",\\\"errorStyles\\\":\\\"$undefined\\\",\\\"errorScripts\\\":\\\"$undefined\\\",\\\"template\\\":[\\\"$\\\",\\\"$L4\\\",null,{}],\\\"templateStyles\\\":\\\"$undefined\\\",\\\"templateScripts\\\":\\\"$undefined\\\",\\\"notFound\\\":[[[\\\"$\\\",\\\"title\\\",null,{\\\"children\\\":\\\"404: This page could not be found.\\\"}],[\\\"$\\\",\\\"div\\\",null,{\\\"style\\\":{\\\"fontFamily\\\":\\\"system-ui,\\\\\\\"Segoe UI\\\\\\\",Roboto,Helvetica,Arial,sans-serif,\\\\\\\"Apple Color Emoji\\\\\\\",\\\\\\\"Segoe UI Emoji\\\\\\\"\\\",\\\"height\\\":\\\"100vh\\\",\\\"textAlign\\\":\\\"center\\\",\\\"display\\\":\\\"flex\\\",\\\"flexDirection\\\":\\\"column\\\",\\\"alignItems\\\":\\\"center\\\",\\\"justifyContent\\\":\\\"center\\\"},\\\"children\\\":[\\\"$\\\",\\\"div\\\",null,{\\\"children\\\":[[\\\"$\\\",\\\"style\\\",null,{\\\"dangerouslySetInnerHTML\\\":{\\\"__html\\\":\\\"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}\\\"}}],[\\\"$\\\",\\\"h1\\\",null,{\\\"className\\\":\\\"next-error-h1\\\",\\\"style\\\":{\\\"display\\\":\\\"inline-block\\\",\\\"margin\\\":\\\"0 20px 0 0\\\",\\\"padding\\\":\\\"0 23px 0 0\\\",\\\"fontSize\\\":24,\\\"fontWeight\\\":500,\\\"verticalAlign\\\":\\\"top\\\",\\\"lineHeight\\\":\\\"49px\\\"},\\\"children\\\":404}],[\\\"$\\\",\\\"div\\\",null,{\\\"style\\\":{\\\"display\\\":\\\"inline-block\\\"},\\\"children\\\":[\\\"$\\\",\\\"h2\\\",null,{\\\"style\\\":{\\\"fontSize\\\":14,\\\"fontWeight\\\":400,\\\"lineHeight\\\":\\\"49px\\\",\\\"margin\\\":0},\\\"children\\\":\\\"This page could not be found.\\\"}]}]]}]}]],[]],\\\"forbidden\\\":\\\"$undefined\\\",\\\"unauthorized\\\":\\\"$undefined\\\"}]}]}]}]]}],{\\\"children\\\":[\\\"__PAGE__\\\",[\\\"$\\\",\\\"$1\\\",\\\"c\\\",{\\\"children\\\":[[\\\"$\\\",\\\"$5\\\",null,{\\\"children\\\":[\\\"$\\\",\\\"$L6\\\",null,{}]}],null,[\\\"$\\\",\\\"$L7\\\",null,{\\\"children\\\":[\\\"$L8\\\",[\\\"$\\\",\\\"$L9\\\",null,{\\\"promise\\\":\\\"$@a\\\"}]]}]]}],{},null,false]},null,false],[\\\"$\\\",\\\"$1\\\",\\\"h\\\",{\\\"children\\\":[null,[[\\\"$\\\",\\\"$Lb\\\",null,{\\\"children\\\":\\\"$Lc\\\"}],null],[\\\"$\\\",\\\"$Ld\\\",null,{\\\"children\\\":[\\\"$\\\",\\\"div\\\",null,{\\\"hidden\\\":true,\\\"children\\\":[\\\"$\\\",\\\"$5\\\",null,{\\\"fallback\\\":null,\\\"children\\\":\\\"$Le\\\"}]}]}]]}],false]],\\\"m\\\":\\\"$undefined\\\",\\\"G\\\":[\\\"$f\\\",[]],\\\"s\\\":false,\\\"S\\\":true}\\n\"])</script><script>self.__next_f.push([1,\"c:[[\\\"$\\\",\\\"meta\\\",\\\"0\\\",{\\\"charSet\\\":\\\"utf-8\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"1\\\",{\\\"name\\\":\\\"viewport\\\",\\\"content\\\":\\\"width=device-width, initial-scale=1\\\"}]]\\n8:null\\n\"])</script><script>self.__next_f.push([1,\"a:{\\\"metadata\\\":[[\\\"$\\\",\\\"title\\\",\\\"0\\\",{\\\"children\\\":\\\"Renovel Web Client\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"1\\\",{\\\"name\\\":\\\"description\\\",\\\"content\\\":\\\"Swagger/OpenAPI 기반 외부 API를 직접 호출하는 Renovel 클라이언트 웹\\\"}]],\\\"error\\\":null,\\\"digest\\\":\\\"$undefined\\\"}\\n\"])</script><script>self.__next_f.push([1,\"e:\\\"$a:metadata\\\"\\n\"])</script></body></html>",
+    "location": "/",
+    "server": null,
+    "sitemap": null
+  },
+  "os": null,
+  "tags": [
+    "cloud"
+  ],
+  "timestamp": "2026-07-29T08:47:24.049028",
+  "isp": "Amazon.com, Inc.",
+  "transport": "tcp",
+  "_shodan": {
+    "region": "na",
+    "module": "http"
+  },
+  "cloud": {
+    "region": "ap-northeast-1",
+    "service": "EC2",
+    "provider": "Amazon"
+  },
+  "location": {
+    "country_code": "JP",
+    "country_name": "Japan"
+  },
+  "org": "Amazon Data Services Japan",
+  "data": "HTTP/1.1 200 OK\r\nDate: Wed, 29 Jul 2026 08:47:23 GMT\r\nContent-Type: text/html; charset=utf-8\r\nContent-Length: 5685\r\nConnection: keep-alive\r\nVary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding\r\nx-nextjs-cache: HIT\r\nx-nextjs-prerender: 1\r\nx-nextjs-prerender: 1\r\nx-nextjs-stale-time: 300\r\nX-Powered-By: Next.js\r\nCache-Control: s-maxage=31536000\r\nETag: \"si9up2qjln4c1\"\r\n\r\n",
+  "port": 80,
+  "opts": {},
+  "_artifact": {
+    "host_id": "c5a96798b0ee7c36cff496cbe64cf5ff",
+    "ip_id": "3edfd46f60050b2fe06ac6beca04fbeb",
+    "port": 80,
+    "framework": "next",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 5617,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 23
+    }
+  }
+}

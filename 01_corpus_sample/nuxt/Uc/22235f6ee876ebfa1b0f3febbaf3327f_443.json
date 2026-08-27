@@ -1,0 +1,56 @@
+{
+  "asn": "AS16509",
+  "http": {
+    "status": 200,
+    "redirects": [],
+    "securitytxt": null,
+    "title": "セゾンインボイス",
+    "robots": null,
+    "server": null,
+    "html": "<!DOCTYPE html><html  class=\"notranslate\" translate=\"no\"><head><meta charset=\"utf-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n<title>セゾンインボイス</title>\n<link rel=\"stylesheet\" href=\"/_nuxt/entry.BujoeYyQ.css\" crossorigin>\n<link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/TIp0j5nI.js\">\n<script type=\"module\" src=\"/_nuxt/TIp0j5nI.js\" crossorigin></script>\n<link rel=\"prefetch\" as=\"image\" type=\"image/svg+xml\" href=\"/_nuxt/ef-icon.Bf6enkVJ.svg\">\n<meta name=\"googlebot\" content=\"notranslate\">\n<meta name=\"robots\" content=\"noindex\">\n<link rel=\"icon\" type=\"image/x-icon\" href=\"/favicon.ico\">\n<script id=\"unhead:payload\" type=\"application/json\">{\"title\":\"セゾンインボイス\"}</script></head><body  class=\"notranslate\"><div id=\"__nuxt\"></div><div id=\"teleports\"></div><script>window.__NUXT__={};window.__NUXT__.config={public:{baseUrl:\"https://api.[hostname-redacted]/api\",headerBgColor:\"#FFFFFF\",auth:{isEnabled:true,baseURL:\"https://api.[hostname-redacted]/api\",disableInternalRouting:true,disableServerSideAuth:false,originEnvKey:\"AUTH_ORIGIN\",sessionRefresh:{enablePeriodically:false,enableOnWindowFocus:false,handler:\"\"},globalAppMiddleware:{isEnabled:true,allow404WithoutAuth:true,addDefaultCallbackUrl:false},provider:{type:\"local\",endpoints:{signIn:{path:\"/login\",method:\"post\"},signOut:{path:\"/logout\",method:\"post\"},signUp:false,getSession:{path:\"/get-me\",method:\"get\"}},token:{signInResponseTokenPointer:\"/data/access_token\",type:\"Bearer\",cookieName:\"auth-token\",maxAgeInSeconds:1800,sameSiteAttribute:\"lax\",headerName:\"Authorization\",secureCookieAttribute:false,cookieDomain:\"\",httpOnlyCookieAttribute:false},pages:{login:\"/login\"},session:{dataType:{id:\"string | number\"},dataResponsePointer:\"/\"},refresh:{isEnabled:false,endpoint:{path:\"/refresh\",method:\"post\"},refreshOnlyToken:true,token:{signInResponseRefreshTokenPointer:\"/refreshToken\",refreshResponseTokenPointer:\"\",refreshRequestTokenPointer:\"/refreshToken\",cookieName:\"auth.refresh-token\",maxAgeInSeconds:604800,sameSiteAttribute:\"lax\",secureCookieAttribute:false,cookieDomain:\"\",httpOnlyCookieAttribute:false}}}}},app:{baseURL:\"/\",buildId:\"b2feb833-4de9-416e-9170-52080b3fa8a3\",buildAssetsDir:\"/_nuxt/\",cdnURL:\"\"}}</script>\n<script type=\"application/json\" data-nuxt-data=\"nuxt-app\" data-ssr=\"false\" id=\"__NUXT_DATA__\">[{\"serverRendered\":1},false]</script></body></html>",
+    "location": "/",
+    "sitemap": null
+  },
+  "os": null,
+  "tags": [
+    "cloud"
+  ],
+  "timestamp": "2026-07-09T20:20:39.905157",
+  "isp": "Amazon.com, Inc.",
+  "transport": "tcp",
+  "_shodan": {
+    "region": "sea",
+    "module": "https"
+  },
+  "cloud": {
+    "region": "ap-northeast-1",
+    "service": "EC2",
+    "provider": "Amazon"
+  },
+  "location": {
+    "country_code": "JP",
+    "country_name": "Japan"
+  },
+  "org": "Amazon Data Services Japan",
+  "data": "HTTP/1.1 200 OK\r\nDate: Thu, 09 Jul 2026 20:20:39 GMT\r\nContent-Type: text/html;charset=utf-8\r\nContent-Length: 2406\r\nConnection: keep-alive\r\nReferrer-Policy: strict-origin-when-cross-origin\r\nX-Frame-Options: DENY\r\nX-Content-Type-Options: nosniff\r\nContent-Security-Policy: default-src 'self'; base-uri 'self'; frame-ancestors 'none'; form-action 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; font-src 'self' data:; connect-src 'self' https://api.[hostname-redacted]; frame-src 'self' blob:; object-src 'self' blob:\r\nStrict-Transport-Security: max-age=31536000; includeSubDomains\r\nx-powered-by: Nuxt\r\n\r\n",
+  "port": 443,
+  "opts": {
+    "vulns": [],
+    "heartbleed": "2026/07/09 20:20:56 [ip-redacted]:443 - SAFE\n"
+  },
+  "_artifact": {
+    "host_id": "22235f6ee876ebfa1b0f3febbaf3327f",
+    "ip_id": "1847ea1ad2bed03dfe95c2c70c450992",
+    "port": 443,
+    "framework": "nuxt",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 2374,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 24,
+      "hostname": 3,
+      "ip": 1
+    }
+  }
+}

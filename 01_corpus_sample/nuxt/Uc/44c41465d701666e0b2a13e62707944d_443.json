@@ -1,0 +1,72 @@
+{
+  "asn": "AS396982",
+  "http": {
+    "status": 200,
+    "redirects": [
+      {
+        "data": "HTTP/1.1 301 Moved Permanently\r\nlocation: /inspect\r\ncontent-type: text/html\r\nserver-timing: -;dur=0;desc=\"Generate\"\r\nx-cloud-trace-context: 41a563a2e1da2437ec86be7305f360fb;o=1\r\ndate: Thu, 30 Jul 2026 09:29:06 GMT\r\nserver: Google Frontend\r\nContent-Length: 94\r\nVia: 1.1 google\r\nAlt-Svc: h3=\":443\"; ma=2592000\r\n\r\n",
+        "location": "/"
+      }
+    ],
+    "securitytxt": null,
+    "title": null,
+    "robots": "User-agent: *\nDisallow: ",
+    "server": "Google Frontend",
+    "headers": {
+      "content-length": "2472",
+      "via": "1.1 google",
+      "x-powered-by": "Nuxt",
+      "server": "Google Frontend",
+      "server-timing": "-;dur=0;desc=\"Generate\"",
+      "x-cloud-trace-context": "160839182db3378cb5b8c3252912be1c",
+      "date": "Thu, 30 Jul 2026 09:29:07 GMT",
+      "alt-svc": "h3=\":443\"; ma=2592000",
+      "content-type": "text/html;charset=UTF-8"
+    },
+    "html": "<!DOCTYPE html>\n<html lang=\"zh-Hant-TW\">\n<head><meta charset=\"utf-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1, user-scalable=yes, viewport-fit=cover\">\n<link rel=\"icon\" type=\"image/x-icon\" href=\"/favicon.ico\">\n<script src=\"https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.1/dist/umd/popper.min.js\" integrity=\"sha384-W8fXfP3gkOKtndU4JGtKDvXbO53Wy8SZCQHczT5FMiiqmQfUpWbYdTil/SxwZgAN\" crossorigin=\"anonymous\"></script>\n<script src=\"https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js\" integrity=\"sha384-/bQdsTh/da6pkI1MST/rWKFNjaCP5gBSY4sEBT38Q/9RBh9AH40zEOg7Hlq2THRZ\" crossorigin=\"anonymous\"></script><link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/entry.21446468.js\"><link rel=\"preload\" as=\"style\" href=\"/_nuxt/entry.c68b1ea2.css\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/member.1bab03ef.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/metaTitle.61203577.js\"><link rel=\"prefetch\" as=\"style\" href=\"/_nuxt/default.24836a71.css\"><link rel=\"prefetch\" as=\"style\" href=\"/_nuxt/Footer.597bc287.css\"><link rel=\"prefetch\" as=\"style\" href=\"/_nuxt/PageLoading.40647674.css\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/default.e8a4ae51.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/Footer.2e6613a8.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/PageLoading.5d803992.js\"><link rel=\"prefetch\" as=\"style\" href=\"/_nuxt/error-component.709342ad.css\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/error-component.4bf9b3bf.js\"><link rel=\"stylesheet\" href=\"/_nuxt/entry.c68b1ea2.css\"></head>\n<body ><div id=\"__nuxt\"></div><script>window.__NUXT__=(function(a,b,c,d){return {serverRendered:false,config:{public:{version:\"3da4d2f2\",development:{SITE_URL:a,API_URL:a,SSO_LOGIN_URL:b,SSO_ANNOUNCEMENT_TEXT:c,SSO_BUTTON_TEXT:d},production:{SITE_URL:a,API_URL:a,SSO_LOGIN_URL:b,SSO_ANNOUNCEMENT_TEXT:c,SSO_BUTTON_TEXT:d},MAX_UPLOAD_IMAGES:10},app:{baseURL:\"\\u002F\",buildAssetsDir:\"\\u002F_nuxt\\u002F\",cdnURL:\"\"}},data:{},state:{}}}(\"https:\\u002F\\u002Fllb.[hostname-redacted]\",\"https:\\u002F\\u002Feline.inforce.com.tw\\u002F\",\"「指定網址」進入保單健診已關閉\\u003Cbr\\u003E請從 【InForce eLine \\u003E InForceR5 \\u003E 業務工具 \\u003E AI保單健診】 進入AI保單健診系統 \\u002F 客戶保單管理。\",\"前往 InForce eLine\"))</script><script type=\"module\" src=\"/_nuxt/entry.21446468.js\" crossorigin></script></body>\n</html>",
+    "location": "/inspect",
+    "sitemap": null
+  },
+  "os": null,
+  "tags": [
+    "cloud"
+  ],
+  "timestamp": "2026-07-30T09:29:07.325693",
+  "isp": "Google LLC",
+  "transport": "tcp",
+  "_shodan": {
+    "region": "eu",
+    "module": "https"
+  },
+  "cloud": {
+    "region": "global",
+    "service": null,
+    "provider": "Google"
+  },
+  "location": {
+    "country_code": "US",
+    "country_name": "United States"
+  },
+  "org": "Google LLC",
+  "data": "HTTP/1.1 200 OK\r\ncontent-type: text/html;charset=UTF-8\r\nx-powered-by: Nuxt\r\nserver-timing: -;dur=0;desc=\"Generate\"\r\nx-cloud-trace-context: 160839182db3378cb5b8c3252912be1c\r\ndate: Thu, 30 Jul 2026 09:29:07 GMT\r\nserver: Google Frontend\r\nContent-Length: 2472\r\nVia: 1.1 google\r\nAlt-Svc: h3=\":443\"; ma=2592000\r\n\r\n",
+  "port": 443,
+  "opts": {
+    "vulns": [],
+    "heartbleed": "2026/07/30 09:29:11 [ip-redacted]:443 - SAFE\n"
+  },
+  "_artifact": {
+    "host_id": "44c41465d701666e0b2a13e62707944d",
+    "ip_id": "6eda060073b8c4a1372353994acdc64b",
+    "port": 443,
+    "framework": "nuxt",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 2384,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 26,
+      "hostname": 1,
+      "ip": 1
+    }
+  }
+}

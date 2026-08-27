@@ -1,0 +1,70 @@
+{
+  "http": {
+    "redirects": [],
+    "securitytxt": null,
+    "title": null,
+    "html": "<!DOCTYPE html>\n<html>\n<head>\n    <meta name=\"generator\" content=\"Waku\"/>\n    <link rel=\"icon\" href=\"/favicon.png\">\n</head>\n<body>\n    <div id=\"root\"></div>\n    <script src=\"/react-router-dom.js\"></script>\n</body>\n</html>\n",
+    "location": "/",
+    "status": 200,
+    "robots": null,
+    "components_hash": -892850553,
+    "server": "Servlet 2.4; Tomcat-5.0.28/JBoss-4.0.1sp1 (build: CVSTag=JBoss_4_0_1_SP1 date=200502160314)",
+    "headers": {
+      "content-length": "222",
+      "x-powered-by": "Next.js",
+      "vary": "RSC",
+      "server": "Servlet 2.4; Tomcat-5.0.28/JBoss-4.0.1sp1 (build: CVSTag=JBoss_4_0_1_SP1 date=200502160314)",
+      "last-modified": "Thu, 17 Sep 2020 23:34:49 GMT",
+      "date": "Fri, 31 Jul 2026 23:49:03 GMT",
+      "content-type": "text/x-component"
+    },
+    "sitemap": null
+  },
+  "port": 7474,
+  "transport": "tcp",
+  "cpe23_hash": 286908511,
+  "cloud": {
+    "region": "af-south-1",
+    "service": "EC2",
+    "provider": "Amazon"
+  },
+  "location": {
+    "country_code": "ZA",
+    "country_name": "South Africa"
+  },
+  "tags": [
+    "cloud"
+  ],
+  "timestamp": "2026-07-31T23:49:03.411403",
+  "org": "Amazon Data Services South Africa",
+  "data": "HTTP/1.1 200 OK\r\nDate: Fri, 31 Jul 2026 23:49:03 GMT\r\nServer: Servlet 2.4; Tomcat-5.0.28/JBoss-4.0.1sp1 (build: CVSTag=JBoss_4_0_1_SP1 date=200502160314)\r\nLast-Modified: Thu, 17 Sep 2020 23:34:49 GMT\r\nX-Powered-By: Next.js\r\nContent-Type: text/x-component\r\nVary: RSC\r\nContent-Length: 222\r\n\r\n",
+  "asn": "AS16509",
+  "cpe23": [
+    "cpe:2.3:a:facebook:react",
+    "cpe:2.3:a:vercel:next.js"
+  ],
+  "isp": "Amazon.com, Inc.",
+  "cpe": [
+    "cpe:/a:facebook:react",
+    "cpe:/a:vercel:next.js"
+  ],
+  "os": null,
+  "_shodan": {
+    "region": "",
+    "module": "http-simple-new"
+  },
+  "opts": {},
+  "_artifact": {
+    "host_id": "30cb4bdc76ac944a1cdeee36b087c02f",
+    "ip_id": "678c50f521150308dea7de2ae0b2996d",
+    "port": 7474,
+    "framework": "next",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 222,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 25
+    }
+  }
+}

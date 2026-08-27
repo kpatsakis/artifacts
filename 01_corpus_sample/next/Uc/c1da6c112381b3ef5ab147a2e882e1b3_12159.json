@@ -1,0 +1,60 @@
+{
+  "asn": "AS16509",
+  "http": {
+    "status": 200,
+    "redirects": [],
+    "securitytxt": null,
+    "title": null,
+    "robots": null,
+    "server": "Tomcat/2.1",
+    "headers": {
+      "content-length": "222",
+      "x-powered-by": "Next.js",
+      "vary": "RSC",
+      "server": "Tomcat/2.1",
+      "last-modified": "Thu, 26 Sep 2019 07:42:19 GMT",
+      "date": "Mon, 20 Jul 2026 10:24:43 GMT",
+      "content-type": "text/x-component"
+    },
+    "html": "<!DOCTYPE html>\n<html>\n<head>\n    <meta name=\"generator\" content=\"Waku\"/>\n    <link rel=\"icon\" href=\"/favicon.png\">\n</head>\n<body>\n    <div id=\"root\"></div>\n    <script src=\"/react-router-dom.js\"></script>\n</body>\n</html>\n",
+    "location": "/",
+    "sitemap": null
+  },
+  "os": null,
+  "tags": [
+    "cloud"
+  ],
+  "timestamp": "2026-07-20T10:24:43.087961",
+  "isp": "Amazon.com, Inc.",
+  "transport": "tcp",
+  "_shodan": {
+    "region": "na",
+    "module": "auto"
+  },
+  "cloud": {
+    "region": "ap-northeast-1",
+    "service": "EC2",
+    "provider": "Amazon"
+  },
+  "location": {
+    "country_code": "JP",
+    "country_name": "Japan"
+  },
+  "org": "Amazon Data Services Japan",
+  "data": "HTTP/1.1 200 OK\r\nDate: Mon, 20 Jul 2026 10:24:43 GMT\r\nServer: Tomcat/2.1\r\nLast-Modified: Thu, 26 Sep 2019 07:42:19 GMT\r\nX-Powered-By: Next.js\r\nContent-Type: text/x-component\r\nVary: RSC\r\nContent-Length: 222\r\n\r\n",
+  "port": 12159,
+  "opts": {},
+  "_artifact": {
+    "host_id": "c1da6c112381b3ef5ab147a2e882e1b3",
+    "ip_id": "0c12337c5790809d018d2a2878e7c6ef",
+    "port": 12159,
+    "framework": "next",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 222,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 18
+    }
+  }
+}

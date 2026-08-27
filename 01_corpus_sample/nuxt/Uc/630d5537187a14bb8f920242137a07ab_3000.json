@@ -1,0 +1,56 @@
+{
+  "asn": "AS200000",
+  "http": {
+    "status": 200,
+    "redirects": [
+      {
+        "data": "HTTP/1.1 302 Found\r\nset-cookie: i18n_redirected=uk; Max-Age=31536000; Path=/; SameSite=Lax\r\nlocation: /uk\r\ncontent-type: text/html\r\nDate: Mon, 20 Jul 2026 17:57:10 GMT\r\nConnection: keep-alive\r\nKeep-Alive: timeout=5\r\nContent-Length: 89\r\n\r\n",
+        "location": "/"
+      }
+    ],
+    "securitytxt": null,
+    "title": " FinFlow",
+    "robots": null,
+    "server": null,
+    "headers": {
+      "content-length": "1551",
+      "x-powered-by": "Nuxt",
+      "keep-alive": "timeout=5",
+      "connection": "keep-alive",
+      "date": "Mon, 20 Jul 2026 17:57:11 GMT",
+      "content-type": "text/html;charset=utf-8"
+    },
+    "html": "<!DOCTYPE html><html><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"><link rel=\"stylesheet\" href=\"/_nuxt/entry.Bsgso9eO.css\" crossorigin><link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/CQMxVecI.js\"><script type=\"module\" src=\"/_nuxt/CQMxVecI.js\" crossorigin></script><title> FinFlow</title><script id=\"unhead:payload\" type=\"application/json\">{\"titleTemplate\":\"%s FinFlow\"}</script></head><body><div id=\"__nuxt\"></div><div id=\"teleports\"></div><script>window.__NUXT__={};window.__NUXT__.config={public:{apiUrl:\"https://api.finflow.com.ua/api\",i18n:{baseUrl:\"\",defaultLocale:\"uk\",rootRedirect:\"\",redirectStatusCode:302,skipSettingLocaleOnNavigate:false,locales:[{code:\"uk\",iso:\"uk-UA\",language:\"\"},{code:\"en\",iso:\"en-US\",language:\"\"}],detectBrowserLanguage:{alwaysRedirect:false,cookieCrossOrigin:false,cookieDomain:\"\",cookieKey:\"i18n_redirected\",cookieSecure:false,fallbackLocale:\"\",redirectOn:\"root\",useCookie:true},experimental:{localeDetector:\"\",typedPages:true,typedOptionsAndMessages:false,alternateLinkCanonicalQueries:true,devCache:false,cacheLifetime:\"\",stripMessagesPayload:false,preload:false,strictSeo:false,nitroContextDetection:true,httpCacheDuration:10,compactRoutes:false},domainLocales:{uk:{domain:\"\"},en:{domain:\"\"}}}},app:{baseURL:\"/\",buildId:\"78788645-841e-4ea7-b2b8-2420c5777489\",buildAssetsDir:\"/_nuxt/\",cdnURL:\"\"}}</script><script type=\"application/json\" data-nuxt-data=\"nuxt-app\" data-ssr=\"false\" id=\"__NUXT_DATA__\">[{\"serverRendered\":1},false]</script></body></html>",
+    "location": "/uk",
+    "sitemap": null
+  },
+  "os": null,
+  "timestamp": "2026-07-20T17:57:11.193262",
+  "isp": "Hosting Ukraine LTD",
+  "transport": "tcp",
+  "_shodan": {
+    "region": "na",
+    "module": "http-simple-new"
+  },
+  "location": {
+    "country_code": "UA",
+    "country_name": "Ukraine"
+  },
+  "org": "Hosting Ukraine LTD",
+  "data": "HTTP/1.1 200 OK\r\ncontent-type: text/html;charset=utf-8\r\nx-powered-by: Nuxt\r\nDate: Mon, 20 Jul 2026 17:57:11 GMT\r\nConnection: keep-alive\r\nKeep-Alive: timeout=5\r\nContent-Length: 1551\r\n\r\n",
+  "port": 3000,
+  "opts": {},
+  "_artifact": {
+    "host_id": "630d5537187a14bb8f920242137a07ab",
+    "ip_id": "30d323f9b2ebd0b73c28f4d61c54cbd0",
+    "port": 3000,
+    "framework": "nuxt",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 1551,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 20
+    }
+  }
+}

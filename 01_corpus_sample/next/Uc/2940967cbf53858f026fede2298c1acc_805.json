@@ -1,0 +1,60 @@
+{
+  "asn": "AS16509",
+  "http": {
+    "status": 200,
+    "redirects": [],
+    "securitytxt": null,
+    "title": null,
+    "robots": null,
+    "server": "Cleo LexiCom/5.8.0.21 (Linux)",
+    "headers": {
+      "content-length": "222",
+      "x-powered-by": "Next.js",
+      "vary": "RSC",
+      "server": "Cleo LexiCom/5.8.0.21 (Linux)",
+      "last-modified": "Sat, 26 Aug 2017 14:19:44 GMT",
+      "date": "Sun, 26 Jul 2026 10:59:48 GMT",
+      "content-type": "text/x-component"
+    },
+    "html": "<!DOCTYPE html>\n<html>\n<head>\n    <meta name=\"generator\" content=\"Waku\"/>\n    <link rel=\"icon\" href=\"/favicon.png\">\n</head>\n<body>\n    <div id=\"root\"></div>\n    <script src=\"/react-router-dom.js\"></script>\n</body>\n</html>\n",
+    "location": "/",
+    "sitemap": null
+  },
+  "os": null,
+  "tags": [
+    "cloud"
+  ],
+  "timestamp": "2026-07-26T11:05:10.457199",
+  "isp": "Amazon.com, Inc.",
+  "transport": "tcp",
+  "_shodan": {
+    "region": "na",
+    "module": "auto"
+  },
+  "cloud": {
+    "region": "ca-central-1",
+    "service": "EC2",
+    "provider": "Amazon"
+  },
+  "location": {
+    "country_code": "CA",
+    "country_name": "Canada"
+  },
+  "org": "Amazon Data Services Canada",
+  "data": "HTTP/1.1 200 OK\r\nDate: Sun, 26 Jul 2026 10:59:48 GMT\r\nServer: Cleo LexiCom/5.8.0.21 (Linux)\r\nLast-Modified: Sat, 26 Aug 2017 14:19:44 GMT\r\nX-Powered-By: Next.js\r\nContent-Type: text/x-component\r\nVary: RSC\r\nContent-Length: 222\r\n\r\n",
+  "port": 805,
+  "opts": {},
+  "_artifact": {
+    "host_id": "2940967cbf53858f026fede2298c1acc",
+    "ip_id": "7c6c05de29c46c5e1a949ebe6f58c077",
+    "port": 805,
+    "framework": "next",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 222,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 18
+    }
+  }
+}

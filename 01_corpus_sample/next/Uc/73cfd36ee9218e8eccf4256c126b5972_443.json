@@ -1,0 +1,70 @@
+{
+  "asn": "AS16509",
+  "http": {
+    "status": 200,
+    "redirects": [
+      {
+        "data": "HTTP/1.1 307 Temporary Redirect\r\nDate: Mon, 03 Aug 2026 05:35:28 GMT\r\nTransfer-Encoding: chunked\r\nConnection: keep-alive\r\nlocation: /login\r\n\r\n",
+        "location": "/"
+      }
+    ],
+    "securitytxt": null,
+    "title": "PointerStock",
+    "robots": null,
+    "headers": {
+      "x-powered-by": "Next.js",
+      "transfer-encoding": "chunked",
+      "vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Accept-Encoding",
+      "connection": "keep-alive",
+      "link": "</_next/static/media/24f6ebe2756575bd-s.p.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\"",
+      "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
+      "date": "Mon, 03 Aug 2026 05:35:29 GMT",
+      "content-type": "text/html; charset=utf-8"
+    },
+    "html": "<!DOCTYPE html><html lang=\"ja\" class=\"font-sans __variable_7afcbf\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"stylesheet\" href=\"/_next/static/css/e37aa7c089936842.css\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/css/681fdd3936de2f1a.css\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/webpack-2fdad4483a0baf26.js\"/><script src=\"/_next/static/chunks/fd9d1056-9e191f0896c1d560.js\" async=\"\"></script><script src=\"/_next/static/chunks/117-c5f79dd8daee37b2.js\" async=\"\"></script><script src=\"/_next/static/chunks/main-app-6fca1515cee9a03c.js\" async=\"\"></script><script src=\"/_next/static/chunks/569-03c61728df513c32.js\" async=\"\"></script><script src=\"/_next/static/chunks/app/login/page-143e70d0132c1c8a.js\" async=\"\"></script><script src=\"/_next/static/chunks/8-55bc9804ab1eec72.js\" async=\"\"></script><script src=\"/_next/static/chunks/972-16bfd0974071fead.js\" async=\"\"></script><script src=\"/_next/static/chunks/app/layout-ffce1723e9d6f0ae.js\" async=\"\"></script><script src=\"/_next/static/chunks/app/error-d3969b5a61342b81.js\" async=\"\"></script><script src=\"/_next/static/chunks/app/not-found-e18000c5e7fd8604.js\" async=\"\"></script><title>PointerStock</title><meta name=\"description\" content=\"ポインターシューズ 在庫可視化・管理ツール\"/><meta name=\"next-size-adjust\"/><script src=\"/_next/static/chunks/polyfills-42372ed130431b0a.js\" noModule=\"\"></script></head><body class=\"font-sans antialiased\"><div class=\"min-h-screen flex items-center justify-center bg-[#F8F9FA]\"><div class=\"w-full max-w-md\"><div class=\"bg-white rounded-lg shadow-md p-8\"><div class=\"text-center mb-8\"><h1 class=\"text-3xl font-bold text-navy\">PointerStock</h1><p class=\"text-muted-foreground mt-2\">在庫可視化・管理ツール</p></div><form class=\"space-y-4\"><div><label for=\"loginId\" class=\"block text-sm font-medium mb-1\">ID</label><input id=\"loginId\" type=\"text\" class=\"w-full px-3 py-2 border border-input rounded-md focus:outline-none focus:ring-2 focus:ring-ring\" placeholder=\"ログインIDを入力\" required=\"\" value=\"\"/></div><div><label for=\"password\" class=\"block text-sm font-medium mb-1\">パスワード</label><input id=\"password\" type=\"password\" class=\"w-full px-3 py-2 border border-input rounded-md focus:outline-none focus:ring-2 focus:ring-ring\" placeholder=\"パスワードを入力\" required=\"\" value=\"\"/></div><button class=\"inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg]:size-4 [&amp;_svg]:shrink-0 bg-primary text-primary-foreground hover:bg-primary/90 h-10 px-4 py-2 w-full\" type=\"submit\">ログイン</button></form></div></div></div><div role=\"region\" aria-label=\"Notifications (F8)\" tabindex=\"-1\" style=\"pointer-events:none\"><ol tabindex=\"-1\" class=\"fixed top-0 z-[100] flex max-h-screen w-full flex-col-reverse p-4 sm:bottom-0 sm:right-0 sm:top-auto sm:flex-col md:max-w-[420px]\"></ol></div><script src=\"/_next/static/chunks/webpack-2fdad4483a0baf26.js\" async=\"\"></script><script>(self.__next_f=self.__next_f||[]).push([0]);self.__next_f.push([2,null])</script><script>self.__next_f.push([1,\"1:HL[\\\"/_next/static/media/24f6ebe2756575bd-s.p.woff2\\\",\\\"font\\\",{\\\"crossOrigin\\\":\\\"\\\",\\\"type\\\":\\\"font/woff2\\\"}]\\n2:HL[\\\"/_next/static/css/e37aa7c089936842.css\\\",\\\"style\\\"]\\n3:HL[\\\"/_next/static/css/681fdd3936de2f1a.css\\\",\\\"style\\\"]\\n\"])</script><script>self.__next_f.push([1,\"4:I[2846,[],\\\"\\\"]\\n6:I[9107,[],\\\"ClientPageRoot\\\"]\\n7:I[8991,[\\\"569\\\",\\\"static/chunks/569-03c61728df513c32.js\\\",\\\"626\\\",\\\"static/chunks/app/login/page-143e70d0132c1c8a.js\\\"],\\\"default\\\",1]\\n8:I[4707,[],\\\"\\\"]\\n9:I[6423,[],\\\"\\\"]\\na:I[8100,[\\\"569\\\",\\\"static/chunks/569-03c61728df513c32.js\\\",\\\"8\\\",\\\"static/chunks/8-55bc9804ab1eec72.js\\\",\\\"972\\\",\\\"static/chunks/972-16bfd0974071fead.js\\\",\\\"185\\\",\\\"static/chunks/app/layout-ffce1723e9d6f0ae.js\\\"],\\\"UserProvider\\\"]\\nb:I[376,[\\\"569\\\",\\\"static/chunks/569-03c61728df513c32.js\\\",\\\"601\\\",\\\"static/chunks/app/error-d3969b5a61342b81.js\\\"],\\\"default\\\"]\\nc:I[2972,[\\\"972\\\",\\\"static/chunks/972-16bfd0974071fead.js\\\",\\\"160\\\",\\\"static/chunks/app/not-found-e18000c5e7fd8604.js\\\"],\\\"\\\"]\\nd:I[1830,[\\\"569\\\",\\\"static/chunks/569-03c61728df513c32.js\\\",\\\"8\\\",\\\"static/chunks/8-55bc9804ab1eec72.js\\\",\\\"972\\\",\\\"static/chunks/972-16bfd0974071fead.js\\\",\\\"185\\\",\\\"static/chunks/app/layout-ffce1723e9d6f0ae.js\\\"],\\\"Toaster\\\"]\\nf:I[1060,[],\\\"\\\"]\\n10:[]\\n0:[\\\"$\\\",\\\"$L4\\\",null,{\\\"buildId\\\":\\\"PNM0ss7Ii-mtNsmd5Qybl\\\",\\\"assetPrefix\\\":\\\"\\\",\\\"urlParts\\\":[\\\"\\\",\\\"login\\\"],\\\"initialTree\\\":[\\\"\\\",{\\\"children\\\":[\\\"login\\\",{\\\"children\\\":[\\\"__PAGE__\\\",{}]}]},\\\"$undefined\\\",\\\"$undefined\\\",true],\\\"initialSeedData\\\":[\\\"\\\",{\\\"children\\\":[\\\"login\\\",{\\\"children\\\":[\\\"__PAGE__\\\",{},[[\\\"$L5\\\",[\\\"$\\\",\\\"$L6\\\",null,{\\\"props\\\":{\\\"params\\\":{},\\\"searchParams\\\":{}},\\\"Component\\\":\\\"$7\\\"}],null],null],null]},[null,[\\\"$\\\",\\\"$L8\\\",null,{\\\"parallelRouterKey\\\":\\\"children\\\",\\\"segmentPath\\\":[\\\"children\\\",\\\"login\\\",\\\"children\\\"],\\\"error\\\":\\\"$undefined\\\",\\\"errorStyles\\\":\\\"$undefined\\\",\\\"errorScripts\\\":\\\"$undefined\\\",\\\"template\\\":[\\\"$\\\",\\\"$L9\\\",null,{}],\\\"templateStyles\\\":\\\"$undefined\\\",\\\"templateScripts\\\":\\\"$undefined\\\",\\\"notFound\\\":\\\"$undefined\\\",\\\"notFoundStyles\\\":\\\"$undefined\\\"}]],null]},[[[[\\\"$\\\",\\\"link\\\",\\\"0\\\",{\\\"rel\\\":\\\"stylesheet\\\",\\\"href\\\":\\\"/_next/static/css/e37aa7c089936842.css\\\",\\\"precedence\\\":\\\"next\\\",\\\"crossOrigin\\\":\\\"$undefined\\\"}],[\\\"$\\\",\\\"link\\\",\\\"1\\\",{\\\"rel\\\":\\\"stylesheet\\\",\\\"href\\\":\\\"/_next/static/css/681fdd3936de2f1a.css\\\",\\\"precedence\\\":\\\"next\\\",\\\"crossOrigin\\\":\\\"$undefined\\\"}]],[\\\"$\\\",\\\"html\\\",null,{\\\"lang\\\":\\\"ja\\\",\\\"className\\\":\\\"font-sans __variable_7afcbf\\\",\\\"children\\\":[\\\"$\\\",\\\"body\\\",null,{\\\"className\\\":\\\"font-sans antialiased\\\",\\\"children\\\":[[\\\"$\\\",\\\"$La\\\",null,{\\\"user\\\":null,\\\"children\\\":[\\\"\"])</script><script>self.__next_f.push([1,\"$\\\",\\\"$L8\\\",null,{\\\"parallelRouterKey\\\":\\\"children\\\",\\\"segmentPath\\\":[\\\"children\\\"],\\\"error\\\":\\\"$b\\\",\\\"errorStyles\\\":[],\\\"errorScripts\\\":[],\\\"template\\\":[\\\"$\\\",\\\"$L9\\\",null,{}],\\\"templateStyles\\\":\\\"$undefined\\\",\\\"templateScripts\\\":\\\"$undefined\\\",\\\"notFound\\\":[\\\"$\\\",\\\"div\\\",null,{\\\"className\\\":\\\"flex flex-col items-center justify-center min-h-[60vh] gap-4\\\",\\\"children\\\":[[\\\"$\\\",\\\"h1\\\",null,{\\\"className\\\":\\\"text-6xl font-bold text-muted-foreground\\\",\\\"children\\\":\\\"404\\\"}],[\\\"$\\\",\\\"p\\\",null,{\\\"className\\\":\\\"text-lg text-muted-foreground\\\",\\\"children\\\":\\\"ページが見つかりません\\\"}],[\\\"$\\\",\\\"$Lc\\\",null,{\\\"href\\\":\\\"/\\\",\\\"className\\\":\\\"text-sm text-primary underline hover:no-underline\\\",\\\"children\\\":\\\"ダッシュボードに戻る\\\"}]]}],\\\"notFoundStyles\\\":[]}]}],[\\\"$\\\",\\\"$Ld\\\",null,{}]]}]}]],null],null],\\\"couldBeIntercepted\\\":false,\\\"initialHead\\\":[null,\\\"$Le\\\"],\\\"globalErrorComponent\\\":\\\"$f\\\",\\\"missingSlots\\\":\\\"$W10\\\"}]\\n\"])</script><script>self.__next_f.push([1,\"e:[[\\\"$\\\",\\\"meta\\\",\\\"0\\\",{\\\"name\\\":\\\"viewport\\\",\\\"content\\\":\\\"width=device-width, initial-scale=1\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"1\\\",{\\\"charSet\\\":\\\"utf-8\\\"}],[\\\"$\\\",\\\"title\\\",\\\"2\\\",{\\\"children\\\":\\\"PointerStock\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"3\\\",{\\\"name\\\":\\\"description\\\",\\\"content\\\":\\\"ポインターシューズ 在庫可視化・管理ツール\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"4\\\",{\\\"name\\\":\\\"next-size-adjust\\\"}]]\\n5:null\\n\"])</script></body></html>",
+    "location": "/login",
+    "server": null,
+    "sitemap": null
+  },
+  "os": null,
+  "tags": [
+    "cloud"
+  ],
+  "timestamp": "2026-08-03T05:35:29.370218",
+  "isp": "Amazon.com, Inc.",
+  "transport": "tcp",
+  "_shodan": {
+    "region": "",
+    "module": "https"
+  },
+  "cloud": {
+    "region": "ap-northeast-1",
+    "service": "EC2",
+    "provider": "Amazon"
+  },
+  "location": {
+    "country_code": "JP",
+    "country_name": "Japan"
+  },
+  "org": "Amazon Data Services Japan",
+  "data": "HTTP/1.1 200 OK\r\nDate: Mon, 03 Aug 2026 05:35:29 GMT\r\nContent-Type: text/html; charset=utf-8\r\nTransfer-Encoding: chunked\r\nConnection: keep-alive\r\nVary: RSC, Next-Router-State-Tree, Next-Router-Prefetch, Accept-Encoding\r\nlink: </_next/static/media/24f6ebe2756575bd-s.p.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\"\r\nX-Powered-By: Next.js\r\nCache-Control: private, no-cache, no-store, max-age=0, must-revalidate\r\n\r\n",
+  "port": 443,
+  "opts": {
+    "vulns": [],
+    "heartbleed": "2026/08/03 05:35:39 [ip-redacted]:443 - ERROR: write tcp [ip-redacted]:443: broken pipe\n"
+  },
+  "_artifact": {
+    "host_id": "73cfd36ee9218e8eccf4256c126b5972",
+    "ip_id": "4678ececc28350042d8afd3fbc1a6ad4",
+    "port": 443,
+    "framework": "next",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 7303,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 25,
+      "ip": 2
+    }
+  }
+}

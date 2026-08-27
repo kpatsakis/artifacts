@@ -1,0 +1,62 @@
+{
+  "http": {
+    "status": 200,
+    "redirects": [
+      {
+        "data": "HTTP/1.1 302 Found\r\nContent-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; connect-src 'self'; font-src 'self'; frame-ancestors 'none'; object-src 'none'; base-uri 'self'; form-action 'self'; worker-src 'self' blob:\r\nX-Content-Type-Options: nosniff\r\nX-Frame-Options: DENY\r\nReferrer-Policy: strict-origin-when-cross-origin\r\nPermissions-Policy: camera=(), microphone=(), geolocation=()\r\nStrict-Transport-Security: max-age=31536000; includeSubDomains\r\nset-cookie: i18n_locale=de; Path=/; Expires=Mon, 26 Jul 2027 20:07:52 GMT; SameSite=Lax\r\nlocation: /login?redirect=/\r\ncontent-type: text/html\r\nDate: Sun, 26 Jul 2026 20:07:52 GMT\r\nConnection: keep-alive\r\nKeep-Alive: timeout=5\r\nContent-Length: 103\r\n\r\n",
+        "location": "/"
+      }
+    ],
+    "securitytxt": null,
+    "title": null,
+    "robots": null,
+    "server": null,
+    "headers": {
+      "content-length": "3415",
+      "content-security-policy": "default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; connect-src 'self'; font-src 'self'; frame-ancestors 'none'; object-src 'none'; base-uri 'self'; form-action 'self'; worker-src 'self' blob:",
+      "x-content-type-options": "nosniff",
+      "x-powered-by": "Nuxt",
+      "set-cookie": "i18n_locale=de; Path=/; Expires=Mon, 26 Jul 2027 20:07:53 GMT; SameSite=Lax",
+      "strict-transport-security": "max-age=31536000; includeSubDomains",
+      "keep-alive": "timeout=5",
+      "connection": "keep-alive",
+      "date": "Sun, 26 Jul 2026 20:07:53 GMT",
+      "x-frame-options": "DENY",
+      "referrer-policy": "strict-origin-when-cross-origin",
+      "content-type": "text/html;charset=utf-8",
+      "permissions-policy": "camera=(), microphone=(), geolocation=()"
+    },
+    "html": "<!DOCTYPE html><html  class=\"dark\"><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"><link rel=\"stylesheet\" href=\"/_nuxt/entry.CFDuxw6c.css\" crossorigin><link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/BT0fcsft.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/BovZ9vsp.js\"><script type=\"module\" src=\"/_nuxt/BT0fcsft.js\" crossorigin></script></head><body><div id=\"__nuxt\"><!--[--><div class=\"min-h-screen flex items-center justify-center bg-background\"><div class=\"w-full max-w-sm space-y-6 p-6\"><div class=\"text-center space-y-2\"><h1 class=\"text-2xl font-bold\">Anmelden</h1><p class=\"text-sm text-muted-foreground\">Offers System</p></div><form class=\"space-y-4\"><div class=\"space-y-2\"><label for=\"email\" class=\"text-sm font-medium\">E-Mail</label><input id=\"email\" value=\"\" type=\"email\" required autocomplete=\"email\" class=\"flex h-10 w-full rounded-md border border-input bg-background px-3 py-2 text-sm ring-offset-background placeholder:text-muted-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring\" placeholder=\"E-Mail\"></div><div class=\"space-y-2\"><label for=\"password\" class=\"text-sm font-medium\">Passwort</label><input id=\"password\" value=\"\" type=\"password\" required autocomplete=\"current-password\" class=\"flex h-10 w-full rounded-md border border-input bg-background px-3 py-2 text-sm ring-offset-background placeholder:text-muted-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring\" placeholder=\"Passwort\"></div><!----><button type=\"submit\" class=\"inline-flex w-full items-center justify-center rounded-md bg-primary px-4 py-2 text-sm font-medium text-primary-foreground hover:bg-primary/90 disabled:opacity-50\">Anmelden</button></form></div></div><!--]--></div><div id=\"teleports\"></div><script>window.__NUXT__={};window.__NUXT__.config={public:{directusUrl:\"/api/directus\",minioUrl:\"http://localhost:9000\",i18n:{baseUrl:\"\",defaultLocale:\"de\",rootRedirect:\"\",redirectStatusCode:302,skipSettingLocaleOnNavigate:false,locales:[{code:\"de\",language:\"de-CH\",name:\"Deutsch\"},{code:\"en\",language:\"en-US\",name:\"English\"},{code:\"fr\",language:\"fr-CH\",name:\"Français\"}],detectBrowserLanguage:{alwaysRedirect:false,cookieCrossOrigin:false,cookieDomain:\"\",cookieKey:\"i18n_locale\",cookieSecure:false,fallbackLocale:\"de\",redirectOn:\"root\",useCookie:true},experimental:{localeDetector:\"\",typedPages:true,typedOptionsAndMessages:false,alternateLinkCanonicalQueries:true,devCache:false,cacheLifetime:\"\",stripMessagesPayload:false,preload:false,strictSeo:false,nitroContextDetection:true,httpCacheDuration:10},domainLocales:{de:{domain:\"\"},en:{domain:\"\"},fr:{domain:\"\"}}}},app:{baseURL:\"/\",buildId:\"a45dcfd8-0c9e-481a-846d-0c2f1d5f7044\",buildAssetsDir:\"/_nuxt/\",cdnURL:\"\"}}</script><script type=\"application/json\" data-nuxt-data=\"nuxt-app\" data-ssr=\"true\" id=\"__NUXT_DATA__\">[[\"ShallowReactive\",1],{\"data\":2,\"state\":4,\"once\":15,\"_errors\":16,\"serverRendered\":9,\"path\":18,\"pinia\":19},[\"ShallowReactive\",3],{},[\"Reactive\",5],{\"$si18n:cached-locale-configs\":6,\"$si18n:resolved-locale\":14},{\"de\":7,\"en\":10,\"fr\":12},{\"fallbacks\":8,\"cacheable\":9},[],true,{\"fallbacks\":11,\"cacheable\":9},[],{\"fallbacks\":13,\"cacheable\":9},[],\"\",[\"Set\"],[\"ShallowReactive\",17],{},\"/login?redirect=/\",{\"auth\":20},{\"user\":21,\"isAuthenticated\":22,\"authError\":21,\"_refreshing\":22},null,false]</script></body></html>",
+    "location": "/login?redirect=/",
+    "sitemap": null
+  },
+  "os": null,
+  "timestamp": "2026-07-26T20:07:53.141244",
+  "isp": null,
+  "transport": "tcp",
+  "_shodan": {
+    "region": "eu",
+    "module": "http-simple-new"
+  },
+  "location": {
+    "country_code": "GB",
+    "country_name": "United Kingdom"
+  },
+  "org": "EE Limited",
+  "data": "HTTP/1.1 200 OK\r\nContent-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; connect-src 'self'; font-src 'self'; frame-ancestors 'none'; object-src 'none'; base-uri 'self'; form-action 'self'; worker-src 'self' blob:\r\nX-Content-Type-Options: nosniff\r\nX-Frame-Options: DENY\r\nReferrer-Policy: strict-origin-when-cross-origin\r\nPermissions-Policy: camera=(), microphone=(), geolocation=()\r\nStrict-Transport-Security: max-age=31536000; includeSubDomains\r\nset-cookie: i18n_locale=de; Path=/; Expires=Mon, 26 Jul 2027 20:07:53 GMT; SameSite=Lax\r\ncontent-type: text/html;charset=utf-8\r\nx-powered-by: Nuxt\r\nDate: Sun, 26 Jul 2026 20:07:53 GMT\r\nConnection: keep-alive\r\nKeep-Alive: timeout=5\r\nContent-Length: 3415\r\n\r\n",
+  "port": 3000,
+  "opts": {},
+  "_artifact": {
+    "host_id": "6f33b677aef0819f49403830458da80d",
+    "ip_id": "3bc289fe3c445a9ebcb7aa4787edcc82",
+    "port": 3000,
+    "framework": "nuxt",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 3414,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 20
+    }
+  }
+}

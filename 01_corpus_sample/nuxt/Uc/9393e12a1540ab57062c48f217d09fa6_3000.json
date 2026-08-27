@@ -1,0 +1,51 @@
+{
+  "asn": "AS31034",
+  "http": {
+    "status": 200,
+    "redirects": [],
+    "securitytxt": null,
+    "title": "Нейросети 2026: Приручи технологии будущего",
+    "robots": null,
+    "headers": {
+      "content-length": "7819",
+      "x-powered-by": "Nuxt",
+      "keep-alive": "timeout=5",
+      "connection": "keep-alive",
+      "date": "Thu, 06 Aug 2026 14:26:44 GMT",
+      "content-type": "text/html;charset=utf-8"
+    },
+    "html": "<!DOCTYPE html><html><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"><title>Нейросети 2026: Приручи технологии будущего</title><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin><link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Unbounded:wght@600;700&display=swap\"><style>body{background:#05070f;color:#f8fafc;font-family:Inter,-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif;margin:0}.page[data-v-25137311]{align-items:center;display:flex;flex-direction:column;gap:14px;justify-content:center;min-height:100vh;overflow:hidden;padding:24px;position:relative}.bg[data-v-25137311]{background:radial-gradient(circle at 20% 20%,#4f46e5 0,transparent 35%),radial-gradient(circle at 80% 30%,#0ea5e9 0,transparent 35%),radial-gradient(circle at 50% 80%,#14b8a6 0,transparent 32%);filter:blur(28px);inset:-25%;position:absolute}.card[data-v-25137311]{-webkit-backdrop-filter:blur(14px);backdrop-filter:blur(14px);background:#0f172a73;border:1px solid rgba(148,163,184,.22);border-radius:22px;box-shadow:0 20px 60px #02061773;padding:32px;position:relative;width:min(700px,100%)}.page-title[data-v-25137311]{background:linear-gradient(180deg,#ffffffd9,#cbd5e159);-webkit-background-clip:text;background-clip:text;color:transparent;font-family:Unbounded,Inter,-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif;font-size:clamp(30px,5vw,56px);letter-spacing:.4px;line-height:1.05;margin:0;text-align:center;text-shadow:0 8px 28px rgba(15,23,42,.45)}h2[data-v-25137311]{font-size:clamp(28px,4vw,42px);margin:0}.subtitle[data-v-25137311]{margin-top:8px;opacity:.9}.meta[data-v-25137311]{line-height:1.6;margin:20px 0 0;padding-left:18px}.form[data-v-25137311]{gap:14px;margin-top:24px}.form[data-v-25137311],label[data-v-25137311]{display:grid}label[data-v-25137311]{font-size:14px;gap:8px}input[data-v-25137311]{background:#1e293b73;border:1px solid rgba(148,163,184,.3);border-radius:12px;color:#fff;outline:none;padding:12px 14px}input[data-v-25137311]:focus{border-color:#38bdf8d9}.submit-btn[data-v-25137311]{-webkit-backdrop-filter:blur(8px);backdrop-filter:blur(8px);background:linear-gradient(110deg,#22d3eed9,#67e8f9b8 48%,#2dd4bfd1);border:1px solid hsla(0,0%,100%,.24);border-radius:14px;box-shadow:0 14px 34px #22d3ee3d,inset 0 1px #ffffff59;color:#fff;cursor:pointer;font-size:22px;font-weight:800;letter-spacing:.2px;margin-top:8px;padding:14px 18px;transition:transform .16s ease,box-shadow .2s ease,filter .2s ease,background .24s ease}.submit-btn[data-v-25137311]:hover{box-shadow:0 18px 38px #22d3ee57,inset 0 1px #ffffff73;filter:saturate(1.05);transform:translateY(-1px) scale(1.01)}.submit-btn[data-v-25137311]:active{box-shadow:0 8px 18px #0ea5e947;transform:translateY(1px) scale(.995)}.submit-btn.success[data-v-25137311]{background:linear-gradient(110deg,#22c55ef2,#4ade80d9);box-shadow:0 14px 30px #22c55e52,inset 0 1px #ffffff59}.submit-btn.error[data-v-25137311]{background:linear-gradient(110deg,#ef4444eb,#fb7185d1);box-shadow:0 12px 28px #ef444447,inset 0 1px #ffffff4d}.submit-btn[data-v-25137311]:disabled{cursor:default;opacity:.9}.captcha-wrap[data-v-25137311]{margin-top:8px}.page-footer[data-v-25137311]{font-size:12px;margin-top:14px;opacity:.75;text-align:center}</style><link rel=\"stylesheet\" href=\"/_nuxt/entry.CB81dIKI.css\" crossorigin><link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/vQ6uetkO.js\"><script type=\"module\" src=\"/_nuxt/vQ6uetkO.js\" crossorigin></script><meta name=\"description\" content=\"Технологическая гонка набирает обороты. На вебинаре разберем главные тренды года и фундаментальные основы нейросетей. Узнай, как превратить ИИ из опасного конкурента в твое главное оружие.\"><meta name=\"robots\" content=\"noindex, nofollow, noarchive, nosnippet\"><meta name=\"googlebot\" content=\"noindex, nofollow\"><meta property=\"og:type\" content=\"website\"><meta property=\"og:site_name\" content=\"Лаборатория Цифровых Сотрудников\"><meta property=\"og:locale\" content=\"ru_RU\"><meta property=\"og:title\" content=\"Нейросети 2026: Приручи технологии будущего\"><meta property=\"og:description\" content=\"Технологическая гонка набирает обороты. На вебинаре разберем главные тренды года и фундаментальные основы нейросетей. Узнай, как превратить ИИ из опасного конкурента в твое главное оружие.\"><meta property=\"og:url\" content=\"https://invite.soundscript.pro/\"><meta property=\"og:image\" content=\"https://invite.soundscript.pro/og/neuro-2026-social.jpg\"><meta property=\"og:image:secure_url\" content=\"https://invite.soundscript.pro/og/neuro-2026-social.jpg\"><meta property=\"og:image:width\" content=\"1200\"><meta property=\"og:image:height\" content=\"630\"><meta name=\"twitter:card\" content=\"summary_large_image\"><meta name=\"twitter:title\" content=\"Нейросети 2026: Приручи технологии будущего\"><meta name=\"twitter:description\" content=\"Технологическая гонка набирает обороты. На вебинаре разберем главные тренды года и фундаментальные основы нейросетей. Узнай, как превратить ИИ из опасного конкурента в твое главное оружие.\"><meta name=\"twitter:image\" content=\"https://invite.soundscript.pro/og/neuro-2026-social.jpg\"><link rel=\"canonical\" href=\"https://invite.soundscript.pro/\"></head><body><div id=\"__nuxt\"><div class=\"page\" data-v-25137311><div class=\"bg\" data-v-25137311></div><h1 class=\"page-title\" data-v-25137311>Регистрация на вебинар</h1><main class=\"card\" data-v-25137311><h2 data-v-25137311>Нейросети 2026</h2><p class=\"subtitle\" data-v-25137311>Основы и современные тенденции</p><ul class=\"meta\" data-v-25137311><li data-v-25137311><b data-v-25137311>Дата и время:</b> 14 января (суббота), 18:00 МСК</li><li data-v-25137311><b data-v-25137311>Формат:</b> Zoom-конференция</li><li data-v-25137311><b data-v-25137311>Важно:</b> ссылка будет отправлена за 15 минут до начала</li></ul><form class=\"form\" data-v-25137311><label data-v-25137311> Ваше имя <input value=\"\" required minlength=\"2\" placeholder=\"Например, Иван\" data-v-25137311></label><label data-v-25137311> Ваш e-mail <input value=\"\" required type=\"email\" placeholder=\"name@example.com\" data-v-25137311></label><!----><button type=\"submit\" class=\"submit-btn\" data-v-25137311>Записаться на мероприятие</button></form></main><footer class=\"page-footer\" data-v-25137311>Сделано 🤖🇷🇺 в Лаборатории Цифровых Сотрудников.</footer></div></div><div id=\"teleports\"></div><script>window.__NUXT__={};window.__NUXT__.config={public:{siteUrl:\"https://invite.soundscript.pro\",turnstileSiteKey:\"0x4AAAAAACapbBUPgRdNeqOY\",turnstileBypass:true},app:{baseURL:\"/\",buildId:\"e7d5ee2b-7e73-4dc5-9394-b63492864f01\",buildAssetsDir:\"/_nuxt/\",cdnURL:\"\"}}</script><script type=\"application/json\" data-nuxt-data=\"nuxt-app\" data-ssr=\"true\" id=\"__NUXT_DATA__\">[[\"ShallowReactive\",1],{\"data\":2,\"state\":4,\"once\":6,\"_errors\":7,\"serverRendered\":9,\"path\":10},[\"ShallowReactive\",3],{},[\"Reactive\",5],{},[\"Set\"],[\"ShallowReactive\",8],{},true,\"/\"]</script></body></html>",
+    "location": "/",
+    "server": null,
+    "sitemap": null
+  },
+  "os": null,
+  "timestamp": "2026-08-06T14:26:44.828657",
+  "isp": "Aruba S.p.A.",
+  "transport": "tcp",
+  "_shodan": {
+    "region": "na",
+    "module": "http-simple-new"
+  },
+  "location": {
+    "country_code": "IT",
+    "country_name": "Italy"
+  },
+  "org": "Aruba S.p.A. - Dedicate server Farm2",
+  "data": "HTTP/1.1 200 OK\r\ncontent-type: text/html;charset=utf-8\r\nx-powered-by: Nuxt\r\nDate: Thu, 06 Aug 2026 14:26:44 GMT\r\nConnection: keep-alive\r\nKeep-Alive: timeout=5\r\nContent-Length: 7819\r\n\r\n",
+  "port": 3000,
+  "opts": {},
+  "_artifact": {
+    "host_id": "9393e12a1540ab57062c48f217d09fa6",
+    "ip_id": "a0d3c60b45ff410156d68c7cac2864c2",
+    "port": 3000,
+    "framework": "nuxt",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 6975,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 23
+    }
+  }
+}

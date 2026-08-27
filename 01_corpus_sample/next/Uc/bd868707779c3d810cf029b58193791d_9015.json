@@ -1,0 +1,73 @@
+{
+  "http": {
+    "redirects": [],
+    "securitytxt": null,
+    "title": null,
+    "html": "<!DOCTYPE html>\n<html>\n<head>\n    <meta name=\"generator\" content=\"Waku\"/>\n    <link rel=\"icon\" href=\"/favicon.png\">\n</head>\n<body>\n    <div id=\"root\"></div>\n    <script src=\"/react-router-dom.js\"></script>\n</body>\n</html>\n",
+    "location": "/",
+    "status": 200,
+    "robots": null,
+    "components_hash": -1708940428,
+    "server": "Apache/2",
+    "headers": {
+      "content-length": "222",
+      "x-powered-by": "Next.js",
+      "vary": "RSC",
+      "server": "Apache/2",
+      "last-modified": "Fri, 13 Jun 2025 13:06:32 GMT",
+      "date": "Sat, 01 Aug 2026 02:10:22 GMT",
+      "content-type": "text/x-component"
+    },
+    "sitemap": null
+  },
+  "port": 9015,
+  "transport": "tcp",
+  "cpe23_hash": 1131034987,
+  "cloud": {
+    "region": "mx-central-1",
+    "service": "EC2",
+    "provider": "Amazon"
+  },
+  "location": {
+    "country_code": "MX",
+    "country_name": "Mexico"
+  },
+  "product": "FRITZ!Box",
+  "tags": [
+    "cloud"
+  ],
+  "timestamp": "2026-08-01T02:10:22.900608",
+  "org": "Amazon Data Services Mexico",
+  "data": "HTTP/1.1 200 OK\r\nDate: Sat, 01 Aug 2026 02:10:22 GMT\r\nServer: Apache/2\r\nLast-Modified: Fri, 13 Jun 2025 13:06:32 GMT\r\nX-Powered-By: Next.js\r\nContent-Type: text/x-component\r\nVary: RSC\r\nContent-Length: 222\r\n\r\n",
+  "asn": "AS16509",
+  "cpe23": [
+    "cpe:2.3:a:apache:http_server:2",
+    "cpe:2.3:a:facebook:react",
+    "cpe:2.3:a:vercel:next.js"
+  ],
+  "isp": "Amazon.com, Inc.",
+  "cpe": [
+    "cpe:/a:apache:http_server:2",
+    "cpe:/a:facebook:react",
+    "cpe:/a:vercel:next.js"
+  ],
+  "os": null,
+  "_shodan": {
+    "region": "na",
+    "module": "auto"
+  },
+  "opts": {},
+  "_artifact": {
+    "host_id": "bd868707779c3d810cf029b58193791d",
+    "ip_id": "475daecca095fa08cd4708343df6099b",
+    "port": 9015,
+    "framework": "next",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 222,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 25
+    }
+  }
+}

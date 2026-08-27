@@ -1,0 +1,74 @@
+{
+  "asn": "AS16509",
+  "http": {
+    "status": 200,
+    "redirects": [
+      {
+        "data": "HTTP/1.1 307 Temporary Redirect\r\nDate: Mon, 27 Jul 2026 23:07:24 GMT\r\nTransfer-Encoding: chunked\r\nConnection: keep-alive\r\nlocation: /login?next=%2F\r\n\r\n",
+        "location": "/"
+      }
+    ],
+    "securitytxt": null,
+    "title": "PSG Data &amp; AI Intake",
+    "robots": null,
+    "headers": {
+      "x-powered-by": "Next.js",
+      "transfer-encoding": "chunked",
+      "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding",
+      "connection": "keep-alive",
+      "link": "</thermofisher_logo.png>; rel=preload; as=\"image\"",
+      "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
+      "date": "Mon, 27 Jul 2026 23:07:24 GMT",
+      "content-type": "text/html; charset=utf-8"
+    },
+    "html": "<!DOCTYPE html><html lang=\"en\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"stylesheet\" href=\"/_next/static/css/a357d37307f9738b.css\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/webpack-d41d62c7860c94d3.js\"/><script src=\"/_next/static/chunks/4bd1b696-f785427dddbba9fb.js\" async=\"\"></script><script src=\"/_next/static/chunks/1255-0ba3f81b37f7b414.js\" async=\"\"></script><script src=\"/_next/static/chunks/main-app-08607c612937c180.js\" async=\"\"></script><script src=\"/_next/static/chunks/app/global-error-b028a58b5de2b8f3.js\" async=\"\"></script><script src=\"/_next/static/chunks/2619-3c9e02e22d10480a.js\" async=\"\"></script><script src=\"/_next/static/chunks/app/layout-fd77d97a8528e8cc.js\" async=\"\"></script><script src=\"/_next/static/chunks/app/login/page-f615e1f0d1574ec8.js\" async=\"\"></script><title>PSG Data &amp; AI Intake</title><meta name=\"description\" content=\"PSG-wide intake funnel for data and AI capability ideas, use cases, and reviewer triage.\"/><script src=\"/_next/static/chunks/polyfills-42372ed130431b0a.js\" noModule=\"\"></script></head><body class=\"antialiased\"><div hidden=\"\"><!--$--><!--/$--></div><div class=\"mx-auto min-h-screen max-w-7xl px-4 py-8 sm:px-6 lg:px-8\"><header class=\"mb-6 flex flex-wrap items-center justify-between gap-4\"><a class=\"inline-flex items-center\" href=\"/\"><img src=\"/thermofisher_logo.png\" alt=\"Thermo Fisher Scientific\" class=\"h-auto w-28 object-contain\"/></a></header><div class=\"mb-8 h-1.5 w-28 rounded-full bg-brand-red\"></div><main class=\"mx-auto max-w-md space-y-6\"><section class=\"panel space-y-5 p-8\"><div class=\"space-y-2\"><p class=\"eyebrow badge-info\">Temporary authentication</p><h1 class=\"text-3xl font-semibold text-brand-ink\">Sign in</h1><p class=\"text-sm leading-6 text-brand-gray64\">Enter your Thermo Fisher email to continue.</p></div><form class=\"space-y-5\"><div><label class=\"field-label\" for=\"email\">Thermo Fisher Email</label><input id=\"email\" type=\"email\" autoComplete=\"email\" placeholder=\"name@thermofisher.com\" required=\"\" name=\"email\" value=\"\"/></div><input type=\"hidden\" name=\"next\" value=\"/\"/><button type=\"submit\" class=\"btn-primary w-full justify-center\">Sign in</button></form></section></main><!--$--><!--/$--></div><script src=\"/_next/static/chunks/webpack-d41d62c7860c94d3.js\" id=\"_R_\" async=\"\"></script><script>(self.__next_f=self.__next_f||[]).push([0])</script><script>self.__next_f.push([1,\"1:\\\"$Sreact.fragment\\\"\\n3:I[9766,[],\\\"\\\"]\\n4:I[8924,[],\\\"\\\"]\\n6:I[4431,[],\\\"OutletBoundary\\\"]\\n8:I[5278,[],\\\"AsyncMetadataOutlet\\\"]\\na:I[4431,[],\\\"ViewportBoundary\\\"]\\nc:I[4431,[],\\\"MetadataBoundary\\\"]\\nd:\\\"$Sreact.suspense\\\"\\nf:I[8731,[\\\"4219\\\",\\\"static/chunks/app/global-error-b028a58b5de2b8f3.js\\\"],\\\"default\\\"]\\n10:I[4647,[\\\"2619\\\",\\\"static/chunks/2619-3c9e02e22d10480a.js\\\",\\\"7177\\\",\\\"static/chunks/app/layout-fd77d97a8528e8cc.js\\\"],\\\"AuthProvider\\\"]\\n11:I[2235,[\\\"2619\\\",\\\"static/chunks/2619-3c9e02e22d10480a.js\\\",\\\"7177\\\",\\\"static/chunks/app/layout-fd77d97a8528e8cc.js\\\"],\\\"AppShell\\\"]\\n12:I[3331,[\\\"4520\\\",\\\"static/chunks/app/login/page-f615e1f0d1574ec8.js\\\"],\\\"LoginForm\\\"]\\n:HL[\\\"/_next/static/css/a357d37307f9738b.css\\\",\\\"style\\\"]\\n\"])</script><script>self.__next_f.push([1,\"0:{\\\"P\\\":null,\\\"b\\\":\\\"rxAJ0ZMpxsSsoTTPsbVpc\\\",\\\"p\\\":\\\"\\\",\\\"c\\\":[\\\"\\\",\\\"login?next=%2F\\\"],\\\"i\\\":false,\\\"f\\\":[[[\\\"\\\",{\\\"children\\\":[\\\"login\\\",{\\\"children\\\":[\\\"__PAGE__?{\\\\\\\"next\\\\\\\":\\\\\\\"/\\\\\\\"}\\\",{}]}]},\\\"$undefined\\\",\\\"$undefined\\\",true],[\\\"\\\",[\\\"$\\\",\\\"$1\\\",\\\"c\\\",{\\\"children\\\":[[[\\\"$\\\",\\\"link\\\",\\\"0\\\",{\\\"rel\\\":\\\"stylesheet\\\",\\\"href\\\":\\\"/_next/static/css/a357d37307f9738b.css\\\",\\\"precedence\\\":\\\"next\\\",\\\"crossOrigin\\\":\\\"$undefined\\\",\\\"nonce\\\":\\\"$undefined\\\"}]],\\\"$L2\\\"]}],{\\\"children\\\":[\\\"login\\\",[\\\"$\\\",\\\"$1\\\",\\\"c\\\",{\\\"children\\\":[null,[\\\"$\\\",\\\"$L3\\\",null,{\\\"parallelRouterKey\\\":\\\"children\\\",\\\"error\\\":\\\"$undefined\\\",\\\"errorStyles\\\":\\\"$undefined\\\",\\\"errorScripts\\\":\\\"$undefined\\\",\\\"template\\\":[\\\"$\\\",\\\"$L4\\\",null,{}],\\\"templateStyles\\\":\\\"$undefined\\\",\\\"templateScripts\\\":\\\"$undefined\\\",\\\"notFound\\\":\\\"$undefined\\\",\\\"forbidden\\\":\\\"$undefined\\\",\\\"unauthorized\\\":\\\"$undefined\\\"}]]}],{\\\"children\\\":[\\\"__PAGE__\\\",[\\\"$\\\",\\\"$1\\\",\\\"c\\\",{\\\"children\\\":[\\\"$L5\\\",null,[\\\"$\\\",\\\"$L6\\\",null,{\\\"children\\\":[\\\"$L7\\\",[\\\"$\\\",\\\"$L8\\\",null,{\\\"promise\\\":\\\"$@9\\\"}]]}]]}],{},null,false]},null,false]},null,false],[\\\"$\\\",\\\"$1\\\",\\\"h\\\",{\\\"children\\\":[null,[[\\\"$\\\",\\\"$La\\\",null,{\\\"children\\\":\\\"$Lb\\\"}],null],[\\\"$\\\",\\\"$Lc\\\",null,{\\\"children\\\":[\\\"$\\\",\\\"div\\\",null,{\\\"hidden\\\":true,\\\"children\\\":[\\\"$\\\",\\\"$d\\\",null,{\\\"fallback\\\":null,\\\"children\\\":\\\"$Le\\\"}]}]}]]}],false]],\\\"m\\\":\\\"$undefined\\\",\\\"G\\\":[\\\"$f\\\",[]],\\\"s\\\":false,\\\"S\\\":false}\\n\"])</script><script>self.__next_f.push([1,\"2:[\\\"$\\\",\\\"html\\\",null,{\\\"lang\\\":\\\"en\\\",\\\"children\\\":[\\\"$\\\",\\\"body\\\",null,{\\\"className\\\":\\\"antialiased\\\",\\\"children\\\":[\\\"$\\\",\\\"$L10\\\",null,{\\\"initialUser\\\":null,\\\"children\\\":[\\\"$\\\",\\\"$L11\\\",null,{\\\"children\\\":[\\\"$\\\",\\\"$L3\\\",null,{\\\"parallelRouterKey\\\":\\\"children\\\",\\\"error\\\":\\\"$undefined\\\",\\\"errorStyles\\\":\\\"$undefined\\\",\\\"errorScripts\\\":\\\"$undefined\\\",\\\"template\\\":[\\\"$\\\",\\\"$L4\\\",null,{}],\\\"templateStyles\\\":\\\"$undefined\\\",\\\"templateScripts\\\":\\\"$undefined\\\",\\\"notFound\\\":[[[\\\"$\\\",\\\"title\\\",null,{\\\"children\\\":\\\"404: This page could not be found.\\\"}],[\\\"$\\\",\\\"div\\\",null,{\\\"style\\\":{\\\"fontFamily\\\":\\\"system-ui,\\\\\\\"Segoe UI\\\\\\\",Roboto,Helvetica,Arial,sans-serif,\\\\\\\"Apple Color Emoji\\\\\\\",\\\\\\\"Segoe UI Emoji\\\\\\\"\\\",\\\"height\\\":\\\"100vh\\\",\\\"textAlign\\\":\\\"center\\\",\\\"display\\\":\\\"flex\\\",\\\"flexDirection\\\":\\\"column\\\",\\\"alignItems\\\":\\\"center\\\",\\\"justifyContent\\\":\\\"center\\\"},\\\"children\\\":[\\\"$\\\",\\\"div\\\",null,{\\\"children\\\":[[\\\"$\\\",\\\"style\\\",null,{\\\"dangerouslySetInnerHTML\\\":{\\\"__html\\\":\\\"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}\\\"}}],[\\\"$\\\",\\\"h1\\\",null,{\\\"className\\\":\\\"next-error-h1\\\",\\\"style\\\":{\\\"display\\\":\\\"inline-block\\\",\\\"margin\\\":\\\"0 20px 0 0\\\",\\\"padding\\\":\\\"0 23px 0 0\\\",\\\"fontSize\\\":24,\\\"fontWeight\\\":500,\\\"verticalAlign\\\":\\\"top\\\",\\\"lineHeight\\\":\\\"49px\\\"},\\\"children\\\":404}],[\\\"$\\\",\\\"div\\\",null,{\\\"style\\\":{\\\"display\\\":\\\"inline-block\\\"},\\\"children\\\":[\\\"$\\\",\\\"h2\\\",null,{\\\"style\\\":{\\\"fontSize\\\":14,\\\"fontWeight\\\":400,\\\"lineHeight\\\":\\\"49px\\\",\\\"margin\\\":0},\\\"children\\\":\\\"This page could not be found.\\\"}]}]]}]}]],[]],\\\"forbidden\\\":\\\"$undefined\\\",\\\"unauthorized\\\":\\\"$undefined\\\"}]}]}]}]}]\\n\"])</script><script>self.__next_f.push([1,\"5:[\\\"$\\\",\\\"main\\\",null,{\\\"className\\\":\\\"mx-auto max-w-md space-y-6\\\",\\\"children\\\":[\\\"$\\\",\\\"section\\\",null,{\\\"className\\\":\\\"panel space-y-5 p-8\\\",\\\"children\\\":[[\\\"$\\\",\\\"div\\\",null,{\\\"className\\\":\\\"space-y-2\\\",\\\"children\\\":[[\\\"$\\\",\\\"p\\\",null,{\\\"className\\\":\\\"eyebrow badge-info\\\",\\\"children\\\":\\\"Temporary authentication\\\"}],[\\\"$\\\",\\\"h1\\\",null,{\\\"className\\\":\\\"text-3xl font-semibold text-brand-ink\\\",\\\"children\\\":\\\"Sign in\\\"}],[\\\"$\\\",\\\"p\\\",null,{\\\"className\\\":\\\"text-sm leading-6 text-brand-gray64\\\",\\\"children\\\":\\\"Enter your Thermo Fisher email to continue.\\\"}]]}],null,[\\\"$\\\",\\\"$L12\\\",null,{\\\"next\\\":\\\"/\\\",\\\"initialError\\\":null}]]}]}]\\nb:[[\\\"$\\\",\\\"meta\\\",\\\"0\\\",{\\\"charSet\\\":\\\"utf-8\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"1\\\",{\\\"name\\\":\\\"viewport\\\",\\\"content\\\":\\\"width=device-width, initial-scale=1\\\"}]]\\n7:null\\n9:{\\\"metadata\\\":[[\\\"$\\\",\\\"title\\\",\\\"0\\\",{\\\"children\\\":\\\"PSG Data \\u0026 AI Intake\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"1\\\",{\\\"name\\\":\\\"description\\\",\\\"content\\\":\\\"PSG-wide intake funnel for data and AI capability ideas, use cases, and reviewer triage.\\\"}]],\\\"error\\\":null,\\\"digest\\\":\\\"$undefined\\\"}\\ne:\\\"$9:metadata\\\"\\n\"])</script></body></html>",
+    "location": "/login?next=%2F",
+    "server": null,
+    "sitemap": null
+  },
+  "os": null,
+  "tags": [
+    "cloud"
+  ],
+  "transport": "tcp",
+  "timestamp": "2026-07-27T23:07:25.342755",
+  "isp": "Amazon.com, Inc.",
+  "cpe23": [
+    "cpe:2.3:a:facebook:react",
+    "cpe:2.3:a:vercel:next.js"
+  ],
+  "cpe": [
+    "cpe:/a:facebook:react",
+    "cpe:/a:vercel:next.js"
+  ],
+  "_shodan": {
+    "region": "eu",
+    "module": "http"
+  },
+  "cloud": {
+    "region": "eu-west-2",
+    "service": "EC2",
+    "provider": "Amazon"
+  },
+  "location": {
+    "country_code": "GB",
+    "country_name": "United Kingdom"
+  },
+  "org": "Amazon Data Services UK",
+  "data": "HTTP/1.1 200 OK\r\nDate: Mon, 27 Jul 2026 23:07:24 GMT\r\nContent-Type: text/html; charset=utf-8\r\nTransfer-Encoding: chunked\r\nConnection: keep-alive\r\nVary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding\r\nlink: </thermofisher_logo.png>; rel=preload; as=\"image\"\r\nX-Powered-By: Next.js\r\nCache-Control: private, no-cache, no-store, max-age=0, must-revalidate\r\n\r\n",
+  "port": 80,
+  "opts": {},
+  "_artifact": {
+    "host_id": "cd2c1ce3a8a950675e3925b2fbd290ed",
+    "ip_id": "bb6fafe89205848c0baf88b4cfb617ce",
+    "port": 80,
+    "framework": "next",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 7660,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 25
+    }
+  }
+}

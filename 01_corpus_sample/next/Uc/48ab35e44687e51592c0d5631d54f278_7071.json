@@ -1,0 +1,77 @@
+{
+  "http": {
+    "status": 200,
+    "redirects": [],
+    "securitytxt": null,
+    "title": null,
+    "robots": null,
+    "components_hash": 1317213646,
+    "html": "<!DOCTYPE html>\n<html>\n<head>\n    <meta name=\"generator\" content=\"Waku\"/>\n    <link rel=\"icon\" href=\"/favicon.png\">\n</head>\n<body>\n    <div id=\"root\"></div>\n    <script src=\"/react-router-dom.js\"></script>\n</body>\n</html>\n",
+    "location": "/",
+    "headers": {
+      "content-length": "222",
+      "x-powered-by": "Next.js",
+      "vary": "RSC",
+      "server": "cpsrvd/11.92.0.33",
+      "last-modified": "Thu, 01 May 2025 02:22:42 GMT",
+      "date": "Thu, 06 Aug 2026 07:28:26 GMT",
+      "content-type": "text/x-component"
+    },
+    "server": "cpsrvd/11.92.0.33",
+    "sitemap": null
+  },
+  "port": 7071,
+  "transport": "tcp",
+  "cpe23_hash": -906499364,
+  "cloud": {
+    "region": "eu-west-1",
+    "service": "EC2",
+    "provider": "Amazon"
+  },
+  "location": {
+    "country_code": "IE",
+    "country_name": "Ireland"
+  },
+  "tags": [
+    "cloud",
+    "self-signed"
+  ],
+  "timestamp": "2026-08-06T07:28:26.708369",
+  "org": "Amazon Data Services Ireland Limited",
+  "data": "HTTP/1.1 200 OK\r\nDate: Thu, 06 Aug 2026 07:28:26 GMT\r\nServer: cpsrvd/11.92.0.33\r\nLast-Modified: Thu, 01 May 2025 02:22:42 GMT\r\nX-Powered-By: Next.js\r\nContent-Type: text/x-component\r\nVary: RSC\r\nContent-Length: 222\r\n\r\n",
+  "asn": "AS16509",
+  "cpe23": [
+    "cpe:2.3:a:cpanel:cpanel:11.92.0.33",
+    "cpe:2.3:a:facebook:react",
+    "cpe:2.3:a:vercel:next.js"
+  ],
+  "isp": "Amazon.com, Inc.",
+  "cpe": [
+    "cpe:/a:cpanel:cpanel:11.92.0.33",
+    "cpe:/a:facebook:react",
+    "cpe:/a:vercel:next.js"
+  ],
+  "os": null,
+  "_shodan": {
+    "region": "na",
+    "module": "https-simple-new"
+  },
+  "opts": {
+    "vulns": [],
+    "heartbleed": "2026/08/06 07:28:36 [ip-redacted]:7071 - SAFE\n"
+  },
+  "_artifact": {
+    "host_id": "48ab35e44687e51592c0d5631d54f278",
+    "ip_id": "65cc87bd3dcf64f1a625953aafb64d9d",
+    "port": 7071,
+    "framework": "next",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 222,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 25,
+      "ip": 1
+    }
+  }
+}

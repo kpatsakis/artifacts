@@ -1,0 +1,73 @@
+{
+  "http": {
+    "status": 200,
+    "redirects": [],
+    "securitytxt": null,
+    "title": "Niakuu :: ERP",
+    "robots": null,
+    "components_hash": -892850553,
+    "html": "<!DOCTYPE html><html lang=\"en\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"preload\" href=\"/_next/static/media/3703c28dcda155b1-s.p.woff2\" as=\"font\" crossorigin=\"\" type=\"font/woff2\"/><link rel=\"preload\" href=\"/_next/static/media/e4af272ccee01ff0-s.p.woff2\" as=\"font\" crossorigin=\"\" type=\"font/woff2\"/><link rel=\"stylesheet\" href=\"/_next/static/css/163b5c40ff7b0692.css\" data-precedence=\"next\"/><link rel=\"preload\" href=\"/_next/static/chunks/webpack-89017abc177c535b.js\" as=\"script\" fetchPriority=\"low\"/><script src=\"/_next/static/chunks/fd9d1056-caf242911e006882.js\" async=\"\"></script><script src=\"/_next/static/chunks/7864-20a4a2427e6e0870.js\" async=\"\"></script><script src=\"/_next/static/chunks/main-app-768c6ffd0931dcce.js\" async=\"\"></script><title>Niakuu :: ERP</title><meta name=\"description\" content=\"Manage your business efficiently with Niakuu ERP system.\"/><meta name=\"next-size-adjust\"/><script src=\"/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js\" noModule=\"\"></script></head><body class=\"min-h-screen bg-background font-sans antialiased __variable_f367f3\"><div data-overlay-container=\"true\"><section aria-label=\"Notifications alt+T\" tabindex=\"-1\" aria-live=\"polite\" aria-relevant=\"additions text\" aria-atomic=\"false\"></section><div class=\"flex items-center justify-center h-screen bg-white\"><div class=\"text-center\"><img alt=\"Logo\" loading=\"lazy\" width=\"150\" height=\"150\" decoding=\"async\" data-nimg=\"1\" class=\"mx-auto mb-4 animate-pulse\" style=\"color:transparent\" srcSet=\"/_next/image?url=%2Fimages%2Fapp-logo.png&amp;w=256&amp;q=75 1x, /_next/image?url=%2Fimages%2Fapp-logo.png&amp;w=384&amp;q=75 2x\" src=\"/_next/image?url=%2Fimages%2Fapp-logo.png&amp;w=384&amp;q=75\"/><div class=\"flex justify-center gap-1 mt-4\"><div class=\"w-2 h-2 bg-gray-400 rounded-full animate-bounce\"></div><div class=\"w-2 h-2 bg-gray-400 rounded-full animate-bounce\" style=\"animation-delay:0.1s\"></div><div class=\"w-2 h-2 bg-gray-400 rounded-full animate-bounce\" style=\"animation-delay:0.2s\"></div></div></div></div></div><script src=\"/_next/static/chunks/webpack-89017abc177c535b.js\" async=\"\"></script><script>(self.__next_f=self.__next_f||[]).push([0])</script><script>self.__next_f.push([1,\"1:HL[\\\"/_next/static/media/3703c28dcda155b1-s.p.woff2\\\",\\\"font\\\",{\\\"crossOrigin\\\":\\\"\\\",\\\"type\\\":\\\"font/woff2\\\"}]\\n2:HL[\\\"/_next/static/media/e4af272ccee01ff0-s.p.woff2\\\",\\\"font\\\",{\\\"crossOrigin\\\":\\\"\\\",\\\"type\\\":\\\"font/woff2\\\"}]\\n3:HL[\\\"/_next/static/css/163b5c40ff7b0692.css\\\",\\\"style\\\"]\\n0:\\\"$L4\\\"\\n\"])</script><script>self.__next_f.push([1,\"5:I{\\\"id\\\":76054,\\\"chunks\\\":[\\\"2272:static/chunks/webpack-89017abc177c535b.js\\\",\\\"2971:static/chunks/fd9d1056-caf242911e006882.js\\\",\\\"7864:static/chunks/7864-20a4a2427e6e0870.js\\\"],\\\"name\\\":\\\"\\\",\\\"async\\\":false}\\n7:I{\\\"id\\\":41729,\\\"chunks\\\":[\\\"2272:static/chunks/webpack-89017abc177c535b.js\\\",\\\"2971:static/chunks/fd9d1056-caf242911e006882.js\\\",\\\"7864:static/chunks/7864-20a4a2427e6e0870.js\\\"],\\\"name\\\":\\\"\\\",\\\"async\\\":false}\\n8:I{\\\"id\\\":78713,\\\"chunks\\\":[\\\"1424:static/chunks/1424-66a1e7c8542b92c6.js\\\",\\\"3185:static/chunks/app/layout-db869fcc3787c917.j\"])</script><script>self.__next_f.push([1,\"s\\\"],\\\"name\\\":\\\"\\\",\\\"async\\\":false}\\n9:I{\\\"id\\\":81443,\\\"chunks\\\":[\\\"2272:static/chunks/webpack-89017abc177c535b.js\\\",\\\"2971:static/chunks/fd9d1056-caf242911e006882.js\\\",\\\"7864:static/chunks/7864-20a4a2427e6e0870.js\\\"],\\\"name\\\":\\\"\\\",\\\"async\\\":false}\\na:I{\\\"id\\\":18639,\\\"chunks\\\":[\\\"2272:static/chunks/webpack-89017abc177c535b.js\\\",\\\"2971:static/chunks/fd9d1056-caf242911e006882.js\\\",\\\"7864:static/chunks/7864-20a4a2427e6e0870.js\\\"],\\\"name\\\":\\\"\\\",\\\"async\\\":false}\\n\"])</script><script>self.__next_f.push([1,\"b:I{\\\"id\\\":66489,\\\"chunks\\\":[\\\"4737:static/chunks/4737-e66e88ce3575e26d.js\\\",\\\"6923:static/chunks/6923-888e7235bebdad59.js\\\",\\\"1424:static/chunks/1424-66a1e7c8542b92c6.js\\\",\\\"1396:static/chunks/1396-f0ed62084495d70f.js\\\",\\\"3985:static/chunks/3985-f74c1f4af6c8eab6.js\\\",\\\"1134:static/chunks/1134-2d287ed8f0b80a2e.js\\\",\\\"8452:static/chunks/8452-104fdc35a12b0b0e.js\\\",\\\"7959:static/chunks/7959-7e4456fbb30be95e.js\\\",\\\"6691:static/chunks/6691-2faada90a47279ec.js\\\",\\\"5642:static/chunks/app/(dashboard)/layout-2c8ff11f7eb5fe14.js\\\"],\\\"name\\\":\\\"\\\",\\\"async\\\":false}\\n\"])</script><script>self.__next_f.push([1,\"d:I{\\\"id\\\":65146,\\\"chunks\\\":[\\\"2272:static/chunks/webpack-89017abc177c535b.js\\\",\\\"2971:static/chunks/fd9d1056-caf242911e006882.js\\\",\\\"7864:static/chunks/7864-20a4a2427e6e0870.js\\\"],\\\"name\\\":\\\"\\\",\\\"async\\\":false}\\n\"])</script><script>self.__next_f.push([1,\"e:I{\\\"id\\\":56184,\\\"chunks\\\":[\\\"4737:static/chunks/4737-e66e88ce3575e26d.js\\\",\\\"6923:static/chunks/6923-888e7235bebdad59.js\\\",\\\"1424:static/chunks/1424-66a1e7c8542b92c6.js\\\",\\\"1396:static/chunks/1396-f0ed62084495d70f.js\\\",\\\"3985:static/chunks/3985-f74c1f4af6c8eab6.js\\\",\\\"1134:static/chunks/1134-2d287ed8f0b80a2e.js\\\",\\\"8452:static/chunks/8452-104fdc35a12b0b0e.js\\\",\\\"7959:static/chunks/7959-7e4456fbb30be95e.js\\\",\\\"4668:static/chunks/4668-c22330ccbd8ae33c.js\\\",\\\"5821:static/chunks/5821-3aeb522599e5f102.js\\\",\\\"1300:static/chunks/1300-e385431803ffc4a6.js\\\",\\\"6017:static/chunks/6017-9913423cd5f79f75.js\\\",\\\"3125:static/chunks/3125-9ce1af0e7de66f08.js\\\",\\\"461:static/chunks/app/(dashboard)/(home)/page-7619d16bd39c0a27.js\\\"],\\\"name\\\":\\\"\\\",\\\"async\\\":false}\\n\"])</script><script>self.__next_f.push([1,\"4:[[[\\\"$\\\",\\\"link\\\",\\\"0\\\",{\\\"rel\\\":\\\"stylesheet\\\",\\\"href\\\":\\\"/_next/static/css/163b5c40ff7b0692.css\\\",\\\"precedence\\\":\\\"next\\\"}]],[\\\"$\\\",\\\"$L5\\\",null,{\\\"buildId\\\":\\\"Oi3J68JUj9xDdkWzjtCac\\\",\\\"assetPrefix\\\":\\\"\\\",\\\"initialCanonicalUrl\\\":\\\"/\\\",\\\"initialTree\\\":[\\\"\\\",{\\\"children\\\":[\\\"(dashboard)\\\",{\\\"children\\\":[\\\"(home)\\\",{\\\"children\\\":[\\\"__PAGE__\\\",{}]}]}]},\\\"$undefined\\\",\\\"$undefined\\\",true],\\\"initialHead\\\":[false,\\\"$L6\\\"],\\\"globalErrorComponent\\\":\\\"$7\\\",\\\"children\\\":[null,[\\\"$\\\",\\\"html\\\",null,{\\\"suppressHydrationWarning\\\":true,\\\"lang\\\":\\\"en\\\",\\\"children\\\":[[\\\"$\\\",\\\"head\\\",null,{}],[\\\"$\\\",\\\"body\\\",null,{\\\"className\\\":\\\"min-h-screen bg-background font-sans antialiased __variable_f367f3\\\",\\\"children\\\":[\\\"$\\\",\\\"$L8\\\",null,{\\\"children\\\":[\\\"$\\\",\\\"$L9\\\",null,{\\\"parallelRouterKey\\\":\\\"children\\\",\\\"segmentPath\\\":[\\\"children\\\"],\\\"loading\\\":\\\"$undefined\\\",\\\"loadingStyles\\\":\\\"$undefined\\\",\\\"hasLoading\\\":false,\\\"error\\\":\\\"$undefined\\\",\\\"errorStyles\\\":\\\"$undefined\\\",\\\"template\\\":[\\\"$\\\",\\\"$La\\\",null,{}],\\\"templateStyles\\\":\\\"$undefined\\\",\\\"notFound\\\":[[\\\"$\\\",\\\"title\\\",null,{\\\"children\\\":\\\"404: This page could not be found.\\\"}],[\\\"$\\\",\\\"div\\\",null,{\\\"style\\\":{\\\"fontFamily\\\":\\\"system-ui,\\\\\\\"Segoe UI\\\\\\\",Roboto,Helvetica,Arial,sans-serif,\\\\\\\"Apple Color Emoji\\\\\\\",\\\\\\\"Segoe UI Emoji\\\\\\\"\\\",\\\"height\\\":\\\"100vh\\\",\\\"textAlign\\\":\\\"center\\\",\\\"display\\\":\\\"flex\\\",\\\"flexDirection\\\":\\\"column\\\",\\\"alignItems\\\":\\\"center\\\",\\\"justifyContent\\\":\\\"center\\\"},\\\"children\\\":[\\\"$\\\",\\\"div\\\",null,{\\\"children\\\":[[\\\"$\\\",\\\"style\\\",null,{\\\"dangerouslySetInnerHTML\\\":{\\\"__html\\\":\\\"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}\\\"}}],[\\\"$\\\",\\\"h1\\\",null,{\\\"className\\\":\\\"next-error-h1\\\",\\\"style\\\":{\\\"display\\\":\\\"inline-block\\\",\\\"margin\\\":\\\"0 20px 0 0\\\",\\\"padding\\\":\\\"0 23px 0 0\\\",\\\"fontSize\\\":24,\\\"fontWeight\\\":500,\\\"verticalAlign\\\":\\\"top\\\",\\\"lineHeight\\\":\\\"49px\\\"},\\\"children\\\":\\\"404\\\"}],[\\\"$\\\",\\\"div\\\",null,{\\\"style\\\":{\\\"display\\\":\\\"inline-block\\\"},\\\"children\\\":[\\\"$\\\",\\\"h2\\\",null,{\\\"style\\\":{\\\"fontSize\\\":14,\\\"fontWeight\\\":400,\\\"lineHeight\\\":\\\"49px\\\",\\\"margin\\\":0},\\\"children\\\":\\\"This page could not be found.\\\"}]}]]}]}]],\\\"notFoundStyles\\\":[],\\\"childProp\\\":{\\\"current\\\":[null,[\\\"$\\\",\\\"$Lb\\\",null,{\\\"children\\\":[\\\"$\\\",\\\"$L9\\\",null,{\\\"parallelRouterKey\\\":\\\"children\\\",\\\"segmentPath\\\":[\\\"children\\\",\\\"(dashboard)\\\",\\\"children\\\"],\\\"loading\\\":\\\"$undefined\\\",\\\"loadingStyles\\\":\\\"$undefined\\\",\\\"hasLoading\\\":false,\\\"error\\\":\\\"$undefined\\\",\\\"errorStyles\\\":\\\"$undefined\\\",\\\"template\\\":[\\\"$\\\",\\\"$La\\\",null,{}],\\\"templateStyles\\\":\\\"$undefined\\\",\\\"notFound\\\":[[\\\"$\\\",\\\"title\\\",null,{\\\"children\\\":\\\"404: This page could not be found.\\\"}],[\\\"$\\\",\\\"div\\\",null,{\\\"style\\\":{\\\"fontFamily\\\":\\\"system-ui,\\\\\\\"Segoe UI\\\\\\\",Roboto,Helvetica,Arial,sans-serif,\\\\\\\"Apple Color Emoji\\\\\\\",\\\\\\\"Segoe UI Emoji\\\\\\\"\\\",\\\"height\\\":\\\"100vh\\\",\\\"textAlign\\\":\\\"center\\\",\\\"display\\\":\\\"flex\\\",\\\"flexDirection\\\":\\\"column\\\",\\\"alignItems\\\":\\\"center\\\",\\\"justifyContent\\\":\\\"center\\\"},\\\"children\\\":[\\\"$\\\",\\\"div\\\",null,{\\\"children\\\":[[\\\"$\\\",\\\"style\\\",null,{\\\"dangerouslySetInnerHTML\\\":{\\\"__html\\\":\\\"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}\\\"}}],[\\\"$\\\",\\\"h1\\\",null,{\\\"className\\\":\\\"next-error-h1\\\",\\\"style\\\":{\\\"display\\\":\\\"inline-block\\\",\\\"margin\\\":\\\"0 20px 0 0\\\",\\\"padding\\\":\\\"0 23px 0 0\\\",\\\"fontSize\\\":24,\\\"fontWeight\\\":500,\\\"verticalAlign\\\":\\\"top\\\",\\\"lineHeight\\\":\\\"49px\\\"},\\\"children\\\":\\\"404\\\"}],[\\\"$\\\",\\\"div\\\",null,{\\\"style\\\":{\\\"display\\\":\\\"inline-block\\\"},\\\"children\\\":[\\\"$\\\",\\\"h2\\\",null,{\\\"style\\\":{\\\"fontSize\\\":14,\\\"fontWeight\\\":400,\\\"lineHeight\\\":\\\"49px\\\",\\\"margin\\\":0},\\\"children\\\":\\\"This page could not be found.\\\"}]}]]}]}]],\\\"notFoundStyles\\\":[],\\\"childProp\\\":{\\\"current\\\":[\\\"$\\\",\\\"$L9\\\",null,{\\\"parallelRouterKey\\\":\\\"children\\\",\\\"segmentPath\\\":[\\\"children\\\",\\\"(dashboard)\\\",\\\"children\\\",\\\"(home)\\\",\\\"children\\\"],\\\"loading\\\":\\\"$undefined\\\",\\\"loadingStyles\\\":\\\"$undefined\\\",\\\"hasLoading\\\":false,\\\"error\\\":\\\"$undefined\\\",\\\"errorStyles\\\":\\\"$undefined\\\",\\\"template\\\":[\\\"$\\\",\\\"$La\\\",null,{}],\\\"templateStyles\\\":\\\"$undefined\\\",\\\"notFound\\\":\\\"$undefined\\\",\\\"notFoundStyles\\\":\\\"$undefined\\\",\\\"childProp\\\":{\\\"current\\\":[\\\"$Lc\\\",[\\\"$\\\",\\\"$Ld\\\",null,{\\\"propsForComponent\\\":{\\\"params\\\":{}},\\\"Component\\\":\\\"$e\\\"}],null],\\\"segment\\\":\\\"__PAGE__\\\"},\\\"styles\\\":[]}],\\\"segment\\\":\\\"(home)\\\"},\\\"styles\\\":[]}],\\\"params\\\":{}}],null],\\\"segment\\\":\\\"(dashboard)\\\"},\\\"styles\\\":[]}]}]}]]}],null]}]]\\n\"])</script><script>self.__next_f.push([1,\"6:[[\\\"$\\\",\\\"meta\\\",\\\"0\\\",{\\\"charSet\\\":\\\"utf-8\\\"}],[\\\"$\\\",\\\"title\\\",\\\"1\\\",{\\\"children\\\":\\\"Niakuu :: ERP\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"2\\\",{\\\"name\\\":\\\"description\\\",\\\"content\\\":\\\"Manage your business efficiently with Niakuu ERP system.\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"3\\\",{\\\"name\\\":\\\"viewport\\\",\\\"content\\\":\\\"width=device-width, initial-scale=1\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"4\\\",{\\\"name\\\":\\\"next-size-adjust\\\"}]]\\nc:null\\n\"])</script></body></html>",
+    "location": "/",
+    "headers": {
+      "x-nextjs-cache": "HIT",
+      "content-length": "10479",
+      "x-powered-by": "Next.js",
+      "vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Next-Url, Accept-Encoding",
+      "keep-alive": "timeout=5",
+      "connection": "keep-alive",
+      "etag": "\"n7542a8nii833\"",
+      "cache-control": "s-maxage=31536000, stale-while-revalidate",
+      "date": "Sat, 01 Aug 2026 21:40:08 GMT",
+      "content-type": "text/html; charset=utf-8"
+    },
+    "server": null,
+    "sitemap": null
+  },
+  "port": 3001,
+  "transport": "tcp",
+  "cpe23_hash": 286908511,
+  "cloud": {
+    "region": "in-mh",
+    "service": null,
+    "provider": "Linode"
+  },
+  "location": {
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  "tags": [
+    "cloud"
+  ],
+  "timestamp": "2026-08-01T21:40:08.843523",
+  "org": "Linode",
+  "data": "HTTP/1.1 200 OK\r\nVary: RSC, Next-Router-State-Tree, Next-Router-Prefetch, Next-Url, Accept-Encoding\r\nx-nextjs-cache: HIT\r\nX-Powered-By: Next.js\r\nCache-Control: s-maxage=31536000, stale-while-revalidate\r\nETag: \"n7542a8nii833\"\r\nContent-Type: text/html; charset=utf-8\r\nContent-Length: 10479\r\nDate: Sat, 01 Aug 2026 21:40:08 GMT\r\nConnection: keep-alive\r\nKeep-Alive: timeout=5\r\n\r\n",
+  "asn": "AS63949",
+  "cpe23": [
+    "cpe:2.3:a:facebook:react",
+    "cpe:2.3:a:vercel:next.js"
+  ],
+  "isp": "Akamai Connected Cloud",
+  "cpe": [
+    "cpe:/a:facebook:react",
+    "cpe:/a:vercel:next.js"
+  ],
+  "os": null,
+  "_shodan": {
+    "region": "na",
+    "module": "https-simple-new"
+  },
+  "opts": {},
+  "_artifact": {
+    "host_id": "fa5c6efb8b41ffa6b61fada454b5081c",
+    "ip_id": "8fc5000b322d698566e5a922eae8fbc5",
+    "port": 3001,
+    "framework": "next",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 10479,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 24
+    }
+  }
+}

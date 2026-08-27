@@ -1,0 +1,62 @@
+{
+  "asn": "AS16509",
+  "http": {
+    "status": 200,
+    "redirects": [],
+    "securitytxt": null,
+    "title": null,
+    "robots": null,
+    "server": null,
+    "headers": {
+      "date": "Fri, 17 Jul 2026 11:19:23 GMT",
+      "content-length": "1265",
+      "content-type": "text/html;charset=utf-8",
+      "connection": "keep-alive",
+      "x-powered-by": "Nuxt"
+    },
+    "html": "<!DOCTYPE html><html><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"><link rel=\"stylesheet\" href=\"/_nuxt/entry.B9PHTnHM.css\" crossorigin><link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/BfYJ303E.js\"><script type=\"module\" src=\"/_nuxt/BfYJ303E.js\" crossorigin></script></head><body><div id=\"__nuxt\" class=\"isolate\"></div><div id=\"teleports\"></div><script>window.__NUXT__={};window.__NUXT__.config={public:{awsRegion:\"ca-central-1\",stage:\"dev\",isDev:false,appVersion:\"1.0f\",dns:{host:\"dev.trustedgateway.org\",domain:\"dev.trustedgateway.org\",zoneDomain:\"dev.trustedgateway.org\",tld:\"trustedgateway.org\"},authServerURL:\"https://auth.dev.trustedgateway.org\",spocApiURL:\"https://api-spsp.dev.trustedgateway.org/\",incidentsApiURL:\"https://api-incidents.dev.trustedgateway.org/\",auditApiURL:\"https://api-audit.dev.trustedgateway.org\",scripts:{googleMaps:{apiKey:\"AIzaSyAVYdP4QYCzmw0L2U8VV5lRSyr5ATEdv5Y\"}},piniaPluginPersistedstate:{storage:\"localStorage\"}},app:{baseURL:\"/\",buildId:\"dbe92f12-a304-4678-b5f8-9b8839cd7897\",buildAssetsDir:\"/_nuxt/\",cdnURL:\"\"}}</script><script type=\"application/json\" data-nuxt-data=\"nuxt-app\" data-ssr=\"false\" id=\"__NUXT_DATA__\">[{\"serverRendered\":1},false]</script></body></html>",
+    "location": "/",
+    "sitemap": null
+  },
+  "os": null,
+  "tags": [
+    "cloud"
+  ],
+  "timestamp": "2026-07-17T11:19:23.439457",
+  "isp": "Amazon.com, Inc.",
+  "transport": "tcp",
+  "_shodan": {
+    "region": "na",
+    "module": "https"
+  },
+  "cloud": {
+    "region": "ca-central-1",
+    "service": "EC2",
+    "provider": "Amazon"
+  },
+  "location": {
+    "country_code": "CA",
+    "country_name": "Canada"
+  },
+  "org": "Amazon Data Services Canada",
+  "data": "HTTP/1.1 200 OK\r\nDate: Fri, 17 Jul 2026 11:19:23 GMT\r\nContent-Type: text/html;charset=utf-8\r\nContent-Length: 1265\r\nConnection: keep-alive\r\nx-powered-by: Nuxt\r\n\r\n",
+  "port": 443,
+  "opts": {
+    "vulns": [],
+    "heartbleed": "2026/07/17 11:19:33 [ip-redacted]:443 - ERROR: write tcp [ip-redacted]:443: broken pipe\n"
+  },
+  "_artifact": {
+    "host_id": "63ee53e63daf4db63148ccb1b7982db9",
+    "ip_id": "82c0785cdec35fbdd206302c9babbee4",
+    "port": 443,
+    "framework": "nuxt",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 1265,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 20,
+      "ip": 2
+    }
+  }
+}

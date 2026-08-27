@@ -1,0 +1,59 @@
+{
+  "asn": "AS136907",
+  "http": {
+    "redirects": [],
+    "securitytxt": null,
+    "title": null,
+    "html": "<!DOCTYPE html><html  data-capo=\"\"><head><meta charset=\"utf-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n<style>body,html{height:100%;margin:0;width:100%}.loader-box{align-items:center;display:flex;height:100vh;justify-content:center;width:100%}.loader{aspect-ratio:1;background:#409eff;border-radius:50%;padding:8px;width:40px;--_m:conic-gradient(#0000 10%,#000),linear-gradient(#000 0 0) content-box;animation:l3 1s linear infinite;-webkit-mask:var(--_m);mask:var(--_m);-webkit-mask-composite:source-out;mask-composite:subtract}@keyframes l3{to{transform:rotate(1turn)}}</style>\n<link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/BgmucRo7.js\">\n<link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/DggYmK14.js\">\n<link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/Ctrb8fz_.js\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/CSQQszAB.js\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/DlAUqK2U.js\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/DwHy8ehc.js\">\n<link rel=\"icon\" type=\"image/png\" href=\"/in/favicon.ico\">\n<script type=\"module\" src=\"/_nuxt/BgmucRo7.js\" crossorigin></script></head><body><div id=\"__nuxt\"><!--[--><div class=\"loader-box\"><div class=\"loader\"></div></div><!--]--></div><div id=\"teleports\"></div><script type=\"application/json\" id=\"__NUXT_DATA__\" data-ssr=\"true\">[[\"ShallowReactive\",1],{\"data\":2,\"state\":28,\"once\":34,\"_errors\":35,\"serverRendered\":16,\"path\":38},[\"ShallowReactive\",3],{\"yOD9v9Jnbd\":4},{\"data\":5,\"code\":25,\"msg\":26,\"timestamp\":27},[6,17,21],{\"id\":7,\"domain_name\":8,\"scheme\":9,\"access_type\":10,\"default_config\":11,\"status\":12,\"biz_region\":13,\"access_url_template\":14,\"create_time\":15,\"available\":16},\"25\",\"www.hugeboxhub.com\",\"HTTPS\",\"SHARE_LINK_L2\",0,1,\"MIDDLE_EAST\",\"\",\"2024-11-08 10:10:09\",true,{\"id\":18,\"domain_name\":19,\"scheme\":9,\"access_type\":10,\"default_config\":11,\"status\":12,\"biz_region\":13,\"access_url_template\":14,\"create_time\":20,\"available\":16},\"28\",\"www.shareboxcenter.com\",\"2024-11-22 15:13:52\",{\"id\":22,\"domain_name\":23,\"scheme\":9,\"access_type\":10,\"default_config\":12,\"status\":12,\"biz_region\":13,\"access_url_template\":14,\"create_time\":24,\"available\":16},\"29\",\"www.purecloudonline.com\",\"2024-12-09 02:58:56\",200,\"success\",\"2026-08-01 20:27:41\",[\"Reactive\",29],{\"$sdomainUrls\":30},[31,32,33],\"https://www.hugeboxhub.com\",\"https://www.shareboxcenter.com\",\"https://www.purecloudonline.com\",[\"Set\"],[\"ShallowReactive\",36],{\"yOD9v9Jnbd\":37},null,\"/\"]</script>\n<script>window.__NUXT__={};window.__NUXT__.config={public:{clientEnv:{npm_config_user_agent:\"npm/10.8.2 node/v20.17.0 linux x64 workspaces/false\",NODE_VERSION:\"20.17.0\",HOSTNAME:\"6428dcbbf567\",YARN_VERSION:\"1.22.22\",npm_node_execpath:\"/usr/local/bin/node\",SHLVL:\"2\",npm_config_noproxy:\"\",HOME:\"/root\",npm_package_json:\"/tmp/project/nuxt-h5-level1/package.json\",npm_config_userconfig:\"/root/.npmrc\",npm_config_local_prefix:\"/tmp/project/nuxt-h5-level1\",COLOR:\"0\",npm_config_prefix:\"/usr/local\",npm_config_npm_version:\"10.8.2\",npm_config_cache:\"/root/.npm\",npm_config_node_gyp:\"/usr/local/lib/node_modules/npm/node_modules/node-gyp/bin/node-gyp.js\",PATH:\"/tmp/project/nuxt-h5-level1/node_modules/.bin:/tmp/project/node_modules/.bin:/tmp/node_modules/.bin:/node_modules/.bin:/usr/local/lib/node_modules/npm/node_modules/@npmcli/run-script/lib/node-gyp-bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin\",NODE:\"/usr/local/bin/node\",npm_package_name:\"nuxt-app\",VITE_IS_HASH:\"true\",npm_lifecycle_script:\"nuxt build --dotenv .env.production-wp\",npm_lifecycle_event:\"build-wp\",npm_config_globalconfig:\"/usr/local/etc/npmrc\",npm_config_init_module:\"/root/.npm-init.js\",PWD:\"/tmp/project/nuxt-h5-level1\",npm_execpath:\"/usr/local/lib/node_modules/npm/bin/npm-cli.js\",npm_config_global_prefix:\"/usr/local\",npm_command:\"run-script\",VITE_JUMP_PATH:\"https://www.shareboxcenter.com\",INIT_CWD:\"/tmp/project/nuxt-h5-level1\",EDITOR:\"vi\",NODE_ENV:\"production\",VITE_API_KEY:\"AIzaSyD0IJtrorI1xL6ARvlcaDOG5HD8rVIc4A8\",VITE_AUTH_DOMAIN:\"quick-earn-web-prod.firebaseapp.com\",VITE_PROJECT_ID:\"quick-earn-web-prod\",VITE_STORAGE_BUCKET:\"quick-earn-web-prod.appspot.com\",VITE_MESSAGING_SENDER_ID:\"331685862607\",VITE_APP_ID:\"1:331685862607:web:56a2488372760cb3ceebba\",VITE_MEASUREMENT_ID:\"G-1RPGBCH5CQ\",VITE_TOKEN:\"3af5cacb-8cdb-4138-8763-62b4cce7d991\",API_URL:\"https://api.qbxnio.com\",SECOND_API_URL:\"https://api.ppdeedpac.com\",WEB_TITLE:\"SyncBox\"},baseURL:\"https://api.qbxnio.com\",secondURL:\"https://api.ppdeedpac.com\"},app:{baseURL:\"/\",buildId:\"e658c40f-c8da-4631-8b48-49e271fd7315\",buildAssetsDir:\"/_nuxt/\",cdnURL:\"\"}}</script></body></html>",
+    "location": "/",
+    "status": 200,
+    "robots": "<!DOCTYPE html><html  data-capo=\"\"><head><meta charset=\"utf-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n<style>body,html{height:100%;margin:0;width:100%}.loader-box{align-items:center;display:flex;height:100vh;justify-content:center;width:100%}.loader{aspect-ratio:1;background:#409eff;border-radius:50%;padding:8px;width:40px;--_m:conic-gradient(#0000 10%,#000),linear-gradient(#000 0 0) content-box;animation:l3 1s linear infinite;-webkit-mask:var(--_m);mask:var(--_m);-webkit-mask-composite:source-out;mask-composite:subtract}@keyframes l3{to{transform:rotate(1turn)}}</style>\n<link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/BgmucRo7.js\">\n<link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/ZlpSUK6q.js\">\n<link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/Ctrb8fz_.js\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/CSQQszAB.js\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/DlAUqK2U.js\">\n<link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/DwHy8ehc.js\">\n<link rel=\"icon\" type=\"image/png\" href=\"/in/favicon.ico\">\n<script type=\"module\" src=\"/_nuxt/BgmucRo7.js\" crossorigin></script></head><body><div id=\"__nuxt\"><!--[--><div class=\"loader-box\"><div class=\"loader\"></div></div><!--]--></div><div id=\"teleports\"></div><script type=\"application/json\" id=\"__NUXT_DATA__\" data-ssr=\"true\">[[\"ShallowReactive\",1],{\"data\":2,\"state\":33,\"once\":39,\"_errors\":40,\"serverRendered\":16,\"path\":43},[\"ShallowReactive\",3],{\"yOD9v9Jnbd\":4,\"R12yCkvrXA\":28},{\"data\":5,\"code\":25,\"msg\":26,\"timestamp\":27},[6,17,21],{\"id\":7,\"domain_name\":8,\"scheme\":9,\"access_type\":10,\"default_config\":11,\"status\":12,\"biz_region\":13,\"access_url_template\":14,\"create_time\":15,\"available\":16},\"25\",\"www.hugeboxhub.com\",\"HTTPS\",\"SHARE_LINK_L2\",0,1,\"MIDDLE_EAST\",\"\",\"2024-11-08 10:10:09\",true,{\"id\":18,\"domain_name\":19,\"scheme\":9,\"access_type\":10,\"default_config\":11,\"status\":12,\"biz_region\":13,\"access_url_template\":14,\"create_time\":20,\"available\":16},\"28\",\"www.shareboxcenter.com\",\"2024-11-22 15:13:52\",{\"id\":22,\"domain_name\":23,\"scheme\":9,\"access_type\":10,\"default_config\":12,\"status\":12,\"biz_region\":13,\"access_url_template\":14,\"create_time\":24,\"available\":16},\"29\",\"www.purecloudonline.com\",\"2024-12-09 02:58:56\",200,\"success\",\"2026-08-01 20:27:41\",{\"msg\":29,\"country\":30,\"ip\":31,\"ip_user_type\":32},\"NO_DATA\",\"SG\",\"114.119.175.116\",\"hosting\",[\"Reactive\",34],{\"$sdomainUrls\":35},[36,37,38],\"https://www.hugeboxhub.com\",\"https://www.shareboxcenter.com\",\"https://www.purecloudonline.com\",[\"Set\"],[\"ShallowReactive\",41],{\"yOD9v9Jnbd\":42,\"R12yCkvrXA\":42},null,\"/robots.txt\"]</script>\n<script>window.__NUXT__={};window.__NUXT__.config={public:{clientEnv:{npm_config_user_agent:\"npm/10.8.2 node/v20.17.0 linux x64 workspaces/false\",NODE_VERSION:\"20.17.0\",HOSTNAME:\"6428dcbbf567\",YARN_VERSION:\"1.22.22\",npm_node_execpath:\"/usr/local/bin/node\",SHLVL:\"2\",npm_config_noproxy:\"\",HOME:\"/root\",npm_package_json:\"/tmp/project/nuxt-h5-level1/package.json\",npm_config_userconfig:\"/root/.npmrc\",npm_config_local_prefix:\"/tmp/project/nuxt-h5-level1\",COLOR:\"0\",npm_config_prefix:\"/usr/local\",npm_config_npm_version:\"10.8.2\",npm_config_cache:\"/root/.npm\",npm_config_node_gyp:\"/usr/local/lib/node_modules/npm/node_modules/node-gyp/bin/node-gyp.js\",PATH:\"/tmp/project/nuxt-h5-level1/node_modules/.bin:/tmp/project/node_modules/.bin:/tmp/node_modules/.bin:/node_modules/.bin:/usr/local/lib/node_modules/npm/node_modules/@npmcli/run-script/lib/node-gyp-bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin\",NODE:\"/usr/local/bin/node\",npm_package_name:\"nuxt-app\",VITE_IS_HASH:\"true\",npm_lifecycle_script:\"nuxt build --dotenv .env.production-wp\",npm_lifecycle_event:\"build-wp\",npm_config_globalconfig:\"/usr/local/etc/npmrc\",npm_config_init_module:\"/root/.npm-init.js\",PWD:\"/tmp/project/nuxt-h5-level1\",npm_execpath:\"/usr/local/lib/node_modules/npm/bin/npm-cli.js\",npm_config_global_prefix:\"/usr/local\",npm_command:\"run-script\",VITE_JUMP_PATH:\"https://www.shareboxcenter.com\",INIT_CWD:\"/tmp/project/nuxt-h5-level1\",EDITOR:\"vi\",NODE_ENV:\"production\",VITE_API_KEY:\"AIzaSyD0IJtrorI1xL6ARvlcaDOG5HD8rVIc4A8\",VITE_AUTH_DOMAIN:\"quick-earn-web-prod.firebaseapp.com\",VITE_PROJECT_ID:\"quick-earn-web-prod\",VITE_STORAGE_BUCKET:\"quick-earn-web-prod.appspot.com\",VITE_MESSAGING_SENDER_ID:\"331685862607\",VITE_APP_ID:\"1:331685862607:web:56a2488372760cb3ceebba\",VITE_MEASUREMENT_ID:\"G-1RPGBCH5CQ\",VITE_TOKEN:\"3af5cacb-8cdb-4138-8763-62b4cce7d991\",API_URL:\"https://api.qbxnio.com\",SECOND_API_URL:\"https://api.ppdeedpac.com\",WEB_TITLE:\"SyncBox\"},baseURL:\"https://api.qbxnio.com\",secondURL:\"https://api.ppdeedpac.com\"},app:{baseURL:\"/\",buildId:\"e658c40f-c8da-4631-8b48-49e271fd7315\",buildAssetsDir:\"/_nuxt/\",cdnURL:\"\"}}</script></body></html>",
+    "components_hash": 1295931225,
+    "server": "elb",
+    "headers": {
+      "content-length": "4632",
+      "x-powered-by": "Nuxt",
+      "server": "elb",
+      "connection": "keep-alive",
+      "date": "Sat, 01 Aug 2026 20:27:41 GMT",
+      "content-type": "text/html;charset=utf-8"
+    },
+    "sitemap": null
+  },
+  "os": null,
+  "transport": "tcp",
+  "timestamp": "2026-08-01T20:27:41.501392",
+  "isp": "HUAWEI CLOUDS",
+  "cpe23": [
+    "cpe:2.3:a:nuxt:nuxt"
+  ],
+  "cpe": [
+    "cpe:/a:nuxt:nuxt"
+  ],
+  "_shodan": {
+    "region": "eu",
+    "module": "http"
+  },
+  "cpe23_hash": 222339076,
+  "location": {
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  "org": "Huawei-Cloud-SG",
+  "data": "HTTP/1.1 200 OK\r\nDate: Sat, 01 Aug 2026 20:27:41 GMT\r\nContent-Type: text/html;charset=utf-8\r\nContent-Length: 4632\r\nConnection: keep-alive\r\nx-powered-by: Nuxt\r\nServer: elb\r\n\r\n",
+  "port": 80,
+  "opts": {},
+  "_artifact": {
+    "host_id": "6181e5e591beffaf1f38b9aa120a9d0f",
+    "ip_id": "b13101e555dec8fde796e662631c20fb",
+    "port": 80,
+    "framework": "nuxt",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 4632,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 25
+    }
+  }
+}

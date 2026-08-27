@@ -1,0 +1,75 @@
+{
+  "http": {
+    "redirects": [],
+    "securitytxt": null,
+    "title": null,
+    "html": "<!DOCTYPE html>\n<html>\n<head>\n    <meta name=\"generator\" content=\"Waku\"/>\n    <link rel=\"icon\" href=\"/favicon.png\">\n</head>\n<body>\n    <div id=\"root\"></div>\n    <script src=\"/react-router-dom.js\"></script>\n</body>\n</html>\n",
+    "location": "/",
+    "status": 200,
+    "robots": null,
+    "components_hash": -892850553,
+    "server": "open-market-secure-webserver",
+    "headers": {
+      "content-length": "222",
+      "x-powered-by": "Next.js",
+      "vary": "RSC",
+      "server": "open-market-secure-webserver",
+      "last-modified": "Wed, 04 Apr 2018 23:14:19 GMT",
+      "date": "Mon, 03 Aug 2026 01:11:26 GMT",
+      "content-type": "text/x-component"
+    },
+    "sitemap": null
+  },
+  "port": 8889,
+  "transport": "tcp",
+  "cpe23_hash": 286908511,
+  "cloud": {
+    "region": "ap-northeast-3",
+    "service": "EC2",
+    "provider": "Amazon"
+  },
+  "location": {
+    "country_code": "JP",
+    "country_name": "Japan"
+  },
+  "tags": [
+    "cloud",
+    "self-signed"
+  ],
+  "timestamp": "2026-08-03T01:11:26.297095",
+  "org": "Amazon Data Services Osaka",
+  "data": "HTTP/1.1 200 OK\r\nDate: Mon, 03 Aug 2026 01:11:26 GMT\r\nServer: open-market-secure-webserver\r\nLast-Modified: Wed, 04 Apr 2018 23:14:19 GMT\r\nX-Powered-By: Next.js\r\nContent-Type: text/x-component\r\nVary: RSC\r\nContent-Length: 222\r\n\r\n",
+  "asn": "AS16509",
+  "cpe23": [
+    "cpe:2.3:a:facebook:react",
+    "cpe:2.3:a:vercel:next.js"
+  ],
+  "isp": "Amazon.com, Inc.",
+  "cpe": [
+    "cpe:/a:facebook:react",
+    "cpe:/a:vercel:next.js"
+  ],
+  "os": null,
+  "_shodan": {
+    "region": "eu",
+    "module": "https-simple-new"
+  },
+  "opts": {
+    "vulns": [],
+    "heartbleed": "2026/08/03 01:11:39 [ip-redacted]:8889 - SAFE\n"
+  },
+  "_artifact": {
+    "host_id": "6176e2d50be80c21e0507e24b0d67386",
+    "ip_id": "6815ba07c3f7671a936ef8a5a3d94128",
+    "port": 8889,
+    "framework": "next",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 222,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 26,
+      "ip": 1
+    }
+  }
+}

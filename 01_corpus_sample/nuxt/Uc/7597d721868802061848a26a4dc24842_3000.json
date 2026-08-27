@@ -1,0 +1,51 @@
+{
+  "asn": "AS200435",
+  "http": {
+    "status": 500,
+    "redirects": [],
+    "securitytxt": null,
+    "title": null,
+    "robots": null,
+    "server": null,
+    "headers": {
+      "content-length": "3442",
+      "x-powered-by": "Nuxt",
+      "keep-alive": "timeout=5",
+      "connection": "keep-alive",
+      "date": "Tue, 21 Jul 2026 13:56:07 GMT",
+      "content-type": "text/html;charset=utf-8"
+    },
+    "html": "<!DOCTYPE html>\n<html >\n<head><meta charset=\"utf-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n<link type=\"image/png\" rel=\"icon\" href=\"/favicon.png\">\n<script type=\"text/javascript\">\n          !function(t,e){var o,n,p,r;e.__SV||(window.posthog=e,e._i=[],e.init=function(i,s,a){function g(t,e){var o=e.split(\".\");2==o.length&&(t=t[o[0]],e=o[1]),t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}}(p=t.createElement(\"script\")).type=\"text/javascript\",p.async=!0,p.src=s.api_host+\"/static/array.js\",(r=t.getElementsByTagName(\"script\")[0]).parentNode.insertBefore(p,r);var u=e;for(void 0!==a?u=e[a]=[]:a=\"posthog\",u.people=u.people||[],u.toString=function(t){var e=\"posthog\";return\"posthog\"!==a&&(e+=\".\"+a),t||(e+=\" (stub)\"),e},u.people.toString=function(){return u.toString(1)+\".people (stub)\"},o=\"capture identify alias people.set people.set_once set_config register register_once unregister opt_out_capturing has_opted_out_capturing opt_in_capturing reset isFeatureEnabled onFeatureFlags getFeatureFlag getFeatureFlagPayload reloadFeatureFlags group updateEarlyAccessFeatureEnrollment getEarlyAccessFeatures getActiveMatchingSurveys getSurveys\".split(\" \"),n=0;n<o.length;n++)g(u,o[n]);e._i.push([i,s,a])},e.__SV=1)}(document,window.posthog||[]);\n    posthog.init('phc_vL5BkII73wconCFsjJknMaCck2Clvx7G3k5u5MPfyK2',{api_host:'https://e.abla.io'})\n          </script><link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/entry.535e8ec8.js\"><link rel=\"preload\" as=\"style\" href=\"/_nuxt/entry.267ecc01.css\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/error-component.de64dadb.js\"><link rel=\"stylesheet\" href=\"/_nuxt/entry.267ecc01.css\"></head>\n<body ><div id=\"__nuxt\"><!----></div><script type=\"application/json\" id=\"__NUXT_DATA__\" data-ssr=\"true\">[[\"Reactive\",1],{\"data\":2,\"state\":3,\"_errors\":4,\"serverRendered\":5,\"error\":6},{},{},{},true,{\"url\":7,\"statusCode\":8,\"statusMessage\":9,\"message\":10,\"stack\":9},\"/\",500,\"\",\"Cannot find module '/var/www/laboucle/karimadelli.fr/karimadelli.fr/.output/server/chunks/app/_nuxt/index-963dfee5.mjs' imported from /var/www/laboucle/karimadelli.fr/karimadelli.fr/.output/server/chunks/app/server.mjs\"]</script><script>window.__NUXT__={};window.__NUXT__.config={public:{devMode:\"true\",strapiUrl:\"https://api2.karimadelli.fr/\",strapi:{url:\"https://api2.karimadelli.fr/\",prefix:\"/api\",version:\"v4\",cookie:{},auth:{},cookieName:\"strapi_jwt\",devtools:false}},app:{baseURL:\"/\",buildAssetsDir:\"/_nuxt/\",cdnURL:\"\"}}</script><script type=\"module\" src=\"/_nuxt/entry.535e8ec8.js\" crossorigin></script><script type=\"text/javascript\" src=\"//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js\"></script>\n<script type=\"text/javascript\">\n          (\n            function ($) { \n                window.fnames = new Array(); \n                window.ftypes = new Array(); \n                fnames[0] = 'EMAIL'; \n                ftypes[0] = 'email'; \n                fnames[1] = 'FNAME'; \n                ftypes[1] = 'text'; \n                fnames[2] = 'LNAME'; \n                ftypes[2] = 'text'; \n                fnames[3] = 'ADDRESS'; \n                ftypes[3] = 'address'; \n                fnames[4] = 'PHONE'; \n                ftypes[4] = 'phone'; \n                fnames[5] = 'BIRTHDAY'; \n                ftypes[5] = 'birthday'; \n            }(jQuery)\n        ); \n        var $mcj = jQuery.noConflict(true);\n          </script></body>\n</html>",
+    "location": "/",
+    "sitemap": null
+  },
+  "os": null,
+  "timestamp": "2026-07-21T13:56:07.742908",
+  "isp": "Titan DataCenters France SAS",
+  "transport": "tcp",
+  "_shodan": {
+    "region": "na",
+    "module": "http-simple-new"
+  },
+  "location": {
+    "country_code": "FR",
+    "country_name": "France"
+  },
+  "org": "Titan DataCenters France SAS",
+  "data": "HTTP/1.1 500 Internal Server Error\r\ncontent-type: text/html;charset=utf-8\r\nx-powered-by: Nuxt\r\nDate: Tue, 21 Jul 2026 13:56:07 GMT\r\nConnection: keep-alive\r\nKeep-Alive: timeout=5\r\nContent-Length: 3442\r\n\r\n",
+  "port": 3000,
+  "opts": {},
+  "_artifact": {
+    "host_id": "7597d721868802061848a26a4dc24842",
+    "ip_id": "cd2956b8b53477d3fce0ed16308cb106",
+    "port": 3000,
+    "framework": "nuxt",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 3442,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 19
+    }
+  }
+}

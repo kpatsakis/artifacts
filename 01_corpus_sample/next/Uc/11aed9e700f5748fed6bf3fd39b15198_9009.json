@@ -1,0 +1,70 @@
+{
+  "product": "nginx",
+  "http": {
+    "redirects": [],
+    "securitytxt": null,
+    "title": "Login",
+    "html": "<!DOCTYPE html><!--stLeFfcrbAvN_8wALiLyi--><html lang=\"en\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"preload\" href=\"/_next/static/media/345c85a432359eed-s.p.eead68dd.woff2\" as=\"font\" crossorigin=\"\" type=\"font/woff2\"/><link rel=\"preload\" href=\"/_next/static/media/8e451580e5e95631-s.p.0e564e6e.woff2\" as=\"font\" crossorigin=\"\" type=\"font/woff2\"/><link rel=\"preload\" href=\"/_next/static/media/9be384ea93fe3f49-s.p.ab26386e.woff2\" as=\"font\" crossorigin=\"\" type=\"font/woff2\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/033c01174c27d51e.css\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/189c89f91012a656.js\"/><script src=\"/_next/static/chunks/5d75a022f81b9365.js\" async=\"\"></script><script src=\"/_next/static/chunks/4a949d7283783b5f.js\" async=\"\"></script><script src=\"/_next/static/chunks/a87b5129b8805916.js\" async=\"\"></script><script src=\"/_next/static/chunks/turbopack-66bf7ffb0c690452.js\" async=\"\"></script><script src=\"/_next/static/chunks/f36bb5dad2c41a0d.js\" async=\"\"></script><script src=\"/_next/static/chunks/e752caac482698eb.js\" async=\"\"></script><script src=\"/_next/static/chunks/7c84b815d49fc52e.js\" async=\"\"></script><script src=\"/_next/static/chunks/ff1a16fafef87110.js\" async=\"\"></script><script src=\"/_next/static/chunks/7340adf74ff47ec0.js\" async=\"\"></script><script src=\"/_next/static/chunks/796e69ae18b2784c.js\" async=\"\"></script><script src=\"/_next/static/chunks/82fd8b9e4ea740ef.js\" async=\"\"></script><script src=\"/_next/static/chunks/8ba1e01e7f883082.js\" async=\"\"></script><meta name=\"next-size-adjust\" content=\"\"/><title>Login</title><meta name=\"description\" content=\"Abi olt SaaS\"/><link rel=\"icon\" href=\"/favicon.ico?favicon.0b3bf435.ico\" sizes=\"256x256\" type=\"image/x-icon\"/><script src=\"/_next/static/chunks/a6dad97d9634a72d.js\" noModule=\"\"></script></head><body class=\"lato_e87a020-module__BfALCW__variable antialiased\"><div hidden=\"\"><!--$--><!--/$--></div><!--$!--><template data-dgst=\"BAILOUT_TO_CLIENT_SIDE_RENDERING\"></template><div class=\"spinner\">Loading Tenant Settings...</div><!--/$--><script src=\"/_next/static/chunks/189c89f91012a656.js\" id=\"_R_\" async=\"\"></script><script>(self.__next_f=self.__next_f||[]).push([0])</script><script>self.__next_f.push([1,\"1:\\\"$Sreact.fragment\\\"\\n2:I[36233,[\\\"/_next/static/chunks/f36bb5dad2c41a0d.js\\\",\\\"/_next/static/chunks/e752caac482698eb.js\\\",\\\"/_next/static/chunks/7c84b815d49fc52e.js\\\"],\\\"TenantProvider\\\"]\\n3:I[65380,[\\\"/_next/static/chunks/f36bb5dad2c41a0d.js\\\",\\\"/_next/static/chunks/e752caac482698eb.js\\\",\\\"/_next/static/chunks/7c84b815d49fc52e.js\\\"],\\\"default\\\"]\\n4:I[39756,[\\\"/_next/static/chunks/ff1a16fafef87110.js\\\",\\\"/_next/static/chunks/7340adf74ff47ec0.js\\\"],\\\"default\\\"]\\n5:I[37457,[\\\"/_next/static/chunks/ff1a16fafef87110.js\\\",\\\"/_next/static/chunks/7340adf74ff47ec0.js\\\"],\\\"default\\\"]\\n6:I[22016,[\\\"/_next/static/chunks/f36bb5dad2c41a0d.js\\\",\\\"/_next/static/chunks/e752caac482698eb.js\\\",\\\"/_next/static/chunks/7c84b815d49fc52e.js\\\",\\\"/_next/static/chunks/796e69ae18b2784c.js\\\"],\\\"\\\"]\\n7:I[5766,[\\\"/_next/static/chunks/f36bb5dad2c41a0d.js\\\",\\\"/_next/static/chunks/e752caac482698eb.js\\\",\\\"/_next/static/chunks/7c84b815d49fc52e.js\\\"],\\\"Toaster\\\"]\\n8:I[72508,[\\\"/_next/static/chunks/f36bb5dad2c41a0d.js\\\",\\\"/_next/static/chunks/e752caac482698eb.js\\\",\\\"/_next/static/chunks/7c84b815d49fc52e.js\\\",\\\"/_next/static/chunks/82fd8b9e4ea740ef.js\\\"],\\\"default\\\"]\\n9:I[97367,[\\\"/_next/static/chunks/ff1a16fafef87110.js\\\",\\\"/_next/static/chunks/7340adf74ff47ec0.js\\\"],\\\"OutletBoundary\\\"]\\na:\\\"$Sreact.suspense\\\"\\nc:I[97367,[\\\"/_next/static/chunks/ff1a16fafef87110.js\\\",\\\"/_next/static/chunks/7340adf74ff47ec0.js\\\"],\\\"ViewportBoundary\\\"]\\ne:I[97367,[\\\"/_next/static/chunks/ff1a16fafef87110.js\\\",\\\"/_next/static/chunks/7340adf74ff47ec0.js\\\"],\\\"MetadataBoundary\\\"]\\n10:I[15750,[\\\"/_next/static/chunks/8ba1e01e7f883082.js\\\"],\\\"default\\\"]\\n:HL[\\\"/_next/static/chunks/033c01174c27d51e.css\\\",\\\"style\\\"]\\n:HL[\\\"/_next/static/media/345c85a432359eed-s.p.eead68dd.woff2\\\",\\\"font\\\",{\\\"crossOrigin\\\":\\\"\\\",\\\"type\\\":\\\"font/woff2\\\"}]\\n:HL[\\\"/_next/static/media/8e451580e5e95631-s.p.0e564e6e.woff2\\\",\\\"font\\\",{\\\"crossOrigin\\\":\\\"\\\",\\\"type\\\":\\\"font/woff2\\\"}]\\n:HL[\\\"/_next/static/media/9be384ea93fe3f49-s.p.ab26386e.woff2\\\",\\\"font\\\",{\\\"crossOrigin\\\":\\\"\\\",\\\"type\\\":\\\"font/woff2\\\"}]\\n\"])</script><script>self.__next_f.push([1,\"0:{\\\"P\\\":null,\\\"b\\\":\\\"stLeFfcrbAvN-8wALiLyi\\\",\\\"c\\\":[\\\"\\\",\\\"\\\"],\\\"q\\\":\\\"\\\",\\\"i\\\":false,\\\"f\\\":[[[\\\"\\\",{\\\"children\\\":[\\\"__PAGE__\\\",{}]},\\\"$undefined\\\",\\\"$undefined\\\",true],[[\\\"$\\\",\\\"$1\\\",\\\"c\\\",{\\\"children\\\":[[[\\\"$\\\",\\\"link\\\",\\\"0\\\",{\\\"rel\\\":\\\"stylesheet\\\",\\\"href\\\":\\\"/_next/static/chunks/033c01174c27d51e.css\\\",\\\"precedence\\\":\\\"next\\\",\\\"crossOrigin\\\":\\\"$undefined\\\",\\\"nonce\\\":\\\"$undefined\\\"}],[\\\"$\\\",\\\"script\\\",\\\"script-0\\\",{\\\"src\\\":\\\"/_next/static/chunks/f36bb5dad2c41a0d.js\\\",\\\"async\\\":true,\\\"nonce\\\":\\\"$undefined\\\"}],[\\\"$\\\",\\\"script\\\",\\\"script-1\\\",{\\\"src\\\":\\\"/_next/static/chunks/e752caac482698eb.js\\\",\\\"async\\\":true,\\\"nonce\\\":\\\"$undefined\\\"}],[\\\"$\\\",\\\"script\\\",\\\"script-2\\\",{\\\"src\\\":\\\"/_next/static/chunks/7c84b815d49fc52e.js\\\",\\\"async\\\":true,\\\"nonce\\\":\\\"$undefined\\\"}]],[\\\"$\\\",\\\"html\\\",null,{\\\"lang\\\":\\\"en\\\",\\\"suppressHydrationWarning\\\":true,\\\"children\\\":[\\\"$\\\",\\\"body\\\",null,{\\\"className\\\":\\\"lato_e87a020-module__BfALCW__variable antialiased\\\",\\\"children\\\":[\\\"$\\\",\\\"$L2\\\",null,{\\\"children\\\":[\\\"$\\\",\\\"$L3\\\",null,{\\\"children\\\":[[\\\"$\\\",\\\"$L4\\\",null,{\\\"parallelRouterKey\\\":\\\"children\\\",\\\"error\\\":\\\"$undefined\\\",\\\"errorStyles\\\":\\\"$undefined\\\",\\\"errorScripts\\\":\\\"$undefined\\\",\\\"template\\\":[\\\"$\\\",\\\"$L5\\\",null,{}],\\\"templateStyles\\\":\\\"$undefined\\\",\\\"templateScripts\\\":\\\"$undefined\\\",\\\"notFound\\\":[[\\\"$\\\",\\\"div\\\",null,{\\\"className\\\":\\\"min-h-screen flex justify-center items-center\\\",\\\"children\\\":[\\\"$\\\",\\\"div\\\",null,{\\\"className\\\":\\\"w-96\\\",\\\"children\\\":[[\\\"$\\\",\\\"h2\\\",null,{\\\"children\\\":\\\"Not Found\\\"}],[\\\"$\\\",\\\"p\\\",null,{\\\"children\\\":\\\"Could not find requested resource\\\"}],[\\\"$\\\",\\\"$L6\\\",null,{\\\"href\\\":\\\"/login\\\",\\\"className\\\":\\\"px-4 py-2 ring rounded-full border-gray-100 hover:border-cyan-400 shadow\\\",\\\"children\\\":\\\"Return Home\\\"}]]}]}],[]],\\\"forbidden\\\":\\\"$undefined\\\",\\\"unauthorized\\\":\\\"$undefined\\\"}],[\\\"$\\\",\\\"$L7\\\",null,{\\\"toastOptions\\\":{\\\"success\\\":{\\\"style\\\":{}},\\\"error\\\":{\\\"style\\\":{}}}}]]}]}]}]}]]}],{\\\"children\\\":[[\\\"$\\\",\\\"$1\\\",\\\"c\\\",{\\\"children\\\":[[\\\"$\\\",\\\"$L8\\\",null,{}],[[\\\"$\\\",\\\"script\\\",\\\"script-0\\\",{\\\"src\\\":\\\"/_next/static/chunks/82fd8b9e4ea740ef.js\\\",\\\"async\\\":true,\\\"nonce\\\":\\\"$undefined\\\"}]],[\\\"$\\\",\\\"$L9\\\",null,{\\\"children\\\":[\\\"$\\\",\\\"$a\\\",null,{\\\"name\\\":\\\"Next.MetadataOutlet\\\",\\\"children\\\":\\\"$@b\\\"}]}]]}],{},null,false,false]},null,false,false],[\\\"$\\\",\\\"$1\\\",\\\"h\\\",{\\\"children\\\":[null,[\\\"$\\\",\\\"$Lc\\\",null,{\\\"children\\\":\\\"$Ld\\\"}],[\\\"$\\\",\\\"div\\\",null,{\\\"hidden\\\":true,\\\"children\\\":[\\\"$\\\",\\\"$Le\\\",null,{\\\"children\\\":[\\\"$\\\",\\\"$a\\\",null,{\\\"name\\\":\\\"Next.Metadata\\\",\\\"children\\\":\\\"$Lf\\\"}]}]}],[\\\"$\\\",\\\"meta\\\",null,{\\\"name\\\":\\\"next-size-adjust\\\",\\\"content\\\":\\\"\\\"}]]}],false]],\\\"m\\\":\\\"$undefined\\\",\\\"G\\\":[\\\"$10\\\",[]],\\\"S\\\":true}\\n\"])</script><script>self.__next_f.push([1,\"d:[[\\\"$\\\",\\\"meta\\\",\\\"0\\\",{\\\"charSet\\\":\\\"utf-8\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"1\\\",{\\\"name\\\":\\\"viewport\\\",\\\"content\\\":\\\"width=device-width, initial-scale=1\\\"}]]\\n\"])</script><script>self.__next_f.push([1,\"11:I[27201,[\\\"/_next/static/chunks/ff1a16fafef87110.js\\\",\\\"/_next/static/chunks/7340adf74ff47ec0.js\\\"],\\\"IconMark\\\"]\\nb:null\\nf:[[\\\"$\\\",\\\"title\\\",\\\"0\\\",{\\\"children\\\":\\\"Login\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"1\\\",{\\\"name\\\":\\\"description\\\",\\\"content\\\":\\\"Abi olt SaaS\\\"}],[\\\"$\\\",\\\"link\\\",\\\"2\\\",{\\\"rel\\\":\\\"icon\\\",\\\"href\\\":\\\"/favicon.ico?favicon.0b3bf435.ico\\\",\\\"sizes\\\":\\\"256x256\\\",\\\"type\\\":\\\"image/x-icon\\\"}],[\\\"$\\\",\\\"$L11\\\",\\\"3\\\",{}]]\\n\"])</script></body></html>",
+    "location": "/",
+    "status": 200,
+    "robots": null,
+    "components_hash": -1130971133,
+    "server": "nginx",
+    "headers": {
+      "x-nextjs-cache": "HIT",
+      "content-length": "7743",
+      "x-powered-by": "Next.js",
+      "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding",
+      "server": "nginx",
+      "x-nextjs-stale-time": "300",
+      "connection": "keep-alive",
+      "etag": "\"1881u2fipn45z3\"",
+      "cache-control": "s-maxage=31536000",
+      "date": "Thu, 30 Jul 2026 15:19:25 GMT",
+      "x-nextjs-prerender": "1, 1",
+      "content-type": "text/html; charset=utf-8"
+    },
+    "sitemap": null
+  },
+  "os": null,
+  "transport": "tcp",
+  "timestamp": "2026-07-30T15:19:25.974195",
+  "isp": "Achiever Broadband Internet",
+  "cpe23": [
+    "cpe:2.3:a:f5:nginx",
+    "cpe:2.3:a:facebook:react",
+    "cpe:2.3:a:vercel:next.js"
+  ],
+  "cpe": [
+    "cpe:/a:f5:nginx",
+    "cpe:/a:facebook:react",
+    "cpe:/a:vercel:next.js"
+  ],
+  "_shodan": {
+    "region": "eu",
+    "module": "http-simple-new"
+  },
+  "cpe23_hash": -405627344,
+  "asn": "AS138600",
+  "location": {
+    "country_code": "BD",
+    "country_name": "Bangladesh"
+  },
+  "org": "Achiever Broadband Internet",
+  "data": "HTTP/1.1 200 OK\r\nServer: nginx\r\nDate: Thu, 30 Jul 2026 15:19:25 GMT\r\nContent-Type: text/html; charset=utf-8\r\nContent-Length: 7743\r\nConnection: keep-alive\r\nVary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding\r\nx-nextjs-cache: HIT\r\nx-nextjs-prerender: 1\r\nx-nextjs-prerender: 1\r\nx-nextjs-stale-time: 300\r\nX-Powered-By: Next.js\r\nCache-Control: s-maxage=31536000\r\nETag: \"1881u2fipn45z3\"\r\n\r\n",
+  "port": 9009,
+  "opts": {},
+  "_artifact": {
+    "host_id": "11aed9e700f5748fed6bf3fd39b15198",
+    "ip_id": "55996fb25e0702cb894c44e875c537fd",
+    "port": 9009,
+    "framework": "next",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 7743,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 25
+    }
+  }
+}

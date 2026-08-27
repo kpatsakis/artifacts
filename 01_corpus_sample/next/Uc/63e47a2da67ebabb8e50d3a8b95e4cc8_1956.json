@@ -1,0 +1,60 @@
+{
+  "asn": "AS16509",
+  "http": {
+    "status": 200,
+    "redirects": [],
+    "securitytxt": null,
+    "title": null,
+    "robots": null,
+    "server": "Linux, UPnP/1.0, Intel SDK for UPnP devices /1.2",
+    "headers": {
+      "content-length": "222",
+      "x-powered-by": "Next.js",
+      "vary": "RSC",
+      "server": "Linux, UPnP/1.0, Intel SDK for UPnP devices /1.2",
+      "last-modified": "Mon, 21 Nov 2022 07:46:31 GMT",
+      "date": "Thu, 23 Jul 2026 13:09:36 GMT",
+      "content-type": "text/x-component"
+    },
+    "html": "<!DOCTYPE html>\n<html>\n<head>\n    <meta name=\"generator\" content=\"Waku\"/>\n    <link rel=\"icon\" href=\"/favicon.png\">\n</head>\n<body>\n    <div id=\"root\"></div>\n    <script src=\"/react-router-dom.js\"></script>\n</body>\n</html>\n",
+    "location": "/",
+    "sitemap": null
+  },
+  "os": null,
+  "tags": [
+    "cloud"
+  ],
+  "timestamp": "2026-07-23T13:06:21.168047",
+  "isp": "Amazon.com, Inc.",
+  "transport": "tcp",
+  "_shodan": {
+    "region": "na",
+    "module": "auto"
+  },
+  "cloud": {
+    "region": "ap-south-1",
+    "service": "EC2",
+    "provider": "Amazon"
+  },
+  "location": {
+    "country_code": "IN",
+    "country_name": "India"
+  },
+  "org": "Amazon Data Services India",
+  "data": "HTTP/1.1 200 OK\r\nDate: Thu, 23 Jul 2026 13:09:36 GMT\r\nServer: Linux, UPnP/1.0, Intel SDK for UPnP devices /1.2\r\nLast-Modified: Mon, 21 Nov 2022 07:46:31 GMT\r\nX-Powered-By: Next.js\r\nContent-Type: text/x-component\r\nVary: RSC\r\nContent-Length: 222\r\n\r\n",
+  "port": 1956,
+  "opts": {},
+  "_artifact": {
+    "host_id": "63e47a2da67ebabb8e50d3a8b95e4cc8",
+    "ip_id": "79208c848d3b7638dc59ce6fd2602c1c",
+    "port": 1956,
+    "framework": "next",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 222,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 18
+    }
+  }
+}

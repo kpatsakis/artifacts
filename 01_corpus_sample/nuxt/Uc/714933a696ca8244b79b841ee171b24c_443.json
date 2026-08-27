@@ -1,0 +1,75 @@
+{
+  "asn": "AS3356",
+  "http": {
+    "status": 200,
+    "redirects": [
+      {
+        "data": "HTTP/1.1 302 Found\r\nset-cookie: __Host-next-auth.csrf-token=9381b4114d7bb55f0d6198924a75745c4258b57d91d28cc4e5ebbdf171719387%7Caf9f113b08910a75c2f96f01935ca9a0caec9e1a0a03ea2ed664251bc9c6f59d; Path=/; HttpOnly; Secure; SameSite=Lax\r\nset-cookie: __Secure-next-auth.callback-url=https%3A%2F%2Feventos.preprod.parramarketplace.com; Path=/; HttpOnly; Secure; SameSite=Lax\r\nset-cookie: __Host-next-auth.csrf-token=9381b4114d7bb55f0d6198924a75745c4258b57d91d28cc4e5ebbdf171719387%7Caf9f113b08910a75c2f96f01935ca9a0caec9e1a0a03ea2ed664251bc9c6f59d; Path=/; HttpOnly; Secure; SameSite=Lax\r\nset-cookie: __Secure-next-auth.callback-url=https%3A%2F%2Feventos.preprod.parramarketplace.com; Path=/; HttpOnly; Secure; SameSite=Lax\r\nset-cookie: i18n_redirected=es; Path=/; Expires=Thu, 22 Jul 2027 12:58:51 GMT; SameSite=Lax\r\nlocation: /api/auth/signin?callbackUrl=%2F\r\ncontent-type: text/html\r\nx-cloud-trace-context: 377bcde12998142bdcff581604e272ab;o=1\r\ndate: Wed, 22 Jul 2026 12:58:51 GMT\r\nserver: Google Frontend\r\nContent-Length: 118\r\nVia: 1.1 google\r\nAlt-Svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000\r\n\r\n",
+        "location": "/"
+      },
+      {
+        "data": "HTTP/1.1 302 Found\r\nset-cookie: __Host-next-auth.csrf-token=ea04088da5d6af4e73d1a1dc392edb38a34ed5031e64ca48cf509b7a6a7ca111%7C8b24a1d196b5e02d67617405e845917c4028c0aac06d4e452510fee5173e6dc8; Path=/; HttpOnly; Secure; SameSite=Lax\r\nset-cookie: __Secure-next-auth.callback-url=https%3A%2F%2Feventos.preprod.parramarketplace.com%2F; Path=/; HttpOnly; Secure; SameSite=Lax\r\nlocation: /login?callbackUrl=https%3A%2F%2Feventos.preprod.parramarketplace.com%2F\r\ncontent-type: text/html\r\nx-cloud-trace-context: 143014aed02a83cda3f85c5328d2d1b5\r\ndate: Wed, 22 Jul 2026 12:58:52 GMT\r\nserver: Google Frontend\r\nContent-Length: 158\r\nVia: 1.1 google\r\nAlt-Svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000\r\n\r\n",
+        "location": "/api/auth/signin?callbackUrl=%2F"
+      }
+    ],
+    "securitytxt": null,
+    "title": "Parra Eventos",
+    "robots": null,
+    "server": "Google Frontend",
+    "headers": {
+      "content-length": "8551",
+      "via": "1.1 google",
+      "x-powered-by": "Nuxt",
+      "set-cookie": "__Host-next-auth.csrf-token=251b327c732d02b25396ee5785890a447cfc19a4f4a77d930e9ac8f5c1d3ad4b%7C2245bb713d2293496d115e182ec4832ae075ac3cb1d39a761ecbcf6e1f00f0f4; Path=/; HttpOnly; Secure; SameSite=Lax, __Secure-next-auth.callback-url=https%3A%2F%2Feventos.preprod.parramarketplace.com; Path=/; HttpOnly; Secure; SameSite=Lax, __Host-next-auth.csrf-token=251b327c732d02b25396ee5785890a447cfc19a4f4a77d930e9ac8f5c1d3ad4b%7C2245bb713d2293496d115e182ec4832ae075ac3cb1d39a761ecbcf6e1f00f0f4; Path=/; HttpOnly; Secure; SameSite=Lax, __Secure-next-auth.callback-url=https%3A%2F%2Feventos.preprod.parramarketplace.com; Path=/; HttpOnly; Secure; SameSite=Lax, i18n_redirected=es; Path=/; Expires=Thu, 22 Jul 2027 12:58:52 GMT; SameSite=Lax",
+      "server": "Google Frontend",
+      "x-cloud-trace-context": "bff47222430bfc77553ccb096ad6ae83",
+      "date": "Wed, 22 Jul 2026 12:58:52 GMT",
+      "alt-svc": "h3=\":443\"; ma=2592000",
+      "content-type": "text/html;charset=utf-8"
+    },
+    "html": "<!DOCTYPE html><html><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1, viewport-fit=cover\"><style>.app-footer[data-v-86cab74f]{padding:16px 20px;background:#f8fafc;border-top:1px solid #e2e8f0;margin-top:auto}.footer-text[data-v-86cab74f]{margin:0;font-size:.75rem;color:#64748b;text-align:center;line-height:1.5}.footer-link[data-v-86cab74f]{color:var(--brand-icon);text-decoration:none;font-weight:500;transition:color .15s ease}.footer-link[data-v-86cab74f]:hover{color:var(--brand-accent-strong);text-decoration:underline}</style><style>.default-layout[data-v-6f3237f5]{display:flex;flex-direction:column;height:100vh;height:100dvh;overflow:hidden}.default-layout-content[data-v-6f3237f5]{flex:1;min-height:0;display:flex;flex-direction:column;overflow-y:auto}</style><link rel=\"stylesheet\" href=\"/_nuxt/entry.BSGYjMO3.css\" crossorigin><link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/Cy27OI16.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/_y_4QsMb.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/DlAUqK2U.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/ok8g2sFP.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/B7IkM1uS.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/DSShNB2f.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/Cb0AUaHv.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/ND86QFfs.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/CC-wE79a.js\"><script type=\"module\" src=\"/_nuxt/Cy27OI16.js\" crossorigin></script><title>Parra Eventos</title><link rel=\"icon\" type=\"image/png\" href=\"https://storage.googleapis.com/preprod-parra-argentina-assets/assets/icons/favicon.png\"></head><body><div id=\"__nuxt\"><div><div class=\"default-layout\" data-v-6f3237f5><div class=\"default-layout-content\" data-v-6f3237f5><!--[--><div class=\"flex min-h-full flex-1 items-center justify-center bg-background px-4 py-8\"><div class=\"rounded-lg border bg-card text-card-foreground shadow-sm w-full max-w-sm sm:max-w-md\"><!--[--><div class=\"flex flex-col gap-y-1.5 p-6 items-center pb-2 text-center\"><!--[--><img src=\"https://storage.googleapis.com/preprod-parra-argentina-assets/assets/admin/logoLogin.webp\" alt=\"Logo de Parra Events\" class=\"mb-4 h-32 w-auto object-contain\"><h3 class=\"font-semibold tracking-tight text-2xl\"><!--[-->Iniciar sesión<!--]--></h3><!--]--></div><div class=\"p-6 pt-4\"><!--[--><!----><form novalidate class=\"space-y-4\"><!--[--><div class=\"space-y-2\"><!--[--><label for=\"reka-v-0-0-form-item\" class=\"text-sm font-medium leading-none peer-disabled:cursor-not-allowed peer-disabled:opacity-70\"><!--[--><!--[--><!--[-->Usuario<!--]--><!--]--><!--]--></label><input class=\"flex h-10 w-full rounded-md border border-input bg-background px-3 py-2 text-sm ring-offset-background file:border-0 file:bg-transparent file:text-foreground file:text-sm file:font-medium placeholder:text-muted-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50\" id=\"reka-v-0-0-form-item\" aria-describedby=\"reka-v-0-0-form-item-description\" aria-invalid=\"false\" type=\"text\" placeholder=\"nombre de usuario\" autocomplete=\"username\" autofocus name=\"user\"><!----><!--]--></div><!--]--><!--[--><div class=\"space-y-2\"><!--[--><div class=\"flex items-center justify-between\"><label for=\"reka-v-0-1-form-item\" class=\"text-sm font-medium leading-none peer-disabled:cursor-not-allowed peer-disabled:opacity-70\"><!--[--><!--[--><!--[-->Contraseña<!--]--><!--]--><!--]--></label><a href=\"https://admin.preprod.parramarketplace.com/user/RecoverPassword\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"text-sm text-muted-foreground underline-offset-4 hover:text-primary hover:underline\">¿Olvidaste tu contraseña?</a></div><div id=\"reka-v-0-1-form-item\" aria-describedby=\"reka-v-0-1-form-item-description\" aria-invalid=\"false\" class=\"relative\"><input class=\"flex h-10 w-full rounded-md border border-input bg-background px-3 py-2 text-sm ring-offset-background file:border-0 file:bg-transparent file:text-foreground file:text-sm file:font-medium placeholder:text-muted-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50\" type=\"password\" placeholder=\"••••••••\" autocomplete=\"current-password\" aria-invalid=\"false\" name=\"password\"><button type=\"button\" class=\"absolute right-3 top-1/2 -translate-y-1/2 text-muted-foreground transition-colors hover:text-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring\" aria-label=\"Mostrar contraseña\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-eye-icon lucide-eye h-4 w-4\"><path d=\"M2.062 12.348a1 1 0 0 1 0-.696 10.75 10.75 0 0 1 19.876 0 1 1 0 0 1 0 .696 10.75 10.75 0 0 1-19.876 0\"></path><circle cx=\"12\" cy=\"12\" r=\"3\"></circle></svg></button></div><!----><!--]--></div><!--]--><button class=\"inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg]:size-4 [&amp;_svg]:shrink-0 bg-primary text-primary-foreground hover:bg-primary/90 h-10 px-4 py-2 w-full\" type=\"submit\"><!--[--><!----> Ingresar<!--]--></button></form><!--]--></div><!--]--></div></div><!--]--></div><footer class=\"app-footer\" data-v-6f3237f5 data-v-86cab74f><p class=\"footer-text\" data-v-86cab74f> © 2026 Parra Eventos by <a href=\"https://preprod.parramarketplace.com\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"footer-link\" data-v-86cab74f>Parramarketplace by Nemi</a> - all rights reserved </p></footer></div></div></div><div id=\"teleports\"></div><script>window.__NUXT__={};window.__NUXT__.config={public:{logoUrl:\"https://storage.googleapis.com/preprod-parra-argentina-assets/assets/admin/logoLogin.webp\",faviconUrl:\"https://storage.googleapis.com/preprod-parra-argentina-assets/assets/icons/favicon.png\",forgotPasswordUrl:\"https://admin.preprod.parramarketplace.com/user/RecoverPassword\",appName:\"parra eventos\",brandName:\"\",copyrightName:\"Parramarketplace by Nemi\",copyrightUrl:\"https://preprod.parramarketplace.com\",themePrimary:\"\",auth:{isEnabled:true,baseURL:\"/api/auth\",disableInternalRouting:false,disableServerSideAuth:false,originEnvKey:\"AUTH_ORIGIN\",sessionRefresh:{enablePeriodically:false,enableOnWindowFocus:true,handler:\"\"},globalAppMiddleware:{isEnabled:true,allow404WithoutAuth:true,addDefaultCallbackUrl:true},provider:{type:\"authjs\",trustHost:false,defaultProvider:\"\",addDefaultCallbackUrl:true}},i18n:{baseUrl:\"\",defaultLocale:\"es\",rootRedirect:\"\",redirectStatusCode:302,skipSettingLocaleOnNavigate:false,locales:[{code:\"es\",name:\"Español\",language:\"\"},{code:\"en\",name:\"English\",language:\"\"}],detectBrowserLanguage:{alwaysRedirect:false,cookieCrossOrigin:false,cookieDomain:\"\",cookieKey:\"i18n_redirected\",cookieSecure:false,fallbackLocale:\"es\",redirectOn:\"root\",useCookie:true},experimental:{localeDetector:\"\",typedPages:true,typedOptionsAndMessages:false,alternateLinkCanonicalQueries:true,devCache:false,cacheLifetime:\"\",stripMessagesPayload:false,preload:false,strictSeo:false,nitroContextDetection:true,httpCacheDuration:10,compactRoutes:false},domainLocales:{es:{domain:\"\"},en:{domain:\"\"}}}},app:{baseURL:\"/\",buildId:\"1084dbc0-484f-4bbe-955a-73ee525ba2ee\",buildAssetsDir:\"/_nuxt/\",cdnURL:\"\"}}</script><script type=\"application/json\" data-nuxt-data=\"nuxt-app\" data-ssr=\"true\" id=\"__NUXT_DATA__\">[[\"ShallowReactive\",1],{\"data\":2,\"state\":4,\"once\":17,\"_errors\":18,\"serverRendered\":9,\"path\":20,\"pinia\":21},[\"ShallowReactive\",3],{},[\"Reactive\",5],{\"$si18n:cached-locale-configs\":6,\"$si18n:resolved-locale\":12,\"$sauth:data\":13,\"$sauth:lastRefreshedAt\":14,\"$sauth:loading\":15,\"$sfooter-year\":16},{\"es\":7,\"en\":10},{\"fallbacks\":8,\"cacheable\":9},[],true,{\"fallbacks\":11,\"cacheable\":9},[],\"\",null,[\"Date\",\"2026-07-22T12:58:52.184Z\"],false,2026,[\"Set\"],[\"ShallowReactive\",19],{},\"\\u002Flogin?callbackUrl=https%3A%2F%2Feventos.preprod.parramarketplace.com%2F\",[\"Reactive\",22],{\"auth\":23},{\"user\":24},[\"EmptyRef\",25],\"null\"]</script></body></html>",
+    "location": "/login?callbackUrl=https%3A%2F%2Feventos.preprod.parramarketplace.com%2F",
+    "sitemap": null
+  },
+  "os": null,
+  "tags": [
+    "cloud"
+  ],
+  "timestamp": "2026-07-22T12:58:52.543255",
+  "isp": "Level 3 Parent, LLC",
+  "transport": "tcp",
+  "_shodan": {
+    "region": "",
+    "module": "https"
+  },
+  "cloud": {
+    "region": "global",
+    "service": null,
+    "provider": "Google"
+  },
+  "location": {
+    "country_code": "US",
+    "country_name": "United States"
+  },
+  "org": "Google LLC",
+  "data": "HTTP/1.1 200 OK\r\nset-cookie: __Host-next-auth.csrf-token=251b327c732d02b25396ee5785890a447cfc19a4f4a77d930e9ac8f5c1d3ad4b%7C2245bb713d2293496d115e182ec4832ae075ac3cb1d39a761ecbcf6e1f00f0f4; Path=/; HttpOnly; Secure; SameSite=Lax\r\nset-cookie: __Secure-next-auth.callback-url=https%3A%2F%2Feventos.preprod.parramarketplace.com; Path=/; HttpOnly; Secure; SameSite=Lax\r\nset-cookie: __Host-next-auth.csrf-token=251b327c732d02b25396ee5785890a447cfc19a4f4a77d930e9ac8f5c1d3ad4b%7C2245bb713d2293496d115e182ec4832ae075ac3cb1d39a761ecbcf6e1f00f0f4; Path=/; HttpOnly; Secure; SameSite=Lax\r\nset-cookie: __Secure-next-auth.callback-url=https%3A%2F%2Feventos.preprod.parramarketplace.com; Path=/; HttpOnly; Secure; SameSite=Lax\r\nset-cookie: i18n_redirected=es; Path=/; Expires=Thu, 22 Jul 2027 12:58:52 GMT; SameSite=Lax\r\ncontent-type: text/html;charset=utf-8\r\nx-powered-by: Nuxt\r\nx-cloud-trace-context: bff47222430bfc77553ccb096ad6ae83\r\ndate: Wed, 22 Jul 2026 12:58:52 GMT\r\nserver: Google Frontend\r\nContent-Length: 8551\r\nVia: 1.1 google\r\nAlt-Svc: h3=\":443\"; ma=2592000\r\n\r\n",
+  "port": 443,
+  "opts": {
+    "vulns": [],
+    "heartbleed": "2026/07/22 12:58:56 [ip-redacted]:443 - SAFE\n"
+  },
+  "_artifact": {
+    "host_id": "714933a696ca8244b79b841ee171b24c",
+    "ip_id": "9750e035cc491326f95ab2ce606a5221",
+    "port": 443,
+    "framework": "nuxt",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 8528,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 22,
+      "ip": 1
+    }
+  }
+}

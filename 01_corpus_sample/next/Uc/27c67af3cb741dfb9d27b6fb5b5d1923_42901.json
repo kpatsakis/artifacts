@@ -1,0 +1,60 @@
+{
+  "asn": "AS16509",
+  "http": {
+    "status": 200,
+    "redirects": [],
+    "securitytxt": null,
+    "title": null,
+    "robots": null,
+    "server": "VCS-VIDOS-NVR",
+    "headers": {
+      "content-length": "222",
+      "x-powered-by": "Next.js",
+      "vary": "RSC",
+      "server": "VCS-VIDOS-NVR",
+      "last-modified": "Sat, 05 Aug 2023 11:22:19 GMT",
+      "date": "Tue, 14 Jul 2026 12:14:13 GMT",
+      "content-type": "text/x-component"
+    },
+    "html": "<!DOCTYPE html>\n<html>\n<head>\n    <meta name=\"generator\" content=\"Waku\"/>\n    <link rel=\"icon\" href=\"/favicon.png\">\n</head>\n<body>\n    <div id=\"root\"></div>\n    <script src=\"/react-router-dom.js\"></script>\n</body>\n</html>\n",
+    "location": "/",
+    "sitemap": null
+  },
+  "os": null,
+  "tags": [
+    "cloud"
+  ],
+  "timestamp": "2026-07-14T12:11:17.637038",
+  "isp": "Amazon.com, Inc.",
+  "transport": "tcp",
+  "_shodan": {
+    "region": "na",
+    "module": "auto"
+  },
+  "cloud": {
+    "region": "ap-northeast-2",
+    "service": "EC2",
+    "provider": "Amazon"
+  },
+  "location": {
+    "country_code": "KR",
+    "country_name": "Korea, Republic of"
+  },
+  "org": "AWS Asia Pacific (Seoul) Region",
+  "data": "HTTP/1.1 200 OK\r\nDate: Tue, 14 Jul 2026 12:14:13 GMT\r\nServer: VCS-VIDOS-NVR\r\nLast-Modified: Sat, 05 Aug 2023 11:22:19 GMT\r\nX-Powered-By: Next.js\r\nContent-Type: text/x-component\r\nVary: RSC\r\nContent-Length: 222\r\n\r\n",
+  "port": 42901,
+  "opts": {},
+  "_artifact": {
+    "host_id": "27c67af3cb741dfb9d27b6fb5b5d1923",
+    "ip_id": "1298aaba6d36266d698358ecccd1d19e",
+    "port": 42901,
+    "framework": "next",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 222,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 18
+    }
+  }
+}

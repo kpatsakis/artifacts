@@ -1,0 +1,74 @@
+{
+  "asn": "AS16509",
+  "http": {
+    "status": 404,
+    "redirects": [],
+    "securitytxt": null,
+    "title": "Iridia - Product Authenticity Platform",
+    "robots": null,
+    "server": null,
+    "headers": {
+      "x-nextjs-cache": "HIT",
+      "x-amz-cf-pop": "SIN2-P4",
+      "content-length": "8621",
+      "via": "1.1 4e7ab7d3a1019b0c033068318d72e5ee.[hostname-redacted] (CloudFront)",
+      "x-cache": "Error from cloudfront",
+      "x-powered-by": "Next.js",
+      "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding, Origin",
+      "x-nextjs-stale-time": "300",
+      "connection": "keep-alive",
+      "etag": "\"13h0w7wofy06nh\"",
+      "x-amz-cf-id": "HgZiQtW3G94u8A9AeTuRUZm-uxp8agKbYGHOKD7wsJuVlkUEikkmYw==",
+      "cache-control": "private, no-cache, no-store, max-age=0, must-revalidate",
+      "date": "Fri, 10 Jul 2026 14:36:46 GMT",
+      "x-nextjs-prerender": "1, 1",
+      "content-type": "text/html; charset=utf-8"
+    },
+    "html": "<!DOCTYPE html><!--0Trdt6tC_1guR0fS5JfTn--><html lang=\"en\" class=\"h-full dark\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"preload\" href=\"/dev/_next/static/media/e4af272ccee01ff0-s.p.woff2\" as=\"font\" crossorigin=\"\" type=\"font/woff2\"/><link rel=\"stylesheet\" href=\"/dev/_next/static/css/39fd753dcab54b02.css\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/dev/_next/static/css/c1fcce837d271a04.css\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/dev/_next/static/chunks/webpack-382931860f3d5a46.js\"/><script src=\"/dev/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js\" async=\"\"></script><script src=\"/dev/_next/static/chunks/1255-fa17658b4657279f.js\" async=\"\"></script><script src=\"/dev/_next/static/chunks/main-app-f3336e172256d2ab.js\" async=\"\"></script><script src=\"/dev/_next/static/chunks/490-d1a56a3f8938d059.js\" async=\"\"></script><script src=\"/dev/_next/static/chunks/3850-921a5f539dae05f2.js\" async=\"\"></script><script src=\"/dev/_next/static/chunks/app/layout-e1cdcd3229f9985f.js\" async=\"\"></script><script src=\"/dev/_next/static/chunks/2619-04bc32f026a0d946.js\" async=\"\"></script><script src=\"/dev/_next/static/chunks/app/not-found-673260e14050cb6d.js\" async=\"\"></script><link rel=\"preload\" href=\"https://replit.com/public/js/replit-dev-banner.js\" as=\"script\"/><meta name=\"robots\" content=\"noindex\"/><meta name=\"next-size-adjust\" content=\"\"/><title>Iridia - Product Authenticity Platform</title><meta name=\"description\" content=\"Iridia&#x27;s secure platform for product authenticity verification, inventory management, and anti-counterfeiting solutions.\"/><link rel=\"icon\" href=\"/dev/favicon.ico\" type=\"image/x-icon\" sizes=\"32x26\"/><script src=\"/dev/_next/static/chunks/polyfills-42372ed130431b0a.js\" noModule=\"\"></script></head><body class=\"__className_b0c8c6 h-full bg-gray-50 dark:bg-gray-900 text-gray-900 dark:text-gray-100 transition-colors\" style=\"font-family:Geist, Inter, ui-sans-serif, system-ui, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, Segoe UI Symbol, &quot;Noto Color Emoji&quot;\"><div hidden=\"\"><!--$--><!--/$--></div><link href=\"https://fonts.googleapis.com/icon?family=Material+Icons\" rel=\"stylesheet\"/><div class=\"min-h-screen flex items-center justify-center bg-[#0F1923]\"><div class=\"text-center\"><h1 class=\"text-6xl font-bold text-white mb-4\">404</h1><p class=\"text-xl text-gray-400 mb-8\">Page not found</p><a class=\"text-iridia-blue hover:text-iridia-silver underline\" href=\"/dev/\">Return to home</a></div></div><!--$--><!--/$--><script src=\"/dev/_next/static/chunks/webpack-382931860f3d5a46.js\" id=\"_R_\" async=\"\"></script><script>(self.__next_f=self.__next_f||[]).push([0])</script><script>self.__next_f.push([1,\"1:\\\"$Sreact.fragment\\\"\\n2:I[76181,[\\\"490\\\",\\\"static/chunks/490-d1a56a3f8938d059.js\\\",\\\"3850\\\",\\\"static/chunks/3850-921a5f539dae05f2.js\\\",\\\"7177\\\",\\\"static/chunks/app/layout-e1cdcd3229f9985f.js\\\"],\\\"UserProvider\\\"]\\n3:I[80860,[\\\"490\\\",\\\"static/chunks/490-d1a56a3f8938d059.js\\\",\\\"3850\\\",\\\"static/chunks/3850-921a5f539dae05f2.js\\\",\\\"7177\\\",\\\"static/chunks/app/layout-e1cdcd3229f9985f.js\\\"],\\\"default\\\"]\\n4:I[9766,[],\\\"\\\"]\\n5:I[98924,[],\\\"\\\"]\\n6:I[52619,[\\\"2619\\\",\\\"static/chunks/2619-04bc32f026a0d946.js\\\",\\\"4345\\\",\\\"static/chunks/app/not-found-673260e14050cb6d.js\\\"],\\\"\\\"]\\n7:I[41402,[\\\"490\\\",\\\"static/chunks/490-d1a56a3f8938d059.js\\\",\\\"3850\\\",\\\"static/chunks/3850-921a5f539dae05f2.js\\\",\\\"7177\\\",\\\"static/chunks/app/layout-e1cdcd3229f9985f.js\\\"],\\\"\\\"]\\n8:I[24431,[],\\\"OutletBoundary\\\"]\\na:I[15278,[],\\\"AsyncMetadataOutlet\\\"]\\nc:I[24431,[],\\\"ViewportBoundary\\\"]\\ne:I[24431,[],\\\"MetadataBoundary\\\"]\\nf:\\\"$Sreact.suspense\\\"\\n11:I[57150,[],\\\"\\\"]\\n:HL[\\\"/dev/_next/static/media/e4af272ccee01ff0-s.p.woff2\\\",\\\"font\\\",{\\\"crossOrigin\\\":\\\"\\\",\\\"type\\\":\\\"font/woff2\\\"}]\\n:HL[\\\"/dev/_next/static/css/39fd753dcab54b02.css\\\",\\\"style\\\"]\\n:HL[\\\"/dev/_next/static/css/c1fcce837d271a04.css\\\",\\\"style\\\"]\\n\"])</script><script>self.__next_f.push([1,\"0:{\\\"P\\\":null,\\\"b\\\":\\\"0Trdt6tC-1guR0fS5JfTn\\\",\\\"p\\\":\\\"/dev\\\",\\\"c\\\":[\\\"\\\",\\\"_not-found\\\",\\\"\\\"],\\\"i\\\":false,\\\"f\\\":[[[\\\"\\\",{\\\"children\\\":[\\\"/_not-found\\\",{\\\"children\\\":[\\\"__PAGE__\\\",{}]}]},\\\"$undefined\\\",\\\"$undefined\\\",true],[\\\"\\\",[\\\"$\\\",\\\"$1\\\",\\\"c\\\",{\\\"children\\\":[[[\\\"$\\\",\\\"link\\\",\\\"0\\\",{\\\"rel\\\":\\\"stylesheet\\\",\\\"href\\\":\\\"/dev/_next/static/css/39fd753dcab54b02.css\\\",\\\"precedence\\\":\\\"next\\\",\\\"crossOrigin\\\":\\\"$undefined\\\",\\\"nonce\\\":\\\"$undefined\\\"}],[\\\"$\\\",\\\"link\\\",\\\"1\\\",{\\\"rel\\\":\\\"stylesheet\\\",\\\"href\\\":\\\"/dev/_next/static/css/c1fcce837d271a04.css\\\",\\\"precedence\\\":\\\"next\\\",\\\"crossOrigin\\\":\\\"$undefined\\\",\\\"nonce\\\":\\\"$undefined\\\"}]],[\\\"$\\\",\\\"html\\\",null,{\\\"lang\\\":\\\"en\\\",\\\"className\\\":\\\"h-full dark\\\",\\\"children\\\":[\\\"$\\\",\\\"body\\\",null,{\\\"className\\\":\\\"__className_b0c8c6 h-full bg-gray-50 dark:bg-gray-900 text-gray-900 dark:text-gray-100 transition-colors\\\",\\\"style\\\":{\\\"fontFamily\\\":\\\"Geist, Inter, ui-sans-serif, system-ui, sans-serif, \\\\\\\"Apple Color Emoji\\\\\\\", \\\\\\\"Segoe UI Emoji\\\\\\\", Segoe UI Symbol, \\\\\\\"Noto Color Emoji\\\\\\\"\\\"},\\\"children\\\":[[\\\"$\\\",\\\"$L2\\\",null,{\\\"children\\\":[[\\\"$\\\",\\\"link\\\",null,{\\\"href\\\":\\\"https://fonts.googleapis.com/icon?family=Material+Icons\\\",\\\"rel\\\":\\\"stylesheet\\\"}],[\\\"$\\\",\\\"$L3\\\",null,{}],[\\\"$\\\",\\\"$L4\\\",null,{\\\"parallelRouterKey\\\":\\\"children\\\",\\\"error\\\":\\\"$undefined\\\",\\\"errorStyles\\\":\\\"$undefined\\\",\\\"errorScripts\\\":\\\"$undefined\\\",\\\"template\\\":[\\\"$\\\",\\\"$L5\\\",null,{}],\\\"templateStyles\\\":\\\"$undefined\\\",\\\"templateScripts\\\":\\\"$undefined\\\",\\\"notFound\\\":[[\\\"$\\\",\\\"div\\\",null,{\\\"className\\\":\\\"min-h-screen flex items-center justify-center bg-[#0F1923]\\\",\\\"children\\\":[\\\"$\\\",\\\"div\\\",null,{\\\"className\\\":\\\"text-center\\\",\\\"children\\\":[[\\\"$\\\",\\\"h1\\\",null,{\\\"className\\\":\\\"text-6xl font-bold text-white mb-4\\\",\\\"children\\\":\\\"404\\\"}],[\\\"$\\\",\\\"p\\\",null,{\\\"className\\\":\\\"text-xl text-gray-400 mb-8\\\",\\\"children\\\":\\\"Page not found\\\"}],[\\\"$\\\",\\\"$L6\\\",null,{\\\"href\\\":\\\"/\\\",\\\"className\\\":\\\"text-iridia-blue hover:text-iridia-silver underline\\\",\\\"children\\\":\\\"Return to home\\\"}]]}]}],[]],\\\"forbidden\\\":\\\"$undefined\\\",\\\"unauthorized\\\":\\\"$undefined\\\"}]]}],[\\\"$\\\",\\\"$L7\\\",null,{\\\"src\\\":\\\"https://replit.com/public/js/replit-dev-banner.js\\\",\\\"strategy\\\":\\\"afterInteractive\\\"}]]}]}]]}],{\\\"children\\\":[\\\"/_not-found\\\",[\\\"$\\\",\\\"$1\\\",\\\"c\\\",{\\\"children\\\":[null,[\\\"$\\\",\\\"$L4\\\",null,{\\\"parallelRouterKey\\\":\\\"children\\\",\\\"error\\\":\\\"$undefined\\\",\\\"errorStyles\\\":\\\"$undefined\\\",\\\"errorScripts\\\":\\\"$undefined\\\",\\\"template\\\":[\\\"$\\\",\\\"$L5\\\",null,{}],\\\"templateStyles\\\":\\\"$undefined\\\",\\\"templateScripts\\\":\\\"$undefined\\\",\\\"notFound\\\":\\\"$undefined\\\",\\\"forbidden\\\":\\\"$undefined\\\",\\\"unauthorized\\\":\\\"$undefined\\\"}]]}],{\\\"children\\\":[\\\"__PAGE__\\\",[\\\"$\\\",\\\"$1\\\",\\\"c\\\",{\\\"children\\\":[[\\\"$\\\",\\\"div\\\",null,{\\\"className\\\":\\\"min-h-screen flex items-center justify-center bg-[#0F1923]\\\",\\\"children\\\":[\\\"$\\\",\\\"div\\\",null,{\\\"className\\\":\\\"text-center\\\",\\\"children\\\":[[\\\"$\\\",\\\"h1\\\",null,{\\\"className\\\":\\\"text-6xl font-bold text-white mb-4\\\",\\\"children\\\":\\\"404\\\"}],[\\\"$\\\",\\\"p\\\",null,{\\\"className\\\":\\\"text-xl text-gray-400 mb-8\\\",\\\"children\\\":\\\"Page not found\\\"}],[\\\"$\\\",\\\"$L6\\\",null,{\\\"href\\\":\\\"/\\\",\\\"className\\\":\\\"text-iridia-blue hover:text-iridia-silver underline\\\",\\\"children\\\":\\\"Return to home\\\"}]]}]}],null,[\\\"$\\\",\\\"$L8\\\",null,{\\\"children\\\":[\\\"$L9\\\",[\\\"$\\\",\\\"$La\\\",null,{\\\"promise\\\":\\\"$@b\\\"}]]}]]}],{},null,false]},null,false]},null,false],[\\\"$\\\",\\\"$1\\\",\\\"h\\\",{\\\"children\\\":[[\\\"$\\\",\\\"meta\\\",null,{\\\"name\\\":\\\"robots\\\",\\\"content\\\":\\\"noindex\\\"}],[[\\\"$\\\",\\\"$Lc\\\",null,{\\\"children\\\":\\\"$Ld\\\"}],[\\\"$\\\",\\\"meta\\\",null,{\\\"name\\\":\\\"next-size-adjust\\\",\\\"content\\\":\\\"\\\"}]],[\\\"$\\\",\\\"$Le\\\",null,{\\\"children\\\":[\\\"$\\\",\\\"div\\\",null,{\\\"hidden\\\":true,\\\"children\\\":[\\\"$\\\",\\\"$f\\\",null,{\\\"fallback\\\":null,\\\"children\\\":\\\"$L10\\\"}]}]}]]}],false]],\\\"m\\\":\\\"$undefined\\\",\\\"G\\\":[\\\"$11\\\",[]],\\\"s\\\":false,\\\"S\\\":true}\\n\"])</script><script>self.__next_f.push([1,\"d:[[\\\"$\\\",\\\"meta\\\",\\\"0\\\",{\\\"charSet\\\":\\\"utf-8\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"1\\\",{\\\"name\\\":\\\"viewport\\\",\\\"content\\\":\\\"width=device-width, initial-scale=1\\\"}]]\\n9:null\\n\"])</script><script>self.__next_f.push([1,\"12:I[80622,[],\\\"IconMark\\\"]\\nb:{\\\"metadata\\\":[[\\\"$\\\",\\\"title\\\",\\\"0\\\",{\\\"children\\\":\\\"Iridia - Product Authenticity Platform\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"1\\\",{\\\"name\\\":\\\"description\\\",\\\"content\\\":\\\"Iridia's secure platform for product authenticity verification, inventory management, and anti-counterfeiting solutions.\\\"}],[\\\"$\\\",\\\"link\\\",\\\"2\\\",{\\\"rel\\\":\\\"icon\\\",\\\"href\\\":\\\"/dev/favicon.ico\\\",\\\"type\\\":\\\"image/x-icon\\\",\\\"sizes\\\":\\\"32x26\\\"}],[\\\"$\\\",\\\"$L12\\\",\\\"3\\\",{}]],\\\"error\\\":null,\\\"digest\\\":\\\"$undefined\\\"}\\n\"])</script><script>self.__next_f.push([1,\"10:\\\"$b:metadata\\\"\\n\"])</script></body></html>",
+    "location": "/",
+    "sitemap": null
+  },
+  "os": null,
+  "tags": [
+    "cloud",
+    "cdn"
+  ],
+  "timestamp": "2026-07-10T14:36:47.057430",
+  "isp": "Amazon.com, Inc.",
+  "transport": "tcp",
+  "_shodan": {
+    "region": "eu",
+    "module": "https"
+  },
+  "cloud": {
+    "region": "GLOBAL",
+    "service": "CLOUDFRONT",
+    "provider": "Amazon"
+  },
+  "location": {
+    "country_code": "SG",
+    "country_name": "Singapore"
+  },
+  "org": "Amazon.com, Inc.",
+  "data": "HTTP/1.1 404 Not Found\r\nContent-Type: text/html; charset=utf-8\r\nContent-Length: 8621\r\nConnection: keep-alive\r\nDate: Fri, 10 Jul 2026 14:36:46 GMT\r\nETag: \"13h0w7wofy06nh\"\r\nCache-Control: private, no-cache, no-store, max-age=0, must-revalidate\r\nVary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding\r\nx-nextjs-cache: HIT\r\nx-nextjs-prerender: 1\r\nx-nextjs-prerender: 1\r\nx-nextjs-stale-time: 300\r\nX-Powered-By: Next.js\r\nX-Cache: Error from cloudfront\r\nVia: 1.1 4e7ab7d3a1019b0c033068318d72e5ee.[hostname-redacted] (CloudFront)\r\nX-Amz-Cf-Pop: SIN2-P4\r\nX-Amz-Cf-Id: HgZiQtW3G94u8A9AeTuRUZm-uxp8agKbYGHOKD7wsJuVlkUEikkmYw==\r\nVary: Origin\r\n\r\n",
+  "port": 443,
+  "opts": {
+    "vulns": [],
+    "heartbleed": "2026/07/10 14:36:58 [ip-redacted]:443 - ERROR: remote error: handshake failure\n"
+  },
+  "_artifact": {
+    "host_id": "f9c6fe859e1e8e09f66f64b563b5ec79",
+    "ip_id": "86f728eec2dd55a9b2705e0230cda60f",
+    "port": 443,
+    "framework": "next",
+    "tier": "Oc",
+    "tier_label": "Objective generator-fingerprint",
+    "html_chars_original": 8621,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 20,
+      "hostname": 2,
+      "ip": 1
+    }
+  }
+}

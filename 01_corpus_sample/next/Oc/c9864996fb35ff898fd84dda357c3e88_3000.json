@@ -1,0 +1,57 @@
+{
+  "asn": "AS12831",
+  "http": {
+    "status": 200,
+    "redirects": [],
+    "securitytxt": null,
+    "title": "Energy Dashboard",
+    "robots": null,
+    "server": null,
+    "headers": {
+      "x-nextjs-cache": "HIT",
+      "content-length": "6608",
+      "x-powered-by": "Next.js",
+      "vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding",
+      "keep-alive": "timeout=5",
+      "x-nextjs-stale-time": "300",
+      "connection": "keep-alive",
+      "etag": "\"116g25sxusj53k\"",
+      "cache-control": "s-maxage=31536000",
+      "date": "Sat, 25 Jul 2026 21:49:25 GMT",
+      "x-nextjs-prerender": "1, 1",
+      "content-type": "text/html; charset=utf-8"
+    },
+    "html": "<!DOCTYPE html><!--RgEfCh781XcgPwO4L5KZr--><html lang=\"en\" class=\"dark\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"preload\" href=\"/_next/static/media/4cf2300e9c8272f7-s.p.woff2\" as=\"font\" crossorigin=\"\" type=\"font/woff2\"/><link rel=\"preload\" href=\"/_next/static/media/93f479601ee12b01-s.p.woff2\" as=\"font\" crossorigin=\"\" type=\"font/woff2\"/><link rel=\"stylesheet\" href=\"/_next/static/css/c9da7dc9b728c8ca.css\" data-precedence=\"next\"/><link rel=\"stylesheet\" href=\"/_next/static/css/0189a9b02a69bf42.css\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/webpack-bb3f16f57d1ebc3e.js\"/><script src=\"/_next/static/chunks/05906d03-595a0778f3b9bf43.js\" async=\"\"></script><script src=\"/_next/static/chunks/867-4d3f4c8de5972549.js\" async=\"\"></script><script src=\"/_next/static/chunks/main-app-817254c1d0770ec8.js\" async=\"\"></script><script src=\"/_next/static/chunks/app/layout-d1aa47afae510cd1.js\" async=\"\"></script><script src=\"/_next/static/chunks/app/page-01efed02c075b423.js\" async=\"\"></script><meta name=\"next-size-adjust\" content=\"\"/><title>Energy Dashboard</title><meta name=\"description\" content=\"Monitor and manage your energy consumption\"/><meta name=\"generator\" content=\"v0.app\"/><script src=\"/_next/static/chunks/polyfills-42372ed130431b0a.js\" noModule=\"\"></script></head><body class=\"__className_188709 font-sans\"><div hidden=\"\"><!--$--><!--/$--></div><!--$--><div class=\"flex min-h-screen items-center justify-center\"><div class=\"h-8 w-8 animate-spin rounded-full border-4 border-primary border-t-transparent\"></div></div><!--$--><!--/$--><!--/$--><!--$!--><template data-dgst=\"BAILOUT_TO_CLIENT_SIDE_RENDERING\"></template><!--/$--><script src=\"/_next/static/chunks/webpack-bb3f16f57d1ebc3e.js\" id=\"_R_\" async=\"\"></script><script>(self.__next_f=self.__next_f||[]).push([0])</script><script>self.__next_f.push([1,\"1:\\\"$Sreact.fragment\\\"\\n2:\\\"$Sreact.suspense\\\"\\n3:I[59624,[],\\\"\\\"]\\n4:I[85534,[],\\\"\\\"]\\n5:I[22934,[\\\"177\\\",\\\"static/chunks/app/layout-d1aa47afae510cd1.js\\\"],\\\"Analytics\\\"]\\n6:I[20437,[],\\\"ClientPageRoot\\\"]\\n7:I[682,[\\\"974\\\",\\\"static/chunks/app/page-01efed02c075b423.js\\\"],\\\"default\\\"]\\na:I[7493,[],\\\"OutletBoundary\\\"]\\nc:I[58416,[],\\\"AsyncMetadataOutlet\\\"]\\ne:I[7493,[],\\\"ViewportBoundary\\\"]\\n10:I[7493,[],\\\"MetadataBoundary\\\"]\\n12:I[44676,[],\\\"\\\"]\\n:HL[\\\"/_next/static/media/4cf2300e9c8272f7-s.p.woff2\\\",\\\"font\\\",{\\\"crossOrigin\\\":\\\"\\\",\\\"type\\\":\\\"font/woff2\\\"}]\\n:HL[\\\"/_next/static/media/93f479601ee12b01-s.p.woff2\\\",\\\"font\\\",{\\\"crossOrigin\\\":\\\"\\\",\\\"type\\\":\\\"font/woff2\\\"}]\\n:HL[\\\"/_next/static/css/c9da7dc9b728c8ca.css\\\",\\\"style\\\"]\\n:HL[\\\"/_next/static/css/0189a9b02a69bf42.css\\\",\\\"style\\\"]\\n\"])</script><script>self.__next_f.push([1,\"0:{\\\"P\\\":null,\\\"b\\\":\\\"RgEfCh781XcgPwO4L5KZr\\\",\\\"p\\\":\\\"\\\",\\\"c\\\":[\\\"\\\",\\\"\\\"],\\\"i\\\":false,\\\"f\\\":[[[\\\"\\\",{\\\"children\\\":[\\\"__PAGE__\\\",{}]},\\\"$undefined\\\",\\\"$undefined\\\",true],[\\\"\\\",[\\\"$\\\",\\\"$1\\\",\\\"c\\\",{\\\"children\\\":[[[\\\"$\\\",\\\"link\\\",\\\"0\\\",{\\\"rel\\\":\\\"stylesheet\\\",\\\"href\\\":\\\"/_next/static/css/c9da7dc9b728c8ca.css\\\",\\\"precedence\\\":\\\"next\\\",\\\"crossOrigin\\\":\\\"$undefined\\\",\\\"nonce\\\":\\\"$undefined\\\"}],[\\\"$\\\",\\\"link\\\",\\\"1\\\",{\\\"rel\\\":\\\"stylesheet\\\",\\\"href\\\":\\\"/_next/static/css/0189a9b02a69bf42.css\\\",\\\"precedence\\\":\\\"next\\\",\\\"crossOrigin\\\":\\\"$undefined\\\",\\\"nonce\\\":\\\"$undefined\\\"}]],[\\\"$\\\",\\\"html\\\",null,{\\\"lang\\\":\\\"en\\\",\\\"className\\\":\\\"dark\\\",\\\"children\\\":[\\\"$\\\",\\\"body\\\",null,{\\\"className\\\":\\\"__className_188709 font-sans\\\",\\\"children\\\":[[\\\"$\\\",\\\"$2\\\",null,{\\\"fallback\\\":[\\\"$\\\",\\\"div\\\",null,{\\\"children\\\":\\\"Loading...\\\"}],\\\"children\\\":[\\\"$\\\",\\\"$L3\\\",null,{\\\"parallelRouterKey\\\":\\\"children\\\",\\\"error\\\":\\\"$undefined\\\",\\\"errorStyles\\\":\\\"$undefined\\\",\\\"errorScripts\\\":\\\"$undefined\\\",\\\"template\\\":[\\\"$\\\",\\\"$L4\\\",null,{}],\\\"templateStyles\\\":\\\"$undefined\\\",\\\"templateScripts\\\":\\\"$undefined\\\",\\\"notFound\\\":[[[\\\"$\\\",\\\"title\\\",null,{\\\"children\\\":\\\"404: This page could not be found.\\\"}],[\\\"$\\\",\\\"div\\\",null,{\\\"style\\\":{\\\"fontFamily\\\":\\\"system-ui,\\\\\\\"Segoe UI\\\\\\\",Roboto,Helvetica,Arial,sans-serif,\\\\\\\"Apple Color Emoji\\\\\\\",\\\\\\\"Segoe UI Emoji\\\\\\\"\\\",\\\"height\\\":\\\"100vh\\\",\\\"textAlign\\\":\\\"center\\\",\\\"display\\\":\\\"flex\\\",\\\"flexDirection\\\":\\\"column\\\",\\\"alignItems\\\":\\\"center\\\",\\\"justifyContent\\\":\\\"center\\\"},\\\"children\\\":[\\\"$\\\",\\\"div\\\",null,{\\\"children\\\":[[\\\"$\\\",\\\"style\\\",null,{\\\"dangerouslySetInnerHTML\\\":{\\\"__html\\\":\\\"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}\\\"}}],[\\\"$\\\",\\\"h1\\\",null,{\\\"className\\\":\\\"next-error-h1\\\",\\\"style\\\":{\\\"display\\\":\\\"inline-block\\\",\\\"margin\\\":\\\"0 20px 0 0\\\",\\\"padding\\\":\\\"0 23px 0 0\\\",\\\"fontSize\\\":24,\\\"fontWeight\\\":500,\\\"verticalAlign\\\":\\\"top\\\",\\\"lineHeight\\\":\\\"49px\\\"},\\\"children\\\":404}],[\\\"$\\\",\\\"div\\\",null,{\\\"style\\\":{\\\"display\\\":\\\"inline-block\\\"},\\\"children\\\":[\\\"$\\\",\\\"h2\\\",null,{\\\"style\\\":{\\\"fontSize\\\":14,\\\"fontWeight\\\":400,\\\"lineHeight\\\":\\\"49px\\\",\\\"margin\\\":0},\\\"children\\\":\\\"This page could not be found.\\\"}]}]]}]}]],[]],\\\"forbidden\\\":\\\"$undefined\\\",\\\"unauthorized\\\":\\\"$undefined\\\"}]}],[\\\"$\\\",\\\"$L5\\\",null,{}]]}]}]]}],{\\\"children\\\":[\\\"__PAGE__\\\",[\\\"$\\\",\\\"$1\\\",\\\"c\\\",{\\\"children\\\":[[\\\"$\\\",\\\"$L6\\\",null,{\\\"Component\\\":\\\"$7\\\",\\\"searchParams\\\":{},\\\"params\\\":{},\\\"promises\\\":[\\\"$@8\\\",\\\"$@9\\\"]}],null,[\\\"$\\\",\\\"$La\\\",null,{\\\"children\\\":[\\\"$Lb\\\",[\\\"$\\\",\\\"$Lc\\\",null,{\\\"promise\\\":\\\"$@d\\\"}]]}]]}],{},null,false]},null,false],[\\\"$\\\",\\\"$1\\\",\\\"h\\\",{\\\"children\\\":[null,[[\\\"$\\\",\\\"$Le\\\",null,{\\\"children\\\":\\\"$Lf\\\"}],[\\\"$\\\",\\\"meta\\\",null,{\\\"name\\\":\\\"next-size-adjust\\\",\\\"content\\\":\\\"\\\"}]],[\\\"$\\\",\\\"$L10\\\",null,{\\\"children\\\":[\\\"$\\\",\\\"div\\\",null,{\\\"hidden\\\":true,\\\"children\\\":[\\\"$\\\",\\\"$2\\\",null,{\\\"fallback\\\":null,\\\"children\\\":\\\"$L11\\\"}]}]}]]}],false]],\\\"m\\\":\\\"$undefined\\\",\\\"G\\\":[\\\"$12\\\",[]],\\\"s\\\":false,\\\"S\\\":true}\\n\"])</script><script>self.__next_f.push([1,\"8:{}\\n9:\\\"$0:f:0:1:2:children:1:props:children:0:props:params\\\"\\n\"])</script><script>self.__next_f.push([1,\"f:[[\\\"$\\\",\\\"meta\\\",\\\"0\\\",{\\\"charSet\\\":\\\"utf-8\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"1\\\",{\\\"name\\\":\\\"viewport\\\",\\\"content\\\":\\\"width=device-width, initial-scale=1\\\"}]]\\nb:null\\n\"])</script><script>self.__next_f.push([1,\"d:{\\\"metadata\\\":[[\\\"$\\\",\\\"title\\\",\\\"0\\\",{\\\"children\\\":\\\"Energy Dashboard\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"1\\\",{\\\"name\\\":\\\"description\\\",\\\"content\\\":\\\"Monitor and manage your energy consumption\\\"}],[\\\"$\\\",\\\"meta\\\",\\\"2\\\",{\\\"name\\\":\\\"generator\\\",\\\"content\\\":\\\"v0.app\\\"}]],\\\"error\\\":null,\\\"digest\\\":\\\"$undefined\\\"}\\n\"])</script><script>self.__next_f.push([1,\"11:\\\"$d:metadata\\\"\\n\"])</script></body></html>",
+    "location": "/",
+    "sitemap": null
+  },
+  "os": null,
+  "timestamp": "2026-07-25T21:49:25.339789",
+  "isp": "Technical University of Gdansk, Academic Computer Center TASK",
+  "transport": "tcp",
+  "_shodan": {
+    "region": "eu",
+    "module": "http-simple-new"
+  },
+  "location": {
+    "country_code": "PL",
+    "country_name": "Poland"
+  },
+  "org": "Pomorskie Centrum Przetwarzania Danych sp. z o.o.",
+  "data": "HTTP/1.1 200 OK\r\nVary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding\r\nx-nextjs-cache: HIT\r\nx-nextjs-prerender: 1\r\nx-nextjs-prerender: 1\r\nx-nextjs-stale-time: 300\r\nX-Powered-By: Next.js\r\nCache-Control: s-maxage=31536000\r\nETag: \"116g25sxusj53k\"\r\nContent-Type: text/html; charset=utf-8\r\nContent-Length: 6608\r\nDate: Sat, 25 Jul 2026 21:49:25 GMT\r\nConnection: keep-alive\r\nKeep-Alive: timeout=5\r\n\r\n",
+  "port": 3000,
+  "opts": {},
+  "_artifact": {
+    "host_id": "c9864996fb35ff898fd84dda357c3e88",
+    "ip_id": "26cb498b32fac3c5140213141ee36974",
+    "port": 3000,
+    "framework": "next",
+    "tier": "Oc",
+    "tier_label": "Objective generator-fingerprint",
+    "html_chars_original": 6608,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 19
+    }
+  }
+}

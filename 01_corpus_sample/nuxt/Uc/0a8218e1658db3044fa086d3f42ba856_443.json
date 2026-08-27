@@ -1,0 +1,63 @@
+{
+  "asn": "AS16509",
+  "http": {
+    "status": 200,
+    "redirects": [],
+    "securitytxt": null,
+    "title": null,
+    "robots": "User-Agent: *\nDisallow:\n",
+    "server": "nginx",
+    "headers": {
+      "content-length": "7000",
+      "x-powered-by": "Nuxt",
+      "server": "nginx",
+      "connection": "keep-alive",
+      "date": "Wed, 15 Jul 2026 21:37:40 GMT",
+      "content-type": "text/html;charset=utf-8"
+    },
+    "html": "<!DOCTYPE html><html><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"><style>:root{color-scheme:light;--bg:#f6f7fb;--surface:#fff;--surface-2:#f2f4f8;--border:rgba(15,23,42,.08);--text:#111827;--muted:#6b7280;--primary:#5b2a86;--primary-2:#7b3fb4;--accent:#22c55e;--shadow-md:0 10px 30px rgba(15,23,42,.08);--shadow-lg:0 20px 60px rgba(15,23,42,.14);--radius:16px}body,html{background:var(--bg);color:var(--text);font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,sans-serif;margin:0;padding:0}*{box-sizing:border-box}a{color:var(--primary)}a:hover{color:var(--primary-2)}.page{margin:0 auto;max-width:1200px;padding:18px}.head,.header{align-items:center;display:flex;gap:16px;justify-content:space-between}.head h1,.header h1,.title{font-size:1.6rem;margin:0}.head p,.header p,.subtitle{color:var(--muted);margin:.35rem 0 0}.card{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);box-shadow:var(--shadow-md)}.card+.card{margin-top:16px}.btn,button{border:1px solid transparent;border-radius:12px;font-weight:600;padding:9px 14px;transition:transform .08s ease,box-shadow .2s ease,background .2s ease}.btn:hover,button:hover{box-shadow:0 8px 20px #5b2a8626;transform:translateY(-1px)}.btn:disabled,button:disabled{box-shadow:none;cursor:not-allowed;opacity:.6;transform:none}input,select,textarea{background:#fff;border:1px solid var(--border);border-radius:10px;color:var(--text);padding:10px 12px}input:focus,select:focus,textarea:focus{border-color:#5b2a8659;box-shadow:0 0 0 3px #5b2a861f;outline:none}.tableWrap{background:#fff;border:1px solid var(--border);border-radius:14px;overflow:auto}.table{border-collapse:collapse;font-size:.9rem;width:100%}.table td,.table th{border-bottom:1px solid rgba(15,23,42,.06);padding:12px 14px}.table tbody tr:hover{background:#5b2a860a}.table thead th{background:#fff;position:sticky;top:0;z-index:1}.toast{border-radius:12px;font-weight:600;padding:10px 14px}.main{width:100%}</style><style>.contLogin[data-v-9484dc56]{background:linear-gradient(0deg,#5b2a86,#8d5cb9);height:100vh;justify-content:center;width:100vw}.cPanel[data-v-9484dc56],.contLogin[data-v-9484dc56]{align-items:center;display:flex}.cPanel[data-v-9484dc56]{background:linear-gradient(0deg,#fff,#f4f4f4);border-radius:1em;box-shadow:-5px 5px 35px -1px #0000004f;flex-direction:column;height:min(560px,80vh);min-height:420px;width:min(420px,92vw)}.contLogo[data-v-9484dc56]{align-items:center;border-bottom:.02em solid #999;display:flex;height:30vh;justify-content:center;width:100%}.imgLogo[data-v-9484dc56]{height:48px;width:auto}.contForm[data-v-9484dc56]{align-items:center;display:flex;flex-direction:column;height:100%;justify-content:center;padding:20px 22px;width:100%}.contTitle p[data-v-9484dc56]{color:#999;font-size:1.05rem;font-weight:700;text-align:center}.contInput[data-v-9484dc56]{margin-top:2em}.inputGroup[data-v-9484dc56]{align-items:stretch;border-radius:.3em;box-shadow:0 4px 3px -3px #0000006e;display:flex;overflow:hidden;width:min(320px,86vw)}.inputIcon[data-v-9484dc56]{align-items:center;background-color:#dee2e6;display:flex;justify-content:center;padding:0 10px}.imgInput[data-v-9484dc56]{height:18px;width:18px}.inputLogin[data-v-9484dc56]{height:44px;outline:none;padding:0 12px;width:100%}.eyeBtn[data-v-9484dc56],.inputLogin[data-v-9484dc56]{background:#fff;border:none}.eyeBtn[data-v-9484dc56]{color:#5b2a86;cursor:pointer;font-weight:700;padding:0 10px}.butonLogin[data-v-9484dc56]{background:linear-gradient(0deg,#5b2a86,#8d5cb9);border:0;border-radius:8px;color:#fff;cursor:pointer;font-weight:600;height:44px;margin-top:2rem;width:min(320px,86vw)}.butonLogin[data-v-9484dc56]:disabled{cursor:not-allowed;opacity:.7}.toast[data-v-9484dc56]{border-radius:10px;font-size:13px;font-weight:700;margin-top:16px;padding:10px 12px;width:min(320px,86vw)}.toast.success[data-v-9484dc56]{background:#e7f7ee;border:1px solid #86efac;color:#166534}.toast.danger[data-v-9484dc56]{background:#fee2e2;border:1px solid #fecaca;color:#991b1b}.links[data-v-9484dc56]{font-size:13px;margin-top:16px}.links a[data-v-9484dc56]{color:#5b2a86;font-weight:700;text-decoration:none}</style><link rel=\"stylesheet\" href=\"/_nuxt/entry.DEL_sjK1.css\" crossorigin><link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/DTjoCwHV.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/Be5T-A8j.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/DqTYtIgQ.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/DS66VNp6.js\"><link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/C2RW3R47.js\"><link rel=\"preload\" as=\"fetch\" fetchpriority=\"low\" crossorigin=\"anonymous\" href=\"/_nuxt/builds/meta/bd6380d5-f7a5-4171-8f7b-cc62da55cfe5.json\"><script type=\"module\" src=\"/_nuxt/DTjoCwHV.js\" crossorigin></script><link rel=\"prefetch\" as=\"image\" type=\"image/svg+xml\" href=\"/_nuxt/primeicons.Dr5RGzOO.svg\"></head><body><div id=\"__nuxt\"><div class=\"app\"><div></div><main class=\"main\"><!--[--><div class=\"contLogin\" data-v-9484dc56><div class=\"cPanel\" data-v-9484dc56><div class=\"contLogo\" data-v-9484dc56><img class=\"imgLogo\" src=\"/logo.png\" alt=\"Fincrick\" data-v-9484dc56></div><div class=\"contForm\" data-v-9484dc56><div class=\"contTitle\" data-v-9484dc56><p class=\"textTitle\" data-v-9484dc56>O inicia sesión con credenciales</p></div><form data-v-9484dc56><div class=\"contInput inputGroup\" data-v-9484dc56><span class=\"inputIcon\" data-v-9484dc56><img class=\"imgInput\" src=\"/sobre.png\" alt=\"correo\" data-v-9484dc56></span><input class=\"inputLogin\" placeholder=\"Ingrese su usuario\" value=\"\" autocomplete=\"username\" type=\"email\" data-v-9484dc56></div><div class=\"contInput inputGroup\" data-v-9484dc56><span class=\"inputIcon\" data-v-9484dc56><img class=\"imgInput\" src=\"/lock.png\" alt=\"contraseña\" data-v-9484dc56></span><input class=\"inputLogin\" type=\"password\" placeholder=\"Ingrese su contraseña\" value=\"\" autocomplete=\"current-password\" data-v-9484dc56><button type=\"button\" class=\"eyeBtn\" aria-label=\"mostrar/ocultar contraseña\" data-v-9484dc56>Ver</button></div><div data-v-9484dc56><button class=\"butonLogin\" type=\"submit\" data-v-9484dc56>Entrar</button></div></form><!----><div class=\"links\" data-v-9484dc56><a href=\"/login-test\" class=\"\" data-v-9484dc56>Ir a login-test (debug)</a></div></div></div></div><!--]--></main></div></div><div id=\"teleports\"></div><script>window.__NUXT__={};window.__NUXT__.config={public:{apiBase:\"\"},app:{baseURL:\"/\",buildId:\"bd6380d5-f7a5-4171-8f7b-cc62da55cfe5\",buildAssetsDir:\"/_nuxt/\",cdnURL:\"\"}}</script><script type=\"application/json\" data-nuxt-data=\"nuxt-app\" data-ssr=\"true\" id=\"__NUXT_DATA__\">[[\"ShallowReactive\",1],{\"data\":2,\"state\":4,\"once\":6,\"_errors\":7,\"serverRendered\":9,\"path\":10},[\"ShallowReactive\",3],{},[\"Reactive\",5],{},[\"Set\"],[\"ShallowReactive\",8],{},true,\"/\"]</script></body></html>",
+    "location": "/",
+    "sitemap": null
+  },
+  "os": null,
+  "tags": [
+    "cloud"
+  ],
+  "timestamp": "2026-07-15T21:37:40.834911",
+  "isp": "Amazon.com, Inc.",
+  "transport": "tcp",
+  "_shodan": {
+    "region": "eu",
+    "module": "https"
+  },
+  "cloud": {
+    "region": "us-west-2",
+    "service": "EC2",
+    "provider": "Amazon"
+  },
+  "location": {
+    "country_code": "US",
+    "country_name": "United States"
+  },
+  "org": "Amazon Technologies Inc.",
+  "data": "HTTP/1.1 200 OK\r\nDate: Wed, 15 Jul 2026 21:37:40 GMT\r\nContent-Type: text/html;charset=utf-8\r\nContent-Length: 7000\r\nConnection: keep-alive\r\nServer: nginx\r\nx-powered-by: Nuxt\r\n\r\n",
+  "port": 443,
+  "opts": {
+    "vulns": [],
+    "heartbleed": "2026/07/15 21:37:52 [ip-redacted]:443 - ERROR: write tcp [ip-redacted]:443: broken pipe\n"
+  },
+  "_artifact": {
+    "host_id": "0a8218e1658db3044fa086d3f42ba856",
+    "ip_id": "44c085508bb1a8f60bc551955c68ce45",
+    "port": 443,
+    "framework": "nuxt",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 6996,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 20,
+      "ip": 2
+    }
+  }
+}

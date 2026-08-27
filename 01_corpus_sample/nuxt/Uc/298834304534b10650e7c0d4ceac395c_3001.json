@@ -1,0 +1,51 @@
+{
+  "asn": "AS4766",
+  "http": {
+    "status": 200,
+    "redirects": [],
+    "securitytxt": null,
+    "title": "Octopus Designer",
+    "robots": null,
+    "headers": {
+      "content-length": "2361",
+      "x-powered-by": "Nuxt",
+      "keep-alive": "timeout=5",
+      "connection": "keep-alive",
+      "date": "Tue, 04 Aug 2026 06:40:13 GMT",
+      "content-type": "text/html;charset=utf-8"
+    },
+    "html": "<!DOCTYPE html><html><head><meta charset=\"utf-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, viewport-fit=cover\">\n<title>Octopus Designer</title>\n<link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/C:/Users/sy/Desktop/GitSource/octopus-designer/node_modules/.pnpm/nuxt@3.21.2_@emnapi+core@1._a3c3e50b215cb74d5ff7883d62648fde/node_modules/nuxt/dist/app/entry.js\">\n<script type=\"module\" src=\"/_nuxt/@vite/client\" crossorigin></script>\n<script type=\"module\" src=\"/_nuxt/C:/Users/sy/Desktop/GitSource/octopus-designer/node_modules/.pnpm/nuxt@3.21.2_@emnapi+core@1._a3c3e50b215cb74d5ff7883d62648fde/node_modules/nuxt/dist/app/entry.js\" crossorigin></script>\n<script id=\"unhead:payload\" type=\"application/json\">{\"title\":\"Octopus Designer\"}</script></head><body><div id=\"__nuxt\"></div><div id=\"teleports\"></div><script type=\"application/json\" data-nuxt-logs=\"nuxt-app\">[[]]</script><script>window.__NUXT__={};window.__NUXT__.config={public:{geminiApiKey:\"AIzaSyAP-_DhRNypOhHsQf2IyRfl11o-see7Qyg\",vllmBaseUrl:\"http://114.110.134.163:9000/v1\",vllmModel:\"qwen3-coder\",vllmApiKey:\"\",simulatorApiUrl:\"http://220.90.135.50:8081\",i18n:{baseUrl:\"\",defaultLocale:\"ko\",defaultDirection:\"ltr\",strategy:\"no_prefix\",lazy:false,rootRedirect:\"\",routesNameSeparator:\"___\",defaultLocaleRouteNameSuffix:\"default\",skipSettingLocaleOnNavigate:false,differentDomains:false,trailingSlash:false,locales:[{code:\"ko\",name:\"한국어\",files:[{path:\"C:/Users/sy/Desktop/GitSource/octopus-designer/i18n/locales/ko.ts\",cache:\"\"}]},{code:\"en\",name:\"English\",files:[{path:\"C:/Users/sy/Desktop/GitSource/octopus-designer/i18n/locales/en.ts\",cache:\"\"}]}],detectBrowserLanguage:{alwaysRedirect:false,cookieCrossOrigin:false,cookieDomain:\"\",cookieKey:\"i18n_locale\",cookieSecure:false,fallbackLocale:\"ko\",redirectOn:\"root\",useCookie:true},experimental:{localeDetector:\"\",switchLocalePathLinkSSR:false,autoImportTranslationFunctions:false,typedPages:true,typedOptionsAndMessages:false,generatedLocaleFilePathFormat:\"absolute\",alternateLinkCanonicalQueries:false,hmr:true},multiDomainLocales:false,domainLocales:{ko:{domain:\"\"},en:{domain:\"\"}}}},app:{baseURL:\"/\",buildId:\"dev\",buildAssetsDir:\"/_nuxt/\",cdnURL:\"\"}}</script>\n<script type=\"application/json\" data-nuxt-data=\"nuxt-app\" data-ssr=\"false\" id=\"__NUXT_DATA__\">[{\"serverRendered\":1},false]</script></body></html>",
+    "location": "/",
+    "server": null,
+    "sitemap": null
+  },
+  "os": null,
+  "timestamp": "2026-08-04T06:40:10.348036",
+  "isp": "Korea Telecom",
+  "transport": "tcp",
+  "_shodan": {
+    "region": "eu",
+    "module": "https-simple-new"
+  },
+  "location": {
+    "country_code": "KR",
+    "country_name": "Korea, Republic of"
+  },
+  "org": "Korea Telecom",
+  "data": "HTTP/1.1 200 OK\r\ncontent-type: text/html;charset=utf-8\r\nx-powered-by: Nuxt\r\ndate: Tue, 04 Aug 2026 06:40:13 GMT\r\nconnection: keep-alive\r\nkeep-alive: timeout=5\r\ncontent-length: 2361\r\n\r\n",
+  "port": 3001,
+  "opts": {},
+  "_artifact": {
+    "host_id": "298834304534b10650e7c0d4ceac395c",
+    "ip_id": "9aa8ad7b3f81ca14e11c83810cbd3e91",
+    "port": 3001,
+    "framework": "nuxt",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 2355,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 23
+    }
+  }
+}

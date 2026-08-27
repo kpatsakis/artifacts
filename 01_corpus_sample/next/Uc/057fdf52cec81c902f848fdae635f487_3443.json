@@ -1,0 +1,70 @@
+{
+  "http": {
+    "status": 200,
+    "redirects": [],
+    "securitytxt": null,
+    "title": null,
+    "robots": null,
+    "components_hash": -161791482,
+    "html": "<!DOCTYPE html>\n<html>\n<head>\n    <meta name=\"generator\" content=\"Waku\"/>\n    <link rel=\"icon\" href=\"/favicon.png\">\n</head>\n<body>\n    <div id=\"root\"></div>\n    <script src=\"/react-router-dom.js\"></script>\n</body>\n</html>\n",
+    "location": "/",
+    "headers": {
+      "content-length": "222",
+      "x-powered-by": "Next.js",
+      "vary": "RSC",
+      "server": "AmazonS3",
+      "last-modified": "Fri, 25 Jul 2025 23:10:14 GMT",
+      "date": "Thu, 06 Aug 2026 02:03:45 GMT",
+      "content-type": "text/x-component"
+    },
+    "server": "AmazonS3",
+    "sitemap": null
+  },
+  "port": 3443,
+  "transport": "tcp",
+  "cpe23_hash": 286908511,
+  "cloud": {
+    "region": "eu-central-2",
+    "service": "EC2",
+    "provider": "Amazon"
+  },
+  "location": {
+    "country_code": "CH",
+    "country_name": "Switzerland"
+  },
+  "tags": [
+    "cloud"
+  ],
+  "timestamp": "2026-08-06T02:03:45.977217",
+  "org": "Amazon Data Services Switzerland",
+  "data": "HTTP/1.1 200 OK\r\nDate: Thu, 06 Aug 2026 02:03:45 GMT\r\nServer: AmazonS3\r\nLast-Modified: Fri, 25 Jul 2025 23:10:14 GMT\r\nX-Powered-By: Next.js\r\nContent-Type: text/x-component\r\nVary: RSC\r\nContent-Length: 222\r\n\r\n",
+  "asn": "AS16509",
+  "cpe23": [
+    "cpe:2.3:a:facebook:react",
+    "cpe:2.3:a:vercel:next.js"
+  ],
+  "isp": "Amazon.com, Inc.",
+  "cpe": [
+    "cpe:/a:facebook:react",
+    "cpe:/a:vercel:next.js"
+  ],
+  "os": null,
+  "_shodan": {
+    "region": "na",
+    "module": "auto"
+  },
+  "opts": {},
+  "_artifact": {
+    "host_id": "057fdf52cec81c902f848fdae635f487",
+    "ip_id": "c677db1a5a1667790f0214267b5e4bb8",
+    "port": 3443,
+    "framework": "next",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 222,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 24
+    }
+  }
+}

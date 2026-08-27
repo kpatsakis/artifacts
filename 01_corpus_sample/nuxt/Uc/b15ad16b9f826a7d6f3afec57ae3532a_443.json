@@ -1,0 +1,76 @@
+{
+  "http": {
+    "redirects": [
+      {
+        "data": "HTTP/1.1 307 Temporary Redirect\r\nContent-Length: 92\r\nContent-Type: text/html\r\nDate: Thu, 06 Aug 2026 20:04:30 GMT\r\nLocation: /fleet\r\n\r\n",
+        "location": "/"
+      }
+    ],
+    "securitytxt": null,
+    "title": null,
+    "html": "<!DOCTYPE html><html><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"><link rel=\"stylesheet\" href=\"/_nuxt/entry.DfJHcwp1.css\" crossorigin><link rel=\"modulepreload\" as=\"script\" crossorigin href=\"/_nuxt/BzXHpGQS.js\"><script type=\"module\" src=\"/_nuxt/BzXHpGQS.js\" crossorigin></script><link rel=\"prefetch\" as=\"style\" crossorigin href=\"/_nuxt/index.BrfVqVl5.css\"><link rel=\"prefetch\" as=\"style\" crossorigin href=\"/_nuxt/CommandPalette.DAmBbs02.css\"><link rel=\"prefetch\" as=\"style\" crossorigin href=\"/_nuxt/VCard.DyVTr2og.css\"><link rel=\"prefetch\" as=\"style\" crossorigin href=\"/_nuxt/VTooltip.Dl6ToC7r.css\"><link rel=\"prefetch\" as=\"style\" crossorigin href=\"/_nuxt/VTextField.Cd9cYPSk.css\"><link rel=\"prefetch\" as=\"style\" crossorigin href=\"/_nuxt/VLabel.CCXnYgWx.css\"><link rel=\"prefetch\" as=\"style\" crossorigin href=\"/_nuxt/VDialog.Cn3qH4nX.css\"><link rel=\"prefetch\" as=\"style\" crossorigin href=\"/_nuxt/VSpacer.DfbUir7X.css\"><link rel=\"prefetch\" as=\"style\" crossorigin href=\"/_nuxt/VExpansionPanels.BCDpJPYx.css\"><link rel=\"prefetch\" as=\"style\" crossorigin href=\"/_nuxt/VSelect.DnjQVBFW.css\"><link rel=\"prefetch\" as=\"style\" crossorigin href=\"/_nuxt/VMenu.DP_CdBFr.css\"><link rel=\"prefetch\" as=\"style\" crossorigin href=\"/_nuxt/VSelectionControl.BObiUSdz.css\"><link rel=\"prefetch\" as=\"style\" crossorigin href=\"/_nuxt/VChip.fRNmcQeh.css\"><link rel=\"prefetch\" as=\"style\" crossorigin href=\"/_nuxt/VCombobox.DM9nqg0s.css\"><link rel=\"prefetch\" as=\"style\" crossorigin href=\"/_nuxt/VSwitch.g9Kaexp5.css\"><link rel=\"prefetch\" as=\"style\" crossorigin href=\"/_nuxt/VRow.CuZVKDmR.css\"><link rel=\"prefetch\" as=\"style\" crossorigin href=\"/_nuxt/Passport.NwQyOhX5.css\"><link rel=\"prefetch\" as=\"style\" crossorigin href=\"/_nuxt/index.CRgXiHuD.css\"><link rel=\"prefetch\" as=\"style\" crossorigin href=\"/_nuxt/Range.DJYpW14V.css\"><link rel=\"prefetch\" as=\"style\" crossorigin href=\"/_nuxt/VTabs.3bIa2kC5.css\"><link rel=\"prefetch\" as=\"style\" crossorigin href=\"/_nuxt/VToolbar.CTldQjqr.css\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/hh15Vlgw.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/BBtFMewy.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/BWE6ZpNP.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/Bc9D6rih.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/Bivf1uvs.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/CJwL1ID2.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/C7xOUrRx.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/CsSczyMZ.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/J5Z_Pow3.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/DlAUqK2U.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/DBZfbG_N.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/k1EU-Krt.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/DubVV7N3.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/CNyBPyd5.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/329F49YH.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/B_VClIdo.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/Ced-VOfP.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/DIZoT56H.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/B7XBSWtu.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/C8ehp_kr.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/BHtO6fN3.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/I2zBKtFj.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/OgoVDtMD.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/CAgFOopz.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/Cof4--BQ.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/BD9dQPvZ.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/97ZgAnL2.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/BqcD_KOV.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/Bj8N9iO-.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/8GZNbSQz.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/CVnxBWWp.js\"><link rel=\"prefetch\" as=\"style\" crossorigin href=\"/_nuxt/default.DkrrXf8o.css\"><link rel=\"prefetch\" as=\"style\" crossorigin href=\"/_nuxt/VContainer.BOUzs39-.css\"><link rel=\"prefetch\" as=\"style\" crossorigin href=\"/_nuxt/VAlert.D3r7k6Cs.css\"><link rel=\"prefetch\" as=\"style\" crossorigin href=\"/_nuxt/VAutocomplete.CFnpYZrJ.css\"><link rel=\"prefetch\" as=\"style\" crossorigin href=\"/_nuxt/VSkeletonLoader.DlTPPISS.css\"><link rel=\"prefetch\" as=\"style\" crossorigin href=\"/_nuxt/HelpDialog.BkoZnxhp.css\"><link rel=\"prefetch\" as=\"style\" crossorigin href=\"/_nuxt/Tag.DXjCWlOc.css\"><link rel=\"prefetch\" as=\"style\" crossorigin href=\"/_nuxt/VTable.CZbSC6Cg.css\"><link rel=\"prefetch\" as=\"style\" crossorigin href=\"/_nuxt/VCarouselItem.Bp3h0zoO.css\"><link rel=\"prefetch\" as=\"style\" crossorigin href=\"/_nuxt/TagsContainer.DSarMIAD.css\"><link rel=\"prefetch\" as=\"style\" crossorigin href=\"/_nuxt/VMain.2IcJIcyd.css\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/f2D_aC9Z.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/BMHODIZz.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/DDyM3Mcq.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/jin8XVAJ.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/B_zd8Meg.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/B5Hp1PBr.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/DWpOkFYs.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/Ck_AkpHE.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/DTt0L9gH.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/D_ZTKW36.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/Cig6e0l6.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/GwrWdQET.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/CeVJ5NNP.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/DWf6GZKH.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/DN-Q5VbI.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/w8dS0zQq.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/CDmdZn67.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/C4F_bXvv.js\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/BsA1njXd.js\"><link rel=\"prefetch\" as=\"style\" crossorigin href=\"/_nuxt/error-500.BW0Y54Of.css\"><link rel=\"prefetch\" as=\"script\" crossorigin href=\"/_nuxt/gB44deTe.js\"><meta name=\"apple-mobile-web-app-title\" content=\"KopsiHub\"><meta name=\"theme-color\" content=\"#FFDD00\"><link rel=\"icon\" type=\"image/png\" href=\"/favicon-16x16.png\" sizes=\"16x16\" data-hid=\"favicon-16\"><link rel=\"icon\" type=\"image/png\" href=\"/favicon-32x32.png\" sizes=\"32x32\" data-hid=\"favicon-32\"><link rel=\"icon\" type=\"image/png\" href=\"/favicon-96x96.png\" sizes=\"96x96\" data-hid=\"favicon-96\"><link rel=\"shortcut icon\" href=\"/favicon.ico\" data-hid=\"favicon-ico\"><link rel=\"apple-touch-icon\" href=\"/apple-touch-icon.png\" sizes=\"180x180\" data-hid=\"favicon-apple\"><link rel=\"manifest\" href=\"/site.webmanifest\"></head><body><div id=\"__nuxt\"></div><div id=\"teleports\"></div><script>window.__NUXT__={};window.__NUXT__.config={public:{oauthClientId:\"kopsihub\",oauthRedirectUrl:\"https://[hostname-redacted]/ssocallback\",oauthSsoAuthEndpoint:\"https://login-stage.app.kaercher.com/connect/authorize\",newRelicLicenseKey:\"\",newRelicAppName:\"\",newRelicAppId:\"\",pinoLogger:{client:{level:\"trace\"},server:{level:\"trace\"}},auth:{isEnabled:true,baseURL:\"/api/v1\",disableInternalRouting:true,disableServerSideAuth:false,originEnvKey:\"AUTH_ORIGIN\",sessionRefresh:{enablePeriodically:false,enableOnWindowFocus:false,handler:\"\"},globalAppMiddleware:{isEnabled:false,allow404WithoutAuth:true,addDefaultCallbackUrl:true},provider:{type:\"local\",pages:{login:\"/login\"},session:{dataType:{id:\"number\",created_at:\"Date\",updated_at:\"Date\",email:\"string\",fullname:\"string | null\",fleet_id:\"number | null\",is_superuser:\"boolean\",group_id:\"number | null\"},dataResponsePointer:\"/\"},endpoints:{signIn:{path:\"/authorize\",method:\"post\"},signOut:false,getSession:{path:\"/session\",method:\"get\"},signUp:{path:\"/register\",method:\"post\"}},token:{signInResponseTokenPointer:\"/api\",type:\"Bearer\",headerName:\"Authorization\",maxAgeInSeconds:7200,sameSiteAttribute:\"strict\",secureCookieAttribute:true,httpOnlyCookieAttribute:false,cookieName:\"auth.token\",cookieDomain:\"\"},refresh:{isEnabled:true,endpoint:{path:\"/auth/refresh\",method:\"post\"},refreshOnlyToken:false,token:{signInResponseRefreshTokenPointer:\"/refresh\",refreshResponseTokenPointer:\"\",refreshRequestTokenPointer:\"/refresh\",maxAgeInSeconds:14400,sameSiteAttribute:\"strict\",secureCookieAttribute:true,httpOnlyCookieAttribute:false,cookieName:\"auth.refresh-token\",cookieDomain:\"\"}}}},nuxtPermissions:{redirectIfNotAllowed:\"\",fullAccessRoles:\"\"}},app:{baseURL:\"/\",buildId:\"dce1b991-7d76-47fb-8a59-92ee2806ebb3\",buildAssetsDir:\"/_nuxt/\",cdnURL:\"\"}}</script><script type=\"application/json\" data-nuxt-data=\"nuxt-app\" data-ssr=\"false\" id=\"__NUXT_DATA__\">[{\"serverRendered\":1},false]</script></body></html>",
+    "location": "/fleet",
+    "status": 200,
+    "robots": null,
+    "components_hash": 1295931225,
+    "server": null,
+    "headers": {
+      "date": "Thu, 06 Aug 2026 20:04:32 GMT",
+      "content-length": "9218",
+      "content-type": "text/html;charset=utf-8",
+      "x-request-id": "03b54187-3b7e-4732-8393-e50e5dd986fd",
+      "x-powered-by": "Nuxt"
+    },
+    "sitemap": null
+  },
+  "port": 443,
+  "transport": "tcp",
+  "cpe23_hash": 222339076,
+  "cloud": {
+    "region": "eu-central-1",
+    "service": "EC2",
+    "provider": "Amazon"
+  },
+  "location": {
+    "country_code": "DE",
+    "country_name": "Germany"
+  },
+  "tags": [
+    "cloud"
+  ],
+  "timestamp": "2026-08-06T20:04:32.367096",
+  "org": "A100 ROW GmbH",
+  "data": "HTTP/1.1 200 OK\r\nContent-Length: 9218\r\nContent-Type: text/html;charset=utf-8\r\nDate: Thu, 06 Aug 2026 20:04:32 GMT\r\nX-Powered-By: Nuxt\r\nX-Request-Id: 03b54187-3b7e-4732-8393-e50e5dd986fd\r\n\r\n",
+  "asn": "AS16509",
+  "cpe23": [
+    "cpe:2.3:a:nuxt:nuxt"
+  ],
+  "isp": "Amazon.com, Inc.",
+  "cpe": [
+    "cpe:/a:nuxt:nuxt"
+  ],
+  "os": null,
+  "_shodan": {
+    "region": "sea",
+    "module": "https"
+  },
+  "opts": {
+    "vulns": [],
+    "heartbleed": "2026/08/06 20:04:56 [ip-redacted]:443 - SAFE\n"
+  },
+  "_artifact": {
+    "host_id": "b15ad16b9f826a7d6f3afec57ae3532a",
+    "ip_id": "77b58e17b2df7e434be60666dec6cd69",
+    "port": 443,
+    "framework": "nuxt",
+    "tier": "Uc",
+    "tier_label": "Residual / unclassified",
+    "html_chars_original": 9218,
+    "sanitizer_version": 2,
+    "redactions": {
+      "dropped_fields": 27,
+      "hostname": 1,
+      "ip": 1
+    }
+  }
+}
