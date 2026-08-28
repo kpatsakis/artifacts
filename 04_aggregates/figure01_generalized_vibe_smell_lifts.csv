@@ -1,0 +1,34 @@
+signal,lift
+shadcn/ui design tokens in the markup,4.6243
+Lucide icons inlined as SVG,3.8522
+Gradient utility classes,3.5557
+Lorem ipsum or placeholder images,3.5145
+Backdrop-blur or oversized corner radius,2.6248
+"50+ class tokens, under 15% of them distinct",2.57
+A class attribute with 12+ utility classes,2.4071
+A mailto: or tel: link,1.7512
+A hand-written HTML comment,1.6928
+Emoji in the visible text,1.5337
+Links to 10+ distinct internal paths,1.5029
+One class string repeated on 6+ elements,1.3066
+Three or more inline style= attributes,1.2269
+A postal address in the markup,1.1242
+Three or more dead links (# or javascript:),1.1084
+Placeholder domains or filler copy,1.0777
+A form with input fields,1.0609
+Prices or clock times in the text,0.9219
+Fewer than 100 words of visible text,0.7959
+Three or more class-naming conventions mixed,0.795
+Social cards (OpenGraph or Twitter),0.7735
+Structured data (JSON-LD),0.764
+Text mentions more than one year,0.7475
+Links out to 3+ other domains,0.6448
+An analytics or tracking pixel,0.5547
+Localisation (hreflang links),0.4994
+A cookie-consent manager,0.4217
+Layout sections narrated in comments,0.2884
+A live-chat widget,0.0626
+An RSS or Atom feed,0.0532
+A copyright spanning several years,0.0474
+Legacy tags or table-layout attributes,0.0177
+Commented-out markup left in place,0.0055

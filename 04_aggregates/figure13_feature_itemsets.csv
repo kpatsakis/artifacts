@@ -1,0 +1,51 @@
+size,features,share_pct
+pairs,Fewer than 100 words of visible text + Links to 10+ distinct internal paths,43.3731
+pairs,A class attribute with 12+ utility classes + Links to 10+ distinct internal paths,37.2256
+pairs,Placeholder domains or filler copy + Links to 10+ distinct internal paths,35.3119
+pairs,One class string repeated on 6+ elements + Links to 10+ distinct internal paths,33.5059
+pairs,Three or more inline style= attributes + Links to 10+ distinct internal paths,33.321
+pairs,Backdrop-blur or oversized corner radius + Links to 10+ distinct internal paths,32.048
+pairs,Backdrop-blur or oversized corner radius + A class attribute with 12+ utility classes,27.3012
+pairs,Three or more inline style= attributes + One class string repeated on 6+ elements,24.8962
+pairs,A class attribute with 12+ utility classes + One class string repeated on 6+ elements,24.4545
+pairs,A class attribute with 12+ utility classes + Placeholder domains or filler copy,24.0072
+triples,Backdrop-blur or oversized corner radius + A class attribute with 12+ utility classes + Links to 10+ distinct internal paths,26.6833
+triples,Three or more inline style= attributes + One class string repeated on 6+ elements + Links to 10+ distinct internal paths,24.6141
+triples,A class attribute with 12+ utility classes + One class string repeated on 6+ elements + Links to 10+ distinct internal paths,24.227
+triples,A class attribute with 12+ utility classes + Placeholder domains or filler copy + Links to 10+ distinct internal paths,23.416
+triples,A class attribute with 12+ utility classes + Three or more inline style= attributes + Links to 10+ distinct internal paths,21.3987
+triples,One class string repeated on 6+ elements + Placeholder domains or filler copy + Links to 10+ distinct internal paths,20.1674
+triples,Placeholder domains or filler copy + Links to 10+ distinct internal paths + A form with input fields,19.8621
+triples,Backdrop-blur or oversized corner radius + Three or more inline style= attributes + Links to 10+ distinct internal paths,19.7408
+triples,Backdrop-blur or oversized corner radius + One class string repeated on 6+ elements + Links to 10+ distinct internal paths,19.6166
+triples,One class string repeated on 6+ elements + Links to 10+ distinct internal paths + Links out to 3+ other domains,19.5071
+quadruples,Backdrop-blur or oversized corner radius + A class attribute with 12+ utility classes + One class string repeated on 6+ elements + Links to 10+ distinct internal paths,18.5173
+quadruples,Backdrop-blur or oversized corner radius + A class attribute with 12+ utility classes + Three or more inline style= attributes + Links to 10+ distinct internal paths,18.4449
+quadruples,A class attribute with 12+ utility classes + Three or more inline style= attributes + One class string repeated on 6+ elements + Links to 10+ distinct internal paths,17.0786
+quadruples,Backdrop-blur or oversized corner radius + Three or more inline style= attributes + One class string repeated on 6+ elements + Links to 10+ distinct internal paths,16.0185
+quadruples,A class attribute with 12+ utility classes + Placeholder domains or filler copy + Links to 10+ distinct internal paths + A form with input fields,15.5426
+quadruples,Backdrop-blur or oversized corner radius + A class attribute with 12+ utility classes + Placeholder domains or filler copy + Links to 10+ distinct internal paths,15.4151
+quadruples,Backdrop-blur or oversized corner radius + A class attribute with 12+ utility classes + Three or more inline style= attributes + One class string repeated on 6+ elements,15.3912
+quadruples,A class attribute with 12+ utility classes + One class string repeated on 6+ elements + Placeholder domains or filler copy + Links to 10+ distinct internal paths,14.967
+quadruples,A class attribute with 12+ utility classes + Lucide icons inlined as SVG + One class string repeated on 6+ elements + Links to 10+ distinct internal paths,14.5386
+quadruples,Three or more inline style= attributes + One class string repeated on 6+ elements + Links to 10+ distinct internal paths + Links out to 3+ other domains,14.4842
+quintuples,Backdrop-blur or oversized corner radius + A class attribute with 12+ utility classes + Three or more inline style= attributes + One class string repeated on 6+ elements + Links to 10+ distinct internal paths,15.2725
+quintuples,Backdrop-blur or oversized corner radius + A class attribute with 12+ utility classes + Three or more inline style= attributes + Placeholder domains or filler copy + Links to 10+ distinct internal paths,10.8098
+quintuples,Gradient utility classes + Backdrop-blur or oversized corner radius + A class attribute with 12+ utility classes + One class string repeated on 6+ elements + Links to 10+ distinct internal paths,10.8043
+quintuples,Backdrop-blur or oversized corner radius + A class attribute with 12+ utility classes + Lucide icons inlined as SVG + One class string repeated on 6+ elements + Links to 10+ distinct internal paths,10.6215
+quintuples,Backdrop-blur or oversized corner radius + A class attribute with 12+ utility classes + One class string repeated on 6+ elements + Links to 10+ distinct internal paths + Social cards (OpenGraph or Twitter),10.3796
+quintuples,Backdrop-blur or oversized corner radius + A class attribute with 12+ utility classes + Lucide icons inlined as SVG + Three or more inline style= attributes + Links to 10+ distinct internal paths,10.287
+quintuples,Three or more inline style= attributes + One class string repeated on 6+ elements + Links to 10+ distinct internal paths + Social cards (OpenGraph or Twitter) + Links out to 3+ other domains,10.2079
+quintuples,Gradient utility classes + Backdrop-blur or oversized corner radius + A class attribute with 12+ utility classes + Three or more inline style= attributes + Links to 10+ distinct internal paths,10.2067
+quintuples,A class attribute with 12+ utility classes + Fewer than 100 words of visible text + Placeholder domains or filler copy + Links to 10+ distinct internal paths + A form with input fields,10.1789
+quintuples,Backdrop-blur or oversized corner radius + A class attribute with 12+ utility classes + One class string repeated on 6+ elements + Placeholder domains or filler copy + Links to 10+ distinct internal paths,10.1677
+sextuples,Backdrop-blur or oversized corner radius + A class attribute with 12+ utility classes + Three or more inline style= attributes + One class string repeated on 6+ elements + Links to 10+ distinct internal paths + Social cards (OpenGraph or Twitter),9.0609
+sextuples,Gradient utility classes + Backdrop-blur or oversized corner radius + A class attribute with 12+ utility classes + Three or more inline style= attributes + One class string repeated on 6+ elements + Links to 10+ distinct internal paths,9.0485
+sextuples,Backdrop-blur or oversized corner radius + A class attribute with 12+ utility classes + Lucide icons inlined as SVG + Three or more inline style= attributes + One class string repeated on 6+ elements + Links to 10+ distinct internal paths,8.8363
+sextuples,Backdrop-blur or oversized corner radius + A class attribute with 12+ utility classes + Three or more inline style= attributes + One class string repeated on 6+ elements + Placeholder domains or filler copy + Links to 10+ distinct internal paths,8.632
+sextuples,Backdrop-blur or oversized corner radius + A class attribute with 12+ utility classes + Three or more inline style= attributes + One class string repeated on 6+ elements + Links to 10+ distinct internal paths + Links out to 3+ other domains,8.515
+sextuples,A class attribute with 12+ utility classes + Three or more inline style= attributes + One class string repeated on 6+ elements + Links to 10+ distinct internal paths + Social cards (OpenGraph or Twitter) + Links out to 3+ other domains,6.9083
+sextuples,A class attribute with 12+ utility classes + shadcn/ui design tokens in the markup + Lucide icons inlined as SVG + Placeholder domains or filler copy + Links to 10+ distinct internal paths + A form with input fields,6.8035
+sextuples,Gradient utility classes + Backdrop-blur or oversized corner radius + A class attribute with 12+ utility classes + Lucide icons inlined as SVG + One class string repeated on 6+ elements + Links to 10+ distinct internal paths,6.6956
+sextuples,A class attribute with 12+ utility classes + One class string repeated on 6+ elements + Placeholder domains or filler copy + Links to 10+ distinct internal paths + A form with input fields + Links out to 3+ other domains,6.6652
+sextuples,A class attribute with 12+ utility classes + shadcn/ui design tokens in the markup + Fewer than 100 words of visible text + Placeholder domains or filler copy + Links to 10+ distinct internal paths + A form with input fields,6.6638

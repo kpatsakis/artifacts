@@ -1,0 +1,9 @@
+outcome,contrast,odds_ratio,ci_low,ci_high,adj_prob_pct
+Secret,Vc vs Uc (M0),1.3401,1.2664,1.4182,
+Secret,Vc vs Uc (M2),1.394,1.316,1.4767,5.406
+Secret,Oc vs Uc (M2),0.5303,0.3759,0.7483,2.231
+Secret,"Uc (ref., M2)",1.0,,,4.015
+Hydration,Vc vs Uc (M0),3.6703,3.5772,3.7657,
+Hydration,Vc vs Uc (M2),3.7463,3.6456,3.8498,50.76
+Hydration,Oc vs Uc (M2),0.5926,0.5237,0.6704,15.849
+Hydration,"Uc (ref., M2)",1.0,,,23.395

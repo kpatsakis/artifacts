@@ -1,0 +1,43 @@
+tier,provider,share_pct
+Oc,Not Cloud Provider,31.1047
+Vc,Not Cloud Provider,26.7696
+Uc,Not Cloud Provider,26.686
+Oc,Aws,23.2558
+Vc,Aws,22.6322
+Uc,Aws,28.9685
+Oc,Hetzner,11.0465
+Vc,Hetzner,15.3131
+Uc,Hetzner,9.7388
+Oc,DigitalOcean,8.4302
+Vc,DigitalOcean,8.5957
+Uc,DigitalOcean,6.5558
+Oc,Tencent Cloud,3.4884
+Vc,Tencent Cloud,2.052
+Uc,Tencent Cloud,4.8368
+Oc,Contabo,7.2674
+Vc,Contabo,7.3725
+Uc,Contabo,3.5172
+Oc,Alibaba Cloud,1.4535
+Vc,Alibaba Cloud,1.798
+Uc,Alibaba Cloud,3.966
+Oc,OVHcloud,2.3256
+Vc,OVHcloud,3.7564
+Uc,OVHcloud,2.4326
+Oc,Google,1.7442
+Vc,Google,1.9852
+Uc,Google,2.652
+Oc,Oracle Cloud,2.6163
+Vc,Oracle Cloud,1.3502
+Uc,Oracle Cloud,1.2814
+Oc,Microsoft,0.8721
+Vc,Microsoft,0.8088
+Uc,Microsoft,1.3409
+Oc,Ionos,2.3256
+Vc,Ionos,1.4371
+Uc,Ionos,0.9558
+Oc,Xserver,0.0
+Vc,Xserver,0.1938
+Uc,Xserver,1.1851
+Oc,Smaller Cloud Providers,4.0698
+Vc,Smaller Cloud Providers,5.9354
+Uc,Smaller Cloud Providers,5.8832

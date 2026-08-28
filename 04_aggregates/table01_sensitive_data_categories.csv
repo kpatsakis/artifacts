@@ -1,0 +1,6 @@
+category,detector,findings,hosts,findings_per_host
+Operational identifier,UUID,860117,14910,57.7
+Direct personal data,Phone number,410482,22172,18.5
+High-risk candidate,Payment card,151768,9206,16.5
+Direct personal data,Email,102244,30225,3.4
+Operational metadata,IP address,18158,2118,8.6

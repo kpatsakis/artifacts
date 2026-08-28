@@ -1,0 +1,40 @@
+tier,country,share_pct
+Oc,Germany,21.5116
+Vc,Germany,22.4784
+Uc,Germany,17.0379
+Oc,China,4.9419
+Vc,China,2.7672
+Uc,China,10.0517
+Oc,United States,4.0698
+Vc,United States,5.2804
+Uc,United States,8.8807
+Oc,Singapore,10.7558
+Vc,Singapore,8.0944
+Uc,Singapore,7.7494
+Oc,Japan,3.4884
+Vc,Japan,3.1816
+Uc,Japan,7.9306
+Oc,India,9.3023
+Vc,India,11.4163
+Uc,India,4.834
+Oc,United Kingdom,2.907
+Vc,United Kingdom,6.4702
+Uc,United Kingdom,5.1639
+Oc,South Korea,2.907
+Vc,South Korea,3.8567
+Uc,South Korea,5.5519
+Oc,Russia,1.7442
+Vc,Russia,3.1415
+Uc,Russia,2.4623
+Oc,Finland,2.3256
+Vc,Finland,3.4958
+Uc,Finland,2.2995
+Oc,Canada,1.4535
+Vc,Canada,2.3929
+Uc,Canada,2.2796
+Oc,UAE,2.6163
+Vc,UAE,3.2083
+Uc,UAE,1.8931
+Oc,Rest of world,31.9767
+Vc,Rest of world,24.2163
+Uc,Rest of world,23.8655

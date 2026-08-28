@@ -1,0 +1,7 @@
+contrast,model,odds_ratio,ci_low,ci_high
+Vc vs Uc,model 0,3.6703,3.5772,3.7657
+Vc vs Uc,model 1,3.7675,3.6678,3.8699
+Vc vs Uc,model 2,3.7463,3.6456,3.8498
+Oc vs Uc,model 0,0.5062,0.4481,0.5718
+Oc vs Uc,model 1,0.5808,0.5133,0.6572
+Oc vs Uc,model 2,0.5926,0.5237,0.6704
