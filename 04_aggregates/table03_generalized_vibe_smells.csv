@@ -1,0 +1,46 @@
+signal,regex
+shadcn/ui design tokens in the markup,"(?is)\bclass\s*=\s*[""']([^""']{0,800})[""']"
+Lucide icons inlined as SVG,"lucide\s+lucide-[a-z0-9-]+
+<svg[^>]+stroke-width=[""']2[""'][^>]+stroke-linecap=[""']round[""'][^>]+stroke-linejoin=[""']round[""']"
+Gradient utility classes,"bg-gradient-to-[a-z]{1,2}\b"
+Lorem ipsum or placeholder images,"lorem ipsum
+placehold\.co|placeholder\.co|via\.placeholder|source\.unsplash|images\.unsplash\.com/(?:photo|random)|/placeholder\.svg|picsum\.photos|dummyimage\.com|placekitten|loremflickr"
+Backdrop-blur or oversized corner radius,"backdrop-blur
+rounded-(?:2xl|3xl|full)\b"
+"50+ class tokens, under 15% of them distinct","(?is)\bclass\s*=\s*[""']([^""']{0,800})[""']"
+A class attribute with 12+ utility classes,"(?is)\bclass\s*=\s*[""']([^""']{0,800})[""']"
+A mailto: or tel: link,"(?is)\b(?:href|src)\s*=\s*[""']([^""']{0,400})[""']"
+A hand-written HTML comment,(?s)<!--(.*?)-->
+Emoji in the visible text,[\U0001F300-\U0001FAFF\U0001F900-\U0001F9FF☀-➿]
+Links to 10+ distinct internal paths,"(?is)\b(?:href|src)\s*=\s*[""']([^""']{0,400})[""']"
+One class string repeated on 6+ elements,"(?is)\bclass\s*=\s*[""']([^""']{0,800})[""']"
+Three or more inline style= attributes,"\bstyle\s*=\s*[""']"
+A postal address in the markup,"<address\b|streetAddress|PostalAddress|itemprop=[""']address"
+Three or more dead links (# or javascript:),"(?is)\b(?:href|src)\s*=\s*[""']([^""']{0,400})[""']"
+Placeholder domains or filler copy,example\.(?:com|org|net)|yourdomain|your-domain|yoursite|your-site|your-company|lorem ipsum|coming soon|placeholder|change ?me|\bTODO\b|john(?:\.| )doe|jane(?:\.| )doe
+A form with input fields,"<form\b
+<(?:input|textarea|select)\b"
+Prices or clock times in the text,"(?:[$€£¥₹]|\b(?:USD|EUR|GBP|CHF|SEK|NOK|DKK|PLN|CZK)\b)\s?\d[\d.,]*|(?<![\d.,])\d[\d.,]*+\s?(?:[$€£¥₹]|\b(?:USD|EUR|GBP|CHF|SEK|NOK|DKK|PLN|CZK)\b)
+\b\d{1,2}[:.]\d{2}\b"
+Fewer than 100 words of visible text,
+Three or more class-naming conventions mixed,^[a-z][a-z0-9]*(?:-[a-z0-9]+)+$
+Social cards (OpenGraph or Twitter),"property\s*=\s*[""']og:
+name\s*=\s*[""']twitter:"
+Structured data (JSON-LD),application/ld\+json
+Text mentions more than one year,\b(19[89]\d|20[0-4]\d)\b
+Links out to 3+ other domains,"(?is)\b(?:href|src)\s*=\s*[""']([^""']{0,400})[""']"
+An analytics or tracking pixel,"googletagmanager|google-analytics|gtag\(
+connect\.facebook\.net|fbq\(
+plausible\.io
+posthog
+hotjar
+clarity\.ms"
+Localisation (hreflang links),\bhreflang\s*=
+A cookie-consent manager,cookiebot|onetrust|osano|cookieyes|iubenda|termly|cookie-consent
+Layout sections narrated in comments,"(?ix)^\s*(?P<open>(?:start|begin|end)\s+(?:of\s+)?(?:the\s+)?|/)?(?:hero|nav(?:\s*bar|igation)?|header|footer|side\s?bar|main\s+content|content|card|cta|call\s+to\s+action|features?|testimonials?|pricing|faq|contact|about|banner|gallery|team|stats?|newsletter|services?|products?|how\s+it\s+works)(?P<kind>(?:\s+(?:section|component|container|wrapper|area|block|region|bar)){0,2})\s*(?P<close>start|begin|ends?)?\s*$"
+A live-chat widget,intercom|crisp\.chat|tawk\.to|zendesk|drift\.com
+An RSS or Atom feed,(?is)application/(?:rss|atom)\+xml|/feed\b
+A copyright spanning several years,"(?:©|&copy;|copyright)\s*\d{4}\s*[-–—]\s*\d{2,4}"
+Legacy tags or table-layout attributes,"<(?:center|font|marquee|blink|frameset|applet|big|strike|tt)\b
+<table[^>]*\b(?:cellpadding|cellspacing|border)\s*="
+Commented-out markup left in place,(?s)<!--(.*?)-->
